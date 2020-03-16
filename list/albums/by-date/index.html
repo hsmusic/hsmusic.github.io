@@ -5,6 +5,9 @@
         <title>Albums - by Date</title>
         <base href="../../..">
         <link rel="stylesheet" href="site.css">
+        <script src="common.js"></script>
+        <script src="data.js"></script>
+        <script defer src="client.js"></script>
     </head>
     <body>
         <div id="sidebar">
@@ -40,10 +43,16 @@
                     <a href="list/tracks/by-date/index.html">Tracks - by Date</a>
                 </li>
                 <li class="">
+                    <a href="list/tracks/by-times-referenced/index.html">Tracks - by Times Referenced</a>
+                </li>
+                <li class="">
                     <a href="list/tracks/with-lyrics/index.html">Tracks - with Lyrics</a>
                 </li>
                 <li class="">
                     <a href="list/all-commentary/index.html">All Commentary</a>
+                </li>
+                <li class="">
+                    <a href="list/random/index.html">Random Pages</a>
                 </li>
             </ul>
         </div>
@@ -52,139 +61,147 @@
             <ul>
                 <li>
                     <a href="album/unreleased-tracks/index.html" style="--fg-color: #ff7bf7; --bg-color: #222222; --theme: 0">Unreleased Tracks</a>
-                    (11/11/1111)
+                    (1111-11-11)
                 </li>
                 <li>
                     <a href="album/midnight-crew-drawing-dead/index.html" style="--fg-color: #dd0000; --bg-color: #222222; --theme: 0">Midnight Crew: Drawing Dead</a>
-                    (2/4/2010)
+                    (2010-02-04)
                 </li>
                 <li>
                     <a href="album/homestuck-vol-5/index.html" style="--fg-color: #00aaff; --bg-color: #222222; --theme: 0">Homestuck Vol. 5</a>
-                    (6/13/2010)
+                    (2010-06-13)
                 </li>
                 <li>
                     <a href="album/alternia/index.html" style="--fg-color: #cc44ff; --bg-color: #222222; --theme: 0">Alternia</a>
-                    (7/18/2010)
+                    (2010-07-18)
                 </li>
                 <li>
                     <a href="album/squiddles/index.html" style="--fg-color: #bb44ff; --bg-color: #222222; --theme: 0">Squiddles!</a>
-                    (8/26/2010)
+                    (2010-08-26)
                 </li>
                 <li>
                     <a href="album/the-felt/index.html" style="--fg-color: #33aa55; --bg-color: #222222; --theme: 0">The Felt</a>
-                    (12/2/2010)
+                    (2010-12-02)
                 </li>
                 <li>
                     <a href="album/homestuck-vol-6/index.html" style="--fg-color: #6699ff; --bg-color: #222222; --theme: 0">Homestuck Vol. 6: Heir Transparent</a>
-                    (1/5/2011)
+                    (2011-01-05)
                 </li>
                 <li>
                     <a href="album/strife/index.html" style="--fg-color: #e83240; --bg-color: #222222; --theme: 0">Strife!</a>
-                    (2/16/2011)
+                    (2011-02-16)
                 </li>
                 <li>
                     <a href="album/alterniabound/index.html" style="--fg-color: #00a4a4; --bg-color: #222222; --theme: 0">AlterniaBound</a>
-                    (3/14/2011)
+                    (2011-03-14)
                 </li>
                 <li>
                     <a href="album/medium/index.html" style="--fg-color: #22ccff; --bg-color: #222222; --theme: 0">Medium</a>
-                    (4/14/2011)
+                    (2011-04-14)
                 </li>
                 <li>
                     <a href="album/mobius-trip-and-hadron-kaleido/index.html" style="--fg-color: #eecc22; --bg-color: #222222; --theme: 0">Mobius Trip and Hadron Kaleido</a>
-                    (5/31/2011)
+                    (2011-05-31)
                 </li>
                 <li>
                     <a href="album/homestuck-vol-7/index.html" style="--fg-color: #b536da; --bg-color: #222222; --theme: 0">Homestuck Vol. 7: At the Price of Oblivion</a>
-                    (5/31/2011)
+                    (2011-05-31)
                 </li>
                 <li>
                     <a href="album/sburb/index.html" style="--fg-color: #34cdff; --bg-color: #222222; --theme: 0">Sburb</a>
-                    (7/13/2011)
+                    (2011-07-13)
                 </li>
                 <li>
                     <a href="album/the-wanderers/index.html" style="--fg-color: #ffcc66; --bg-color: #222222; --theme: 0">The Wanderers</a>
-                    (7/14/2011)
+                    (2011-07-14)
                 </li>
                 <li>
                     <a href="album/lofam/index.html" style="--fg-color: #4876ff; --bg-color: #222222; --theme: 0">Land of Fans and Music</a>
-                    (7/30/2011)
+                    (2011-07-30)
                 </li>
                 <li>
                     <a href="album/prospit-and-derse/index.html" style="--fg-color: #cc44cc; --bg-color: #222222; --theme: 0">Prospit & Derse</a>
-                    (8/22/2011)
+                    (2011-08-22)
                 </li>
                 <li>
                     <a href="album/homestuck-vol-1-4/index.html" style="--fg-color: #aaccff; --bg-color: #222222; --theme: 0">Homestuck Vol. 1-4</a>
-                    (10/24/2011)
+                    (2011-10-24)
                 </li>
                 <li>
                     <a href="album/homestuck-vol-8/index.html" style="--fg-color: #4ac925; --bg-color: #222222; --theme: 0">Homestuck Vol. 8</a>
-                    (10/25/2011)
+                    (2011-10-25)
                 </li>
                 <li>
                     <a href="album/song-of-skaia/index.html" style="--fg-color: #02b7ff; --bg-color: #222222; --theme: 0">Song of Skaia</a>
-                    (1/1/2012)
+                    (2012-01-01)
                 </li>
                 <li>
                     <a href="album/coloUrs-and-mayhem-universe-a/index.html" style="--fg-color: #9292e2; --bg-color: #222222; --theme: 0">coloUrs and mayhem: Universe A</a>
-                    (4/2/2012)
+                    (2012-04-02)
                 </li>
                 <li>
                     <a href="album/coloUrs-and-mayhem-universe-b/index.html" style="--fg-color: #a5d2e2; --bg-color: #222222; --theme: 0">coloUrs and mayhem: Universe B</a>
-                    (4/13/2012)
+                    (2012-04-13)
                 </li>
                 <li>
                     <a href="album/homestuck-vol-9/index.html" style="--fg-color: #f2a400; --bg-color: #222222; --theme: 0">Homestuck Vol. 9</a>
-                    (6/12/2012)
+                    (2012-06-12)
                 </li>
                 <li>
                     <a href="album/symphony-impossible-to-play/index.html" style="--fg-color: #dd5544; --bg-color: #222222; --theme: 0">Symphony Impossible to Play</a>
-                    (8/1/2012)
+                    (2012-08-01)
                 </li>
                 <li>
                     <a href="album/one-year-older/index.html" style="--fg-color: #00aaff; --bg-color: #222222; --theme: 0">One Year Older</a>
-                    (8/15/2012)
+                    (2012-08-15)
                 </li>
                 <li>
                     <a href="album/genesis-frog/index.html" style="--fg-color: #00aa77; --bg-color: #222222; --theme: 0">Genesis Frog</a>
-                    (10/23/2012)
+                    (2012-10-23)
                 </li>
                 <li>
                     <a href="album/lofam2/index.html" style="--fg-color: #33a1c9; --bg-color: #222222; --theme: 0">Land of Fans and Music 2</a>
-                    (12/25/2012)
+                    (2012-12-25)
                 </li>
                 <li>
                     <a href="album/cherubim/index.html" style="--fg-color: #ff7600; --bg-color: #222222; --theme: 0">Cherubim</a>
-                    (3/14/2013)
+                    (2013-03-14)
+                </li>
+                <li>
+                    <a href="album/lofam3/index.html" style="--fg-color: #88a4ff; --bg-color: #222222; --theme: 0">Land of Fans and Music 3</a>
+                    (2013-12-15)
                 </li>
                 <li>
                     <a href="album/s-collide/index.html" style="--fg-color: #cc3322; --bg-color: #222222; --theme: 0">[S] Collide.</a>
-                    (4/6/2016)
+                    (2016-04-06)
                 </li>
                 <li>
                     <a href="album/act-7/index.html" style="--fg-color: #c7ff43; --bg-color: #222222; --theme: 0">Act 7</a>
-                    (4/13/2016)
+                    (2016-04-13)
                 </li>
                 <li>
                     <a href="album/homestuck-vol-10/index.html" style="--fg-color: #0088ff; --bg-color: #222222; --theme: 0">Homestuck Vol. 10</a>
-                    (6/12/2016)
+                    (2016-06-12)
+                </li>
+                <li>
+                    <a href="album/lofam4/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">Land of Fans and Music 4</a>
+                    (2017-09-09)
                 </li>
                 <li>
                     <a href="album/the-grubbles/index.html" style="--fg-color: #dd0000; --bg-color: #222222; --theme: 0">THE GRUBBLES</a>
-                    (9/14/2017)
+                    (2017-09-14)
                 </li>
                 <li>
                     <a href="album/hiveswap-act-1-ost/index.html" style="--fg-color: #33cc77; --bg-color: #222222; --theme: 0">Hiveswap Act 1 OST</a>
-                    (9/14/2017)
+                    (2017-09-14)
                 </li>
                 <li>
                     <a href="album/hiveswap-friendsim/index.html" style="--fg-color: #33aaff; --bg-color: #222222; --theme: 0">Hiveswap Friendsim</a>
-                    (12/15/2018)
+                    (2018-12-15)
                 </li>
                 <li>
                     <a href="album/diverging-delicacies/index.html" style="--fg-color: #f2a400; --bg-color: #222222; --theme: 0">Diverging Delicacies</a>
-                    (3/1/2020)
+                    (2020-03-01)
                 </li>
             </ul>
         </div>

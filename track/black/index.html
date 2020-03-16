@@ -5,8 +5,11 @@
         <title>Black</title>
         <base href="../..">
         <link rel="stylesheet" href="site.css">
+        <script src="common.js"></script>
+        <script src="data.js"></script>
+        <script defer src="client.js"></script>
     </head>
-    <body style="--fg-color: #aaccff; --bg-color: #222222; --theme: 0">
+    <body style="--fg-color: #aaccff; --bg-color: #222222; --theme: 0; --album-directory: homestuck-vol-1-4; --track-directory: black">
         <div id="sidebar">
             <h2><a href="index.html">(Home)</a></h2>
             <hr>
@@ -54,6 +57,10 @@
                 <li class="current"><a href="track/black/index.html">Black</a></li>
                 <li class=""><a href="track/doctor-original-loop/index.html">Doctor (Original Loop)</a></li>
             </ol>
+            <hr>
+            <p>
+                <a href="js-disabled/index.html" data-random="track-in-album">Random track</a></li>
+            </p>
         </div>
         <div id="content">
             <a href="album/homestuck-vol-1-4/black.jpg" id="cover-art"><img src="album/homestuck-vol-1-4/black.jpg"></a>
@@ -61,12 +68,17 @@
             <p>
                 By <a href="artist/toby-fox/index.html">Toby Fox</a>.<br>
                 Cover art by <a href="artist/homestuck/index.html">Homestuck</a>.<br>
-                Released 4/13/2010.
+                Released 2010-04-13.
+                
             </p>
             <p>Listen on <a href="https://homestuck.bandcamp.com/track/black-3">Bandcamp</a>.</p>
             
             <p>Tracks that <i>Black</i> references:</p>
             <ul>
+                <li>
+                    <a href="track/im-a-member-of-the-midnight-crew/index.html" style="--fg-color: #ff7bf7; --bg-color: #222222; --theme: 0">I'm a Member of the Midnight Crew</a>
+                    <span class="by">by <a href="artist/eddie-morton/index.html">Eddie Morton</a></span>
+                </li>
                 <li>
                     <a href="track/liquid-negrocity/index.html" style="--fg-color: #dd0000; --bg-color: #222222; --theme: 0">Liquid Negrocity</a>
                     <span class="by">by <a href="artist/toby-fox/index.html">Toby Fox</a></span>
@@ -78,10 +90,6 @@
                 <dd><ul>
                     <li>
                         <a href="track/white/index.html" style="--fg-color: #00aaff; --bg-color: #222222; --theme: 0">White</a>
-                        <span class="by">by <a href="artist/toby-fox/index.html">Toby Fox</a></span>
-                    </li>
-                    <li>
-                        <a href="track/octoroon-rangoon/index.html" style="--fg-color: #00aaff; --bg-color: #222222; --theme: 0">Octoroon Rangoon</a>
                         <span class="by">by <a href="artist/toby-fox/index.html">Toby Fox</a></span>
                     </li>
                     <li>
@@ -158,6 +166,14 @@
                     <li>
                         <a href="track/who-mourns-for-jack-noir/index.html" style="--fg-color: #33a1c9; --bg-color: #222222; --theme: 0">Who Mourns for Jack Noir?</a>
                         <span class="by">by <a href="artist/nitrosparxx/index.html">Nitrosparxx</a></span>
+                    </li>
+                    <li>
+                        <a href="track/strife-mayhem/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">Strife Mayhem</a>
+                        <span class="by">by <a href="artist/tri-gender-panini/index.html">Tri-gender Panini</a></span>
+                    </li>
+                    <li>
+                        <a href="track/blanc/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">Blanc</a>
+                        <span class="by">by <a href="artist/sean-gorter/index.html">Sean Gorter</a></span>
                     </li>
                 </ul></dd>
             </dl>

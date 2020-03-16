@@ -5,8 +5,11 @@
         <title>Homestuck</title>
         <base href="../..">
         <link rel="stylesheet" href="site.css">
+        <script src="common.js"></script>
+        <script src="data.js"></script>
+        <script defer src="client.js"></script>
     </head>
-    <body style="--fg-color: #00aaff; --bg-color: #222222; --theme: 0">
+    <body style="--fg-color: #00aaff; --bg-color: #222222; --theme: 0; --album-directory: homestuck-vol-5; --track-directory: homestuck">
         <div id="sidebar">
             <h2><a href="index.html">(Home)</a></h2>
             <hr>
@@ -78,14 +81,19 @@
                 <li class=""><a href="track/descend/index.html">Descend</a></li>
                 <li class="current"><a href="track/homestuck/index.html">Homestuck</a></li>
             </ol>
+            <hr>
+            <p>
+                <a href="js-disabled/index.html" data-random="track-in-album">Random track</a></li>
+            </p>
         </div>
         <div id="content">
-            <a href="album/homestuck-vol-5/cover.jpg" id="cover-art"><img src="album/homestuck-vol-5/cover.jpg"></a>
+            <a href="album/homestuck-vol-5/homestuck.jpg" id="cover-art"><img src="album/homestuck-vol-5/homestuck.jpg"></a>
             <h1>Homestuck</h1>
             <p>
                 By <a href="artist/mark-hadley/index.html">Mark Hadley</a>.<br>
-                
-                Released 6/13/2010.
+                Cover art by <a href="artist/snilm/index.html">Snilm</a>.<br>
+                Released 2010-06-13.
+                <br>Art released 2017-04-13.
             </p>
             <p>Listen on <a href="https://homestuck.bandcamp.com/track/homestuck-2">Bandcamp</a>.</p>
             
@@ -114,6 +122,14 @@
                     <li>
                         <a href="track/beginnings-press-start-to-play/index.html" style="--fg-color: #4876ff; --bg-color: #222222; --theme: 0">Beginnings (Press Start to Play)</a>
                         <span class="by">by <a href="artist/yishan-mai/index.html">Yishan Mai</a></span>
+                    </li>
+                    <li>
+                        <a href="track/homosuck-directors-cut-of-the-year-edition/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">HOMOSUCK. DIRECTOR'S CUT, OF THE YEAR EDITION.</a>
+                        <span class="by">by <a href="artist/ndividedbyzero/index.html">ndividedbyzero</a></span>
+                    </li>
+                    <li>
+                        <a href="track/homestuck-sonata/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">Homestuck Sonata</a>
+                        <span class="by">by <a href="artist/david-ellis/index.html">David Ellis</a></span>
                     </li>
                     <li>
                         <a href="track/greetings-from-earth-c/index.html" style="--fg-color: #f2a400; --bg-color: #222222; --theme: 0">Greetings from Earth C!</a>

@@ -5,8 +5,11 @@
         <title>Sburban Jungle</title>
         <base href="../..">
         <link rel="stylesheet" href="site.css">
+        <script src="common.js"></script>
+        <script src="data.js"></script>
+        <script defer src="client.js"></script>
     </head>
-    <body style="--fg-color: #aaccff; --bg-color: #222222; --theme: 0">
+    <body style="--fg-color: #aaccff; --bg-color: #222222; --theme: 0; --album-directory: homestuck-vol-1-4; --track-directory: sburban-jungle">
         <div id="sidebar">
             <h2><a href="index.html">(Home)</a></h2>
             <hr>
@@ -54,6 +57,10 @@
                 <li class=""><a href="track/black/index.html">Black</a></li>
                 <li class=""><a href="track/doctor-original-loop/index.html">Doctor (Original Loop)</a></li>
             </ol>
+            <hr>
+            <p>
+                <a href="js-disabled/index.html" data-random="track-in-album">Random track</a></li>
+            </p>
         </div>
         <div id="content">
             <a href="album/homestuck-vol-1-4/sburban-jungle.jpg" id="cover-art"><img src="album/homestuck-vol-1-4/sburban-jungle.jpg"></a>
@@ -61,7 +68,8 @@
             <p>
                 By <a href="artist/michael-guy-bowman/index.html">Michael Guy Bowman</a>.<br>
                 Cover art by <a href="artist/homestuck/index.html">Homestuck</a>.<br>
-                Released 4/13/2010.
+                Released 2010-04-13.
+                
             </p>
             <p>Listen on <a href="https://homestuck.bandcamp.com/track/sburban-jungle-3">Bandcamp</a>.</p>
             
@@ -203,7 +211,7 @@
                     </li>
                     <li>
                         <a href="track/chronology/index.html" style="--fg-color: #33a1c9; --bg-color: #222222; --theme: 0">Chronology</a>
-                        <span class="by">by <a href="artist/paige-stanley/index.html">Paige Stanley</a></span>
+                        <span class="by">by <a href="artist/jamie-paige-stanley/index.html">Jamie Paige Stanley</a></span>
                     </li>
                     <li>
                         <a href="track/showtime-end-strife-remix/index.html" style="--fg-color: #33a1c9; --bg-color: #222222; --theme: 0">Showtime (End Strife Remix)</a>
@@ -223,10 +231,10 @@
                     </li>
                     <li>
                         <a href="track/prospitian-lullaby/index.html" style="--fg-color: #33a1c9; --bg-color: #222222; --theme: 0">Prospitian Lullaby</a>
-                        <span class="by">by <a href="artist/paige-stanley/index.html">Paige Stanley</a></span>
+                        <span class="by">by <a href="artist/jamie-paige-stanley/index.html">Jamie Paige Stanley</a></span>
                     </li>
                     <li>
-                        <a href="track/o-disk-2-o/index.html" style="--fg-color: #33a1c9; --bg-color: #222222; --theme: 0">•~Disk 2~•</a>
+                        <a href="track/disk2-lofam2/index.html" style="--fg-color: #33a1c9; --bg-color: #222222; --theme: 0">•~Disk 2~•</a>
                         <span class="by">by <a href="artist/veritas-unae/index.html">Veritas Unae</a></span>
                     </li>
                     <li>
@@ -248,6 +256,82 @@
                     <li>
                         <a href="track/the-dance-of-oblivion/index.html" style="--fg-color: #33a1c9; --bg-color: #222222; --theme: 0">The Dance of Oblivion</a>
                         <span class="by">by <a href="artist/domble/index.html">Domble</a></span>
+                    </li>
+                    <li>
+                        <a href="track/720413/index.html" style="--fg-color: #88a4ff; --bg-color: #222222; --theme: 0">720413</a>
+                        <span class="by">by <a href="artist/lark-mordancy/index.html">Lark Mordancy</a></span>
+                    </li>
+                    <li>
+                        <a href="track/sgrubian-wilderness/index.html" style="--fg-color: #88a4ff; --bg-color: #222222; --theme: 0">Sgrubian Wilderness</a>
+                        <span class="by">by <a href="artist/veritas-unae/index.html">Veritas Unae</a></span>
+                    </li>
+                    <li>
+                        <a href="track/garden-of-eden-part-1/index.html" style="--fg-color: #88a4ff; --bg-color: #222222; --theme: 0">Garden of Eden (Part 1)</a>
+                        <span class="by">by <a href="artist/veritas-unae/index.html">Veritas Unae</a> and <a href="artist/david-ellis/index.html">David Ellis</a></span>
+                    </li>
+                    <li>
+                        <a href="track/the-demon-and-the-alien/index.html" style="--fg-color: #88a4ff; --bg-color: #222222; --theme: 0">The Demon and the Alien</a>
+                        <span class="by">by <a href="artist/veritas-unae/index.html">Veritas Unae</a> and <a href="artist/david-ellis/index.html">David Ellis</a></span>
+                    </li>
+                    <li>
+                        <a href="track/reunited/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">Reunited</a>
+                        <span class="by">by <a href="artist/shandy/index.html">Shandy</a></span>
+                    </li>
+                    <li>
+                        <a href="track/crystalendofgames/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">Crystalendofgames</a>
+                        <span class="by">by <a href="artist/jamie-paige-stanley/index.html">Jamie Paige Stanley</a></span>
+                    </li>
+                    <li>
+                        <a href="track/homosuck-directors-cut-of-the-year-edition/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">HOMOSUCK. DIRECTOR'S CUT, OF THE YEAR EDITION.</a>
+                        <span class="by">by <a href="artist/ndividedbyzero/index.html">ndividedbyzero</a></span>
+                    </li>
+                    <li>
+                        <a href="track/horizontal-headshot/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">Horizontal Headshot</a>
+                        <span class="by">by <a href="artist/aris-martinian/index.html">Aris Martinian</a></span>
+                    </li>
+                    <li>
+                        <a href="track/quest-crypt/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">Quest Crypt</a>
+                        <span class="by">by <a href="artist/ndividedbyzero/index.html">ndividedbyzero</a></span>
+                    </li>
+                    <li>
+                        <a href="track/airtime-assault/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">Airtime Assault</a>
+                        <span class="by">by <a href="artist/cerulean/index.html">Cerulean</a></span>
+                    </li>
+                    <li>
+                        <a href="track/hors/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">hors</a>
+                        <span class="by">by <a href="artist/hadron-kalido/index.html">Hadron Kalido</a></span>
+                    </li>
+                    <li>
+                        <a href="track/reconciled/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">Reconciled</a>
+                        <span class="by">by <a href="artist/shandy/index.html">Shandy</a></span>
+                    </li>
+                    <li>
+                        <a href="track/the-end-of-something-really-excellent/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">The End of Something Really Excellent</a>
+                        <span class="by">by <a href="artist/rhyselinn/index.html">Rhyselinn</a></span>
+                    </li>
+                    <li>
+                        <a href="track/raise-of-the-conductors-baton/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">Raise of the Conductor's Baton</a>
+                        <span class="by">by <a href="artist/hadron-kalido/index.html">Hadron Kalido</a></span>
+                    </li>
+                    <li>
+                        <a href="track/omega-timeline/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">-Omega- Timeline</a>
+                        <span class="by">by <a href="artist/aris-martinian/index.html">Aris Martinian</a></span>
+                    </li>
+                    <li>
+                        <a href="track/juju-breaker/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">Juju Breaker</a>
+                        <span class="by">by <a href="artist/ndividedbyzero/index.html">ndividedbyzero</a></span>
+                    </li>
+                    <li>
+                        <a href="track/everlasting/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">Everlasting</a>
+                        <span class="by">by <a href="artist/joe-ouellet/index.html">Joe Ouellet</a></span>
+                    </li>
+                    <li>
+                        <a href="track/revisit-rewind/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">Revisit / Rewind</a>
+                        <span class="by">by <a href="artist/aris-martinian/index.html">Aris Martinian</a></span>
+                    </li>
+                    <li>
+                        <a href="track/skaian-rebirth/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">Skaian Rebirth</a>
+                        <span class="by">by <a href="artist/kris-flacke/index.html">Kris Flacke</a></span>
                     </li>
                 </ul></dd>
             </dl>

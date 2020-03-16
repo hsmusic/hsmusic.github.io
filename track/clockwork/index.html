@@ -5,8 +5,11 @@
         <title>Clockwork</title>
         <base href="../..">
         <link rel="stylesheet" href="site.css">
+        <script src="common.js"></script>
+        <script src="data.js"></script>
+        <script defer src="client.js"></script>
     </head>
-    <body style="--fg-color: #22ccff; --bg-color: #222222; --theme: 0">
+    <body style="--fg-color: #22ccff; --bg-color: #222222; --theme: 0; --album-directory: medium; --track-directory: clockwork">
         <div id="sidebar">
             <h2><a href="index.html">(Home)</a></h2>
             <hr>
@@ -21,6 +24,10 @@
                 <li class=""><a href="track/heat/index.html">Heat</a></li>
                 <li class=""><a href="track/wind/index.html">Wind</a></li>
             </ol>
+            <hr>
+            <p>
+                <a href="js-disabled/index.html" data-random="track-in-album">Random track</a></li>
+            </p>
         </div>
         <div id="content">
             <a href="album/medium/cover.jpg" id="cover-art"><img src="album/medium/cover.jpg"></a>
@@ -28,7 +35,8 @@
             <p>
                 By <a href="artist/clark-powell/index.html">Clark Powell</a>.<br>
                 
-                Released 4/14/2011.
+                Released 2011-04-14.
+                
             </p>
             <p>Listen on <a href="https://homestuck.bandcamp.com/track/clockwork-2">Bandcamp</a>.</p>
             

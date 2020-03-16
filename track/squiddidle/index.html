@@ -5,8 +5,11 @@
         <title>Squiddidle!</title>
         <base href="../..">
         <link rel="stylesheet" href="site.css">
+        <script src="common.js"></script>
+        <script src="data.js"></script>
+        <script defer src="client.js"></script>
     </head>
-    <body style="--fg-color: #bb44ff; --bg-color: #222222; --theme: 0">
+    <body style="--fg-color: #bb44ff; --bg-color: #222222; --theme: 0; --album-directory: squiddles; --track-directory: squiddidle">
         <div id="sidebar">
             <h2><a href="index.html">(Home)</a></h2>
             <hr>
@@ -35,6 +38,10 @@
                 <li class=""><a href="track/ocean-stars/index.html">Ocean Stars</a></li>
                 <li class=""><a href="track/let-the-squiddles-sleep-end-theme/index.html">Let the Squiddles Sleep (End Theme)</a></li>
             </ol>
+            <hr>
+            <p>
+                <a href="js-disabled/index.html" data-random="track-in-album">Random track</a></li>
+            </p>
         </div>
         <div id="content">
             <a href="album/squiddles/cover.jpg" id="cover-art"><img src="album/squiddles/cover.jpg"></a>
@@ -42,7 +49,8 @@
             <p>
                 By <a href="artist/malcolm-brown/index.html">Malcolm Brown</a>.<br>
                 
-                Released 8/26/2010.
+                Released 2010-08-26.
+                
             </p>
             <p>Listen on <a href="https://youtu.be/gyqSztKs_6o">YouTube</a>.</p>
             

@@ -5,8 +5,11 @@
         <title>The Wanderers</title>
         <base href="../..">
         <link rel="stylesheet" href="site.css">
+        <script src="common.js"></script>
+        <script src="data.js"></script>
+        <script defer src="client.js"></script>
     </head>
-    <body style="--fg-color: #ffcc66; --bg-color: #222222; --theme: 0">
+    <body style="--fg-color: #ffcc66; --bg-color: #222222; --theme: 0; --album-directory: the-wanderers">
         <div id="sidebar">
             <h2><a href="index.html">(Home)</a></h2>
             <hr>
@@ -29,6 +32,10 @@
                 <li class=""><a href="track/vagabounce-remix/index.html">Vagabounce Remix</a></li>
                 <li class=""><a href="track/tomahawk-head/index.html">Tomahawk Head</a></li>
             </ol>
+            <hr>
+            <p>
+                <a href="js-disabled/index.html" data-random="track-in-album">Random track</a></li>
+            </p>
         </div>
         <div id="content">
             <a id="cover-art" href="album/the-wanderers/cover.jpg"><img src="album/the-wanderers/cover.jpg"></a>
@@ -36,7 +43,8 @@
             <p>
                 
                 Cover art by <a href="artist/lauren-ross/index.html">Lauren Ross</a>.<br>
-                Released 7/14/2011.
+                Released 2011-07-14.
+                
             </p>
             <ol>
                 <li>
