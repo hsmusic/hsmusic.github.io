@@ -15333,7 +15333,7 @@ window.albumData = [
    {
     "name": "Flare (With Vocals)",
     "artists": [
-     "Ashley Lyons"
+     "horizon"
     ],
     "coverArtists": [
      {
@@ -17072,7 +17072,7 @@ window.albumData = [
    {
     "name": "confinis",
     "artists": [
-     "Ashley Lyons"
+     "horizon"
     ],
     "coverArtists": [
      {
@@ -24355,7 +24355,12 @@ window.albumData = [
     "artists": [
      "polysaw"
     ],
-    "coverArtists": null,
+    "coverArtists": [
+     {
+      "who": "CrepesAhoy",
+      "what": null
+     }
+    ],
     "contributors": [],
     "lyrics": null,
     "references": [],
@@ -24363,7 +24368,9 @@ window.albumData = [
     "artDate": "2020-04-13T03:00:00.000Z",
     "directory": "cosmic-carousel",
     "urls": [
-     "https://homestuck.bandcamp.com/track/cosmic-carousel"
+     "https://homestuck.bandcamp.com/track/cosmic-carousel",
+     "https://www.youtube.com/watch?v=xxVwRERwmJg",
+     "https://soundcloud.com/polysaw/homestuck-beyond-canon-cosmic-carousel"
     ],
     "isFanon": false
    },
@@ -24382,14 +24389,15 @@ window.albumData = [
     "artDate": "2020-04-13T03:00:00.000Z",
     "directory": "surprise-were-back",
     "urls": [
-     "https://homestuck.bandcamp.com/track/surprise-were-back"
+     "https://homestuck.bandcamp.com/track/surprise-were-back",
+     "https://soundcloud.com/flareproductions/surprise-were-back"
     ],
     "isFanon": false
    },
    {
     "name": "SPLIT REALITY",
     "artists": [
-     "Xaurix"
+     "Xauric"
     ],
     "coverArtists": null,
     "contributors": [],
@@ -24401,7 +24409,8 @@ window.albumData = [
     "artDate": "2020-04-13T03:00:00.000Z",
     "directory": "split-reality",
     "urls": [
-     "https://homestuck.bandcamp.com/track/split-reality"
+     "https://homestuck.bandcamp.com/track/split-reality",
+     "https://www.youtube.com/watch?v=XzZ7PNmcHiU"
     ],
     "isFanon": false
    },
@@ -24470,7 +24479,12 @@ window.albumData = [
     "artists": [
      "Waif"
     ],
-    "coverArtists": null,
+    "coverArtists": [
+     {
+      "who": "Waif",
+      "what": null
+     }
+    ],
     "contributors": [],
     "lyrics": null,
     "references": [],
@@ -24478,7 +24492,8 @@ window.albumData = [
     "artDate": "2020-04-13T03:00:00.000Z",
     "directory": "light-burns-out-gestalt",
     "urls": [
-     "https://homestuck.bandcamp.com/track/light-burns-out-gestalt"
+     "https://homestuck.bandcamp.com/track/light-burns-out-gestalt",
+     "https://soundcloud.com/shes-beautiful/light-goes-out-gestalt"
     ],
     "isFanon": false
    },
@@ -24512,7 +24527,8 @@ window.albumData = [
     "artDate": "2020-04-13T03:00:00.000Z",
     "directory": "after-the-sun",
     "urls": [
-     "https://homestuck.bandcamp.com/track/after-the-sun"
+     "https://homestuck.bandcamp.com/track/after-the-sun",
+     "https://www.youtube.com/watch?v=wEIWdGAOBuc"
     ],
     "isFanon": false
    },
@@ -24521,7 +24537,12 @@ window.albumData = [
     "artists": [
      "Sean William Calhoun"
     ],
-    "coverArtists": null,
+    "coverArtists": [
+     {
+      "who": "Sean William Calhoun",
+      "what": null
+     }
+    ],
     "contributors": [],
     "lyrics": null,
     "references": [],
@@ -24529,7 +24550,8 @@ window.albumData = [
     "artDate": "2020-04-13T03:00:00.000Z",
     "directory": "narrative-command",
     "urls": [
-     "https://homestuck.bandcamp.com/track/narrative-command"
+     "https://homestuck.bandcamp.com/track/narrative-command",
+     "https://www.youtube.com/watch?v=keoJTpGQxPE"
     ],
     "isFanon": false
    },
@@ -24580,7 +24602,8 @@ window.albumData = [
     "artDate": "2020-04-13T03:00:00.000Z",
     "directory": "moving-onwards",
     "urls": [
-     "https://homestuck.bandcamp.com/track/moving-onwards"
+     "https://homestuck.bandcamp.com/track/moving-onwards",
+     "https://soundcloud.com/friendly-coy/moving-onwards"
     ],
     "isFanon": false
    },
@@ -24625,7 +24648,12 @@ window.albumData = [
     "artists": [
      "Emelia K."
     ],
-    "coverArtists": null,
+    "coverArtists": [
+     {
+      "who": "Emelia K.",
+      "what": null
+     }
+    ],
     "contributors": [],
     "lyrics": null,
     "references": [],
@@ -24633,7 +24661,8 @@ window.albumData = [
     "artDate": "2020-04-13T03:00:00.000Z",
     "directory": "crystal-hung-in-firmaments-descent",
     "urls": [
-     "https://homestuck.bandcamp.com/track/crystal-hung-in-firmaments-descent"
+     "https://homestuck.bandcamp.com/track/crystal-hung-in-firmaments-descent",
+     "https://soundcloud.com/emelia-kaylee/crystal-hung-in-firmaments-descent"
     ],
     "isFanon": false
    }
