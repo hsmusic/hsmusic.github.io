@@ -112,6 +112,41 @@ window.albumData = [
     "isFanon": true
    },
    {
+    "name": "beekeeper who? i dont know her.",
+    "artists": [
+     "James Roach"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "beekeeper-who-i-dont-know-her",
+    "urls": [
+     "https://soundcloud.com/jamesroachmusic/beekeeper-who-i-dont-know-her",
+     "https://www.youtube.com/watch?v=nYI7F5FHTmA"
+    ],
+    "isFanon": true
+   },
+   {
+    "name": "Charun's Cave",
+    "artists": [
+     "Toby Fox"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "charuns-cave",
+    "urls": [
+     "https://www.youtube.com/watch?v=wc5iruoYLXM"
+    ],
+    "isFanon": true
+   },
+   {
     "name": "Crab Waltz",
     "artists": [
      "Toby Fox"
@@ -127,6 +162,24 @@ window.albumData = [
     "directory": "crab-waltz",
     "urls": [
      "https://www.youtube.com/watch?v=jUly2ujqDvY"
+    ],
+    "isFanon": true
+   },
+   {
+    "name": "DaJam",
+    "artists": [
+     "Alexander Rosetti"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "dajam",
+    "urls": [
+     "https://www.youtube.com/watch?v=fY4bgz4o8QY",
+     "https://soundcloud.com/albatrosssoup/totallynotmegaman"
     ],
     "isFanon": true
    },
@@ -408,6 +461,45 @@ window.albumData = [
     "isFanon": true
    },
    {
+    "name": "Requiem",
+    "artists": [
+     "Clark Powell"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Serenade"
+    ],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "requiem-labyrinths-heart",
+    "urls": [
+     "https://clarkpowell.bandcamp.com/track/requiem",
+     "https://www.youtube.com/watch?v=3kWFQy0kWC4"
+    ],
+    "isFanon": true
+   },
+   {
+    "name": "Riches to Ruins Movement II",
+    "artists": [
+     "Toby Fox"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Riches to Ruins Movements I & II"
+    ],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "riches-to-ruins-movement-ii",
+    "urls": [
+     "https://www.youtube.com/watch?v=mNu1KAi0Prk"
+    ],
+    "isFanon": true
+   },
+   {
     "name": "Secret ROM",
     "artists": [
      "Toby Fox"
@@ -421,6 +513,24 @@ window.albumData = [
     "directory": "secret-rom",
     "urls": [
      "https://www.youtube.com/watch?v=ercVSU3rjrc"
+    ],
+    "isFanon": true
+   },
+   {
+    "name": "Single Female Lawyer",
+    "artists": [
+     "Alexander Rosetti"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "single-female-lawyer",
+    "urls": [
+     "https://www.youtube.com/watch?v=4Q2dS1Z2p9g",
+     "https://soundcloud.com/albatrosssoup/seer-of-same-color-scalemate-combos"
     ],
     "isFanon": true
    },
@@ -597,6 +707,312 @@ window.albumData = [
     "directory": "xrom",
     "urls": [
      "https://www.youtube.com/watch?v=wY2nX_b9Gm4"
+    ],
+    "isFanon": true
+   },
+   {
+    "name": "sometimes i call andrew hussie 'andy' and so far he hasn't corrected me",
+    "artists": [
+     "James Roach"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Showtime (Piano Refrain)",
+     "Homestuck"
+    ],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "sometimes-i-call-andrew-hussie-andy-and-so-far-he-hasnt-corrected-me",
+    "urls": [
+     "https://soundcloud.com/jamesroachmusic/pesterquest-sometimes-i-call-andrew-hussie-andy-and-so-far-he-hasnt-corrected-me",
+     "https://www.youtube.com/watch?v=xSrT-SDN-uA"
+    ],
+    "isFanon": true
+   },
+   {
+    "name": "please support The Trevor Project",
+    "artists": [
+     "James Roach"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Endless Climb"
+    ],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "please-support-the-trevor-project",
+    "urls": [
+     "https://soundcloud.com/jamesroachmusic/pesterquest-please-support-the-trevor-project",
+     "https://www.youtube.com/watch?v=urbot0kfsz8"
+    ],
+    "isFanon": true
+   },
+   {
+    "name": "2chords",
+    "artists": [
+     "James Roach"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "2chords",
+    "urls": [
+     "https://www.youtube.com/watch?v=Q3JQPZ2T03k"
+    ],
+    "isFanon": true
+   },
+   {
+    "name": "ill probably just name this one something normal oh no wait oh jeez aw beans",
+    "artists": [
+     "James Roach"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Davesprite"
+    ],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "ill-probably-just-name-this-one-something-normal-oh-no-wait-oh-jeez-aw-beans",
+    "urls": [
+     "https://soundcloud.com/jamesroachmusic/pesterquest-ill-probably-just-name-this-one-something-normal-oh-no-wait-oh-jeez-aw-beans",
+     "https://www.youtube.com/watch?v=DREQ4rJUXXQ"
+    ],
+    "isFanon": true
+   },
+   {
+    "name": "24/7 lo fi anime beats to question your sexuality to",
+    "artists": [
+     "James Roach"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "2chords",
+     "Upward Movement (Dave Owns)",
+     "Sburban Jungle"
+    ],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "247-lo-fi-anime-beats-to-question-your-sexuality-to",
+    "urls": [
+     "https://soundcloud.com/jamesroachmusic/pesterquest-247-lo-fi-anime-beats-to-question-your-sexuality-to",
+     "https://www.youtube.com/watch?v=0I2ufAhRbf0"
+    ],
+    "isFanon": true
+   },
+   {
+    "name": "CAREFREE VICTORY (REMIX)",
+    "artists": [
+     "James Roach"
+    ],
+    "coverArtists": null,
+    "contributors": [
+     {
+      "who": "Speak-N-Say",
+      "what": "featuring"
+     }
+    ],
+    "lyrics": null,
+    "references": [
+     "Carefree Action",
+     "Carefree Victory"
+    ],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "carefree-victory-remix",
+    "urls": [
+     "https://soundcloud.com/jamesroachmusic/pesterquest-james-roach-ft-speak-n-say-carefree-victory-remix",
+     "https://www.youtube.com/watch?v=c8aZFD8ic9A&"
+    ],
+    "isFanon": true
+   },
+   {
+    "name": "CRUSTacean",
+    "artists": [
+     "James Roach"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Crustacean"
+    ],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "crustacean-pq",
+    "urls": [
+     "https://soundcloud.com/jamesroachmusic/pesterquest-crustacean",
+     "https://www.youtube.com/watch?v=9hdPSPGCK3Q"
+    ],
+    "isFanon": true
+   },
+   {
+    "name": "CH3CK TH3 M3T4D4T4",
+    "artists": [
+     "James Roach"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "The Lemonsnout Turnabout"
+    ],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "ch3ck-th3-m3t4d4t4",
+    "urls": [
+     "https://soundcloud.com/jamesroachmusic/pesterquest-terezis-theme-ch3ck-th3-m3t4d4t4",
+     "https://www.youtube.com/watch?v=DuGQM9YsyXo"
+    ],
+    "isFanon": true
+   },
+   {
+    "name": "yeah, it is",
+    "artists": [
+     "James Roach"
+    ],
+    "coverArtists": null,
+    "contributors": [
+     {
+      "who": "Tamara Fritz",
+      "what": "vocals"
+     }
+    ],
+    "lyrics": null,
+    "references": [
+     "MeGaLoVania"
+    ],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "yeah-it-is",
+    "urls": [
+     "https://soundcloud.com/jamesroachmusic/pesterquest-aradias-theme-yeah-it-is",
+     "https://www.youtube.com/watch?v=MDqXkGBFPg0"
+    ],
+    "isFanon": true
+   },
+   {
+    "name": "KWCOM DOT WAV",
+    "artists": [
+     "James Roach"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "kwcom-dot-wav",
+    "urls": [
+     "https://www.youtube.com/watch?v=zrtnPsoAkQg"
+    ],
+    "isFanon": true
+   },
+   {
+    "name": "THIS TIME ITS ERIDAN (I FORGOT WHAT I NAMED THIS)",
+    "artists": [
+     "James Roach"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "this-time-its-eridan-i-forgot-what-i-named-this",
+    "urls": [
+     "https://soundcloud.com/jamesroachmusic/pesterquest-this-time-its-eridan-i-forgot-what-i-named-this",
+     "https://www.youtube.com/watch?v=sw8smnspCmU"
+    ],
+    "isFanon": true
+   },
+   {
+    "name": "i guess",
+    "artists": [
+     "James Roach"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "i-guess",
+    "urls": [
+     "https://www.youtube.com/watch?v=FVKzNwxz6Vc"
+    ],
+    "isFanon": true
+   },
+   {
+    "name": "Would you believe this was for something else",
+    "artists": [
+     "James Roach"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "would-you-believe-this-was-for-something-else",
+    "urls": [
+     "https://www.youtube.com/watch?v=eciwBYIR8_k"
+    ],
+    "isFanon": true
+   },
+   {
+    "name": "this is like... what was it... > [S] MSPAR: Remember",
+    "artists": [
+     "James Roach"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Penumbra Phantasm",
+     "Rex Duodecim Angelus"
+    ],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "mspar-remember",
+    "urls": [
+     "https://www.youtube.com/watch?v=osip3rTivjM"
+    ],
+    "isFanon": true
+   },
+   {
+    "name": "normal song name",
+    "artists": [
+     "James Roach"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Rex Duodecim Angelus",
+     "Moonsetter",
+     "Homestuck",
+     "Penumbra Phantasm",
+     "Unite Synchronization",
+     "MeGaLoVania",
+     "Homestuck Anthem",
+     "WORST END"
+    ],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "normal-song-name",
+    "urls": [
+     "https://soundcloud.com/jamesroachmusic/afterw-rd-theme-normal-song-name#t=0:00"
     ],
     "isFanon": true
    }
@@ -6785,7 +7201,7 @@ window.albumData = [
     ],
     "lyrics": null,
     "references": [
-     "Requiem"
+     "Requiem:requiem"
     ],
     "date": "2011-07-14T03:00:00.000Z",
     "artDate": "2011-07-14T03:00:00.000Z",
@@ -16883,7 +17299,7 @@ window.albumData = [
    {
     "name": "Hymn of the Horrorterrors",
     "artists": [
-     "totalspiffage"
+     "Tamara Fritz"
     ],
     "coverArtists": [
      {
@@ -23878,5 +24294,3441 @@ window.albumData = [
     "isFanon": true
    }
   ]
+ },
+ {
+  "name": "Beyond Canon",
+  "date": "2020-04-13T03:00:00.000Z",
+  "artDate": "2020-04-13T03:00:00.000Z",
+  "artists": null,
+  "coverArtists": [
+   {
+    "who": "Xamag",
+    "what": null
+   }
+  ],
+  "directory": "beyond-canon",
+  "isFanon": false,
+  "theme": {
+   "fg": "#f2a400",
+   "bg": "#222222",
+   "theme": 0
+  },
+  "tracks": [
+   {
+    "name": "exclusion zone",
+    "artists": [
+     "horizon"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-04-13T03:00:00.000Z",
+    "directory": "exclusion-zone",
+    "urls": [
+     "https://homestuck.bandcamp.com/track/exclusion-zone"
+    ],
+    "isFanon": false
+   },
+   {
+    "name": "Now I'm a Villain",
+    "artists": [
+     "David Ellis"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Showtime (Original Mix)"
+    ],
+    "date": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-04-13T03:00:00.000Z",
+    "directory": "now-im-a-villain",
+    "urls": [
+     "https://homestuck.bandcamp.com/track/now-im-a-villain"
+    ],
+    "isFanon": false
+   },
+   {
+    "name": "Cosmic Carousel",
+    "artists": [
+     "polysaw"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-04-13T03:00:00.000Z",
+    "directory": "cosmic-carousel",
+    "urls": [
+     "https://homestuck.bandcamp.com/track/cosmic-carousel"
+    ],
+    "isFanon": false
+   },
+   {
+    "name": "Surprise, We're Back",
+    "artists": [
+     "Sean Gorter"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "End of Act"
+    ],
+    "date": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-04-13T03:00:00.000Z",
+    "directory": "surprise-were-back",
+    "urls": [
+     "https://homestuck.bandcamp.com/track/surprise-were-back"
+    ],
+    "isFanon": false
+   },
+   {
+    "name": "SPLIT REALITY",
+    "artists": [
+     "Xaurix"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Alphamatic Replacement"
+    ],
+    "date": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-04-13T03:00:00.000Z",
+    "directory": "split-reality",
+    "urls": [
+     "https://homestuck.bandcamp.com/track/split-reality"
+    ],
+    "isFanon": false
+   },
+   {
+    "name": "Assembly",
+    "artists": [
+     "Erik Scheele"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-04-13T03:00:00.000Z",
+    "directory": "assembly",
+    "urls": [
+     "https://homestuck.bandcamp.com/track/assembly"
+    ],
+    "isFanon": false
+   },
+   {
+    "name": "Not Canon in F major, Op. 69",
+    "artists": [
+     "Alex Votl"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-04-13T03:00:00.000Z",
+    "directory": "not-canon-in-f-major-op-69",
+    "urls": [
+     "https://homestuck.bandcamp.com/track/not-canon-in-f-major-op-69"
+    ],
+    "isFanon": false
+   },
+   {
+    "name": "The Leaving",
+    "artists": [
+     "Marcus Carline"
+    ],
+    "coverArtists": null,
+    "contributors": [
+     {
+      "who": "Marc Encabo",
+      "what": "bass"
+     },
+     {
+      "who": "Tom Kendall Hughes",
+      "what": "drums"
+     }
+    ],
+    "lyrics": "Smoke is all I breathe,<br>is all you hear, is all in me.<br>Taste the drier air.<br>There’s nothing left.\nLetters fill the empty space.<br>There’s so much space that’s left untouched.<br>Running scares me more than God,<br>but staying can’t sustain.\nThe sparks of fire, earthbound,<br>have found your home. Be gone now.<br>It’s not your fault, you know this.<br>But the leaving is just the same.\nI feel the wind beneath my arms.<br>It’s warmer now than I recall.<br>Have you heard the news today?<br>They closed the school.\nYou and I have been through this,<br>have been through that, have been at ease.<br>Nothing scares me more than God,<br>and Nothing cannot sustain.\nThe sparks of fire, earthbound,<br>have found your home. Be gone now.<br>It’s not your fault, you know this.<br>But the leaving is still the same.\nYou sent me fire.<br>Fire, I’ll tear my throat out.<br>Burn my blackened lips.<br>You gave me fire.<br>Fire, I’ll tear my heart out.<br>I’d rather tear my heart out.<br>But I can’t stay here.\nThe sparks of fire earthbound<br>have found your home. Be gone now.<br>It’s not your fault, you know this.<br>But you can’t help but turn around.<br>The embers haven’t faded.<br>The love you left, unmade.<br>It’s not your fault, you know this.<br>But the leaving is still the same.",
+    "references": [],
+    "date": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-04-13T03:00:00.000Z",
+    "directory": "the-leaving",
+    "urls": [
+     "https://homestuck.bandcamp.com/track/the-leaving"
+    ],
+    "isFanon": false
+   },
+   {
+    "name": "Light Burns Out (Gestalt)",
+    "artists": [
+     "Waif"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-04-13T03:00:00.000Z",
+    "directory": "light-burns-out-gestalt",
+    "urls": [
+     "https://homestuck.bandcamp.com/track/light-burns-out-gestalt"
+    ],
+    "isFanon": false
+   },
+   {
+    "name": "Hometeam Adv8ntage",
+    "artists": [
+     "Twirlin' Curtis"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-04-13T03:00:00.000Z",
+    "directory": "hometeam-adv8ntage",
+    "urls": [
+     "https://homestuck.bandcamp.com/track/hometeam-adv8ntage"
+    ],
+    "isFanon": false
+   },
+   {
+    "name": "After the Sun",
+    "artists": [
+     "Circlejourney"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-04-13T03:00:00.000Z",
+    "directory": "after-the-sun",
+    "urls": [
+     "https://homestuck.bandcamp.com/track/after-the-sun"
+    ],
+    "isFanon": false
+   },
+   {
+    "name": "Narrative Command",
+    "artists": [
+     "Sean William Calhoun"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-04-13T03:00:00.000Z",
+    "directory": "narrative-command",
+    "urls": [
+     "https://homestuck.bandcamp.com/track/narrative-command"
+    ],
+    "isFanon": false
+   },
+   {
+    "name": "eleventh hour",
+    "artists": [
+     "Monobrow"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-04-13T03:00:00.000Z",
+    "directory": "eleventh-hour",
+    "urls": [
+     "https://homestuck.bandcamp.com/track/eleventh-hour"
+    ],
+    "isFanon": false
+   },
+   {
+    "name": "Adios, Lost Boys",
+    "artists": [
+     "Clark Powell"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-04-13T03:00:00.000Z",
+    "directory": "adios-lost-boys",
+    "urls": [
+     "https://homestuck.bandcamp.com/track/adios-lost-boys"
+    ],
+    "isFanon": false
+   },
+   {
+    "name": "Moving Onwards",
+    "artists": [
+     "Matthias Ramalho"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-04-13T03:00:00.000Z",
+    "directory": "moving-onwards",
+    "urls": [
+     "https://homestuck.bandcamp.com/track/moving-onwards"
+    ],
+    "isFanon": false
+   },
+   {
+    "name": "Make a Pretty Picture",
+    "artists": [
+     "Tristan Scroggins"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-04-13T03:00:00.000Z",
+    "directory": "make-a-pretty-picture",
+    "urls": [
+     "https://homestuck.bandcamp.com/track/make-a-pretty-picture"
+    ],
+    "isFanon": false
+   },
+   {
+    "name": "Four Kids (and a Game They Played Together)",
+    "artists": [
+     "Robert J! Lake"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": "it’s been a little bit since the last time we all talked<br>so...how are all of you doing?<br>i know that i have been a bit unkind to you all<br>and i’m trying to undo it\nwe thought this ended years ago but it survived<br>i've forgotten far too often why i even recognize these faces<br>that don't have names placed with them<br>inside my hazy brain, but then<br>there's too much to begin to touch on here\ni’m<br>pulled back<br>once again<br>and i told myself,<br>told myself,<br>told myself<br>i wouldn’t be on this adventure\nbut i’m haunted by<br>all of these memories<br>that i have of four kids<br>and the game they played together\ni burned the bridges thoroughly but still everyone's trusting me again<br>and i should be relieved but it happened so suddenly<br>and i know in my heart i haven't earned this,<br>but everyone acts like my concern isn't a problem<br>like nothing is wrong with my very involvement\nbut i know how the song ends\ni can’t begin to list the times that i’ve walked<br>along this road and concluded<br>that nothing that i’ve done here will make sense, in the end<br>but i find that kind of soothing",
+    "references": [
+     "Four Kids and a Game They Play Together"
+    ],
+    "date": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-04-13T03:00:00.000Z",
+    "directory": "four-kids-and-a-game-they-played-together",
+    "urls": [
+     "https://homestuck.bandcamp.com/track/four-kids-and-a-game-they-played-together"
+    ],
+    "isFanon": false
+   },
+   {
+    "name": "crystal hung in firmament's descent",
+    "artists": [
+     "Emelia K."
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-04-13T03:00:00.000Z",
+    "directory": "crystal-hung-in-firmaments-descent",
+    "urls": [
+     "https://homestuck.bandcamp.com/track/crystal-hung-in-firmaments-descent"
+    ],
+    "isFanon": false
+   }
+  ]
+ }
+];
+window.flashData = [
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#7799ff"
+  }
+ },
+ {
+  "name": "[S] John: Play haunting piano refrain.",
+  "page": "77",
+  "directory": "77",
+  "date": "2009-04-21T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Showtime (Piano Refrain)"
+  ],
+  "theme": {
+   "fg": "#7799ff"
+  }
+ },
+ {
+  "name": "[S] ==>",
+  "page": "82",
+  "directory": "82",
+  "date": "2009-04-24T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Windchime Foley"
+  ],
+  "theme": {
+   "fg": "#7799ff"
+  }
+ },
+ {
+  "name": "[S] John: Enter.",
+  "page": "88",
+  "directory": "88",
+  "date": "2009-04-27T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Harlequin"
+  ],
+  "theme": {
+   "fg": "#7799ff"
+  }
+ },
+ {
+  "name": "[S] STRIFE!",
+  "page": "90",
+  "directory": "90",
+  "date": "2009-04-28T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Showtime (Original Mix)"
+  ],
+  "theme": {
+   "fg": "#7799ff"
+  }
+ },
+ {
+  "name": "[S] ==>",
+  "page": "137",
+  "directory": "137",
+  "date": "2009-05-09T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Sburban Jungle"
+  ],
+  "theme": {
+   "fg": "#7799ff"
+  }
+ },
+ {
+  "name": "[S] ==>",
+  "page": "186",
+  "directory": "186",
+  "date": "2009-05-21T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Harlequin"
+  ],
+  "theme": {
+   "fg": "#7799ff"
+  }
+ },
+ {
+  "name": "[S] Rose: Play a haunting refrain on the violin.",
+  "page": "222",
+  "directory": "222",
+  "date": "2009-05-29T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Aggrieve (Violin Refrain)"
+  ],
+  "theme": {
+   "fg": "#7799ff"
+  }
+ },
+ {
+  "name": "[S] John: Take bite of apple.",
+  "page": "246",
+  "directory": "246",
+  "date": "2009-06-07T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Sburban Countdown"
+  ],
+  "theme": {
+   "fg": "#7799ff"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#ff5555"
+  }
+ },
+ {
+  "name": "[S] YOU THERE. BOY.",
+  "page": "253",
+  "directory": "253",
+  "date": "2009-06-14T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Showtime (Piano Refrain)",
+   "Harlequin"
+  ],
+  "theme": {
+   "fg": "#ff5555"
+  }
+ },
+ {
+  "name": "[S] ==>",
+  "page": "338",
+  "directory": "338",
+  "date": "2009-07-04T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "01, 02 (by Andrew Hussie)",
+   "03, 04, 05, 11 (by Gabe Nezovic)",
+   "06, 07, 12, 13, 14, 15, 16 (by Robert J! Lake)",
+   "08, 09 (by xerxes333)",
+   "10 (by Robert Blaker)",
+   "Harlequin",
+   "JOHN DO THE WINDY THING"
+  ],
+  "theme": {
+   "fg": "#ff5555"
+  }
+ },
+ {
+  "name": "[S] Rose: Youth roll right out the front door.",
+  "page": "388",
+  "directory": "388",
+  "date": "2009-07-19T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Aggrieve"
+  ],
+  "theme": {
+   "fg": "#ff5555"
+  }
+ },
+ {
+  "name": "[S] ==>==>==>!!!!!!!!!",
+  "page": "393",
+  "directory": "393",
+  "date": "2009-07-22T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Showtime (Imp Strife Mix)"
+  ],
+  "theme": {
+   "fg": "#ff5555"
+  }
+ },
+ {
+  "name": "[S] GET UP JOHN, THIS IS NO TIME FOR SLUMBER.",
+  "page": "397",
+  "directory": "397",
+  "date": "2009-07-23T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Showtime (Imp Strife Mix)"
+  ],
+  "theme": {
+   "fg": "#ff5555"
+  }
+ },
+ {
+  "name": "[S] JOHN, SALVAGE YOUR WEAPON AND FIGHT ON!",
+  "page": "400",
+  "directory": "400",
+  "date": "2009-07-25T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Showtime (Imp Strife Mix)"
+  ],
+  "theme": {
+   "fg": "#ff5555"
+  }
+ },
+ {
+  "name": "[S] WHAT THIS IS SO OUTRAGEOUS",
+  "page": "418",
+  "directory": "418",
+  "date": "2009-07-30T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Nannaquin"
+  ],
+  "theme": {
+   "fg": "#ff5555"
+  }
+ },
+ {
+  "name": "[S] GO ON. ==>",
+  "page": "422",
+  "directory": "422",
+  "date": "2009-08-01T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Skies of Skaia"
+  ],
+  "theme": {
+   "fg": "#ff5555"
+  }
+ },
+ {
+  "name": "[S] ==>",
+  "page": "476",
+  "directory": "476",
+  "date": "2009-08-15T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Harlequin (Rock Version)"
+  ],
+  "theme": {
+   "fg": "#ff5555"
+  }
+ },
+ {
+  "name": "[S] John: Sleep.",
+  "page": "644",
+  "directory": "644",
+  "date": "2009-09-15T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "John Sleeps - Skaian Magicant"
+  ],
+  "theme": {
+   "fg": "#ff5555"
+  }
+ },
+ {
+  "name": "[S] John: Wake up.",
+  "page": "651",
+  "directory": "651",
+  "date": "2009-09-17T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "John Sleeps - Skaian Magicant"
+  ],
+  "theme": {
+   "fg": "#ff5555"
+  }
+ },
+ {
+  "name": "[S] Dave: Ascend to the highest point of the building.",
+  "page": "665",
+  "directory": "665",
+  "date": "2009-09-21T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Upward Movement (Dave Owns)"
+  ],
+  "theme": {
+   "fg": "#ff5555"
+  }
+ },
+ {
+  "name": "[S] WV: Lead your men to victory!",
+  "page": "721",
+  "directory": "721",
+  "date": "2009-10-02T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Vagabounce"
+  ],
+  "theme": {
+   "fg": "#ff5555"
+  }
+ },
+ {
+  "name": "[S] WV: Hasten to the exit post-haste!",
+  "page": "755",
+  "directory": "755",
+  "date": "2009-10-09T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Sburban Reversal"
+  ],
+  "theme": {
+   "fg": "#ff5555"
+  }
+ },
+ {
+  "name": "[S] WV: Ascend.",
+  "page": "757",
+  "directory": "757",
+  "date": "2009-10-11T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Explore"
+  ],
+  "theme": {
+   "fg": "#ff5555"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#55ff77"
+  }
+ },
+ {
+  "name": "[S] Jade: Play a silly flute refrain.",
+  "page": "769",
+  "directory": "769",
+  "date": "2009-10-15T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Flute performance (by Jan Van Den Hemel)"
+  ],
+  "theme": {
+   "fg": "#55ff77"
+  }
+ },
+ {
+  "name": "[S] Jade: Play a hauntingly relaxing bassline.",
+  "page": "822",
+  "directory": "822",
+  "date": "2009-10-27T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Gardener"
+  ],
+  "theme": {
+   "fg": "#55ff77"
+  }
+ },
+ {
+  "name": "[S] Jade: Open FreshJamz!",
+  "page": "830",
+  "directory": "830",
+  "date": "2009-10-31T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Showtime Remix",
+   "Aggrieve Remix",
+   "Verdancy (Bassline)",
+   "Potential Verdancy",
+   "Ohgodwhat",
+   "Ohgodwhat Remix",
+   "Rediscover Fusion",
+   "Crystalanthemums",
+   "Explore Remix"
+  ],
+  "theme": {
+   "fg": "#55ff77"
+  }
+ },
+ {
+  "name": "[S] MIDNIGHT CREW: ACT 1031",
+  "page": "833",
+  "directory": "833",
+  "date": "2009-11-02T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Dead Shuffle"
+  ],
+  "theme": {
+   "fg": "#55ff77"
+  }
+ },
+ {
+  "name": "[S] Dave: STRIFE.",
+  "page": "836",
+  "directory": "836",
+  "date": "2009-11-06T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Beatdown (Strider Style)"
+  ],
+  "theme": {
+   "fg": "#55ff77"
+  }
+ },
+ {
+  "name": "[S] Jade: Descend.",
+  "page": "843",
+  "directory": "843",
+  "date": "2009-11-08T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Harleboss"
+  ],
+  "theme": {
+   "fg": "#55ff77"
+  }
+ },
+ {
+  "name": "[S] Dave: Abscond.",
+  "page": "871",
+  "directory": "871",
+  "date": "2009-11-18T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Beatdown Round 2"
+  ],
+  "theme": {
+   "fg": "#55ff77"
+  }
+ },
+ {
+  "name": "[S] Rose: Ascend.",
+  "page": "879",
+  "directory": "879",
+  "date": "2009-11-20T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Harleboss"
+  ],
+  "theme": {
+   "fg": "#55ff77"
+  }
+ },
+ {
+  "name": "[S] Strife!!!",
+  "page": "918",
+  "directory": "918",
+  "date": "2009-11-27T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Dissension (Original)"
+  ],
+  "theme": {
+   "fg": "#55ff77"
+  }
+ },
+ {
+  "name": "[S] Rose: Fast forward to now.",
+  "page": "938",
+  "directory": "938",
+  "date": "2009-12-01T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Chorale for Jaspers"
+  ],
+  "theme": {
+   "fg": "#55ff77"
+  }
+ },
+ {
+  "name": "[S] Ride.",
+  "page": "pony",
+  "directory": "pony",
+  "date": "2009-12-01T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Pony Chorale"
+  ],
+  "theme": {
+   "fg": "#55ff77"
+  }
+ },
+ {
+  "name": "[S] John: Examine your dad's room.",
+  "page": "948",
+  "directory": "948",
+  "date": "2009-12-03T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Revelawesome"
+  ],
+  "theme": {
+   "fg": "#55ff77"
+  }
+ },
+ {
+  "name": "[S] John: Mental breakdown.",
+  "page": "979",
+  "directory": "979",
+  "date": "2009-12-06T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Hardlyquin"
+  ],
+  "theme": {
+   "fg": "#55ff77"
+  }
+ },
+ {
+  "name": "[S] Jade: Retrieve package.",
+  "page": "980",
+  "directory": "980",
+  "date": "2009-12-08T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "An Unbreakable Union",
+   "Carefree Victory"
+  ],
+  "theme": {
+   "fg": "#55ff77"
+  }
+ },
+ {
+  "name": "[S] Jade: Dream up extra arms and play advanced bass solo.",
+  "page": "1026",
+  "directory": "1026",
+  "date": "2009-12-18T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "The Beginning of Something Really Excellent"
+  ],
+  "theme": {
+   "fg": "#55ff77"
+  }
+ },
+ {
+  "name": "[S] Dave: Strife!",
+  "page": "1070",
+  "directory": "1070",
+  "date": "2009-12-24T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Versus"
+  ],
+  "theme": {
+   "fg": "#55ff77"
+  }
+ },
+ {
+  "name": "[S] Jade: Pester John.",
+  "page": "1073",
+  "directory": "1073",
+  "date": "2009-12-29T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Ballad of Awakening"
+  ],
+  "theme": {
+   "fg": "#55ff77"
+  }
+ },
+ {
+  "name": "[S] Enter.",
+  "page": "1149",
+  "directory": "1149",
+  "date": "2010-01-14T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Sburban Jungle"
+  ],
+  "theme": {
+   "fg": "#55ff77"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#22cc22"
+  }
+ },
+ {
+  "name": "[S][I] ==>",
+  "page": "1267",
+  "directory": "1267",
+  "date": "2010-01-29T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Three in the Morning"
+  ],
+  "theme": {
+   "fg": "#22cc22"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#b536da"
+  }
+ },
+ {
+  "name": "[S] ACT 4 ==>",
+  "page": "1358",
+  "directory": "1358",
+  "date": "2010-02-10T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Doctor"
+  ],
+  "theme": {
+   "fg": "#b536da"
+  }
+ },
+ {
+  "name": "[S] ==>",
+  "page": "1407",
+  "directory": "1407",
+  "date": "2010-02-17T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Endless Climb"
+  ],
+  "theme": {
+   "fg": "#b536da"
+  }
+ },
+ {
+  "name": "[S] Dave: Accelerate.",
+  "page": "1641",
+  "directory": "1641",
+  "date": "2010-04-02T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Atomyk Ebonpyre"
+  ],
+  "theme": {
+   "fg": "#b536da"
+  }
+ },
+ {
+  "name": "[S] ==>",
+  "page": "1656",
+  "directory": "1656",
+  "date": "2010-04-03T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Bed of Rose's / Dreams of Derse"
+  ],
+  "theme": {
+   "fg": "#b536da"
+  }
+ },
+ {
+  "name": "[S] Jack: Ascend.",
+  "page": "1668",
+  "directory": "1668",
+  "date": "2010-04-13T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Black",
+   "Descend"
+  ],
+  "theme": {
+   "fg": "#b536da"
+  }
+ },
+ {
+  "name": "[S] Rose and Dave: Shut up and jam.",
+  "page": "1720",
+  "directory": "1720",
+  "date": "2010-04-22T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Unsheath'd",
+   "Welcome to the New Extreme",
+   "Octoroon Rangoon",
+   "Derse Dreamers",
+   "Phantasmagoric Waltz"
+  ],
+  "theme": {
+   "fg": "#b536da"
+  }
+ },
+ {
+  "name": "[S] WV?: Rise up.",
+  "page": "1801",
+  "directory": "1801",
+  "date": "2010-05-05T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Skaian Skirmish"
+  ],
+  "theme": {
+   "fg": "#b536da"
+  }
+ },
+ {
+  "name": "[S] John: Reunite with your loving wife and daughter.",
+  "page": "1931",
+  "directory": "1931",
+  "date": "2010-05-26T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "How Do I Live (Bunny Back in the Box Version)"
+  ],
+  "theme": {
+   "fg": "#b536da"
+  }
+ },
+ {
+  "name": "[S] Descend.",
+  "page": "1940",
+  "directory": "1940",
+  "date": "2010-05-31T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Descend"
+  ],
+  "theme": {
+   "fg": "#b536da"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#0000ff"
+  }
+ },
+ {
+  "name": "[S] Make her pay.",
+  "page": "2578",
+  "directory": "2578",
+  "date": "2010-09-08T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Crystamanthequins"
+  ],
+  "theme": {
+   "fg": "#0000ff"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#ff0000"
+  }
+ },
+ {
+  "name": "[S] ACT 5 ACT 2 ==>",
+  "page": "2626",
+  "directory": "2626",
+  "date": "2010-09-19T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Homestuck"
+  ],
+  "theme": {
+   "fg": "#ff0000"
+  }
+ },
+ {
+  "name": "[S] Vriska: Watch street tough maverick with nothing to lose",
+  "page": "2787",
+  "directory": "2787",
+  "date": "2010-10-19T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "How Do I Live (Bunny Back in the Box Version)"
+  ],
+  "theme": {
+   "fg": "#ff0000"
+  }
+ },
+ {
+  "name": "[S] Past Karkat: Wake up.",
+  "page": "2792",
+  "directory": "2792",
+  "date": "2010-10-25T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Karkat's Theme",
+   "Vriska's Theme",
+   "Terezi's Theme",
+   "AlterniaBound",
+   "Spider's Claw",
+   "MeGaLoVania",
+   "A Tender Moment",
+   "Nic Cage Song",
+   "Secret ROM",
+   "Boy Skylark (Brief)",
+   "Hero's Growth (by Solatrus)",
+   "Phrenic Phever",
+   "Walk-Stab-Walk (R&E)",
+   "Horschestra"
+  ],
+  "theme": {
+   "fg": "#ff0000"
+  }
+ },
+ {
+  "name": "[S] Jade: Wake up.",
+  "page": "2848",
+  "directory": "2848",
+  "date": "2010-11-10T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Let the Squiddles Sleep (End Theme)"
+  ],
+  "theme": {
+   "fg": "#ff0000"
+  }
+ },
+ {
+  "name": "[S] Jade: Enter.",
+  "page": "2927",
+  "directory": "2927",
+  "date": "2010-11-28T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Umbral Ultimatum"
+  ],
+  "theme": {
+   "fg": "#ff0000"
+  }
+ },
+ {
+  "name": "[S] ==>",
+  "page": "2988",
+  "directory": "2988",
+  "date": "2010-12-04T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Frost:frost-vol6"
+  ],
+  "theme": {
+   "fg": "#ff0000"
+  }
+ },
+ {
+  "name": "[S] Jade: STRIFE!!!!!!!!!!!!",
+  "page": "3001",
+  "directory": "3001",
+  "date": "2010-12-06T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Sunslammer"
+  ],
+  "theme": {
+   "fg": "#ff0000"
+  }
+ },
+ {
+  "name": "[S] John: Enter village.",
+  "page": "3079",
+  "directory": "3079",
+  "date": "2010-12-15T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Planet Healer"
+  ],
+  "theme": {
+   "fg": "#ff0000"
+  }
+ },
+ {
+  "name": "[S] JOHN. RISE UP.",
+  "page": "3087",
+  "directory": "3087",
+  "date": "2010-12-16T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Savior of the Waking World"
+  ],
+  "theme": {
+   "fg": "#ff0000"
+  }
+ },
+ {
+  "name": "[S] Wake.",
+  "page": "3297",
+  "directory": "3297",
+  "date": "2011-01-15T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "MeGaLoVania"
+  ],
+  "theme": {
+   "fg": "#ff0000"
+  }
+ },
+ {
+  "name": "[S] Kanaya: Return to the core.",
+  "page": "3321",
+  "directory": "3321",
+  "date": "2011-01-22T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Darling Kanaya",
+   "Karkat's Theme",
+   "Eridan's Theme",
+   "Nautical Nightmare",
+   "Heir Conditioning"
+  ],
+  "theme": {
+   "fg": "#ff0000"
+  }
+ },
+ {
+  "name": "[S] Equius: Seek the highb100d.",
+  "page": "3438",
+  "directory": "3438",
+  "date": "2011-02-06T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Horschestra STRONG Version",
+   "Nepeta's Theme",
+   "Blackest Heart (With Honks)",
+   "Midnight Calliope",
+   "Miracles (by ICP, Toby Fox)"
+  ],
+  "theme": {
+   "fg": "#ff0000"
+  }
+ },
+ {
+  "name": "[S] 3x SHOWDOWN COMBO.",
+  "page": "3520",
+  "directory": "3520",
+  "date": "2011-02-16T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Trollian Standoff"
+  ],
+  "theme": {
+   "fg": "#ff0000"
+  }
+ },
+ {
+  "name": "[S] All: Behold glory of Zillyhoo.",
+  "page": "3679",
+  "directory": "3679",
+  "date": "2011-03-23T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Warhammer of Zillyhoo"
+  ],
+  "theme": {
+   "fg": "#ff0000"
+  }
+ },
+ {
+  "name": "[S] Seer: Descend.",
+  "page": "3695",
+  "directory": "3695",
+  "date": "2011-03-30T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Black Rose / Green Sun"
+  ],
+  "theme": {
+   "fg": "#ff0000"
+  }
+ },
+ {
+  "name": "[S] ==>",
+  "page": "3696",
+  "directory": "3696",
+  "date": "2011-04-02T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "At The Price of Oblivion"
+  ],
+  "theme": {
+   "fg": "#ff0000"
+  }
+ },
+ {
+  "name": "[S] Terezi: Read note.",
+  "page": "3718",
+  "directory": "3718",
+  "date": "2011-04-17T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Secret ROM (by Toby Fox)"
+  ],
+  "theme": {
+   "fg": "#ff0000"
+  }
+ },
+ {
+  "name": "[S] Terezi: Play records.",
+  "page": "3725",
+  "directory": "3725",
+  "date": "2011-04-19T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Trollcops",
+   "Havoc To Be Wrought",
+   "Rumble at the Rink",
+   "Unlabeled",
+   "XROM",
+   "I'm a Member of the Midnight Crew"
+  ],
+  "theme": {
+   "fg": "#ff0000"
+  }
+ },
+ {
+  "name": "[S] Seer: Ascend.",
+  "page": "3744",
+  "directory": "3744",
+  "date": "2011-04-30T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Terezi Owns"
+  ],
+  "theme": {
+   "fg": "#ff0000"
+  }
+ },
+ {
+  "name": "[S] Flip.",
+  "page": "3760",
+  "directory": "3760",
+  "date": "2011-05-15T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "BL1ND JUST1C3 : 1NV3ST1G4T1ON !!"
+  ],
+  "theme": {
+   "fg": "#ff0000"
+  }
+ },
+ {
+  "name": "[S] Attempt rare and highly dangerous 5x SHOWDOWN COMBO.",
+  "page": "4085",
+  "directory": "4085",
+  "date": "2011-08-22T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "The Carnival"
+  ],
+  "theme": {
+   "fg": "#ff0000"
+  }
+ },
+ {
+  "name": "[S] Cascade.",
+  "page": "4109",
+  "directory": "4109",
+  "date": "2011-10-25T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Cascade (Beta)",
+   "Flare",
+   "Savior of the Dreaming Dead",
+   "Black Hole / Green Sun"
+  ],
+  "theme": {
+   "fg": "#ff0000"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#22cc22"
+  }
+ },
+ {
+  "name": "[S] Begin intermission 2.",
+  "page": "4111",
+  "directory": "4111",
+  "date": "2011-10-31T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "English"
+  ],
+  "theme": {
+   "fg": "#22cc22"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#7799ff"
+  }
+ },
+ {
+  "name": "[S] ACT 6",
+  "page": "4113",
+  "directory": "4113",
+  "date": "2011-11-11T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Homestuck Anthem"
+  ],
+  "theme": {
+   "fg": "#7799ff"
+  }
+ },
+ {
+  "name": "[S] ==>",
+  "page": "4275",
+  "directory": "4275",
+  "date": "2011-12-07T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Foley (by Toby Fox)"
+  ],
+  "theme": {
+   "fg": "#7799ff"
+  }
+ },
+ {
+  "name": "[S] Jane: Get mail.",
+  "page": "4282",
+  "directory": "4282",
+  "date": "2011-12-09T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Foley (by Clark Powell)"
+  ],
+  "theme": {
+   "fg": "#7799ff"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#a10000"
+  }
+ },
+ {
+  "name": "[S][A6I1] Karkat: Mental breakdown.",
+  "page": "4373",
+  "directory": "4373",
+  "date": "2011-12-23T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Frustracean"
+  ],
+  "theme": {
+   "fg": "#a10000"
+  }
+ },
+ {
+  "name": "[S] END OF ACT 6 INTERMISSION 1",
+  "page": "4390",
+  "directory": "4390",
+  "date": "2011-12-29T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Infinity Mechanism"
+  ],
+  "theme": {
+   "fg": "#a10000"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#f2a400"
+  }
+ },
+ {
+  "name": "[S] Roxy: Sleepwalk.",
+  "page": "4486",
+  "directory": "4486",
+  "date": "2011-01-21T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Even in Death"
+  ],
+  "theme": {
+   "fg": "#f2a400"
+  }
+ },
+ {
+  "name": "[S] RAP-OFF!!!!!!!!!!",
+  "page": "4541",
+  "directory": "4541",
+  "date": "2012-02-04T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Anbroids:anbroids-v2"
+  ],
+  "theme": {
+   "fg": "#f2a400"
+  }
+ },
+ {
+  "name": "[S] Prince of Heart: Rise up.",
+  "page": "4572",
+  "directory": "4572",
+  "date": "2012-02-16T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Time on My Side"
+  ],
+  "theme": {
+   "fg": "#f2a400"
+  }
+ },
+ {
+  "name": "[S] Frigglish: Fast forward to Jaspersprite.",
+  "page": "4617",
+  "directory": "4617",
+  "date": "2012-02-26T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Chorale for Jaspers"
+  ],
+  "theme": {
+   "fg": "#f2a400"
+  }
+ },
+ {
+  "name": "[S] Jane: Enter.",
+  "page": "4665",
+  "directory": "4665",
+  "date": "2012-03-08T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Another Jungle",
+   "A Taste for Adventure"
+  ],
+  "theme": {
+   "fg": "#f2a400"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#e00707"
+  }
+ },
+ {
+  "name": "[S][A6I2] ???",
+  "page": "4815",
+  "directory": "4815",
+  "date": "2012-04-03T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "weird moody horse shit"
+  ],
+  "theme": {
+   "fg": "#e00707"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#8899cc"
+  }
+ },
+ {
+  "name": "[S] ACT 6 ACT 3",
+  "page": "4820",
+  "directory": "4820",
+  "date": "2012-04-14T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Rain"
+  ],
+  "theme": {
+   "fg": "#8899cc"
+  }
+ },
+ {
+  "name": "[S] Jane: Proceed.",
+  "page": "4825",
+  "directory": "4825",
+  "date": "2012-04-16T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Ruins (With Strings)"
+  ],
+  "theme": {
+   "fg": "#8899cc"
+  }
+ },
+ {
+  "name": "[S] Jane: Cautiously approach.",
+  "page": "4827",
+  "directory": "4827",
+  "date": "2012-04-17T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Elevatorstuck"
+  ],
+  "theme": {
+   "fg": "#8899cc"
+  }
+ },
+ {
+  "name": "[S] DD: Ascend.",
+  "page": "4942",
+  "directory": "4942",
+  "date": "2012-05-17T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Black"
+  ],
+  "theme": {
+   "fg": "#8899cc"
+  }
+ },
+ {
+  "name": "[S] DD: Ascend more casually.",
+  "page": "4944",
+  "directory": "4944",
+  "date": "2012-05-17T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "I'm a Member of the Midnight Crew (Acapella)"
+  ],
+  "theme": {
+   "fg": "#8899cc"
+  }
+ },
+ {
+  "name": "[S] Terry: Fast forward to Liv.",
+  "page": "5027",
+  "directory": "5027",
+  "date": "2012-06-12T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "I Don't Want to Miss a Thing"
+  ],
+  "theme": {
+   "fg": "#8899cc"
+  }
+ },
+ {
+  "name": "[S] Dirk: Synchronize.",
+  "page": "5238",
+  "directory": "5238",
+  "date": "2012-07-09T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Unite Synchronization"
+  ],
+  "theme": {
+   "fg": "#8899cc"
+  }
+ },
+ {
+  "name": "[S] Dirk: Unite.",
+  "page": "5252",
+  "directory": "5252",
+  "date": "2012-07-09T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Unite Synchronization"
+  ],
+  "theme": {
+   "fg": "#8899cc"
+  }
+ },
+ {
+  "name": "[S] Dirk: Synchronize.",
+  "page": "5238",
+  "directory": "5238",
+  "date": "2012-07-09T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Unite Synchronization"
+  ],
+  "theme": {
+   "fg": "#8899cc"
+  }
+ },
+ {
+  "name": "[S] Caliborn: Enter.",
+  "page": "5261",
+  "directory": "5261",
+  "date": "2012-07-28T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Eternity Served Cold"
+  ],
+  "theme": {
+   "fg": "#8899cc"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#b536da"
+  }
+ },
+ {
+  "name": "[S] ACT 6 INTERMISSION 3",
+  "page": "5263",
+  "directory": "5263",
+  "date": "2012-08-31T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Fuchsia Ruler",
+   "Darling Dolorosa",
+   "GameGlr",
+   "Iron Infidel",
+   "Elevatorstuck"
+  ],
+  "theme": {
+   "fg": "#b536da"
+  }
+ },
+ {
+  "name": "[S][A6I3] ==>",
+  "page": "5308",
+  "directory": "5308",
+  "date": "2012-09-24T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Hate You",
+   "G4M3BL0RG",
+   "Olive Rogue",
+   "Violet Prince",
+   "Purple Bard",
+   "Teal Seer",
+   "Crab Waltz"
+  ],
+  "theme": {
+   "fg": "#b536da"
+  }
+ },
+ {
+  "name": "[S][A6I3] ==>",
+  "page": "5398",
+  "directory": "5398",
+  "date": "2012-10-22T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "108 Stars of Density",
+   "The Brave and the Bronze",
+   "Jade Sylph",
+   "Rust Maid",
+   "Indigo Heir",
+   "Orchid Horror",
+   "Davesprite",
+   "iRRRRRRRRECONCIA8LE"
+  ],
+  "theme": {
+   "fg": "#b536da"
+  }
+ },
+ {
+  "name": "[S][A6I3] ==>",
+  "page": "5426",
+  "directory": "5426",
+  "date": "2012-10-27T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "<span class=\"loading\">Loading</span>"
+  ],
+  "theme": {
+   "fg": "#b536da"
+  },
+  "jiff": "Yeah"
+ },
+ {
+  "name": "[S][A6I3] MINISTRIFE!!!",
+  "page": "5427",
+  "directory": "5427",
+  "date": "2012-11-03T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Killed by BR8K Spider!!!!!!!!"
+  ],
+  "theme": {
+   "fg": "#b536da"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#cccccc"
+  }
+ },
+ {
+  "name": "[S] ACT 6 ACT 4",
+  "page": "5438",
+  "directory": "5438",
+  "date": "2012-11-12T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Even in Death (T'Morra's Belly Mix)"
+  ],
+  "theme": {
+   "fg": "#cccccc"
+  }
+ },
+ {
+  "name": "[S] ==>",
+  "page": "5440",
+  "directory": "5440",
+  "date": "2012-11-14T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "English"
+  ],
+  "theme": {
+   "fg": "#cccccc"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#777777"
+  }
+ },
+ {
+  "name": "[S][A6I4] ==>",
+  "page": "5471",
+  "directory": "5471",
+  "date": "2012-11-18T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Elevatorstuck"
+  ],
+  "theme": {
+   "fg": "#777777"
+  }
+ },
+ {
+  "name": "[S][A6I4] ==>",
+  "page": "5472",
+  "directory": "5472",
+  "date": "2012-11-19T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Elevatorstuck"
+  ],
+  "theme": {
+   "fg": "#777777"
+  }
+ },
+ {
+  "name": "[S][A6I4] ==>",
+  "page": "5473",
+  "directory": "5473",
+  "date": "2012-11-19T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Elevatorstuck"
+  ],
+  "theme": {
+   "fg": "#777777"
+  }
+ },
+ {
+  "name": "[S][A6I4] ==>",
+  "page": "5474",
+  "directory": "5474",
+  "date": "2012-11-19T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Elevatorstuck"
+  ],
+  "theme": {
+   "fg": "#777777"
+  }
+ },
+ {
+  "name": "[S][A6I4] ==>",
+  "page": "5485",
+  "directory": "5485",
+  "date": "2012-11-21T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Elevatorstuck"
+  ],
+  "theme": {
+   "fg": "#777777"
+  }
+ },
+ {
+  "name": "[S!][A6I4] ==>",
+  "page": "5494",
+  "directory": "5494",
+  "date": "2012-11-25T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Elevatorstuck"
+  ],
+  "theme": {
+   "fg": "#777777"
+  }
+ },
+ {
+  "name": "[!!!][A6I4] ==>",
+  "page": "5495",
+  "directory": "5495",
+  "date": "2012-11-25T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Elevatorstuck"
+  ],
+  "theme": {
+   "fg": "#777777"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#ffee00"
+  }
+ },
+ {
+  "name": "[S] ACT 6 ACT 5",
+  "page": "5512",
+  "directory": "5512",
+  "date": "2012-11-28T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "A Taste for Adventure"
+  ],
+  "theme": {
+   "fg": "#ffee00"
+  }
+ },
+ {
+  "name": "[S] Ride.",
+  "page": "5655",
+  "directory": "5655",
+  "date": "2012-12-26T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Horschestra STRONG Version"
+  ],
+  "theme": {
+   "fg": "#ffee00"
+  }
+ },
+ {
+  "name": "[S] Jane: Engage.",
+  "page": "5711",
+  "directory": "5711",
+  "date": "2013-01-09T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Trickster Mode (Engage)"
+  ],
+  "theme": {
+   "fg": "#ffee00"
+  }
+ },
+ {
+  "name": "[S] Jane: Blast off.",
+  "page": "5712",
+  "directory": "5712",
+  "date": "2013-01-10T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Trickster Mode (Blast Off)"
+  ],
+  "theme": {
+   "fg": "#ffee00"
+  }
+ },
+ {
+  "name": "[S] ACT 6 ACT 5 ACT 2",
+  "page": "5714",
+  "directory": "5714",
+  "date": "2013-01-11T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Kazoostuck (by Toby Fox)",
+   "(I'm not going through the rest of the Trickster flashes, sorry.)"
+  ],
+  "theme": {
+   "fg": "#ffee00"
+  }
+ },
+ {
+  "name": "[S] ==>",
+  "page": "5726",
+  "directory": "5726",
+  "date": "2013-01-13T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Trickster Mode (Engage)"
+  ],
+  "theme": {
+   "fg": "#ffee00"
+  }
+ },
+ {
+  "name": "[S] ==>",
+  "page": "5740",
+  "directory": "5740",
+  "date": "2013-01-17T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Trickster Mode (Engage)"
+  ],
+  "theme": {
+   "fg": "#ffee00"
+  }
+ },
+ {
+  "name": "[S] ==>",
+  "page": "5759",
+  "directory": "5759",
+  "date": "2013-01-23T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Trickster Mode (Engage)"
+  ],
+  "theme": {
+   "fg": "#ffee00"
+  }
+ },
+ {
+  "name": "[S] Tricksters: Alchemize.",
+  "page": "5763",
+  "directory": "5763",
+  "date": "2013-01-24T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "A Very Trickster Mode Christmas"
+  ],
+  "theme": {
+   "fg": "#ffee00"
+  }
+ },
+ {
+  "name": "[S] ==>",
+  "page": "5764",
+  "directory": "5764",
+  "date": "2013-01-25T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Warhammer of Zillyhoo (With Mario Paint)"
+  ],
+  "theme": {
+   "fg": "#ffee00"
+  }
+ },
+ {
+  "name": "[S] WHEEEEEEEEEEE!",
+  "page": "5776",
+  "directory": "5776",
+  "date": "2013-01-26T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "A Very Trickster Mode Christmas (WHEEEEEEEEEEE!)"
+  ],
+  "theme": {
+   "fg": "#ffee00"
+  }
+ },
+ {
+  "name": "[S] HA HA HA! HE HE HE! HO HO HO!",
+  "page": "5777",
+  "directory": "5777",
+  "date": "2013-01-26T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "A Very Trickster Mode Christmas (With Fancy Santas)"
+  ],
+  "theme": {
+   "fg": "#ffee00"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#77ff88"
+  }
+ },
+ {
+  "name": "[S][A6I5] BEGIN INTERFISHIN",
+  "page": "5981",
+  "directory": "5981",
+  "date": "2013-03-10T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Elevatorstuck"
+  ],
+  "theme": {
+   "fg": "#77ff88"
+  }
+ },
+ {
+  "name": "[S][A6I5] END OF ACT 6 INTERMISSION 5 INTERMISSION 4",
+  "page": "6066",
+  "directory": "6066",
+  "date": "2013-04-01T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Blackest Heart (With Honks)"
+  ],
+  "theme": {
+   "fg": "#77ff88"
+  }
+ },
+ {
+  "name": "[S][A6I5] ==>",
+  "page": "6231",
+  "directory": "6231",
+  "date": "2013-04-13T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "A Taste for Adventure"
+  ],
+  "theme": {
+   "fg": "#77ff88"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#2ed73a"
+  }
+ },
+ {
+  "name": "[S] ACT 6 ACT 6",
+  "page": "6243",
+  "directory": "6243",
+  "date": "2013-06-12T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Homosuck Anthem"
+  ],
+  "theme": {
+   "fg": "#2ed73a"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#dddddd"
+  }
+ },
+ {
+  "name": "[S] ACT 6 ACT 6 INTERMISSION 1",
+  "page": "6278",
+  "directory": "6278",
+  "date": "2013-06-14T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Gold Pilot"
+  ],
+  "theme": {
+   "fg": "#dddddd"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#ffffff"
+  }
+ },
+ {
+  "name": "[S] GAME OVER.",
+  "page": "6901",
+  "directory": "6901",
+  "date": "2014-10-25T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Carne Vale"
+  ],
+  "theme": {
+   "fg": "#ffffff"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#4466ff"
+  }
+ },
+ {
+  "name": "[S][A6A6I4] ====>",
+  "page": "7098",
+  "directory": "7098",
+  "date": "2014-11-28T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Pipeorgankind"
+  ],
+  "theme": {
+   "fg": "#4466ff"
+  }
+ },
+ {
+  "name": "[S][A6A6I4] ====>",
+  "page": "7101",
+  "directory": "7101",
+  "date": "2014-12-01T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Elevatorstuck, with Meows"
+  ],
+  "theme": {
+   "fg": "#4466ff"
+  }
+ },
+ {
+  "name": "[S][A6A6I4] ====>",
+  "page": "7405",
+  "directory": "7405",
+  "date": "2015-01-19T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "not a creature was stirring"
+  ],
+  "theme": {
+   "fg": "#4466ff"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#55ff00"
+  }
+ },
+ {
+  "name": "[S] ACT 6 ACT 6 ACT 5",
+  "page": "7409",
+  "directory": "7409",
+  "date": "2015-04-13T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Homosuck Swan Song"
+  ],
+  "theme": {
+   "fg": "#55ff00"
+  }
+ },
+ {
+  "name": "[S] MSPA Reader: Mental breakdown.",
+  "page": "7448",
+  "directory": "7448",
+  "date": "2015-04-22T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Hello Zepp"
+  ],
+  "theme": {
+   "fg": "#55ff00"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#00ffff"
+  }
+ },
+ {
+  "name": "[S] ACT 6 ACT 6 INTERMISSION 5",
+  "page": "7449",
+  "directory": "7449",
+  "date": "2015-04-26T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Moonsetter"
+  ],
+  "theme": {
+   "fg": "#00ffff"
+  }
+ },
+ {
+  "name": "[S][A6A6I5] ====>",
+  "page": "7928",
+  "directory": "7928",
+  "date": "2015-07-23T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Horsecatska"
+  ],
+  "theme": {
+   "fg": "#00ffff"
+  }
+ },
+ {
+  "name": "[S] Terezi: Remem8er.",
+  "page": "7959",
+  "directory": "7959",
+  "date": "2015-07-27T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Do You Remem8er Me"
+  ],
+  "theme": {
+   "fg": "#00ffff"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#ee1100"
+  }
+ },
+ {
+  "name": "[S] Collide.",
+  "page": "8087",
+  "directory": "8087",
+  "date": "2016-04-06T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Creata (Canon Edit)",
+   "Oppa Toby Style",
+   "Eternity, Served Cold (Canon Edit)",
+   "Heir of Grief"
+  ],
+  "theme": {
+   "fg": "#ee1100"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#ffffff"
+  }
+ },
+ {
+  "name": "[S] ACT 7",
+  "page": "8127",
+  "directory": "8127",
+  "date": "2016-04-13T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Overture (Canon Edit)"
+  ],
+  "theme": {
+   "fg": "#ffffff"
+  }
+ },
+ {
+  "name": "[S] ==>",
+  "page": "8129",
+  "directory": "8129",
+  "date": "2016-10-25T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Windchime Foley"
+  ],
+  "theme": {
+   "fg": "#ffffff"
+  }
+ },
+ {
+  "name": "[S] ==>",
+  "page": "8130",
+  "directory": "8130",
+  "date": "2016-10-25T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Ascend"
+  ],
+  "theme": {
+   "fg": "#ffffff"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#d3ff8f"
+  }
+ },
+ {
+  "name": "Of Bloodthurst and Bratwurst",
+  "directory": "fs-vol1",
+  "date": "2018-04-13T03:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Andrew Hussie",
+    "what": "writing: Ardata, Diemen"
+   },
+   {
+    "who": "Danny Cragg",
+    "what": "art: characters, backgrounds, endings"
+   },
+   {
+    "who": "Shelby Cragg",
+    "what": "art: colorist"
+   },
+   {
+    "who": "David Turnbull",
+    "what": "programming"
+   }
+  ],
+  "tracks": [
+   "Breeding Duties",
+   "Moonshine"
+  ],
+  "theme": {
+   "fg": "#d3ff8f"
+  }
+ },
+ {
+  "name": "Of Aesthetics, Crimson and Otherwise",
+  "directory": "fs-vol2",
+  "date": "2018-04-27T03:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Aysha U. Farah",
+    "what": "writing: Amisia"
+   },
+   {
+    "who": "Anonymous",
+    "what": "writing: Cirava"
+   },
+   {
+    "who": "Danny Cragg",
+    "what": "art: characters, backgrounds, endings"
+   },
+   {
+    "who": "Shelby Cragg",
+    "what": "art: colorist"
+   },
+   {
+    "who": "David Turnbull",
+    "what": "programming"
+   }
+  ],
+  "tracks": [
+   "ARTCHOP (APPARENTLY)",
+   "Ｍ Ｏ Ｉ Ｓ Ｔ:moist"
+  ],
+  "theme": {
+   "fg": "#d3ff8f"
+  }
+ },
+ {
+  "name": "Of Ladies Gray and Lusii White",
+  "directory": "fs-vol3",
+  "date": "2018-05-11T03:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Aysha U. Farah",
+    "what": "writing: Skylla"
+   },
+   {
+    "who": "Cee L. Kyle",
+    "what": "writing: Bronya"
+   },
+   {
+    "who": "Adrienne Garcia",
+    "what": "art: characters, backgrounds, endings"
+   },
+   {
+    "who": "David Turnbull",
+    "what": "programming"
+   }
+  ],
+  "tracks": [
+   "Dapper Dueling",
+   "Phantasmagoric Waltz"
+  ],
+  "theme": {
+   "fg": "#d3ff8f"
+  }
+ },
+ {
+  "name": "Of Wright and Wronged",
+  "directory": "fs-vol4",
+  "date": "2018-05-25T03:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Lalo Hunt",
+    "what": "writing: Tagora"
+   },
+   {
+    "who": "Magdalena Clark",
+    "what": "writing: Vikare"
+   },
+   {
+    "who": "Gina Chacón",
+    "what": "art: characters, backgrounds, endings"
+   },
+   {
+    "who": "David Turnbull",
+    "what": "programming"
+   }
+  ],
+  "tracks": [
+   "Call me Gor-Gor",
+   "Thip of the Tongue"
+  ],
+  "theme": {
+   "fg": "#d3ff8f"
+  }
+ },
+ {
+  "name": "Of Affection, Unwanted or Untrue",
+  "directory": "fs-vol5",
+  "date": "2018-06-08T03:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Aysha U. Farah",
+    "what": "writing: Polypa"
+   },
+   {
+    "who": "Cee L. Kyle",
+    "what": "writing: Zebruh"
+   },
+   {
+    "who": "Adrienne Garcia",
+    "what": "art: characters, backgrounds, endings"
+   },
+   {
+    "who": "David Turnbull",
+    "what": "programming"
+   }
+  ],
+  "tracks": [
+   "Coursing",
+   "Hollow Suit"
+  ],
+  "theme": {
+   "fg": "#d3ff8f"
+  }
+ },
+ {
+  "name": "Of Text and Envy, Green",
+  "directory": "fs-vol6",
+  "date": "2018-06-22T03:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Magdalena Clark",
+    "what": "writing: Elwurd"
+   },
+   {
+    "who": "Aysha U. Farah",
+    "what": "writing: Kuprum & Folykl"
+   },
+   {
+    "who": "Danny Cragg",
+    "what": "art: characters, backgrounds, endings"
+   },
+   {
+    "who": "Mint Chipleaf",
+    "what": "programming"
+   }
+  ],
+  "tracks": [
+   "Superego",
+   ">tfw another james roach track:tfw-another-james-roach-track"
+  ],
+  "theme": {
+   "fg": "#d3ff8f"
+  }
+ },
+ {
+  "name": "Of Business, Flagrantly Illegal",
+  "directory": "fs-vol7",
+  "date": "2018-07-06T03:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Cee L. Kyle",
+    "what": "writing: Remele"
+   },
+   {
+    "who": "Aysha U. Farah",
+    "what": "writing: Konyyl"
+   },
+   {
+    "who": "Gina Chacón",
+    "what": "art: characters, backgrounds, endings"
+   },
+   {
+    "who": "David Turnbull",
+    "what": "programming"
+   }
+  ],
+  "tracks": [
+   "Piwates ',$$$$^]:piwates",
+   "Olive Scribe"
+  ],
+  "theme": {
+   "fg": "#d3ff8f"
+  }
+ },
+ {
+  "name": "Of Stresses, Song and Otherwise",
+  "directory": "fs-vol8",
+  "date": "2018-07-20T03:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Lalo Hunt",
+    "what": "writing: Tyzias"
+   },
+   {
+    "who": "Aysha U. Farah",
+    "what": "writing: Chixie"
+   },
+   {
+    "who": "Adrienne Garcia",
+    "what": "art: characters, backgrounds, endings"
+   },
+   {
+    "who": "Mint Chipleaf",
+    "what": "programming"
+   }
+  ],
+  "tracks": [
+   "Single Female Lawyer",
+   "it be like that sometimes"
+  ],
+  "theme": {
+   "fg": "#d3ff8f"
+  }
+ },
+ {
+  "name": "Of Gazes Cool and Tempers Hot",
+  "directory": "fs-vol9",
+  "date": "2018-08-03T03:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Kieran Miranda",
+    "what": "writing: Azdaja"
+   },
+   {
+    "who": "Aysha U. Farah",
+    "what": "writing: Chahut"
+   },
+   {
+    "who": "Gina Chacón",
+    "what": "art: characters, backgrounds, endings"
+   },
+   {
+    "who": "Mint Chipleaf",
+    "what": "programming"
+   }
+  ],
+  "tracks": [
+   "DaJam",
+   "take me to clown church"
+  ],
+  "theme": {
+   "fg": "#d3ff8f"
+  }
+ },
+ {
+  "name": "Of Faraway Lands and Nearby Pals",
+  "directory": "fs-vol10",
+  "date": "2018-08-17T03:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Aysha U. Farah",
+    "what": "writing: Zebede"
+   },
+   {
+    "who": "Magdalena Clark",
+    "what": "writing: Zebede"
+   },
+   {
+    "who": "David Turnbull",
+    "what": "writing: Tegiri"
+   },
+   {
+    "who": "Adrienne Garcia",
+    "what": "art: characters"
+   },
+   {
+    "who": "Phil Gibson",
+    "what": "art: backgrounds, endings"
+   },
+   {
+    "who": "Angela Sham",
+    "what": "art: backgrounds"
+   }
+  ],
+  "tracks": [
+   "beekeeper who? i dont know her.",
+   "ASSAULT"
+  ],
+  "theme": {
+   "fg": "#d3ff8f"
+  }
+ },
+ {
+  "name": "Of Pals and Promises, Made and Broken",
+  "directory": "fs-vol11",
+  "date": "2018-08-31T03:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Aysha U. Farah",
+    "what": "writing: Mallek"
+   },
+   {
+    "who": "Cee L. Kyle",
+    "what": "writing: Lynera"
+   },
+   {
+    "who": "Adrienne Garcia",
+    "what": "art: characters"
+   },
+   {
+    "who": "Phil Gibson",
+    "what": "art: backgrounds, endings"
+   },
+   {
+    "who": "Mint Chipleaf",
+    "what": "programming"
+   }
+  ],
+  "tracks": [
+   "fortnite funny moments epic fails episode 413",
+   "Frostbite"
+  ],
+  "theme": {
+   "fg": "#d3ff8f"
+  }
+ },
+ {
+  "name": "Of Know-Nothings and Know-It-Alls",
+  "directory": "fs-vol12",
+  "date": "2018-09-14T03:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Lalo Hunt",
+    "what": "writing: Galekh"
+   },
+   {
+    "who": "David Turnbull",
+    "what": "writing: Tirona"
+   },
+   {
+    "who": "Adrienne Garcia",
+    "what": "art: characters"
+   },
+   {
+    "who": "Leland Goodman",
+    "what": "art: backgrounds, endings"
+   },
+   {
+    "who": "Mint Chipleaf",
+    "what": "programming"
+   }
+  ],
+  "tracks": [
+   "Snow Pollen",
+   "Carefree Princess Berryboo"
+  ],
+  "theme": {
+   "fg": "#d3ff8f"
+  }
+ },
+ {
+  "name": "Of Fate, Fortune, and Fashion",
+  "directory": "fs-vol13",
+  "date": "2018-09-28T03:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Aysha U. Farah",
+    "what": "writing: Boldir"
+   },
+   {
+    "who": "Kieran Miranda",
+    "what": "writing: Stelsa"
+   },
+   {
+    "who": "Adrienne Garcia",
+    "what": "art: characters"
+   },
+   {
+    "who": "Phil Gibson",
+    "what": "art: backgrounds, endings"
+   },
+   {
+    "who": "Mint Chipleaf",
+    "what": "programming"
+   }
+  ],
+  "tracks": [
+   "Old Secret",
+   "IIYWASWIWTBOTSA4AATWUOTDTMIHCIMFH"
+  ],
+  "theme": {
+   "fg": "#d3ff8f"
+  }
+ },
+ {
+  "name": "Of Cleanliness and Clownliness",
+  "directory": "fs-vol14",
+  "date": "2018-10-10T03:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Aysha U. Farah",
+    "what": "writing: Marsti"
+   },
+   {
+    "who": "Thomas Carr",
+    "what": "writing: Karako"
+   },
+   {
+    "who": "Kim Quach",
+    "what": "art: characters"
+   },
+   {
+    "who": "Angela Sham",
+    "what": "art: backgrounds, endings"
+   },
+   {
+    "who": "Mint Chipleaf",
+    "what": "programming"
+   }
+  ],
+  "tracks": [
+   "SERVICE CAR",
+   "(an ascii image of bowsette)"
+  ],
+  "theme": {
+   "fg": "#d3ff8f"
+  }
+ },
+ {
+  "name": "Of Creatives, Conventional or Otherwise",
+  "directory": "fs-vol15",
+  "date": "2018-10-26T03:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Kieran Miranda",
+    "what": "writing: Charun"
+   },
+   {
+    "who": "Lalo Hunt",
+    "what": "writing: Wanshi"
+   },
+   {
+    "who": "Adrienne Garcia",
+    "what": "art: characters"
+   },
+   {
+    "who": "Phil Gibson",
+    "what": "art: backgrounds, endings"
+   },
+   {
+    "who": "Mint Chipleaf",
+    "what": "programming"
+   }
+  ],
+  "tracks": [
+   "Charun's Cave",
+   "idk man you name it im tired"
+  ],
+  "theme": {
+   "fg": "#d3ff8f"
+  }
+ },
+ {
+  "name": "Of Cult- And Capt-ivation",
+  "directory": "fs-vol16",
+  "date": "2018-11-09T04:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Thomas Carr",
+    "what": "writing: Fozzer"
+   },
+   {
+    "who": "V",
+    "what": "writing: Marvus"
+   },
+   {
+    "who": "Kim Quach",
+    "what": "art: characters"
+   },
+   {
+    "who": "CJ Walker",
+    "what": "art: backgrounds, endings"
+   },
+   {
+    "who": "Mint Chipleaf",
+    "what": "programming"
+   }
+  ],
+  "tracks": [
+   "GRAVEYARD SHIFT",
+   "CLOWNFUCKER"
+  ],
+  "theme": {
+   "fg": "#d3ff8f"
+  }
+ },
+ {
+  "name": "Of Teen and Tech, Acerbic",
+  "directory": "fs-vol17",
+  "date": "2018-11-30T04:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Cee L. Kyle",
+    "what": "writing: Daraya"
+   },
+   {
+    "who": "David Turnbull",
+    "what": "writing: Nihkee, programming"
+   },
+   {
+    "who": "Adrienne Garcia",
+    "what": "art: characters"
+   },
+   {
+    "who": "Phil Gibson",
+    "what": "art: backgrounds"
+   },
+   {
+    "who": "Kim Quach",
+    "what": "art: endings"
+   },
+   {
+    "who": "Mint Chipleaf",
+    "what": "programming"
+   }
+  ],
+  "tracks": [
+   "(this title was too long)",
+   "turns out its like the shoe",
+   "END OF FRIENDVANGELION"
+  ],
+  "theme": {
+   "fg": "#d3ff8f"
+  }
+ },
+ {
+  "name": "Of Endings, Many",
+  "directory": "fs-vol18",
+  "date": "2018-12-14T04:00:00.000Z",
+  "contributors": [
+   {
+    "who": "V",
+    "what": "writing: Lanque"
+   },
+   {
+    "who": "Kieran Miranda",
+    "what": "writing: Soleil Twins"
+   },
+   {
+    "who": "Kim Quach",
+    "what": "art: characters"
+   },
+   {
+    "who": "CJ Walker",
+    "what": "art: backgrounds, endings"
+   },
+   {
+    "who": "Adrienne Garcia",
+    "what": "art: colorist"
+   },
+   {
+    "who": "Mint Chipleaf",
+    "what": "programming"
+   }
+  ],
+  "tracks": [
+   "yall know i just do the music right",
+   "VALID END",
+   "the final clowntdown"
+  ],
+  "theme": {
+   "fg": "#d3ff8f"
+  }
+ },
+ {
+  "name": "Of Hosts, Excellent",
+  "directory": "fs-epilogue",
+  "date": "2018-12-14T04:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Aysha U. Farah",
+    "what": "writing"
+   },
+   {
+    "who": "Lalo Hunt",
+    "what": "writing"
+   },
+   {
+    "who": "Kim Quach",
+    "what": "art: characters"
+   },
+   {
+    "who": "Phil Gibson",
+    "what": "art: endings"
+   },
+   {
+    "who": "Mint Chipleaf",
+    "what": "programming"
+   }
+  ],
+  "tracks": [
+   "WORST END"
+  ],
+  "theme": {
+   "fg": "#d3ff8f"
+  }
+ },
+ {
+  "act8r8k": true,
+  "theme": {
+   "fg": "#71daff"
+  }
+ },
+ {
+  "name": "Magic Is Fucking Real",
+  "directory": "pq-vol1",
+  "date": "2019-09-04T03:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Aysha U. Farah",
+    "what": "writing: Prologue"
+   },
+   {
+    "who": "Andrew Hussie",
+    "what": "writing: John, art: backgrounds"
+   },
+   {
+    "who": "Kim Quach",
+    "what": "art: characters"
+   },
+   {
+    "who": "Xamag",
+    "what": "art: backgrounds, endings"
+   }
+  ],
+  "tracks": [
+   "WORST END",
+   "sometimes i call andrew hussie 'andy' and so far he hasn't corrected me"
+  ],
+  "theme": {
+   "fg": "#71daff"
+  }
+ },
+ {
+  "name": "Something Beyond The Sky",
+  "directory": "pq-vol2",
+  "date": "2019-09-04T03:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Aysha U. Farah",
+    "what": "writing"
+   },
+   {
+    "who": "Breya Rivera",
+    "what": "art: characters"
+   },
+   {
+    "who": "Courtney Brendle",
+    "what": "art: backgrounds, endings"
+   }
+  ],
+  "tracks": [
+   "please support The Trevor Project"
+  ],
+  "theme": {
+   "fg": "#71daff"
+  }
+ },
+ {
+  "name": "A King's Feast of Ass",
+  "directory": "pq-vol3",
+  "date": "2019-09-18T03:00:00.000Z",
+  "contributors": [
+   {
+    "who": "James Roach",
+    "what": "writing"
+   },
+   {
+    "who": "Gina Chacón",
+    "what": "art: characters"
+   },
+   {
+    "who": "Xamag",
+    "what": "art: backgrounds, endings"
+   }
+  ],
+  "tracks": [
+   "2chords",
+   "ill probably just name this one something normal oh no wait oh jeez aw beans",
+   "24/7 lo fi anime beats to question your sexuality to"
+  ],
+  "theme": {
+   "fg": "#71daff"
+  }
+ },
+ {
+  "name": "The Loneliest Girl In The World",
+  "directory": "pq-vol4",
+  "date": "2019-10-02T03:00:00.000Z",
+  "contributors": [
+   {
+    "who": "David Turnbull",
+    "what": "writing"
+   },
+   {
+    "who": "Breya Rivera",
+    "what": "art: characters"
+   },
+   {
+    "who": "Courtney Brendle",
+    "what": "art: backgrounds, endings"
+   }
+  ],
+  "tracks": [
+   "CAREFREE VICTORY (REMIX)"
+  ],
+  "theme": {
+   "fg": "#71daff"
+  }
+ },
+ {
+  "name": "Skip to The Trolls",
+  "directory": "pq-vol5",
+  "date": "2019-10-16T03:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Aysha U. Farah",
+    "what": "writing: Karkat"
+   },
+   {
+    "who": "Magdalena Clark",
+    "what": "writing: Kanaya"
+   },
+   {
+    "who": "Gina Chacón",
+    "what": "art: characters"
+   },
+   {
+    "who": "Phil Gibson",
+    "what": "art: backgrounds, endings"
+   }
+  ],
+  "tracks": [
+   "CRUSTacean:crustacean-pq",
+   "Darling Kanaya"
+  ],
+  "theme": {
+   "fg": "#71daff"
+  }
+ },
+ {
+  "name": "Clowns and Corsairs",
+  "directory": "pq-vol6",
+  "date": "2019-10-30T03:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Aysha U. Farah",
+    "what": "writing: Gamzee"
+   },
+   {
+    "who": "Kate Mitchell",
+    "what": "writing: Vriska"
+   },
+   {
+    "who": "Haven Daniels-Taylor",
+    "what": "art: characters"
+   },
+   {
+    "who": "Courtney Brendle",
+    "what": "art: backgrounds, endings"
+   }
+  ],
+  "tracks": [
+   "mIrAcLeS",
+   "Superego"
+  ],
+  "theme": {
+   "fg": "#71daff"
+  }
+ },
+ {
+  "name": "Dragons and Dairy",
+  "directory": "pq-vol7",
+  "date": "2019-11-13T04:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Lalo Hunt",
+    "what": "writing: Equius"
+   },
+   {
+    "who": "Sarah Zedig",
+    "what": "writing: Terezi"
+   },
+   {
+    "who": "Xamag",
+    "what": "art: characters"
+   },
+   {
+    "who": "Gina Chacón",
+    "what": "art: backgrounds, endings"
+   }
+  ],
+  "tracks": [
+   "CH3CK TH3 M3T4D4T4",
+   "Indigo Heir"
+  ],
+  "theme": {
+   "fg": "#71daff"
+  }
+ },
+ {
+  "name": "Team Charge",
+  "directory": "pq-vol8",
+  "date": "2019-12-05T04:00:00.000Z",
+  "contributors": [
+   {
+    "who": "David Turnbull",
+    "what": "writing: Tavros"
+   },
+   {
+    "who": "James Roach",
+    "what": "writing: Aradia"
+   },
+   {
+    "who": "Breya Rivera",
+    "what": "art: characters"
+   },
+   {
+    "who": "Courtney Brendle",
+    "what": "art: backgrounds, endings"
+   }
+  ],
+  "tracks": [
+   "Bronze Rebel",
+   "yeah, it is"
+  ],
+  "theme": {
+   "fg": "#71daff"
+  }
+ },
+ {
+  "name": "Blood and Binary",
+  "directory": "pq-vol9",
+  "date": "2019-12-20T04:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Aysha U. Farah",
+    "what": "writing: Nepeta"
+   },
+   {
+    "who": "Anonymous 2.0",
+    "what": "writing: Sollux"
+   },
+   {
+    "who": "Haven Daniels-Taylor",
+    "what": "art: Nepeta, Pounce"
+   },
+   {
+    "who": "Gina Chacón",
+    "what": "art: Sollux"
+   },
+   {
+    "who": "Charlie Flocke",
+    "what": "art: backgrounds, endings"
+   }
+  ],
+  "tracks": [
+   "Requiem",
+   "KWCOM DOT WAV"
+  ],
+  "theme": {
+   "fg": "#71daff"
+  }
+ },
+ {
+  "name": "Wow Pesterquest Your Mom Lets You Have Two Fish ?",
+  "directory": "pq-vol10",
+  "date": "2020-01-15T04:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Griever",
+    "what": "writing: Eridan"
+   },
+   {
+    "who": "Thomas Carr",
+    "what": "writing: Feferi"
+   },
+   {
+    "who": "Kim Quach",
+    "what": "art: characters"
+   },
+   {
+    "who": "Gina Chacón",
+    "what": "art: backgrounds, endings"
+   }
+  ],
+  "tracks": [
+   "THIS TIME ITS ERIDAN (I FORGOT WHAT I NAMED THIS)",
+   "The La2t Frontiier",
+   "Love You (Feferi's Theme)"
+  ],
+  "theme": {
+   "fg": "#71daff"
+  }
+ },
+ {
+  "name": "The Call Of Leadership",
+  "directory": "pq-vol11",
+  "date": "2020-02-05T04:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Pip Dillistone",
+    "what": "writing"
+   },
+   {
+    "who": "Gina Chacón",
+    "what": "art: characters"
+   },
+   {
+    "who": "Courtney Brendle",
+    "what": "art: backgrounds, endings"
+   }
+  ],
+  "tracks": [
+   "i guess"
+  ],
+  "theme": {
+   "fg": "#71daff"
+  }
+ },
+ {
+  "name": "Thats right ADVENTURE!!!!",
+  "directory": "pq-vol12",
+  "date": "2020-02-19T04:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Magdalena Clark",
+    "what": "writing"
+   },
+   {
+    "who": "Breya Rivera",
+    "what": "art: characters"
+   },
+   {
+    "who": "Gina Chacón",
+    "what": "art: backgrounds, endings"
+   }
+  ],
+  "tracks": [
+   "Riches to Ruins Movement II"
+  ],
+  "theme": {
+   "fg": "#71daff"
+  }
+ },
+ {
+  "name": "Friendship Wozard",
+  "directory": "pq-vol13",
+  "date": "2020-03-04T04:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Lalo Hunt",
+    "what": "writing"
+   },
+   {
+    "who": "Haven Daniels-Taylor",
+    "what": "art: characters"
+   },
+   {
+    "who": "Courtney Brendle",
+    "what": "art: backgrounds, endings"
+   }
+  ],
+  "tracks": [
+   "Would you believe this was for something else",
+   "Even in Death (T'Morra's Belly Mix)"
+  ],
+  "theme": {
+   "fg": "#71daff"
+  }
+ },
+ {
+  "name": "Just Go Ahead Now",
+  "directory": "pq-vol14",
+  "date": "2020-04-01T03:00:00.000Z",
+  "contributors": [
+   {
+    "who": "Lalo Hunt",
+    "what": "writing: Dirk"
+   },
+   {
+    "who": "Aysha U. Farah",
+    "what": "writing: Afterw@rd"
+   },
+   {
+    "who": "Gina Chacón",
+    "what": "art: characters"
+   },
+   {
+    "who": "Courtney Brendle",
+    "what": "art: backgrounds, endings"
+   }
+  ],
+  "tracks": [
+   "Stress",
+   "Beatup",
+   "Unite Synchronization",
+   "this is like... what was it... > [S] MSPAR$$$$ Remember:mspar-remember",
+   "normal song name",
+   "Embittered Shore"
+  ],
+  "theme": {
+   "fg": "#71daff"
+  }
  }
 ];
