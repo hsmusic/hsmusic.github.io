@@ -17425,7 +17425,7 @@ window.albumData = [
     "isFanon": true
    },
    {
-    "name": "Lulling Lutescant [Prospit Sleep]",
+    "name": "Lulling Lutescent [Prospit Sleep]",
     "artists": [
      "Veritas Unae"
     ],
@@ -17440,7 +17440,7 @@ window.albumData = [
     "references": [],
     "date": "2012-11-24T04:00:00.000Z",
     "artDate": "2012-11-24T04:00:00.000Z",
-    "directory": "lulling-lutescant",
+    "directory": "lulling-lutescent",
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/lulling-lutescent-prospit-sleep"
     ],
@@ -23515,7 +23515,7 @@ window.albumData = [
     "isFanon": true
    },
    {
-    "name": "Scratchlses Scraps",
+    "name": "Scratchless Scraps",
     "artists": [
      "ndividedbyzero"
     ],
@@ -23530,7 +23530,7 @@ window.albumData = [
     "references": [],
     "date": "2016-04-12T03:00:00.000Z",
     "artDate": "2016-04-12T03:00:00.000Z",
-    "directory": "scratchlses-scraps",
+    "directory": "scratchless-scraps",
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/scratchless-scraps"
     ],
@@ -24857,20 +24857,20 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "♈ - Fatalism",
-     "♉ - Breathtak1ng",
-     "♊ - The Mituna Method",
-     "♋ - Civil Discussi9n",
-     "♌ - MOG^3",
-     "♍ - Let Me Dance, Let Me Glisten",
-     "♎ - R4d1c4l!",
-     "♏ - Salv8tion",
-     "♐ - Creeping Blue",
-     "♑ - Pious Noise",
-     "♒ - Aquasex Renegade",
-     "♓ - Killer Beach",
      "Rex Duodecim Angelus",
-     "The Thirteenth Hour"
+     "♋ - Civil Discussi9n",
+     "♐ - Creeping Blue",
+     "♉ - Breathtak1ng",
+     "♌ - MOG^3",
+     "♑ - Pious Noise",
+     "♈ - Fatalism",
+     "♏ - Salv8tion",
+     "♍ - Let Me Dance, Let Me Glisten",
+     "♒ - Aquasex Renegade",
+     "♎ - R4d1c4l!",
+     "♊ - The Mituna Method",
+     "The Thirteenth Hour",
+     "♓ - Killer Beach"
     ],
     "date": "2016-04-12T03:00:00.000Z",
     "artDate": "2016-04-12T03:00:00.000Z",
