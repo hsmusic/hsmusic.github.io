@@ -12,6 +12,10 @@ window.albumData = [
    }
   ],
   "directory": "unreleased-tracks",
+  "urls": [],
+  "isCanon": false,
+  "isBeyond": false,
+  "isOfficial": false,
   "isFanon": true,
   "theme": {
    "fg": "#ff7bf7",
@@ -36,6 +40,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=Swdd0pKviG8"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -53,6 +60,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=MaywzJqgyh4"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -72,6 +82,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=91yZRnk3BRA"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -91,6 +104,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=DydDjMNlBsQ"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -109,6 +125,9 @@ window.albumData = [
      "https://www.youtube.com/watch?v=wa2K_8Ff41M",
      "https://fwugradiation.tumblr.com/post/13528293577/improvised-touhou-music-with-annoying-commentary"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -127,6 +146,9 @@ window.albumData = [
      "https://soundcloud.com/jamesroachmusic/beekeeper-who-i-dont-know-her",
      "https://www.youtube.com/watch?v=nYI7F5FHTmA"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -144,6 +166,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=wc5iruoYLXM"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -163,6 +188,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=jUly2ujqDvY"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -181,6 +209,9 @@ window.albumData = [
      "https://www.youtube.com/watch?v=fY4bgz4o8QY",
      "https://soundcloud.com/albatrosssoup/totallynotmegaman"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -200,6 +231,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=G28357JCv4c"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -219,6 +253,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=RxZNeHvgNUE"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -240,6 +277,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=2pWQT4jGrm4"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -260,6 +300,35 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=Nc4nIdsuG7o"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Ham And Steak",
+    "artists": [
+     "Malcolm Brown"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Rex English",
+     "Unite Synchronization",
+     "Homestuck Anthem",
+     "Showtime (Original Mix)"
+    ],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "ham-and-steak",
+    "urls": [
+     "https://www.youtube.com/watch?v=OqT3gaihbPE",
+     "https://soundcloud.com/dragonxvi/ham-and-steak-unused-homestuck-music"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -277,6 +346,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=vhSHXGM7kgE"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -294,6 +366,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=DVau5m6l8FU"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -313,6 +388,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=N_kGx5RikYA"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -332,6 +410,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=sVXPWSvSKGM"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -351,6 +432,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=XzEJp5QJ8vE"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -370,6 +454,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=EjCbsleXpuk"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -387,6 +474,29 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=ARLPT5rKjWo"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Jadesprite",
+    "artists": [
+     "Toby Fox"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "jadesprite",
+    "urls": [
+     "https://www.youtube.com/watch?v=rdXvlsXlKOk"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -404,6 +514,29 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=mjKX8H3mSJo"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Mannequin",
+    "artists": [
+     "Perry Sullivan"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "mannequin",
+    "urls": [
+     "https://www.youtube.com/watch?v=gAyPFa3nEK4"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -421,6 +554,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=hdlh6FRPnCw"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -440,6 +576,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=sIgtSvgERB4"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -458,6 +597,9 @@ window.albumData = [
      "https://www.youtube.com/watch?v=RIq4GrMv96I",
      "https://www.youtube.com/watch?v=OdntMzdkFnk"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -478,6 +620,32 @@ window.albumData = [
      "https://clarkpowell.bandcamp.com/track/requiem",
      "https://www.youtube.com/watch?v=3kWFQy0kWC4"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Rex English",
+    "artists": [
+     "Toby Fox"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Rex Duodecim Angelus",
+     "English"
+    ],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "rex-english",
+    "urls": [
+     "https://www.youtube.com/watch?v=xTQo2rPvEzM"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -497,6 +665,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=mNu1KAi0Prk"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -514,6 +685,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=ercVSU3rjrc"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -532,6 +706,9 @@ window.albumData = [
      "https://www.youtube.com/watch?v=4Q2dS1Z2p9g",
      "https://soundcloud.com/albatrosssoup/seer-of-same-color-scalemate-combos"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -549,6 +726,9 @@ window.albumData = [
     "urls": [
      "https://archive.homestuck.net/wl/?id=bBs1qkrvHtZIpfhl7XCLoBX7o41d3nEE&path=Homestuck%20Sound%20Test%2F~Disc%203~%20Unreleased%20Homestuck%20Music%20Team%20Music%2F059%20Skaian%20Shuffle.mp3&mode=default"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -566,6 +746,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=pK4-g7TiWQA"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -583,6 +766,9 @@ window.albumData = [
     "urls": [
      "https://archive.homestuck.net/wl/?id=bBs1qkrvHtZIpfhl7XCLoBX7o41d3nEE&path=Homestuck%20Fan%20Music%20and%20VA%2FHomestuck%20Fansong%20Archive%20%282011%29%2FHomestuck%20Fan%20Music%20Part%2010%2FThe%20Paradox%20Paradigm.mp3&mode=default"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -600,6 +786,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=0Hd6q5xn8mg"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -617,6 +806,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=0Hd6q5xn8mg"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -636,6 +828,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=hCO-grMys2k"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -655,6 +850,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=hC2Vdh7WmDc"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -672,12 +870,15 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=x6NrArPldZo"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "Windchime Foley",
     "artists": [
-     "Clark Powel"
+     "Clark Powell"
     ],
     "coverArtists": null,
     "contributors": [],
@@ -689,6 +890,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=CSMMmOtRLiU"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -708,6 +912,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=wY2nX_b9Gm4"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -729,6 +936,9 @@ window.albumData = [
      "https://soundcloud.com/jamesroachmusic/pesterquest-sometimes-i-call-andrew-hussie-andy-and-so-far-he-hasnt-corrected-me",
      "https://www.youtube.com/watch?v=xSrT-SDN-uA"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -749,6 +959,9 @@ window.albumData = [
      "https://soundcloud.com/jamesroachmusic/pesterquest-please-support-the-trevor-project",
      "https://www.youtube.com/watch?v=urbot0kfsz8"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -759,13 +972,18 @@ window.albumData = [
     "coverArtists": null,
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Upward Movement (Dave Owns)"
+    ],
     "date": "1111-11-11T04:14:24.000Z",
     "artDate": "1111-11-11T04:14:24.000Z",
     "directory": "2chords",
     "urls": [
      "https://www.youtube.com/watch?v=Q3JQPZ2T03k"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -786,6 +1004,9 @@ window.albumData = [
      "https://soundcloud.com/jamesroachmusic/pesterquest-ill-probably-just-name-this-one-something-normal-oh-no-wait-oh-jeez-aw-beans",
      "https://www.youtube.com/watch?v=DREQ4rJUXXQ"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -808,6 +1029,9 @@ window.albumData = [
      "https://soundcloud.com/jamesroachmusic/pesterquest-247-lo-fi-anime-beats-to-question-your-sexuality-to",
      "https://www.youtube.com/watch?v=0I2ufAhRbf0"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -834,6 +1058,9 @@ window.albumData = [
      "https://soundcloud.com/jamesroachmusic/pesterquest-james-roach-ft-speak-n-say-carefree-victory-remix",
      "https://www.youtube.com/watch?v=c8aZFD8ic9A&"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -854,6 +1081,9 @@ window.albumData = [
      "https://soundcloud.com/jamesroachmusic/pesterquest-crustacean",
      "https://www.youtube.com/watch?v=9hdPSPGCK3Q"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -874,6 +1104,9 @@ window.albumData = [
      "https://soundcloud.com/jamesroachmusic/pesterquest-terezis-theme-ch3ck-th3-m3t4d4t4",
      "https://www.youtube.com/watch?v=DuGQM9YsyXo"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -899,6 +1132,9 @@ window.albumData = [
      "https://soundcloud.com/jamesroachmusic/pesterquest-aradias-theme-yeah-it-is",
      "https://www.youtube.com/watch?v=MDqXkGBFPg0"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -916,6 +1152,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=zrtnPsoAkQg"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -934,6 +1173,9 @@ window.albumData = [
      "https://soundcloud.com/jamesroachmusic/pesterquest-this-time-its-eridan-i-forgot-what-i-named-this",
      "https://www.youtube.com/watch?v=sw8smnspCmU"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -951,6 +1193,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=FVKzNwxz6Vc"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -968,6 +1213,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=eciwBYIR8_k"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -988,6 +1236,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=osip3rTivjM"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -1014,6 +1265,9 @@ window.albumData = [
     "urls": [
      "https://soundcloud.com/jamesroachmusic/afterw-rd-theme-normal-song-name#t=0:00"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    }
   ]
@@ -1030,6 +1284,14 @@ window.albumData = [
    }
   ],
   "directory": "midnight-crew-drawing-dead",
+  "urls": [
+   "https://homestuck.bandcamp.com/album/homestuck-vol-1-4-with-midnight-crew-drawing-dead",
+   "https://www.youtube.com/watch?v=JQBK41qzhR4",
+   "https://www.youtube.com/playlist?list=PL83FE65DF950D7072"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#dd0000",
@@ -1057,6 +1319,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/three-in-the-morning-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1081,6 +1346,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/blue-noir-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1103,6 +1371,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/dead-shuffle-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1125,6 +1396,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/hearts-flush-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1147,6 +1421,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/knives-and-ivory-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1169,6 +1446,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/liquid-negrocity-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1191,6 +1471,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/hollow-suit-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1213,6 +1496,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/ante-matter-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1235,6 +1521,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/the-ballad-of-jack-noir-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1258,6 +1547,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/lunar-eclipse-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1281,6 +1573,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/hauntjam-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1303,6 +1598,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/carbon-nadsat-cuestick-genius-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1325,6 +1623,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/ace-of-trump-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1347,6 +1648,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/moonshine-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1369,6 +1673,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/tall-dark-and-loathsome-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1393,6 +1700,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/jokers-wild-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1415,6 +1725,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/livin-it-up-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1440,6 +1753,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/hauntjelly-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -1456,6 +1772,14 @@ window.albumData = [
    }
   ],
   "directory": "homestuck-vol-5",
+  "urls": [
+   "https://homestuck.bandcamp.com/album/homestuck-vol-5-6-with-the-felt",
+   "https://www.youtube.com/watch?v=DuBmOO4muV8",
+   "https://www.youtube.com/playlist?list=PL6_yub4_EV2SVvGuBwOxgN4aMhISOZito"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#00aaff",
@@ -1483,6 +1807,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/homestuck-anthem-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1509,6 +1836,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/skaian-skirmish-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1534,6 +1864,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/savior-of-the-waking-world-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1558,6 +1891,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/clockwork-melody-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1567,7 +1903,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "sollay-b",
+      "who": "Sollay",
       "what": null
      }
     ],
@@ -1584,6 +1920,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/heirfare-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1606,6 +1945,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/jades-lullaby-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1630,6 +1972,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/aggrievance-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1655,6 +2000,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/happy-cat-song-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1686,6 +2034,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/hardchorale-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1708,6 +2059,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/an-unbreakable-union-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1734,6 +2088,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/skaian-ride-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1743,14 +2100,14 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "rainahkretva",
+      "who": "RainbowCookiz",
       "what": null
      }
     ],
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Black"
+     "Liquid Negrocity"
     ],
     "date": "2010-06-13T03:00:00.000Z",
     "artDate": "2017-04-13T03:00:00.000Z",
@@ -1758,6 +2115,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/white-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1785,6 +2145,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/octoroon-rangoon-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1807,6 +2170,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/pumpkin-cravings-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1831,6 +2197,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/welcome-to-the-new-extreme-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1840,7 +2209,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Chuchumi",
+      "who": "Chumi",
       "what": null
      }
     ],
@@ -1853,6 +2222,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/crystalanthemums-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1862,7 +2234,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Razzberrysheep",
+      "who": "razzberrysheep",
       "what": null
      }
     ],
@@ -1877,6 +2249,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/skaia-incipisphere-mix-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1886,7 +2261,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "sol-lay",
+      "who": "Sollay",
       "what": null
      }
     ],
@@ -1899,6 +2274,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/sarabande-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1923,6 +2301,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/clockwork-sorrow-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1945,6 +2326,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/phantasmagoric-waltz-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1969,6 +2353,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/sunslammer-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -1978,7 +2365,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "knightic",
+      "who": "fenkko",
       "what": null
      }
     ],
@@ -1994,6 +2381,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/lotus-land-story-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2018,6 +2408,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/chorale-for-war-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2040,6 +2433,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/unsheathd-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2062,6 +2458,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/versus-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2096,6 +2495,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/planet-healer-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2120,6 +2522,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/bed-of-roses-dreams-of-derse-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2144,6 +2549,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/skaian-flight-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2175,6 +2583,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/how-do-i-live-bunny-back-in-the-box-version-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2200,6 +2611,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/dupliblaze-comagma-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2224,6 +2638,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/moonshatter-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2246,6 +2663,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/sunsetter-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2268,6 +2688,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/lotus-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2294,6 +2717,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/ruins-with-strings-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2316,6 +2742,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/ectobiology-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2338,6 +2767,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/upholding-the-law-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2360,6 +2792,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/underworld-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2369,20 +2804,15 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Jununy",
+      "who": "Jenny",
       "what": null
      }
     ],
-    "contributors": [
-     {
-      "who": "Perry Sullivan",
-      "what": "Mannequin"
-     }
-    ],
+    "contributors": [],
     "lyrics": null,
     "references": [
      "Crystalanthemums",
-     "Mannequin (by Perry Sullivan)"
+     "Mannequin"
     ],
     "date": "2010-06-13T03:00:00.000Z",
     "artDate": "2017-04-13T03:00:00.000Z",
@@ -2390,6 +2820,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/crystamanthequins-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2414,6 +2847,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/endless-climbing-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2443,6 +2879,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/land-of-the-salamanders-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2467,6 +2906,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/medical-emergency-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2491,6 +2933,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/clockwork-contrivance-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2516,6 +2961,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/get-up-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2540,6 +2988,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/vertical-motion-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2549,7 +3000,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "A-vodka-mutiny",
+      "who": "a-vodka-mutini",
       "what": null
      }
     ],
@@ -2562,6 +3013,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/the-beginning-of-something-really-excellent-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2571,7 +3025,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Thespacemaid",
+      "who": "thespacemaid",
       "what": null
      }
     ],
@@ -2586,6 +3040,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/pyrocumulus-kickstart-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2610,6 +3067,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/skaian-skuffle-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2619,7 +3079,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "trainwreckgenerator",
+      "who": "Gene",
       "what": null
      }
     ],
@@ -2632,6 +3092,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/throwdown-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2654,6 +3117,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/valhalla-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2676,6 +3142,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/amphibious-subterrain-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2700,6 +3169,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/light-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2726,6 +3198,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/softly-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2748,6 +3223,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/greenhouse-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2770,6 +3248,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/space-prankster-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2792,6 +3273,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/ecstasy-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2816,6 +3300,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/snow-pollen-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2838,6 +3325,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/candles-and-clockwork-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2860,6 +3350,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/can-town-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2884,6 +3377,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/plague-doctor-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2909,6 +3405,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/enlightenment-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2933,6 +3432,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/doctor-remix-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2955,6 +3457,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/biophosphoradelecrystalluminescence-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2977,6 +3482,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/song-of-life-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -2996,23 +3504,29 @@ window.albumData = [
      "Upward Movement (Dave Owns)",
      "Sburban Jungle",
      "Beatdown (Strider Style)",
+     "Mutiny",
      "Skies of Skaia",
      "Showtime (Original Mix)",
      "Aggrieve",
-     "Black",
+     "Jackknive",
+     "Liquid Negrocity",
+     "Guardian",
      "Harlequin",
      "Explore",
      "Chorale for Jaspers",
      "Underworld",
      "Three in the Morning",
+     "Non Compos Mentis",
      "Pumpkin Cravings",
      "Vagabounce",
      "Skaian Skuffle",
      "Doctor",
-     "Savior of the Waking World",
+     "Penumbra Phantasm",
      "Endless Climb",
      "Atomyk Ebonpyre",
-     "Lotus"
+     "Lotus",
+     "Problem Sleuth Theme",
+     "Dirgeish"
     ],
     "date": "2010-06-13T03:00:00.000Z",
     "artDate": "2017-04-13T03:00:00.000Z",
@@ -3020,6 +3534,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/descend-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3044,6 +3561,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/homestuck-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -3062,6 +3582,14 @@ window.albumData = [
    }
   ],
   "directory": "alternia",
+  "urls": [
+   "https://homestuck.bandcamp.com/album/alterniabound-with-alternia",
+   "https://www.youtube.com/watch?v=FwQNcM_QhYI",
+   "https://www.youtube.com/playlist?list=PLYhdhHfN2xDpqsbieSVEmK_OYNgAYgZEZ"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#cc44ff",
@@ -3089,6 +3617,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/crustacean-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3111,6 +3642,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/showdown-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3133,6 +3667,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/miracles-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3155,6 +3692,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/the-lemonsnout-turnabout-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3177,6 +3717,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/phaze-and-blood-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3199,6 +3742,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/psych0ruins-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3221,6 +3767,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/walls-covered-in-blood-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3243,6 +3792,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/desperado-rocket-chairs-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3267,6 +3819,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/death-of-the-lusii-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3289,6 +3844,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/virgin-orb-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3313,6 +3871,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/the-la2t-frontiier-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3335,6 +3896,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/skaian-summoning-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3359,6 +3923,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/the-thirteenth-hour-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3381,6 +3948,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/spiders-claw"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3403,6 +3973,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/staring"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3425,6 +3998,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/keepers"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3447,6 +4023,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/theme-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3471,6 +4050,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/walls-covered-in-blood-dx-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -3487,6 +4069,12 @@ window.albumData = [
    }
   ],
   "directory": "squiddles",
+  "urls": [
+   "https://www.youtube.com/playlist?list=PLy5UGIMKOXpONMExgI7lVYFwQa54QFp_H"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#bb44ff",
@@ -3509,6 +4097,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/fXo6q-jENfE"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3531,6 +4122,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/MrOqTjNrB2Q"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3550,6 +4144,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/gqd8XTRwzoI"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3567,6 +4164,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/6l7shCvDXUU"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3584,6 +4184,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/3KdAsyPq4UM"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3603,6 +4206,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/faRVzG1TZus"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3620,6 +4226,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/sBi2kKCDDCk"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3639,6 +4248,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/X0DmGl7AJIU"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3656,6 +4268,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/15iiMuYvA_Q"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3673,6 +4288,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/LMfO0Z_E878"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3690,6 +4308,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/uXBAl4pd7gA"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3712,6 +4333,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/9tOJOpn1UD0"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3729,6 +4353,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/U1H0Q6FjGyc"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3751,6 +4378,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/2YG_6ke8X0o"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3768,6 +4398,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/gyqSztKs_6o"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3790,6 +4423,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/S3bsomR8W_w"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3814,6 +4450,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/4PfZu1AWTWI"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3833,6 +4472,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/9lWRGynBNVs"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3852,6 +4494,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/_Z8qT1GBhds"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3869,6 +4514,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/09eVHqwHWYM"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3886,6 +4534,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/gFWWC9vmSzQ"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3905,6 +4556,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/mpn7lahHvEc"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -3921,6 +4575,14 @@ window.albumData = [
    }
   ],
   "directory": "the-felt",
+  "urls": [
+   "https://homestuck.bandcamp.com/album/homestuck-vol-5-6-with-the-felt",
+   "https://www.youtube.com/watch?v=o76TAd1ExFE",
+   "https://www.youtube.com/playlist?list=PLlGklfYAdslavhtb5kUefK1V_ki5NvbVu"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#33aa55",
@@ -3948,6 +4610,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/jade-dragon-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3972,6 +4637,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/swing-of-the-clock-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -3994,6 +4662,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/rhapsody-in-green-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4016,6 +4687,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/humphreys-lullaby-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4038,6 +4712,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/clockwork-reversal-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4060,6 +4737,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/chartreuse-rewind-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4082,6 +4762,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/the-broken-clock-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4106,6 +4789,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/apocryphal-antithesis-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4128,6 +4814,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/trails-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4150,6 +4839,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/baroqueback-bowtier-scratchs-lament-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4172,6 +4864,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/scratch-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4194,6 +4889,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/omelette-sandwich-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4216,6 +4914,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/temporal-piano-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4238,6 +4939,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/time-paradox-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4260,6 +4964,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/eldritch-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4282,6 +4989,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/english-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4309,6 +5019,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/variations-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -4325,6 +5038,14 @@ window.albumData = [
    }
   ],
   "directory": "homestuck-vol-6",
+  "urls": [
+   "https://homestuck.bandcamp.com/album/homestuck-vol-5-6-with-the-felt",
+   "https://www.youtube.com/watch?v=jrNz5d97JIA",
+   "https://www.youtube.com/playlist?list=PL6_yub4_EV2S0deHxo7RKV0zPQ0TCx7Za"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#6699ff",
@@ -4352,6 +5073,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/frost-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4378,6 +5102,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/courser-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4406,6 +5133,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/umbral-ultimatum-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4428,6 +5158,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/gamebro-original-1990-mix-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4453,6 +5186,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/tribal-ebonpyre-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4489,6 +5225,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/i-dont-want-to-miss-a-thing-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4520,6 +5259,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/megalovania-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4542,6 +5284,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/walk-stab-walk-r-e-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4566,6 +5311,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/gaia-queen-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4590,6 +5338,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/elevatorstuck-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4615,6 +5366,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/wacky-antics-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4637,6 +5391,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/horschestra-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4661,6 +5418,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/heir-transparent-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4683,6 +5443,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/boy-skylark-brief-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4708,6 +5471,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/squidissension-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4724,7 +5490,7 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Black"
+     "Liquid Negrocity"
     ],
     "date": "2011-01-05T04:00:00.000Z",
     "artDate": "2011-01-05T04:00:00.000Z",
@@ -4732,6 +5498,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/blackest-heart-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4754,6 +5523,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/nic-cage-song-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4778,6 +5550,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/phrenic-phever-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4805,6 +5580,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/3-in-the-morning-pianokind-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4829,6 +5607,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/a-tender-moment-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4853,6 +5634,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/crystalanthology-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -4871,6 +5655,14 @@ window.albumData = [
    }
   ],
   "directory": "strife",
+  "urls": [
+   "https://tenseimusic.bandcamp.com/album/homestuck-strife",
+   "https://www.youtube.com/watch?v=Oz2a5VxQZME",
+   "https://www.youtube.com/playlist?list=PLA6uDhvF1uwwbNxxpsrs31uu8p2DX0Jve"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#e83240",
@@ -4898,6 +5690,9 @@ window.albumData = [
     "urls": [
      "https://tenseimusic.bandcamp.com/track/stormspirit"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4923,6 +5718,9 @@ window.albumData = [
     "urls": [
      "https://tenseimusic.bandcamp.com/track/heir-conditioning"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4945,6 +5743,9 @@ window.albumData = [
     "urls": [
      "https://tenseimusic.bandcamp.com/track/dance-of-thorns"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4962,7 +5763,7 @@ window.albumData = [
     "lyrics": null,
     "references": [
      "Beatdown (Strider Style)",
-     "Black"
+     "Liquid Negrocity"
     ],
     "date": "2011-02-16T04:00:00.000Z",
     "artDate": "2011-02-16T04:00:00.000Z",
@@ -4970,6 +5771,9 @@ window.albumData = [
     "urls": [
      "https://tenseimusic.bandcamp.com/track/time-on-my-side"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -4992,6 +5796,9 @@ window.albumData = [
     "urls": [
      "https://tenseimusic.bandcamp.com/track/atomic-bonsai"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5016,6 +5823,9 @@ window.albumData = [
     "urls": [
      "https://tenseimusic.bandcamp.com/track/knifes-edge"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5033,6 +5843,9 @@ window.albumData = [
     "urls": [
      "https://tenseimusic.bandcamp.com/track/make-a-wish"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -5049,6 +5862,13 @@ window.albumData = [
    }
   ],
   "directory": "alterniabound",
+  "urls": [
+   "https://homestuck.bandcamp.com/album/alterniabound-with-alternia",
+   "https://www.youtube.com/playlist?list=PL6BD21F562EDA9E09"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#00a4a4",
@@ -5078,6 +5898,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/arisen-anew-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5102,6 +5925,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/karkats-theme-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5126,6 +5952,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/trollcops-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5151,6 +5980,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/bl1nd-just1c3-1nv3st1g4t1on-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5176,6 +6008,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/terezis-theme-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5198,6 +6033,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/dreamers-and-the-dead-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5223,6 +6061,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/vriskas-theme-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5250,6 +6091,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/shes-a-sp8der-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5286,6 +6130,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/fiduspawn-go-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5310,6 +6157,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/darling-kanaya-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5332,6 +6182,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/requiem-of-sunshine-and-rainbows-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5361,6 +6214,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/eridans-theme-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5388,6 +6244,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/nautical-nightmare-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5412,6 +6271,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/nepetas-theme-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5437,6 +6299,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/horschestra-strong-version-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5461,6 +6326,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/blackest-heart-with-honks-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5483,6 +6351,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/midnight-calliope-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5505,6 +6376,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/chaotic-strength-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5527,6 +6401,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/trollian-standoff-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5560,6 +6437,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/rex-duodecim-angelus-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5584,6 +6464,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/killed-by-br8k-spider-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5608,6 +6491,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/alternia-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5637,6 +6523,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/trollcops-radio-play-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5659,6 +6548,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/catapult-capuchin-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5681,6 +6573,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/science-seahorse-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5703,6 +6598,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/a-fairy-battle-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5734,6 +6632,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/the-blind-prophet-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5758,6 +6659,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/alterniabound-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5782,6 +6686,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/you-won-a-combat-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5806,6 +6713,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/rest-a-while-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -5821,13 +6731,16 @@ window.albumData = [
    {
     "who": "Cindy Dominguez",
     "what": null
-   },
-   {
-    "who": "Homestuck",
-    "what": null
    }
   ],
   "directory": "medium",
+  "urls": [
+   "https://homestuck.bandcamp.com/album/symphony-impossible-to-play-with-medium",
+   "https://www.youtube.com/playlist?list=PLB9D2EAC43B6195B8"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#22ccff",
@@ -5850,6 +6763,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/light-4"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5867,6 +6783,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/shade-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5886,6 +6805,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/rain-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5903,6 +6825,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/frogs-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5920,6 +6845,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/frost-4"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5937,6 +6865,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/clockwork-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5954,6 +6885,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/heat-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -5971,6 +6905,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/wind-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -5993,6 +6930,14 @@ window.albumData = [
    }
   ],
   "directory": "mobius-trip-and-hadron-kaleido",
+  "urls": [
+   "https://bowman.bandcamp.com/album/mobius-trip-and-hadron-kaleido",
+   "https://www.youtube.com/watch?v=YBZx4eTVu4Ufun",
+   "https://www.youtube.com/playlist?list=PLAA4CC77749E4B58E"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#eecc22",
@@ -6024,6 +6969,9 @@ window.albumData = [
     "urls": [
      "https://bowman.bandcamp.com/track/forever"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6052,6 +7000,9 @@ window.albumData = [
     "urls": [
      "https://bowman.bandcamp.com/track/dawn-of-man"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6078,6 +7029,9 @@ window.albumData = [
     "urls": [
      "https://bowman.bandcamp.com/track/beta-version"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6104,6 +7058,9 @@ window.albumData = [
     "urls": [
      "https://bowman.bandcamp.com/track/no-release"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6131,6 +7088,9 @@ window.albumData = [
      "https://www.youtube.com/watch?v=CUDkBTYWtGk",
      "https://bowman.bandcamp.com/track/fly"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6159,6 +7119,9 @@ window.albumData = [
     "urls": [
      "https://bowman.bandcamp.com/track/lies-with-the-sea"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6185,6 +7148,9 @@ window.albumData = [
     "urls": [
      "https://bowman.bandcamp.com/track/chain-of-prospit"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6211,6 +7177,9 @@ window.albumData = [
     "urls": [
      "https://bowman.bandcamp.com/track/pumpkin-tide"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6239,6 +7208,9 @@ window.albumData = [
     "urls": [
      "https://bowman.bandcamp.com/track/the-deeper-you-go"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -6255,6 +7227,14 @@ window.albumData = [
    }
   ],
   "directory": "homestuck-vol-7",
+  "urls": [
+   "https://homestuck.bandcamp.com/album/homestuck-vol-7-8-with-cherubim",
+   "https://www.youtube.com/watch?v=mNibQ4LxeME",
+   "https://www.youtube.com/playlist?list=PL42042A1D4689C9E0"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#b536da",
@@ -6273,7 +7253,7 @@ window.albumData = [
       "what": "lines"
      },
      {
-      "who": "Shelby",
+      "who": "Shelby Cragg",
       "what": "colors"
      }
     ],
@@ -6286,6 +7266,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/black-rose-green-sun-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6295,7 +7278,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Shelby",
+      "who": "Shelby Cragg",
       "what": null
      }
     ],
@@ -6313,6 +7296,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/at-the-price-of-oblivion-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6337,6 +7323,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/even-in-death-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6346,7 +7335,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Guzusuru",
+      "who": "Angela Sham",
       "what": null
      }
     ],
@@ -6361,6 +7350,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/terezi-owns-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6370,7 +7362,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Shelby",
+      "who": "Shelby Cragg",
       "what": null
      }
     ],
@@ -6386,6 +7378,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/trial-and-execution-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6410,6 +7405,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/the-carnival-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6435,6 +7433,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/spider8reath-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6457,6 +7458,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/lifdoff-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6481,6 +7485,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/awakening-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6503,6 +7510,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/havoc-to-be-wrought-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6525,6 +7535,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/play-the-wind-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6547,6 +7560,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/rumble-at-the-rink-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6569,6 +7585,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/lets-all-rock-the-heist-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6594,6 +7613,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/wsw-beatdown-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6618,6 +7640,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/earthsea-borealis-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6631,7 +7656,7 @@ window.albumData = [
       "what": "lines"
      },
      {
-      "who": "Shelby",
+      "who": "Shelby Cragg",
       "what": "colors"
      }
     ],
@@ -6644,6 +7669,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/warhammer-of-zillyhoo-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6669,6 +7697,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/savior-of-the-dreaming-dead-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6691,6 +7722,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/maplehoofs-adventure-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6715,6 +7749,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/sburban-reversal-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6741,6 +7778,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/white-host-green-room-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -6760,6 +7800,13 @@ window.albumData = [
    }
   ],
   "directory": "sburb",
+  "urls": [
+   "https://jamesdever.bandcamp.com/album/sburb",
+   "https://www.youtube.com/playlist?list=PL988516F160FCCF3A"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#34cdff",
@@ -6786,6 +7833,9 @@ window.albumData = [
      "https://jamesdever.bandcamp.com/track/prelude",
      "https://youtu.be/7k8zCRNxa7k"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6805,6 +7855,9 @@ window.albumData = [
      "https://jamesdever.bandcamp.com/track/genesis",
      "https://youtu.be/qOkMYB-r6b8"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6824,6 +7877,9 @@ window.albumData = [
      "https://jamesdever.bandcamp.com/track/eden",
      "https://youtu.be/hcXixYBLk_8"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6845,6 +7901,9 @@ window.albumData = [
      "https://jamesdever.bandcamp.com/track/exodus",
      "https://youtu.be/UnbRhrKFofY"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6864,6 +7923,9 @@ window.albumData = [
      "https://jamesdever.bandcamp.com/track/requiem",
      "https://youtu.be/cVKRJOqKMDY"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6883,6 +7945,9 @@ window.albumData = [
      "https://jamesdever.bandcamp.com/track/the-meek",
      "https://youtu.be/hKEylNAp1-Q"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6904,6 +7969,9 @@ window.albumData = [
      "https://jamesdever.bandcamp.com/track/chronicles",
      "https://youtu.be/TOtz3MTSeKg"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6923,6 +7991,9 @@ window.albumData = [
      "https://jamesdever.bandcamp.com/track/rapture",
      "https://youtu.be/zqbExJ93rXo"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6944,6 +8015,9 @@ window.albumData = [
      "https://jamesdever.bandcamp.com/track/creation",
      "https://youtu.be/XorynbzZQpI"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6965,6 +8039,9 @@ window.albumData = [
      "https://jamesdever.bandcamp.com/track/revelations-i",
      "https://youtu.be/YoIYaFyll5Q"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -6984,6 +8061,9 @@ window.albumData = [
      "https://jamesdever.bandcamp.com/track/revelations-ii",
      "https://youtu.be/pXcUUevV4nA"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -7003,6 +8083,9 @@ window.albumData = [
      "https://jamesdever.bandcamp.com/track/revelations-iii",
      "https://youtu.be/d-Gewy6q_zw"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -7019,6 +8102,12 @@ window.albumData = [
    }
   ],
   "directory": "the-wanderers",
+  "urls": [
+   "https://www.youtube.com/playlist?list=PLF3092FD8EA59F218"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#ffcc66",
@@ -7046,6 +8135,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/bhG6zJpC60c"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -7068,6 +8160,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/KrimTgZi5uk"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -7090,6 +8185,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/TktueKyYBKs"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -7113,6 +8211,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/i5gsRSo3sMo"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -7135,6 +8236,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/CadBaY2j6pE"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -7157,6 +8261,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/d9KVN4WfHHc"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -7179,6 +8286,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/0DILZ3Qi_Wg"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -7209,6 +8319,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/aAphwUVKFm4"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -7233,6 +8346,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/kHSVHbxBEHU"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -7255,6 +8371,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/K7WRrBG6BM8"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -7279,6 +8398,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/RtzNs4pH11Y"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -7303,6 +8425,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/pDYCL68d3wI"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -7325,6 +8450,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/qtt0o-v2yco"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -7341,7 +8469,7 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Black",
+     "Liquid Negrocity",
      "Rex Duodecim Angelus",
      "Carapacian Dominion"
     ],
@@ -7351,6 +8479,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/CVxTL43Czuc"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -7375,6 +8506,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/P_pCaNbhExo"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -7398,6 +8532,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/vqs4yf_Fs4I"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -7414,6 +8551,13 @@ window.albumData = [
    }
   ],
   "directory": "lofam",
+  "urls": [
+   "https://homestuckgaiden.bandcamp.com/album/land-of-fans-and-music-unofficial-album",
+   "https://www.youtube.com/playlist?list=PLobrSigyi16AZehECGnfHOlArBUu-96Ea"
+  ],
+  "isCanon": false,
+  "isBeyond": false,
+  "isOfficial": false,
   "isFanon": true,
   "theme": {
    "fg": "#4876ff",
@@ -7446,12 +8590,15 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/beginnings-press-start-to-play"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "Downtime",
     "artists": [
-     "AutoDevote"
+     "Thomas Ibarra"
     ],
     "coverArtists": [
      {
@@ -7471,6 +8618,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/downtime"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -7495,6 +8645,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/doctor-deep-breeze-mix"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -7519,12 +8672,15 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/meltwater"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "Crystalanachrony",
     "artists": [
-     "Well Manicured Man"
+     "Willow Ascenzo"
     ],
     "coverArtists": [
      {
@@ -7543,6 +8699,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/crystalanachrony"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -7570,6 +8729,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/the-land-of-wind-and-shade"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -7592,6 +8754,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/thought-and-flow"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -7608,8 +8773,8 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Black",
-     "Beatdown (Strider Style)"
+     "Beatdown (Strider Style)",
+     "Liquid Negrocity"
     ],
     "date": "2011-07-30T03:00:00.000Z",
     "artDate": "2011-07-30T03:00:00.000Z",
@@ -7617,6 +8782,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/first-guardian-last-stand"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -7639,6 +8807,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/land-of-wrath-and-angels"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -7661,6 +8832,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/ruins-of-rajavihara"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -7683,6 +8857,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/vigilante-cornered"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -7705,6 +8882,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/a-fashionable-escape"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -7729,6 +8909,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/clockbreaker"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -7751,6 +8934,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/quartz-lullaby"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -7778,6 +8964,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/dance-of-the-wayward-vagabond"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -7800,6 +8989,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/joker-strife"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -7824,6 +9016,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/sunshaker"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -7848,6 +9043,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/sburban-rush"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -7870,12 +9068,15 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/prince-of-seas"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "Atomik Meltdown",
     "artists": [
-     "Hames"
+     "James Roach"
     ],
     "coverArtists": [
      {
@@ -7894,6 +9095,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/atomik-meltdown"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -7910,8 +9114,8 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Black",
-     "Frost:frost-vol6"
+     "Frost:frost-vol6",
+     "Liquid Negrocity"
     ],
     "date": "2011-07-30T03:00:00.000Z",
     "artDate": "2011-07-30T03:00:00.000Z",
@@ -7919,6 +9123,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/jackie-treats"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -7941,6 +9148,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/skaian-air"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -7965,6 +9175,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/sburban-elevator"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -7987,6 +9200,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/moody-mister-gemini"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8009,6 +9225,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/starkind"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8031,6 +9250,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/maibasojen"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8074,6 +9296,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/megadancevania"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8105,6 +9330,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/sadomasopedorobonecrobestiality"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8114,7 +9342,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "TheifofTruth",
+      "who": "ThiefofTruth",
       "what": null
      }
     ],
@@ -8127,6 +9355,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/under-the-hat"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8156,6 +9387,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/sburban-piano-doctor"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8181,6 +9415,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/the-hymn-of-making-babies"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8203,6 +9440,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/emissary-of-wind"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8225,6 +9465,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/land-of-quartz-and-melody"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8249,6 +9492,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/midnight-spider"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8271,6 +9517,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/house-of-lalonde"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8295,6 +9544,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/letat-de-lambivalence"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8319,6 +9571,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/growin-up-strider"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8354,6 +9609,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/nakkadile"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8376,6 +9634,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/vigilante"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8398,6 +9659,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/jack-and-black-queen"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8420,6 +9684,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/a-war-of-one-bullet"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8449,6 +9716,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/corpse-casanova"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8473,6 +9743,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/salamander-fiesta"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8497,6 +9770,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/megalovaniac"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8519,6 +9795,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/shame-and-doubt"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8541,6 +9820,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/sweet-bro-and-hella-jeff-show"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8570,12 +9852,15 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/growing-up"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "The Drawing of the Four",
     "artists": [
-     "Well Manicured Man"
+     "Willow Ascenzo"
     ],
     "coverArtists": [
      {
@@ -8596,6 +9881,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/the-drawing-of-the-four"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8618,6 +9906,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/ira-quod-angelus"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8640,6 +9931,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/final-stand"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8662,6 +9956,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/farewell"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8690,6 +9987,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/heir-seer-knight-witch"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -8714,6 +10014,9 @@ window.albumData = [
     "urls": [
      "https://homestuckgaiden.bandcamp.com/track/cutscene-at-the-end-of-the-hallway"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    }
   ]
@@ -8736,6 +10039,10 @@ window.albumData = [
    }
   ],
   "directory": "prospit-and-derse",
+  "urls": [],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#cc44cc",
@@ -8763,6 +10070,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/12H6ZBc47bU"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -8787,6 +10097,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/ljdrlnSi4Gw"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -8813,6 +10126,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/kXAzXOk-pGo"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -8835,6 +10151,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/N6H9k2p3c_o"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -8857,6 +10176,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/mVpqo-OdbSk"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -8879,6 +10201,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/NXgHHh4NlR8"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -8904,6 +10229,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/NOkeFOkE7No"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -8926,6 +10254,9 @@ window.albumData = [
     "urls": [
      "https://youtu.be/ZXC1O6DC55c"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -8942,6 +10273,14 @@ window.albumData = [
    }
   ],
   "directory": "homestuck-vol-1-4",
+  "urls": [
+   "https://homestuck.bandcamp.com/album/homestuck-vol-1-4-with-midnight-crew-drawing-dead",
+   "https://www.youtube.com/watch?v=9N342A3G5jo",
+   "https://www.youtube.com/playlist?list=PL6_yub4_EV2R6PzZdPigyPIiCGFfh3Nzb"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#aaccff",
@@ -8977,6 +10316,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/showtime-piano-refrain-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -8999,6 +10341,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/harlequin-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9021,6 +10366,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/showtime-original-mix-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9055,6 +10403,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/aggrieve-violin-refrain-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9085,6 +10436,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/sburban-countdown-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9107,6 +10461,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/aggrieve-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9142,6 +10499,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/showtime-imp-strife-mix-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9166,6 +10526,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/nannaquin-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9188,6 +10551,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/skies-of-skaia-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9218,6 +10584,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/harlequin-rock-version-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9243,6 +10612,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/john-sleeps-skaian-magicant-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9265,6 +10637,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/upward-movement-dave-owns-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9287,6 +10662,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/vagabounce-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9315,6 +10693,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/explore-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9339,6 +10720,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/gardener-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9363,6 +10747,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/showtime-remix-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9387,6 +10774,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/aggrieve-remix-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9409,6 +10799,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/verdancy-bassline-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9433,6 +10826,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/potential-verdancy-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9455,6 +10851,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/beatdown-strider-style-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9479,6 +10878,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/harleboss-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9503,6 +10905,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/beatdown-round-2-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9525,6 +10930,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/dissension-original-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9549,6 +10957,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/dissension-remix-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9571,6 +10982,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/ohgodwhat-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9595,6 +11009,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/ohgodwhat-remix-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9617,6 +11034,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/rediscover-fusion-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9641,6 +11061,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/explore-remix-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9663,6 +11086,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/chorale-for-jaspers-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9687,6 +11113,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/pony-chorale-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9709,6 +11138,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/revelawesome-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9733,6 +11165,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/hardlyquin-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9758,6 +11193,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/carefree-victory-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9780,6 +11218,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/ballad-of-awakening-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9802,6 +11243,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/sburban-jungle-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9826,6 +11270,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/three-in-the-morning-rjs-i-can-barely-sleep-in-this-casino-remix-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9859,6 +11306,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/doctor-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9881,6 +11331,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/endless-climb-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9903,6 +11356,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/atomyk-ebonpyre-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9928,6 +11384,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/black-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -9950,6 +11409,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/doctor-original-loop-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -9966,6 +11428,14 @@ window.albumData = [
    }
   ],
   "directory": "homestuck-vol-8",
+  "urls": [
+   "https://homestuck.bandcamp.com/album/homestuck-vol-7-8-with-cherubim",
+   "https://www.youtube.com/watch?v=-cIpWboujY4",
+   "https://www.youtube.com/playlist?list=PL497A0AACAD8DBE57"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#4ac925",
@@ -9996,6 +11466,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/calamity-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10023,6 +11496,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/do-you-remem8er-me-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10045,6 +11521,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/flare-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10067,6 +11546,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/galactic-cancer-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10089,6 +11571,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/serenade-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10111,6 +11596,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/frog-forager-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10133,6 +11621,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/love-you-feferis-theme-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10157,6 +11648,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/ocean-stars-falling-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10166,7 +11660,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Peter Turner",
+      "who": "Paige Turner",
       "what": null
      }
     ],
@@ -10179,6 +11673,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/escape-pod-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10203,6 +11700,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/davesprite-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10225,6 +11725,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/airtime-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10247,6 +11750,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/frog-hunt-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10276,6 +11782,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/terraform-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10300,6 +11809,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/unite-synchronization-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10327,6 +11839,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/homefree-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10349,6 +11864,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/galaxy-hearts-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10371,6 +11889,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/scourge-sisters-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10393,6 +11914,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/arcade-thunder-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10418,6 +11942,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/pyrocumulus-sicknasty-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10440,6 +11967,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/kingside-castle-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10464,6 +11994,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/temporary-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10492,6 +12025,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/gust-of-heir-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10514,6 +12050,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/afraid-of-the-darko-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10539,6 +12078,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/even-in-death-tmorras-belly-mix-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10561,6 +12103,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/bargaining-with-the-beast-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10590,6 +12135,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/frostbite-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10614,6 +12162,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/the-lost-child-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10636,6 +12187,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/questants-lament-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10660,6 +12214,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/hussie-hunt-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10682,6 +12239,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/havoc-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10715,6 +12275,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/drift-into-the-sun-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10737,6 +12300,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/infinity-mechanism-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10762,6 +12328,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/revered-return-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10791,6 +12360,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/judgment-day-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10815,6 +12387,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/lotus-bloom-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10845,6 +12420,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/cascade-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10869,6 +12447,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/im-a-member-of-the-midnight-crew-acapella-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10878,7 +12459,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Victoria Grace Elliot",
+      "who": "Victoria Grace Elliott",
       "what": null
      }
     ],
@@ -10904,6 +12485,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/how-do-i-live-d8-night-version-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10926,6 +12510,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/cascade-beta-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10956,6 +12543,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/black-hole-green-sun-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -10978,6 +12568,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/carefree-action-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -10996,6 +12589,13 @@ window.albumData = [
    }
   ],
   "directory": "song-of-skaia",
+  "urls": [
+   "https://parsecproductions.bandcamp.com/album/song-of-skaia",
+   "https://www.youtube.com/playlist?list=PLnVpmehyaOFbcZ8PWCeZmXZZw0W9HQ_9T"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#02b7ff",
@@ -11018,6 +12618,9 @@ window.albumData = [
     "urls": [
      "https://parsecproductions.bandcamp.com/track/null"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11037,6 +12640,9 @@ window.albumData = [
     "urls": [
      "https://parsecproductions.bandcamp.com/track/skaian-birth"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11056,6 +12662,9 @@ window.albumData = [
     "urls": [
      "https://parsecproductions.bandcamp.com/track/song-of-skaia"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -11072,6 +12681,13 @@ window.albumData = [
    }
   ],
   "directory": "coloUrs-and-mayhem-universe-a",
+  "urls": [
+   "https://homestuck.bandcamp.com/album/colours-and-mayhem-universe-a-b",
+   "https://www.youtube.com/playlist?list=PL333B705C8C7572E3"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#9292e2",
@@ -11088,7 +12704,7 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Black"
+     "Liquid Negrocity"
     ],
     "date": "2012-04-02T03:00:00.000Z",
     "artDate": "2012-04-02T03:00:00.000Z",
@@ -11096,12 +12712,15 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/universe-a-side-1"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
     "name": "Rust Servant",
     "artists": [
-     "Will Ascenzo"
+     "Willow Ascenzo"
     ],
     "coverArtists": [
      {
@@ -11118,6 +12737,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/rust-servant"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11140,6 +12762,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/bronze-rebel"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11162,6 +12787,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/gold-pilot"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11189,6 +12817,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/iron-infidel"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11211,6 +12842,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/olive-scribe"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11233,12 +12867,15 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/jade-mother"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
     "name": "Teal Hunter",
     "artists": [
-     "Will Ascenzo"
+     "Willow Ascenzo"
     ],
     "coverArtists": [
      {
@@ -11255,6 +12892,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/teal-hunter"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11279,12 +12919,15 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/cobalt-corsair"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
     "name": "Indigo Archer",
     "artists": [
-     "Rachel Macwhirter"
+     "Rachel Rose Mitchell"
     ],
     "coverArtists": [
      {
@@ -11301,6 +12944,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/indigo-archer"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11323,12 +12969,15 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/purple-tyrant"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
     "name": "Violet Mariner",
     "artists": [
-     "Will Ascenzo"
+     "Willow Ascenzo"
     ],
     "coverArtists": [
      {
@@ -11347,6 +12996,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/violet-mariner"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11369,6 +13021,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/fuchsia-ruler"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11388,6 +13043,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/universe-a-side-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11410,6 +13068,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/rust-maid"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11438,6 +13099,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/bronze-page"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11460,6 +13124,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/gold-mage"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11482,6 +13149,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/iron-knight"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11509,6 +13179,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/olive-rogue"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11531,6 +13204,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/jade-sylph"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11553,6 +13229,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/teal-seer"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11562,7 +13241,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Ray McDougall",
+      "who": "Shannon",
       "what": null
      }
     ],
@@ -11575,6 +13254,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/cobalt-thief"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11597,6 +13279,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/indigo-heir"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11619,6 +13304,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/purple-bard"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11641,6 +13329,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/violet-prince"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11663,6 +13354,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/fuchsia-witch"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11680,6 +13374,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/universe-a-additional-mayhem"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11719,6 +13416,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/your-universe"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11741,6 +13441,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/superego"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11763,6 +13466,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/made-of-time"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11785,12 +13491,15 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/nine-lives-one-love"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
     "name": "Temporal Shenanigans",
     "artists": [
-     "Rachel Macwhirter"
+     "Rachel Rose Mitchell"
     ],
     "coverArtists": [
      {
@@ -11807,6 +13516,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/temporal-shenanigans"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -11823,6 +13535,13 @@ window.albumData = [
    }
   ],
   "directory": "coloUrs-and-mayhem-universe-b",
+  "urls": [
+   "https://homestuck.bandcamp.com/album/colours-and-mayhem-universe-a-b",
+   "https://www.youtube.com/playlist?list=PLD729D6C2BFB4844C"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#a5d2e2",
@@ -11847,6 +13566,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/universe-b-side-1"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11871,6 +13593,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/green-ghost-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11895,6 +13620,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/orchid-horror-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11919,6 +13647,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/red-disc-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11948,6 +13679,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/blue-atom-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11967,6 +13701,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/universe-b-side-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -11976,7 +13713,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Paperartichokes",
+      "who": "PaperArtichokes",
       "what": null
      }
     ],
@@ -11989,6 +13726,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/cyan-beast-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12015,6 +13755,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/pink-cat-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12037,6 +13780,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/orange-hat-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12059,6 +13805,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/emerald-terror-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12076,6 +13825,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/universe-b-additional-mayhem"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12098,6 +13850,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/squiddle-song-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12122,6 +13877,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/pendulum-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12144,6 +13902,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/pale-rapture-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12169,13 +13930,15 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/do-the-windy-thing-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
     "name": "Pilot Light",
     "artists": [
-     "Thomas Ibarra",
-     "AutoDevote"
+     "Thomas Ibarra"
     ],
     "coverArtists": [
      {
@@ -12194,6 +13957,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/pilot-light-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12216,6 +13982,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/ohgodcat-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12225,7 +13994,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Ella",
+      "who": "dodostad",
       "what": null
      }
     ],
@@ -12238,6 +14007,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/cupcake-girl-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12260,6 +14032,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/phantasmic-youngsters-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12282,6 +14057,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/battle-brotocol-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12304,6 +14082,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/bec-noir-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12326,6 +14107,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/the-vast-glub-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12348,6 +14132,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/wv-become-the-mayor-of-cans-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12372,6 +14159,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/march-of-the-batterwitch-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12394,6 +14184,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/coolkid-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12421,6 +14214,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/clockstopper-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12443,6 +14239,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/dapper-dueling-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12465,6 +14264,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/checkmate-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12492,6 +14294,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/vodka-mutiny-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12514,6 +14319,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/dord-waltz-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12538,6 +14346,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/rustless-fall-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12557,7 +14368,7 @@ window.albumData = [
      "Showtime (Original Mix)",
      "Warhammer of Zillyhoo",
      "Explore",
-     "Black",
+     "Liquid Negrocity",
      "Doctor",
      "Lifdoff",
      "Harlequin"
@@ -12568,6 +14379,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/pipeorgankind-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -12584,6 +14398,14 @@ window.albumData = [
    }
   ],
   "directory": "homestuck-vol-9",
+  "urls": [
+   "https://homestuck.bandcamp.com/album/homestuck-vol-9-10-with-s-collide-and-act-7",
+   "https://www.youtube.com/watch?v=n1BVIEipjwk",
+   "https://www.youtube.com/playlist?list=PLy5UGIMKOXpOfcXVfECYjb09aHc2uSEUv"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#f2a400",
@@ -12615,6 +14437,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/crystalmethequins-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12639,6 +14464,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/anbroids-v20-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12648,7 +14476,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Cheddar",
+      "who": "Kiko B.",
       "what": null
      }
     ],
@@ -12661,6 +14489,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/trepidation-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12683,6 +14514,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/firefly-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12705,6 +14539,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/whistling-jackhammer-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12729,6 +14566,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/ugly-betty-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12758,6 +14598,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/hate-you-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12780,6 +14623,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/pumpkin-party-in-sea-hitlers-water-apocalypse-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12802,6 +14648,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/skaianet-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12827,6 +14676,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/skaianet-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12861,6 +14713,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/gamegrl-original-1993-mix-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12883,6 +14738,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/assault-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12905,6 +14763,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/a-little-fight-mewsic-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12933,6 +14794,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/austin-atlantis-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12955,6 +14819,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/despot-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -12983,6 +14850,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/stress-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13010,6 +14880,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/minihoofs-adventure-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13036,6 +14909,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/encore-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13061,6 +14937,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/expedition-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13083,6 +14962,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/elephant-gun-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13106,6 +14988,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/miasmajesty-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13129,6 +15014,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/jane-dargason-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13151,6 +15039,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/before-the-beginning-and-after-the-end-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13173,6 +15064,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/bridge-of-stars-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13200,6 +15094,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/cumulating-dreams-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13222,6 +15119,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/busting-makes-me-feel-good-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13244,10 +15144,13 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/everything-is-something-to-somebody-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
-    "name": "iRRRRRRRRECONCIA8LE",
+    "name": "iRRRRRRRRECONCILA8LE",
     "artists": [
      "Michael Guy Bowman"
     ],
@@ -13267,10 +15170,13 @@ window.albumData = [
     "references": [],
     "date": "2012-06-12T03:00:00.000Z",
     "artDate": "2012-06-12T03:00:00.000Z",
-    "directory": "iRRRRRRRRECONCIA8LE",
+    "directory": "iRRRRRRRRECONCILA8LE",
     "urls": [
      "https://homestuck.bandcamp.com/track/irrrrrrrreconcila8le-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13302,6 +15208,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/im-a-member-of-the-midnight-crew-post-punk-version-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13326,6 +15235,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/three-in-the-morning-aftermath-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13348,6 +15260,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/lancer-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13373,6 +15288,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/threes-a-crowd-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13395,6 +15313,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/break-shot-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13417,6 +15338,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/portrait-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13439,6 +15363,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/negative-aperture-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13461,6 +15388,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/sweet-dreams-timaeus-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13483,6 +15413,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/red-miles-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13505,6 +15438,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/the-changing-game-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13529,6 +15465,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/requited-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13551,6 +15490,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/princess-of-helium-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13582,6 +15524,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/moonsetter-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13611,6 +15556,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/candles-and-clockwork-alpha-version-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13635,6 +15583,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/coursing-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13657,6 +15608,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/cairo-overcoat-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13679,6 +15633,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/battle-against-an-unfathomable-enemy-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13695,7 +15652,7 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Black",
+     "Liquid Negrocity",
      "Crystalanthemums",
      "Descend"
     ],
@@ -13705,6 +15662,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/noirscape-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13724,7 +15684,7 @@ window.albumData = [
       "what": "organizer & synths"
      },
      {
-      "who": "Will Ascenzo",
+      "who": "Willow Ascenzo",
       "what": "orchestra"
      },
      {
@@ -13758,12 +15718,15 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/dogfight-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
     "name": "A Taste for Adventure",
     "artists": [
-     "Seth Peele"
+     "Seth Peelle"
     ],
     "coverArtists": [
      {
@@ -13784,6 +15747,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/a-taste-for-adventure-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13806,6 +15772,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/stargaze-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13830,6 +15799,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/another-countdown-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13854,6 +15826,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=om3VC6ru4yk"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -13872,6 +15847,14 @@ window.albumData = [
    }
   ],
   "directory": "symphony-impossible-to-play",
+  "urls": [
+   "https://homestuck.bandcamp.com/album/symphony-impossible-to-play-with-medium",
+   "https://www.youtube.com/watch?v=CGj-hDDFktI",
+   "https://www.youtube.com/playlist?list=PLnVpmehyaOFbZGlJ_NhUuG0yPfBRzFpfv"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#dd5544",
@@ -13905,6 +15888,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/i-overture-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13924,6 +15910,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/ii-sarabande-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13944,6 +15933,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/iii-serenade-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -13963,6 +15955,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/iv-anthem-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -13976,11 +15971,18 @@ window.albumData = [
   ],
   "coverArtists": [
    {
-    "who": "Killian Ng",
+    "who": "Vivian Ng",
     "what": null
    }
   ],
   "directory": "one-year-older",
+  "urls": [
+   "https://erikscheele.bandcamp.com/album/one-year-older",
+   "https://www.youtube.com/playlist?list=PL43D61BA1D4DF9B24"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#00aaff",
@@ -14010,6 +16012,9 @@ window.albumData = [
     "urls": [
      "https://erikscheele.bandcamp.com/track/sunrise"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14032,6 +16037,9 @@ window.albumData = [
     "urls": [
      "https://erikscheele.bandcamp.com/track/october"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14056,6 +16064,9 @@ window.albumData = [
     "urls": [
      "https://erikscheele.bandcamp.com/track/firefly-cloud"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14080,6 +16091,9 @@ window.albumData = [
     "urls": [
      "https://erikscheele.bandcamp.com/track/fantasyp"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14102,6 +16116,9 @@ window.albumData = [
     "urls": [
      "https://erikscheele.bandcamp.com/track/underfoot"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14124,6 +16141,9 @@ window.albumData = [
     "urls": [
      "https://erikscheele.bandcamp.com/track/flying-car"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14146,6 +16166,9 @@ window.albumData = [
     "urls": [
      "https://erikscheele.bandcamp.com/track/cancerous-core"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14168,6 +16191,9 @@ window.albumData = [
     "urls": [
      "https://erikscheele.bandcamp.com/track/game-over"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14177,7 +16203,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Killian Ng",
+      "who": "Vivian Ng",
       "what": null
      }
     ],
@@ -14190,6 +16216,9 @@ window.albumData = [
     "urls": [
      "https://erikscheele.bandcamp.com/track/unlabeled"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14216,6 +16245,9 @@ window.albumData = [
     "urls": [
      "https://erikscheele.bandcamp.com/track/skiain-shrapnel"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14238,6 +16270,9 @@ window.albumData = [
     "urls": [
      "https://erikscheele.bandcamp.com/track/the-scratch"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14247,7 +16282,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Sasha Morrissey",
+      "who": "K",
       "what": null
      }
     ],
@@ -14260,6 +16295,9 @@ window.albumData = [
     "urls": [
      "https://erikscheele.bandcamp.com/track/respit"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14286,6 +16324,9 @@ window.albumData = [
     "urls": [
      "https://erikscheele.bandcamp.com/track/negastrife"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14316,6 +16357,9 @@ window.albumData = [
     "urls": [
      "https://erikscheele.bandcamp.com/track/mother"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14340,6 +16384,9 @@ window.albumData = [
     "urls": [
      "https://erikscheele.bandcamp.com/track/another-chance-bonus"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14359,6 +16406,9 @@ window.albumData = [
     "urls": [
      "https://erikscheele.bandcamp.com/track/under-the-hat-bonus"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14376,6 +16426,9 @@ window.albumData = [
     "urls": [
      "https://erikscheele.bandcamp.com/track/mother-piano-bonus"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -14394,6 +16447,14 @@ window.albumData = [
    }
   ],
   "directory": "genesis-frog",
+  "urls": [
+   "https://albatrosssoup.bandcamp.com/album/genesis-frog",
+   "https://www.youtube.com/watch?v=V_RoZCvUP9w",
+   "https://www.youtube.com/playlist?list=PLia7MqxG6On5M5Z2OtoNgCWzNmCiRcWZo"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#00aa77",
@@ -14423,6 +16484,9 @@ window.albumData = [
     "urls": [
      "https://albatrosssoup.bandcamp.com/track/prelude"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14445,6 +16509,9 @@ window.albumData = [
     "urls": [
      "https://albatrosssoup.bandcamp.com/track/pondsquatter"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14470,6 +16537,9 @@ window.albumData = [
     "urls": [
      "https://albatrosssoup.bandcamp.com/track/our-glorious-speaker"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14494,6 +16564,9 @@ window.albumData = [
     "urls": [
      "https://albatrosssoup.bandcamp.com/track/prospitian-folklore"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14521,6 +16594,9 @@ window.albumData = [
     "urls": [
      "https://albatrosssoup.bandcamp.com/track/consorts-intermezzo"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14545,6 +16621,9 @@ window.albumData = [
     "urls": [
      "https://albatrosssoup.bandcamp.com/track/buy-nak-sell-doof"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14569,6 +16648,9 @@ window.albumData = [
     "urls": [
      "https://albatrosssoup.bandcamp.com/track/pink-shells"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14593,6 +16675,9 @@ window.albumData = [
     "urls": [
      "https://albatrosssoup.bandcamp.com/track/entrance-of-the-salamanders"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14617,6 +16702,9 @@ window.albumData = [
     "urls": [
      "https://albatrosssoup.bandcamp.com/track/thip-of-the-tongue"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14641,6 +16729,9 @@ window.albumData = [
     "urls": [
      "https://albatrosssoup.bandcamp.com/track/frogs-intermezzo"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14666,6 +16757,9 @@ window.albumData = [
     "urls": [
      "https://albatrosssoup.bandcamp.com/track/breeding-duties"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14690,6 +16784,9 @@ window.albumData = [
     "urls": [
      "https://albatrosssoup.bandcamp.com/track/stoke-the-forge"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14715,6 +16812,9 @@ window.albumData = [
     "urls": [
      "https://albatrosssoup.bandcamp.com/track/great-lofaf-expedition-of-2009"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14737,6 +16837,9 @@ window.albumData = [
     "urls": [
      "https://albatrosssoup.bandcamp.com/track/the-temples-withered-bloom"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14754,7 +16857,7 @@ window.albumData = [
     "lyrics": null,
     "references": [
      "Prospitian Folklore",
-     "Black",
+     "Liquid Negrocity",
      "The Temple's Withered Bloom"
     ],
     "date": "2012-10-23T03:00:00.000Z",
@@ -14763,6 +16866,9 @@ window.albumData = [
     "urls": [
      "https://albatrosssoup.bandcamp.com/track/bilious"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14791,6 +16897,9 @@ window.albumData = [
     "urls": [
      "https://albatrosssoup.bandcamp.com/track/speaker-skaias-reflection"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14821,6 +16930,9 @@ window.albumData = [
     "urls": [
      "https://albatrosssoup.bandcamp.com/track/the-vast-croak"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14844,6 +16956,9 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=l07w1i-C7hs"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -14863,7 +16978,1469 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=xINZv3-S6xU"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
+   }
+  ]
+ },
+ {
+  "name": "Sburb OST",
+  "date": "2012-11-24T04:00:00.000Z",
+  "artDate": "2012-11-24T04:00:00.000Z",
+  "artists": null,
+  "coverArtists": [
+   {
+    "who": "melodiousDiscord",
+    "what": null
+   }
+  ],
+  "directory": "sburb-ost",
+  "urls": [
+   "https://unofficialmspafans.bandcamp.com/album/sburb-ost",
+   "https://www.youtube.com/playlist?list=PL2E1aOkERtLXq9YuH-q42kkqvsYGl7fvD"
+  ],
+  "isCanon": false,
+  "isBeyond": false,
+  "isOfficial": false,
+  "isFanon": true,
+  "theme": {
+   "fg": "#ffb400",
+   "bg": "#222222",
+   "theme": 0
+  },
+  "tracks": [
+   {
+    "name": "~~~~DISK 1~~~~",
+    "artists": [
+     "Veritas Unae"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "disk1-sburb-ost",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/disk-1"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Waiting For Adventure [Loading Screen]",
+    "artists": [
+     "Michael Guy Bowman"
+    ],
+    "coverArtists": [
+     {
+      "who": "Tavia Morra",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "waiting-for-adventure",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/waiting-for-adventure-loading-screen"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "SBURBan Prelude [Main Menu]",
+    "artists": [
+     "sidewalkbanana"
+    ],
+    "coverArtists": [
+     {
+      "who": "RunDoubleRun",
+      "what": null
+     },
+     {
+      "who": "Emily",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Sburban Jungle"
+    ],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "sburban-prelude",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/sburban-prelude-main-menu"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Meta Choices [Options]",
+    "artists": [
+     "sidewalkbanana"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "meta-choices",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/meta-choices-options"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Ignorance Is Bliss [Tutorial]",
+    "artists": [
+     "Marcy Nabors"
+    ],
+    "coverArtists": [
+     {
+      "who": "Esabelle Ryngin",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Homestuck Anthem"
+    ],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "ignorance-is-bliss",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/ignorance-is-bliss-tutorial"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Metamorphic Choices [Kernel Prototyping]",
+    "artists": [
+     "Veritas Unae",
+     "Marcy Nabors"
+    ],
+    "coverArtists": [
+     {
+      "who": "Dawn Davis",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "metamorphic-choices",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/metamorphic-choices-kernel-prototyping"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Dawn of the End [Countdown]",
+    "artists": [
+     "Max Wright"
+    ],
+    "coverArtists": [
+     {
+      "who": "invalidgriffin",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Sburban Jungle",
+     "Umbral Ultimatum"
+    ],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "dawn-of-the-end",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/dawn-of-the-end-countdown"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "A Spirited Conversation [Sprite Interaction]",
+    "artists": [
+     "Veritas Unae",
+     "Charles Neudorf"
+    ],
+    "coverArtists": [
+     {
+      "who": "Adoxographist",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Metamorphic Choices [Kernel Prototyping]"
+    ],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "a-spirited-conversation",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/a-spirited-conversation-sprite-interaction"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Layers Upon Layers [Build]",
+    "artists": [
+     "Marcy Nabors",
+     "Jamie Paige Stanley"
+    ],
+    "coverArtists": [
+     {
+      "who": "Alistair Diszrali",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Waiting For Adventure [Loading Screen]"
+    ],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "layers-upon-layers",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/layers-upon-layers-build"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Mysterious Messengers [Exiles]",
+    "artists": [
+     "Traikan"
+    ],
+    "coverArtists": [
+     {
+      "who": "Vero",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "mysterious-messengers",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/mysterious-messengers-exiles"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Overly Ostentatious Ogre [Miniboss]",
+    "artists": [
+     "Red Pen"
+    ],
+    "coverArtists": [
+     {
+      "who": "Tawa",
+      "what": null
+     },
+     {
+      "who": "Kate Holden",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "overly-ostentatious-ogre",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/overly-ostentatious-ogre-miniboss"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Porkhollow is Overflowing! [Echeladder]",
+    "artists": [
+     "Veritas Unae"
+    ],
+    "coverArtists": [
+     {
+      "who": "Toe",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "the-porkhollow-is-overflowing",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/the-porkhollow-is-overflowing-echeladder"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Consort Air [Consorts]",
+    "artists": [
+     "Brad Griffin"
+    ],
+    "coverArtists": [
+     {
+      "who": "8bitkitten",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "consort-air",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/consort-air-consorts"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Fraymotif Samba [Consort Shop]",
+    "artists": [
+     "James Roach"
+    ],
+    "coverArtists": [
+     {
+      "who": "Esabelle Ryngin",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "fraymotif-samba",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/fraymotif-samba-consort-shop"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Waking the Beast [Denizen Encounter]",
+    "artists": [
+     "Eston Schweickart",
+     "Yan Rodriguez"
+    ],
+    "coverArtists": [
+     {
+      "who": "Zilleniose",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "waking-the-beast",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/waking-the-beast-denizen-encounter"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Glow in the Distance [Save]",
+    "artists": [
+     "James Roach"
+    ],
+    "coverArtists": [
+     {
+      "who": "melodiousDiscord",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "glow-in-the-distance",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/glow-in-the-distance-save"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Lulling Lutescant [Prospit Sleep]",
+    "artists": [
+     "Veritas Unae"
+    ],
+    "coverArtists": [
+     {
+      "who": "Phosphorescence",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "lulling-lutescant",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/lulling-lutescent-prospit-sleep"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "On Golden Dreams [Prospit]",
+    "artists": [
+     "Veritas Unae"
+    ],
+    "coverArtists": [
+     {
+      "who": "invalidgriffin",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Lulling Lutescant [Prospit Sleep]"
+    ],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "on-golden-dreams",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/on-golden-dreams-prospit"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Amongst Smiling Faces [Prospitian Dignitaries]",
+    "artists": [
+     "Tarranon"
+    ],
+    "coverArtists": [
+     {
+      "who": "Kate Holden",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "amongst-smiling-faces",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/amongst-smiling-faces-prospitian-dignitaries"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Grudge in A Minor [Jack Noir]",
+    "artists": [
+     "Yishan Mai"
+    ],
+    "coverArtists": [
+     {
+      "who": "melodiousDiscord",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Liquid Negrocity"
+    ],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "grudge-in-a-minor",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/grudge-in-a-minor-jack-noir"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Lavender Lullably [Derse Sleep]",
+    "artists": [
+     "Veritas Unae"
+    ],
+    "coverArtists": [
+     {
+      "who": "Phosphorescence",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Planet in Shadow [Derse]"
+    ],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "lavender-lullaby",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/lavender-lullaby-derse-sleep"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Planet in Shadow [Derse]",
+    "artists": [
+     "Yishan Mai"
+    ],
+    "coverArtists": [
+     {
+      "who": "Kat",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "planet-in-shadow",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/planet-in-shadow-derse"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Drolls and Dignitaries [Dersite Agents]",
+    "artists": [
+     "Yishan Mai"
+    ],
+    "coverArtists": [
+     {
+      "who": "Selan Pike",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "drolls-and-dignitaries",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/drolls-and-dignitaries-dersite-agents"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Ultimate Riddle [Ultimate Riddle]",
+    "artists": [
+     "Marcy Nabors"
+    ],
+    "coverArtists": [
+     {
+      "who": "melodiousDiscord",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "the-ultimate-riddle",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/the-ultimate-riddle-ultimate-riddle"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Eldritch Murmurs [Horrorterrors]",
+    "artists": [
+     "Fuzz"
+    ],
+    "coverArtists": [
+     {
+      "who": "Vero",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "eldritch-murmurs",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/eldritch-murmurs-horrorterrors"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Outer Reaches [Veil]",
+    "artists": [
+     "Charles Neudorf"
+    ],
+    "coverArtists": [
+     {
+      "who": "Esabelle Ryngin",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "outer-reaches",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/outer-reaches-veil"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Inner Depths [Labs]",
+    "artists": [
+     "Brad Griffin"
+    ],
+    "coverArtists": [
+     {
+      "who": "Tarranon",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Outer Reaches [Veil]"
+    ],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "inner-depths",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/inner-depths-labs"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Autogenesis [Ectobiology]",
+    "artists": [
+     "Red Pen"
+    ],
+    "coverArtists": [
+     {
+      "who": "Phosphorescence",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "autogenesis",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/autogenesis-ectobiology"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Broken Dreams [Prospit's Fall]",
+    "artists": [
+     "Veritas Unae",
+     "Charles Neudorf"
+    ],
+    "coverArtists": [
+     {
+      "who": "Brad Griffin",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "On Golden Dreams [Prospit]"
+    ],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "broken-dreams",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/broken-dreams-prospits-fall"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Paradoxical Meteor Shower [Reckoning]",
+    "artists": [
+     "Trent West"
+    ],
+    "coverArtists": [
+     {
+      "who": "Kat",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "paradoxical-meteor-shower",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/paradoxical-meteor-shower-reckoning"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Emerald Icarus [Green Sun]",
+    "artists": [
+     "Marcy Nabors"
+    ],
+    "coverArtists": [
+     {
+      "who": "Mixt",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "emerald-icarus",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/emerald-icarus-green-sun"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "~~~~DISK 2~~~~",
+    "artists": [
+     "Veritas Unae"
+    ],
+    "coverArtists": [
+     {
+      "who": "melodiousDiscord",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Emerald Icarus [Green Sun]",
+     "CumuloSeerus [Oracle Clouds]"
+    ],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "disk2-sburb-ost",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/disk-2"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "CumuloSeerus [Oracle Clouds]",
+    "artists": [
+     "Brad Griffin"
+    ],
+    "coverArtists": [
+     {
+      "who": "Tavia Morra",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "SBURBan Prelude [Main Menu]"
+    ],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "cumuloseerus",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/cumuloseerus-oracle-clouds"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Checkerboard Checkmate [Battlefield]",
+    "artists": [
+     "Tarranon"
+    ],
+    "coverArtists": [
+     {
+      "who": "Tavia Morra",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "checkerboard-checkmate",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/checkerboard-checkmate-battlefield"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Skaiaward [Skaia]",
+    "artists": [
+     "Marcy Nabors",
+     "Solatrus"
+    ],
+    "coverArtists": [
+     {
+      "who": "Toe",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "skaiaward",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/skaiaward-skaia"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Resurrection [God Tier]",
+    "artists": [
+     "Brad Griffin"
+    ],
+    "coverArtists": [
+     {
+      "who": "Kate Holden",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Sburban Jungle"
+    ],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "resurrection",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/resurrection-god-tier"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Land of _____ and Frogs [Frog Gathering]",
+    "artists": [
+     "Veritas Unae"
+    ],
+    "coverArtists": [
+     {
+      "who": "Brad Griffin",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "land-of-_____-and-frogs",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/land-of-and-frogs-frog-gathering"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Rana's Abode [Frog Temple]",
+    "artists": [
+     "Yan Rodriguez"
+    ],
+    "coverArtists": [
+     {
+      "who": "Toe",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "ranas-abode",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/ranas-abode-frog-temple"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Will to Fight Further [Denizen Strife]",
+    "artists": [
+     "Kevin Grant",
+     "Yishan Mai"
+    ],
+    "coverArtists": [
+     {
+      "who": "Dawn Davis",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "The Will to Fight (Original Mix) [Denizen Strife]",
+     "Showtime (Piano Refrain)",
+     "Waking the Beast [Denizen Encounter]"
+    ],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "the-will-to-fight-further",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/the-will-to-fight-further-denizen-strife"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Barren Session [Game Over]",
+    "artists": [
+     "Brad Griffin"
+    ],
+    "coverArtists": [
+     {
+      "who": "Nurse Tiger",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "barren-session",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/barren-session-game-over"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Dilemma [The Choice]",
+    "artists": [
+     "Fuzz"
+    ],
+    "coverArtists": [
+     {
+      "who": "Dawn Davis",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "dilemma",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/dilemma-the-choice"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Vulcanic Volcano [Forge]",
+    "artists": [
+     "Traikan"
+    ],
+    "coverArtists": [
+     {
+      "who": "Selan Pike",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "vulcanic-volcano",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/vulcanic-volcano-forge"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Check the Chequered Castle [Battlefield Castle]",
+    "artists": [
+     "Veritas Unae"
+    ],
+    "coverArtists": [
+     {
+      "who": "Mixt",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "check-the-chequered-castle",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/check-the-chequered-castle-battlefield-castle"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Endgame Execution [Black King Battle]",
+    "artists": [
+     "Yishan Mai"
+    ],
+    "coverArtists": [
+     {
+      "who": "shymuffin",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Rex Duodecim Angelus"
+    ],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "endgame-execution",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/endgame-execution-black-king-battle"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Where ribbIt All Began [Genesis Frog]",
+    "artists": [
+     "Tarranon"
+    ],
+    "coverArtists": [
+     {
+      "who": "Tawa",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "where-ribbit-all-began",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/where-ribbit-all-began-genesis-frog"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Higher Hopes [Game Complete]",
+    "artists": [
+     "Tarranon"
+    ],
+    "coverArtists": [
+     {
+      "who": "Mixt",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "higher-hopes",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/higher-hopes-game-complete"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Gods of the New World [Universe Creation]",
+    "artists": [
+     "Max Wright"
+    ],
+    "coverArtists": [
+     {
+      "who": "invalidgriffin",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "gods-of-the-new-world",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/gods-of-the-new-world-universe-creation"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "~~~~BONUS~~~~",
+    "artists": [
+     "Veritas Unae"
+    ],
+    "coverArtists": [
+     {
+      "who": "Veritas Unae",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Gods of the New World [Universe Creation]"
+    ],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "bonus-sburb-ost",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/bonus"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Untold Story [Skaia Exposition]",
+    "artists": [
+     "Brad Griffin"
+    ],
+    "coverArtists": [
+     {
+      "who": "Brad Griffin",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "CumuloSeerus [Oracle Clouds]",
+     "Check the Chequered Castle [Battlefield Castle]",
+     "On Golden Dreams [Prospit]",
+     "Checkerboard Checkmate [Battlefield]",
+     "Overly Ostentatious Ogre [Miniboss]",
+     "Resurrection [God Tier]",
+     "Gods of the New World [Universe Creation]"
+    ],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "the-untold-story",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/the-untold-story-skaia-exposition"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Melody && Form && Composition [Alchemiter]",
+    "artists": [
+     "Charles Neudorf",
+     "Marcy Nabors"
+    ],
+    "coverArtists": [
+     {
+      "who": "Selan Pike",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "melody-form-composition",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/melody-form-composition-alchemiter"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Take Flight [Battleship]",
+    "artists": [
+     "Veritas Unae"
+    ],
+    "coverArtists": [
+     {
+      "who": "Pseudonym",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Checkerboard Checkmate [Battlefield]",
+     "Check the Chequered Castle [Battlefield Castle]"
+    ],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "take-flight",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/take-flight-battleship"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Born to Die [Doomed Timeline]",
+    "artists": [
+     "ThiefofTruth",
+     "Brad Griffin"
+    ],
+    "coverArtists": [
+     {
+      "who": "Manyan",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "born-to-die",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/born-to-die-doomed-timeline"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Will to Fight (Original Mix) [Denizen Strife]",
+    "artists": [
+     "Kevin Grant"
+    ],
+    "coverArtists": [
+     {
+      "who": "Dawn Davis",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Showtime (Original Mix)"
+    ],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "the-will-to-fight-original-mix",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/the-will-to-fight-original-mix-denizen-strife"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Prime [Pause]",
+    "artists": [
+     "Trent West"
+    ],
+    "coverArtists": [
+     {
+      "who": "Nurse Tiger",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "prime",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/prime-pause"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Godfight [PvP]",
+    "artists": [
+     "Yishan Mai"
+    ],
+    "coverArtists": [
+     {
+      "who": "Shoona",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2012-11-24T04:00:00.000Z",
+    "artDate": "2012-11-24T04:00:00.000Z",
+    "directory": "godfight",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/godfight-pvp"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
    }
   ]
  },
@@ -14874,11 +18451,18 @@ window.albumData = [
   "artists": null,
   "coverArtists": [
    {
-    "who": "Lunise",
+    "who": "Christina Lillard",
     "what": null
    }
   ],
   "directory": "lofam2",
+  "urls": [
+   "https://unofficialmspafans.bandcamp.com/album/land-of-fans-and-music-2",
+   "https://www.youtube.com/playlist?list=PL_Njm6JMBBED5Iz-9Cct870dIQ3ip-6dF"
+  ],
+  "isCanon": false,
+  "isBeyond": false,
+  "isOfficial": false,
   "isFanon": true,
   "theme": {
    "fg": "#33a1c9",
@@ -14903,6 +18487,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/o-disk-1-o"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -14930,6 +18517,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/chronology"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -14955,6 +18545,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/jackpot"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -14980,6 +18573,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/satellite-physician"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15004,6 +18600,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/a-study-in-skaia"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15026,6 +18625,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/cuddlefish"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15042,7 +18644,7 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Black",
+     "Liquid Negrocity",
      "Atomyk Ebonpyre",
      "Showtime (Piano Refrain)"
     ],
@@ -15052,6 +18654,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/rectify"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15074,6 +18679,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/rabbunctious"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15099,6 +18707,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/skaian-starstorm"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15108,7 +18719,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Lunise",
+      "who": "Christina Lillard",
       "what": null
      }
     ],
@@ -15124,6 +18735,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/good-dog-best-friend"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15153,12 +18767,15 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/unforgiving-terrain"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "CR1M1N4L, CR1M1N4L",
     "artists": [
-     "Rachel Macwhirter"
+     "Rachel Rose Mitchell"
     ],
     "coverArtists": [
      {
@@ -15175,6 +18792,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/cr1m1n4l-cr1m1n4l"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15200,6 +18820,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/squiddles-in-sunglasses"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15224,6 +18847,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/jackbot"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15248,6 +18874,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/crystalguitarthemums"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15275,6 +18904,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/the-ballad-of-maplehoof"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15299,6 +18931,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/rainbow-rebirth"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15317,7 +18952,7 @@ window.albumData = [
     "references": [
      "Atomyk Ebonpyre",
      "English",
-     "Black",
+     "Liquid Negrocity",
      "The Ballad of Jack Noir",
      "Walk-Stab-Walk (R&E)",
      "Let's All Rock the Heist"
@@ -15328,6 +18963,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/psychedelic-psychodelic"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15352,6 +18990,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/flare-with-vocals"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15374,6 +19015,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/sports"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15397,6 +19041,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/dirgeish"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15422,6 +19069,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/electrocumulus"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15446,6 +19096,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/three-in-the-morning-kalis-2-in-the-am-pm-edit"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15472,6 +19125,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/showtime-end-strife-remix"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15496,6 +19152,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/soulb0t"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15523,7 +19182,7 @@ window.albumData = [
      "MeGaLoVania",
      "Spider's Claw",
      "Walk-Stab-Walk (R&E)",
-     "Black"
+     "Liquid Negrocity"
     ],
     "date": "2012-12-25T04:00:00.000Z",
     "artDate": "2012-12-25T04:00:00.000Z",
@@ -15531,6 +19190,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/fighting-spirit"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15548,7 +19210,7 @@ window.albumData = [
     "lyrics": null,
     "references": [
      "Harlequin",
-     "Black",
+     "Liquid Negrocity",
      "Sburban Jungle",
      "Carefree Action"
     ],
@@ -15558,6 +19220,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/irradiated"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15584,6 +19249,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/he-is-already-here"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15593,7 +19261,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Lunise",
+      "who": "Christina Lillard",
       "what": null
      }
     ],
@@ -15614,6 +19282,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/rise-of-the-denizens"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15640,6 +19311,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/sburban-genesis"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15656,7 +19330,7 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Black",
+     "Liquid Negrocity",
      "The Beginning of Something Really Excellent"
     ],
     "date": "2012-12-25T04:00:00.000Z",
@@ -15665,6 +19339,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/who-mourns-for-jack-noir"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15687,6 +19364,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/the-seer-and-the-tribesmen"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15709,6 +19389,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/four"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15734,6 +19417,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/prospitian-lullaby"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15759,6 +19445,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/o-disk-2-o"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15784,6 +19473,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/brofessor-layton-every-puzzle-has-a-brolution"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15808,6 +19500,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/electrollcopswing"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15867,6 +19562,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/dance-stab-dance"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15889,12 +19587,15 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/trapped"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "Til The Last Breath",
     "artists": [
-     "Branden Cameron"
+     "Brenden Cameron"
     ],
     "coverArtists": [
      {
@@ -15915,6 +19616,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/till-the-last-breath"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15937,6 +19641,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/the-note-desolation-plays"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15961,6 +19668,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/im-the-doctor"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -15983,6 +19693,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/wind-in-my-heir"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -16021,6 +19734,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/fighting-spirit-second-form"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -16043,12 +19759,15 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/corkscrew-sundown"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "Doghead",
     "artists": [
-     "Will Ascenzo",
+     "Willow Ascenzo",
      "D. Crystal"
     ],
     "coverArtists": [
@@ -16070,6 +19789,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/doghead"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -16092,6 +19814,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/janes-theme"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -16122,6 +19847,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/the-four-thrones"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -16144,12 +19872,15 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/jade-aubade"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "Blood Knight",
     "artists": [
-     "Rachel Macwhirter"
+     "Rachel Rose Mitchell"
     ],
     "coverArtists": [
      {
@@ -16166,6 +19897,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/blood-knight-2"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -16188,6 +19922,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/in-the-shadow-of-a-fractured-sun"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -16212,12 +19949,15 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/red-miles"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "Elegy for a Thief (Dreamscape Remix)",
     "artists": [
-     "Will Ascenzo"
+     "Willow Ascenzo"
     ],
     "coverArtists": [
      {
@@ -16236,6 +19976,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/elegy-for-a-thief-dreamscape-remix"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -16258,6 +20001,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/we-wont-wander-alone"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -16267,7 +20013,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Sarah",
+      "who": "clumsyroyalty",
       "what": null
      }
     ],
@@ -16280,6 +20026,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/embittered-shore"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -16304,16 +20053,19 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/ye-flarey-gentlemen"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "Finale Strife",
     "artists": [
-     "Will Ascenzo"
+     "Willow Ascenzo"
     ],
     "coverArtists": [
      {
-      "who": "Ducky Seils",
+      "who": "Ducky Senpai",
       "what": null
      }
     ],
@@ -16326,6 +20078,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/finale-strife"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -16335,7 +20090,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Sarah",
+      "who": "clumsyroyalty",
       "what": null
      }
     ],
@@ -16348,6 +20103,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/gangsta"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -16372,6 +20130,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/joy-and-dreams-eternal"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -16394,6 +20155,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/guns-blazing"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -16418,6 +20182,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/showtime-svix-mix"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -16440,6 +20207,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/ugly-story"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -16462,6 +20232,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/dark-funk"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -16484,12 +20257,15 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/a-stitch-in-time"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "Ave Dei Novi",
     "artists": [
-     "Will Ascenzo"
+     "Willow Ascenzo"
     ],
     "coverArtists": [
      {
@@ -16511,6 +20287,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/ave-dei-novi"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -16533,6 +20312,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/nevermore-cant-sleep-crows-will-find-me"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -16557,6 +20339,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/prophecy"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -16586,12 +20371,15 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/the-dance-of-oblivion"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "Alphamatic Replacement",
     "artists": [
-     "Xander Wright"
+     "Xauric"
     ],
     "coverArtists": [
      {
@@ -16608,12 +20396,15 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/alphamatic-replacement"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "Planetarium",
     "artists": [
-     "Rachel Macwhirter"
+     "Rachel Rose Mitchell"
     ],
     "coverArtists": [
      {
@@ -16630,6 +20421,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/planetarium"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    }
   ]
@@ -16650,6 +20444,14 @@ window.albumData = [
    }
   ],
   "directory": "cherubim",
+  "urls": [
+   "https://homestuck.bandcamp.com/album/homestuck-vol-7-8-with-cherubim",
+   "https://www.youtube.com/watch?v=Ka9R4mX8LZo",
+   "https://www.youtube.com/playlist?list=PL5wuj4bznbEntObWXb7BFZBl3Jq1Ep1Kb"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#ff7600",
@@ -16677,6 +20479,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/reverie-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -16686,7 +20491,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Elyse Holmes",
+      "who": "Indolentjellyfish",
       "what": null
      }
     ],
@@ -16701,6 +20506,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/power-fantasy-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -16723,6 +20531,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/stellarum-salve-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -16749,6 +20560,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/carne-vale-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -16781,6 +20595,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/green-lolly-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -16813,6 +20630,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/red-sucker-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -16835,6 +20655,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/constant-confinement-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -16860,6 +20683,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/constant-conquest-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -16882,6 +20708,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/the-lyrist-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -16906,6 +20735,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/the-lordling-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -16937,6 +20769,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/eternity-served-cold-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -16953,6 +20788,13 @@ window.albumData = [
    }
   ],
   "directory": "lofam3",
+  "urls": [
+   "https://unofficialmspafans.bandcamp.com/album/land-of-fans-and-music-3",
+   "https://www.youtube.com/playlist?list=PL2E1aOkERtLVH6mVZNPZ8Cou4_K_6n7QS"
+  ],
+  "isCanon": false,
+  "isBeyond": false,
+  "isOfficial": false,
   "isFanon": true,
   "theme": {
    "fg": "#88a4ff",
@@ -16975,6 +20817,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/disk-1-2"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -16997,6 +20842,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/the-delicate-art-of-temporal-manipulation"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17019,6 +20867,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/bite-the-apple"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17043,6 +20894,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/planet-cracker"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17067,6 +20921,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/im-not-a-hero"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17089,6 +20946,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/confinis"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17098,7 +20958,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "poinko",
+      "who": "Phil Gibson",
       "what": null
      }
     ],
@@ -17147,12 +21007,15 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/emissary-of-dance"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "Dance of Viridian and Violet",
     "artists": [
-     "Will Ascenzo"
+     "Willow Ascenzo"
     ],
     "coverArtists": [
      {
@@ -17172,6 +21035,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/dance-of-viridian-and-violet"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17196,6 +21062,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/warweary-villein"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17220,6 +21089,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/thermporia"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17245,6 +21117,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/720413"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17272,6 +21147,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/march-of-the-aluminum-soldiers"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17294,6 +21172,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/an-uncertain-venture"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17316,6 +21197,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/hymn-of-the-horrorterrors"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17340,6 +21224,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/sgrubian-wilderness"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17362,6 +21249,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/medium"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17371,7 +21261,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Ella",
+      "who": "dodostad",
       "what": null
      }
     ],
@@ -17384,6 +21274,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/fracta-sub-luna"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17406,6 +21299,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/fool-explicit"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17428,6 +21324,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/youre-the-hero-its-you"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17450,6 +21349,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/oh-hi-there-lil-cal"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17474,6 +21376,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/courtroom-shuffle"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17501,6 +21406,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/waveform"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17532,6 +21440,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/maidswap"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17554,12 +21465,15 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/sleepy-eyes-of-derse"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "Sign of the Scorpion",
     "artists": [
-     "Will Ascenzo"
+     "Willow Ascenzo"
     ],
     "coverArtists": [
      {
@@ -17578,6 +21492,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/sign-of-the-scorpion"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17607,6 +21524,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/aqueous-armagourddon"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17629,6 +21549,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/fortune-healer"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17651,6 +21574,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/bathearsts-theme"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17673,6 +21599,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/the-metamorphosis-of-rose-lalonde"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17699,6 +21628,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/theme-of-the-slam-jam"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17721,6 +21653,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/john-do-the-windy-thing"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17745,6 +21680,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/disk-2-2"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17783,6 +21721,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/garden-of-eden-part-1"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17825,12 +21766,15 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/garden-of-eden-part-2"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "Electric Fireflies",
     "artists": [
-     "AutoDevote"
+     "Thomas Ibarra"
     ],
     "coverArtists": [
      {
@@ -17851,6 +21795,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/electric-fireflies"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17873,6 +21820,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/the-blast"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17895,6 +21845,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/dominion"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17919,6 +21872,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/run-stab-run"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17943,6 +21899,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/tombs-krypton"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17965,6 +21924,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/contention"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -17989,6 +21951,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/slick-snow"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -18013,6 +21978,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/sord"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -18043,6 +22011,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/the-demon-and-the-alien"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -18070,6 +22041,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/party-of-three"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -18094,6 +22068,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/invertebrate"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -18116,6 +22093,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/timaeusamplified"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -18140,6 +22120,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/scabbard"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -18165,6 +22148,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/sketches-in-black"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -18187,6 +22173,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/together-at-last"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -18212,6 +22201,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/infidels"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -18227,7 +22219,7 @@ window.albumData = [
     ],
     "contributors": [
      {
-      "who": "Jeremy Iamurri",
+      "who": "Solatrus",
       "what": "with regards to"
      },
      {
@@ -18245,6 +22237,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/forest-fire"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -18269,6 +22264,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/retrobution-ohgodwhy-remix"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -18291,6 +22289,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/insomniac"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -18313,6 +22314,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/hope-remains"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -18337,6 +22341,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/maid-in-spades"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -18361,6 +22368,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/gears-and-chandeliers"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -18386,12 +22396,15 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/cold-steel"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "Pirates of Alternia: Dead Troll's Chest",
     "artists": [
-     "Will Ascenzo"
+     "Willow Ascenzo"
     ],
     "coverArtists": [
      {
@@ -18411,6 +22424,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/pirates-of-alternia-dead-trolls-chest"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -18433,6 +22449,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/sunsoaked-heavenscape"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -18442,7 +22461,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Lunise",
+      "who": "Christina Lillard",
       "what": null
      }
     ],
@@ -18457,6 +22476,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/explore-keygen-mix"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -18481,6 +22503,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/ohgodboss"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -18490,7 +22515,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Lunise",
+      "who": "Christina Lillard",
       "what": null
      }
     ],
@@ -18509,6 +22534,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/dogfight-dirtiests-dubstep-remix"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -18533,6 +22561,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/starblaze"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    }
   ]
@@ -18549,6 +22580,13 @@ window.albumData = [
    }
   ],
   "directory": "s-collide",
+  "urls": [
+   "https://homestuck.bandcamp.com/album/homestuck-vol-9-10-with-s-collide-and-act-7",
+   "https://www.youtube.com/watch?v=OcwqP0pMxGE"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#cc3322",
@@ -18578,6 +22616,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/creata-canon-edit-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -18599,13 +22640,14 @@ window.albumData = [
     ],
     "lyrics": null,
     "references": [
+     "Ham And Steak",
      "Rex Duodecim Angelus",
      "English",
      "Cascade (Beta)",
      "Doctor",
      "Crystalanthemums",
      "Crustacean",
-     "Black"
+     "Liquid Negrocity"
     ],
     "date": "2016-04-06T03:00:00.000Z",
     "artDate": "2016-04-06T03:00:00.000Z",
@@ -18613,6 +22655,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/oppa-toby-style-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -18637,6 +22682,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/eternity-served-cold-canon-edit-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -18666,7 +22714,2199 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/heir-of-grief-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
+   }
+  ]
+ },
+ {
+  "name": "Beforus",
+  "date": "2016-04-12T03:00:00.000Z",
+  "artDate": "2016-04-12T03:00:00.000Z",
+  "artists": null,
+  "coverArtists": [
+   {
+    "who": "Gilwing",
+    "what": null
+   }
+  ],
+  "directory": "beforus",
+  "urls": [
+   "https://unofficialmspafans.bandcamp.com/album/beforus",
+   "https://www.youtube.com/playlist?list=PL2E1aOkERtLVjjUEd7bl6B8ExTnf5nuLm"
+  ],
+  "isCanon": false,
+  "isBeyond": false,
+  "isOfficial": false,
+  "isFanon": true,
+  "theme": {
+   "fg": "#ff00c5",
+   "bg": "#222222",
+   "theme": 0
+  },
+  "tracks": [
+   {
+    "name": "♪ Disc 1 ♪",
+    "artists": [
+     "Blackhole"
+    ],
+    "coverArtists": [
+     {
+      "who": "Elanor Pam",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "disc1-beforus",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/disc-1"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♈ - Fatalism",
+    "artists": [
+     "Neon Zenith"
+    ],
+    "coverArtists": [
+     {
+      "who": "Amelia G.",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": "Your life was so miserable oh such a waste!\nIt’s all cause your friends had just spat in your face.<br>You used to be fearful that you’d make mistakes, but<br>your meekness and sweetness have faded away.<br>And under it all now your blood starts to boil;<br>You’ll make them all pay for your trouble and toil!<br>Your boyfriend was cheating and left you distraught.<br>But Meenah was meaner oh who would’ve thought<br>that her actions intended to help you along;<br>and you must know somehow that she wasn’t wrong.<br>The future is coming; they’ll just have to wait,<br>but you are determined they’ll all meet their fate.\nCHORUSx2\nWhy do you feel that we’re always against<br>something that detriments good consequence?<br>Why do you try to advocate strife;<br>living an alternate life?\nThe Handmaiden comes as a beacon of doom;<br>she reshapes the past as you watch from your room,<br>and now looking back you can see what she’s done.<br>The battle is over but who really won?<br>You’re being controlled by a glimmering voice;<br>there’s nothing to do ‘cause theres really no choice;<br>You’re damned if you do and you’re damned if you don’t.<br>You want to rebel but you know that you wont<br>be yourself if you do, how could you go on?<Br>You’re trying to help but what’s right is also what’s wrong<br>but you have to believe<br>that you are a person the world really needs.\nCHORUSx2",
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "fatalism",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/fatalism-2"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♉ - Breathtak1ng",
+    "artists": [
+     "Rhyselinn"
+    ],
+    "coverArtists": [
+     {
+      "who": "doodlebonez",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Do The Windy Thing",
+     "dESPERADO ROCKET CHAIRS,",
+     "Bronze Rebel",
+     "The Lost Child",
+     "iRRRRRRRRECONCILA8LE",
+     "Penumbra Phantasm",
+     "Doctor"
+    ],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "breathtak1ng",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/breathtak1ng"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♊ - The Mituna Method",
+    "artists": [
+     "psithurist"
+    ],
+    "coverArtists": [
+     {
+      "who": "slitherbot",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "the-mituna-method",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/the-mituna-method"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♋ - Civil Discussi9n",
+    "artists": [
+     "Blackhole"
+    ],
+    "coverArtists": [
+     {
+      "who": "Taylor Leong",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "civil-discussi9n",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/civil-discussi9n"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♌ - MOG^3",
+    "artists": [
+     "Dallas Ross Hicks"
+    ],
+    "coverArtists": [
+     {
+      "who": "felicitousArtisan",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Nine Lives One Love"
+    ],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "mog3",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/mog-3"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♍ - Let Me Dance, Let Me Glisten",
+    "artists": [
+     "Flutterwhat"
+    ],
+    "coverArtists": [
+     {
+      "who": "VT Stark",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": "Beats blastin in the club,<br>Let me dance, let me listen.<br>everyone one is hella drunk<br>drink like it's a competition\nyou wanna learn these moves?<br>You just want the best views<br>Look at how i glow<br>let the light mystify you\nLet me dance, Let me glisten!<br>Let me dance, Let me glisten!\nhave you gotten a good look<br>the Musics getting to the hook<br>pour to me another glass<br>I want this whole night to last\nLet me dance, Let me glisten!<br>Let me dance, Let me glisten!\nI can see it in your eyes<br>I've got you hypnotized<br>keep telling me your lies<br>I enjoy how you hard try<br>You can look, but never touch<br>cause he night doesn't hold your luck<br>watch my hips swing<br>make me into your fantasy\nLet me dance, Let me glisten!<br>Let me dance, Let me glisten!",
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "let-me-dance-let-me-glisten",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/let-me-dance-let-me-glisten"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♎ - R4d1c4l!",
+    "artists": [
+     "SerialSymphony"
+    ],
+    "coverArtists": [
+     {
+      "who": "Smear",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "r4d1c4l",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/r4d1c4l"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♏ - Salv8tion",
+    "artists": [
+     "Charles Neudorf"
+    ],
+    "coverArtists": [
+     {
+      "who": "HermesNitram",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "salv8tion",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/salv8tion"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♐ - Creeping Blue",
+    "artists": [
+     "Smear"
+    ],
+    "coverArtists": [
+     {
+      "who": "Gene",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "creeping-blue",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/creeping-blue"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♑ - Pious Noise",
+    "artists": [
+     "ndividedbyzero"
+    ],
+    "coverArtists": [
+     {
+      "who": "Robin",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "pious-noise",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/pious-noise"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♒ - Aquasex Renegade",
+    "artists": [
+     "theh0nestman"
+    ],
+    "coverArtists": [
+     {
+      "who": "Circlejourney",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": "Now gather 'round me, cats and kittens,<br>Ease up on me close<br>I got my guitar and my mojo<br>(Of THAT I got the most)<br>Now who's big daddy over there<br>Rockin' in the shade<br>I say \"Hello, pretty dolly.<br>I'm the Aquasex Renegade!\"\nRenegade x 2\nI'm the Aquasex Renegade<br>Wait! Lemme show ya!\nOoh!\nWell I'm all up in your thinkpan,<br>You're diggin' what you see<br>Chickie slide a little closer<br>It's okay if you touch me<br>Now give big daddy some sugar<br>I know I got you made<br>Now let me show you why they call me<br>The Aquasex Renegade\nRenegade x 2\nI'm the Aquasex Renegade<br>Lemme take ya home now, dolly!\nOoh!\nHey wait guys, where ya goin'?",
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "aquasex-renegade",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/aquasex-renegade"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♓ - Killer Beach",
+    "artists": [
+     "Veritas Unae"
+    ],
+    "coverArtists": [
+     {
+      "who": "Hongxii",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Rex Duodecim Angelus",
+     "English",
+     "MeGaLoVania"
+    ],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "killer-beach",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/killer-beach"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♫ Disc 2 ♫",
+    "artists": [
+     "Blackhole"
+    ],
+    "coverArtists": [
+     {
+      "who": "Lovisa Lassen",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "disc2-beforus",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/disc-2"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Memories from Before",
+    "artists": [
+     "Elanor Pam"
+    ],
+    "coverArtists": [
+     {
+      "who": "Sallidido",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "memories-from-before",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/memories-from-before"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Pink Moon Escape",
+    "artists": [
+     "Daedalus Dog"
+    ],
+    "coverArtists": [
+     {
+      "who": "Danna Vital",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "pink-moon-escape",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/pink-moon-escape"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Radiant Imperatrix",
+    "artists": [
+     "Lyza K."
+    ],
+    "coverArtists": [
+     {
+      "who": "Josefin B.",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "radiant-imperatrix",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/radiant-imperatrix"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Speak No Evil. Hear No Evil.",
+    "artists": [
+     "Laurent Désautels-Séguin"
+    ],
+    "coverArtists": [
+     {
+      "who": "Pitchin",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "speak-no-evil-hear-no-evil",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/speak-no-evil-hear-no-evil"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Boy Who Lived (Unfortunately)",
+    "artists": [
+     "Nate Tronerud"
+    ],
+    "coverArtists": [
+     {
+      "who": "Shu",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "the-boy-who-lived-unfortunately",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/the-boy-who-lived-unfortunately"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Weeaboo's Battle Cry",
+    "artists": [
+     "Toris Crow"
+    ],
+    "coverArtists": [
+     {
+      "who": "rockytoad",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "The Brave and the Bronze",
+     "dESPERADO ROCKET CHAIRS,"
+    ],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "the-weeaboos-battle-cry",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/the-weeaboos-battle-cry"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Life With Peace",
+    "artists": [
+     "Matthias Ramalho"
+    ],
+    "coverArtists": [
+     {
+      "who": "enjistier",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "life-with-peace",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/life-with-peace"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Lullaby for a Day",
+    "artists": [
+     "TempiTunes"
+    ],
+    "coverArtists": [
+     {
+      "who": "Winter",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "lullaby-for-a-day",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/lullaby-for-a-day"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Before We Enter",
+    "artists": [
+     "Ducky Senpai"
+    ],
+    "coverArtists": [
+     {
+      "who": "Kayson Spinazzola",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "before-we-enter",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/before-we-enter"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "For Beforus",
+    "artists": [
+     "Nate Tronerud"
+    ],
+    "coverArtists": [
+     {
+      "who": "Lovisa Lassen",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "for-beforus",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/for-beforus"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Battlepump",
+    "artists": [
+     "Elanor Pam"
+    ],
+    "coverArtists": [
+     {
+      "who": "Rebecca Peason",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "battlepump",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/battlepump"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "March 9f the Insuffera6le",
+    "artists": [
+     "Toris Crow"
+    ],
+    "coverArtists": [
+     {
+      "who": "ARTistotel",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "march-9f-the-insuffera6le",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/march-9f-the-insuffera6le"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Land of Cruisin and Bruisin",
+    "artists": [
+     "Nate Tronerud"
+    ],
+    "coverArtists": [
+     {
+      "who": "Amelia G.",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "land-of-cruisin-and-bruisin",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/land-of-cruisin-and-bruisin"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Rust Witch",
+    "artists": [
+     "Ollie"
+    ],
+    "coverArtists": [
+     {
+      "who": "JulietCee",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "rust-witch",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/rust-witch"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Caligomancy",
+    "artists": [
+     "Blackhole"
+    ],
+    "coverArtists": [
+     {
+      "who": "Cakelets",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "caligomancy",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/caligomancy"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Land of Rad Tricks and Gnarly Odorless Things",
+    "artists": [
+     "Laurent Désautels-Séguin"
+    ],
+    "coverArtists": [
+     {
+      "who": "Gillian Pascasio",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "land-of-rad-tricks-and-gnarly-odorless-things",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/land-of-rad-tricks-and-gnarly-odorless-things"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Scratchlses Scraps",
+    "artists": [
+     "ndividedbyzero"
+    ],
+    "coverArtists": [
+     {
+      "who": "Neiratina",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "scratchlses-scraps",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/scratchless-scraps"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Skaia Ad Infinitum",
+    "artists": [
+     "Seijen"
+    ],
+    "coverArtists": [
+     {
+      "who": "Lovisa Lassen",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "skaia-ad-infinitum",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/skaia-ad-infinitum"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Formant (Sprite Chorus Mix)",
+    "artists": [
+     "Blackhole"
+    ],
+    "coverArtists": [
+     {
+      "who": "Sigourney Martin",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Chorale for Jaspers"
+    ],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "formant-sprite-chorus-mix",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/formant-sprite-chorus-mix"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Explored Ruins",
+    "artists": [
+     "RowBird",
+     "one-imperfect-rose"
+    ],
+    "coverArtists": [
+     {
+      "who": "Neiratina",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Explore",
+     "Ruins (With Strings)"
+    ],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "the-explored-ruins",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/the-explored-ruins"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Shipping Implicatpuns",
+    "artists": [
+     "rest✩taurus"
+    ],
+    "coverArtists": [
+     {
+      "who": "Shu",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "shipping-implicatpuns",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/shipping-implicatpuns"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Dear Heart",
+    "artists": [
+     "Dallas Ross Hicks"
+    ],
+    "coverArtists": [
+     {
+      "who": "Danna Vital",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "dear-heart",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/dear-heart"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Look Into The Future",
+    "artists": [
+     "rest✩taurus"
+    ],
+    "coverArtists": [
+     {
+      "who": "Cakelets",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "look-into-the-future",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/look-into-the-future"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Cosmic Malfunction",
+    "artists": [
+     "Ducky Senpai"
+    ],
+    "coverArtists": [
+     {
+      "who": "Gilwing",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "cosmic-malfunction",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/cosmic-malfunction"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Hypnagogia",
+    "artists": [
+     "Nate Tronerud"
+    ],
+    "coverArtists": [
+     {
+      "who": "Rebecca Peason",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "hypnagogia",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/hypnagogia"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "5OM3 GR347 4C7 0F H3R015M",
+    "artists": [
+     "Toris Crow"
+    ],
+    "coverArtists": [
+     {
+      "who": "Gene",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "5om3-gr347-4c7-0f-h3r015m",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/50m3-gr347-4c7-0f-h3r015m"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Time's Apostate",
+    "artists": [
+     "Willow Ascenzo"
+    ],
+    "coverArtists": [
+     {
+      "who": "Sam Garcia",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "times-apostate",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/times-apostate"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Antevo+rta",
+    "artists": [
+     "Toris Crow"
+    ],
+    "coverArtists": [
+     {
+      "who": "Fayghost",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "antevorta",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/antevo-rta"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "7UN3",
+    "artists": [
+     "Princezz"
+    ],
+    "coverArtists": [
+     {
+      "who": "ARTistotel",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "7un3",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/7un3"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "CHEATER PAN",
+    "artists": [
+     "thedistortedsamurai"
+    ],
+    "coverArtists": [
+     {
+      "who": "Robin",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Rust Maid",
+     "psych0ruins",
+     "Indigo Heir",
+     "Bronze Rebel",
+     "dESPERADO ROCKET CHAIRS,"
+    ],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "cheater-pan",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/cheater-pan"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "DAMiterNEIGHtions",
+    "artists": [
+     "rest✩taurus"
+    ],
+    "coverArtists": [
+     {
+      "who": "magnoliajades",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "damiterneightions",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/damiterneightions"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "With the Fishes",
+    "artists": [
+     "Anna Marcus-Hecht"
+    ],
+    "coverArtists": [
+     {
+      "who": "VT Stark",
+      "what": null
+     }
+    ],
+    "contributors": [
+     {
+      "who": "Sean Leeming",
+      "what": "vibraphone"
+     },
+     {
+      "who": "Grace Asuncion",
+      "what": "marimba"
+     },
+     {
+      "who": "Jennifer Amend",
+      "what": "violin"
+     },
+     {
+      "who": "Daniel Angstadt",
+      "what": "violin"
+     },
+     {
+      "who": "Alexandria Kemp",
+      "what": "cello"
+     }
+    ],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "with-the-fishes",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/with-the-fishes"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Timeout",
+    "artists": [
+     "psithurist"
+    ],
+    "coverArtists": [
+     {
+      "who": "Rebecca Peason",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "MeGaLoVania",
+     "Fuchsia Ruler",
+     "Penumbra Phantasm",
+     "Flare",
+     "Killed by BR8K Spider!!!!!!!!"
+    ],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "timeout",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/timeout"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Game Lost",
+    "artists": [
+     "Sean William Calhoun"
+    ],
+    "coverArtists": [
+     {
+      "who": "Elanor Pam",
+      "what": null
+     }
+    ],
+    "contributors": [
+     {
+      "who": "Jeremy Couture",
+      "what": "cello"
+     },
+     {
+      "who": "KingCochino",
+      "what": "cello recording"
+     }
+    ],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "game-lost",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/game-lost"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Press A to Reset",
+    "artists": [
+     "Private I."
+    ],
+    "coverArtists": [
+     {
+      "who": "oxfordroulette",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Hate You",
+     "Theme"
+    ],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "press-a-to-reset",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/press-a-to-reset"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Scratch Before The Calm",
+    "artists": [
+     "Laurent Désautels-Séguin"
+    ],
+    "coverArtists": [
+     {
+      "who": "Scarodactyl",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "the-scratch-before-the-calm",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/the-scratch-before-the-calm"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Voided",
+    "artists": [
+     "Cyclostome"
+    ],
+    "coverArtists": [
+     {
+      "who": "slitherbot",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "voided",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/voided"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Dream Around",
+    "artists": [
+     "Laurent Désautels-Séguin"
+    ],
+    "coverArtists": [
+     {
+      "who": "enjistier",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "dream-around",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/dream-around"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Sylph is In",
+    "artists": [
+     "Sara Stebbins"
+    ],
+    "coverArtists": [
+     {
+      "who": "Quietserval",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Cobalt Corsair"
+    ],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "the-sylph-is-in",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/the-sylph-is-in"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Vwiolet Vwelvwet",
+    "artists": [
+     "Dallas Ross Hicks"
+    ],
+    "coverArtists": [
+     {
+      "who": "Cro",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "vwiolet-vwelvwet",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/vwiolet-vwelvwet"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "STRONG Like Hoofbeast",
+    "artists": [
+     "theh0nestman"
+    ],
+    "coverArtists": [
+     {
+      "who": "felicitousArtisan",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "strong-like-hoofbeast",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/strong-like-hoofbeast"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Whispering Chucklevoodoo",
+    "artists": [
+     "Llyona Fang"
+    ],
+    "coverArtists": [
+     {
+      "who": "Ann-Marie Blackington",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Homestuck Anthem",
+     "Harlequin"
+    ],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "whispering-chucklevoodoo",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/whispering-chucklevoodoo"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "7UR8UL3N7 coll4bor4t1on",
+    "artists": [
+     "laptopStrummer"
+    ],
+    "coverArtists": [
+     {
+      "who": "Sigourney Martin",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "7ur8ul3n7-coll4bor4t1on",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/7ur8ul3n7-coll4bor4t1on"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Solus Vates",
+    "artists": [
+     "TempiTunes"
+    ],
+    "coverArtists": [
+     {
+      "who": "Sam Garcia",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "solus-vates",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/solus-vates"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Radglare",
+    "artists": [
+     "RowBird"
+    ],
+    "coverArtists": [
+     {
+      "who": "oxfordroulette",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "radglare",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/radglare"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "We Are +og3th3r",
+    "artists": [
+     "The One Music Maniac"
+    ],
+    "coverArtists": [
+     {
+      "who": "Josefin B.",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "we-are-tog3th3r",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/we-are-og3th3r"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Divert Momento",
+    "artists": [
+     "TempiTunes"
+    ],
+    "coverArtists": [
+     {
+      "who": "Txesare",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "divert-momento",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/divert-momento"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Curly Fury",
+    "artists": [
+     "laptopStrummer"
+    ],
+    "coverArtists": [
+     {
+      "who": "Sam Garcia",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Blackest Heart",
+     "Purple Tyrant",
+     "Purple Bard"
+    ],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "curly-fury",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/curly-fury"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Light Forms Us",
+    "artists": [
+     "Blackhole"
+    ],
+    "coverArtists": [
+     {
+      "who": "Circlejourney",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "♍ - Let Me Dance",
+     "Let Me Glisten"
+    ],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "the-light-forms-us",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/the-light-forms-us"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Fortune Fins",
+    "artists": [
+     "rest✩taurus"
+    ],
+    "coverArtists": [
+     {
+      "who": "Lyza K.",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "fortune-fins",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/fortune-fins"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Thief of the Ring",
+    "artists": [
+     "The One Music Maniac"
+    ],
+    "coverArtists": [
+     {
+      "who": "Gillian Pascasio",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Carne Vale"
+    ],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "thief-of-the-ring",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/thief-of-the-ring"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "In the Light",
+    "artists": [
+     "slitherbot"
+    ],
+    "coverArtists": [
+     {
+      "who": "Pitchin",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "in-the-light",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/in-the-light"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Funeral March of the Avenging Dead",
+    "artists": [
+     "SerialSymphony"
+    ],
+    "coverArtists": [
+     {
+      "who": "Fayghost",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "funeral-march-of-the-avenging-dead",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/funeral-march-of-the-avenging-dead"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Past and Present",
+    "artists": [
+     "Oliver Hendricks"
+    ],
+    "coverArtists": [
+     {
+      "who": "Scarlet Schaefer",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "past-and-present",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/past-and-present"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Beforus",
+    "artists": [
+     "Toris Crow"
+    ],
+    "coverArtists": [
+     {
+      "who": "Elanor Pam",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Theme"
+    ],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "beforus",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/beforus"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♬ Disc 3 ♬",
+    "artists": [
+     "Blackhole"
+    ],
+    "coverArtists": [
+     {
+      "who": "magnoliajades",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "disc3-beforus",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/disc-3"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Fuchsia Moonrise",
+    "artists": [
+     "Circlejourney"
+    ],
+    "coverArtists": [
+     {
+      "who": "Yellowstockings",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "fuchsia-moonrise",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/fuchsia-moonrise"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Burgundy Revenge",
+    "artists": [
+     "Matthias Ramalho"
+    ],
+    "coverArtists": [
+     {
+      "who": "Smear",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "English"
+    ],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "burgundy-revenge",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/burgundy-revenge"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "#problematicfave",
+    "artists": [
+     "theh0nestman"
+    ],
+    "coverArtists": [
+     {
+      "who": "JulietCee",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "problematicfave",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/problematicfave"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Tree Dwellers",
+    "artists": [
+     "MariEaster"
+    ],
+    "coverArtists": [
+     {
+      "who": "Quietserval",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "tree-dwellers",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/tree-dwellers"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Puppeteer",
+    "artists": [
+     "thesketchqueen"
+    ],
+    "coverArtists": [
+     {
+      "who": "Vanessa Auqué",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": "Hello my darling dear<br>I’ve always been right here<br>Waiting for you, waiting for you<br>What’s that, my darling dear?<br>Suddenly I can’t hear you<br>Cat got your tongue?\nPuppeteer, puppeteer<br>There’s no need to fear<br>Puppeteer, puppeteer<br>You're my love, the one I hold so dear\nI’m known to be the one (you're slipping away)<br>Who’s always good with love (i can't hold on)<br>I make purrfect matches both red and pale (to you)<br>There's no room for mistake (we’re falling apart)<br>I never miscalculate (why won’t you hold)<br>I could never fail (to me)\nRight?\nSo what is this sinister feeling?<br>Why do you insist on disappearing?<br>Why do I black out on a whim,<br>Then wake some place I’ve never been?<br>Where are you, my darling dear?<br>Suddenly I can’t hear at all<br>Cat got your tongue?\nPuppeteer, puppeteer<br>What of you should I fear<br>Puppeteer, puppeteer<br>Suddenly nothing is so clear\nLapses in memory as<br>Your darkness takes hold of me<br>The screams of damned fall on deaf ears<br>A bittersweet melody only I can hear<br>Is this pity or is this love?<br>Or is my decision one I’m not a part of?<br>Logic begs for me to get away<br>But how do I live without you beside me?\nPuppeteer, Puppeteer<br>Now you’re here, I see you crystal clear.\njumbled mess :))\nPuppeteer, Puppeteer<br>I’m paralyzed with fear<br>Puppeteer, Puppeteer<br>You’re my love, the one I hold\nYou’re slipping away, I can’t hold on to you<br>We’re falling apart, why won’t you hold to me<br>You’re slipping away, hold on.",
+    "references": [
+     "Sburban Jungle"
+    ],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "puppeteer",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/puppeteer"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Cardinal Movement",
+    "artists": [
+     "rest✩taurus"
+    ],
+    "coverArtists": [
+     {
+      "who": "Txesare",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "cardinal-movement",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/cardinal-movement"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Anacronus",
+    "artists": [
+     "Laurent Désautels-Séguin"
+    ],
+    "coverArtists": [
+     {
+      "who": "rockytoad",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Flare"
+    ],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "anacronus",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/anacronus"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Madam Firefly",
+    "artists": [
+     "violasarecool"
+    ],
+    "coverArtists": [
+     {
+      "who": "magnoliajades",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": "Madam Firefly,<br>Blinking in the sky,<br>Swim through the stars to find your place,<br>You're wandering through endless space.\nTricky little bug,<br>Tend to your mother grub,<br>Don't worry 'bout the pink and blue,<br>'cause green is all you ever knew,\nUntil the blood was dripping teal and bronze and gold.<br>You took the mantle from your ancestors of old.<br>And though the changes were like chains upon your heart,<br>You cut them loose and tried your best to change your part.\nMadam Firefly,<br>Dead eyes don't gleam so bright.<br>Look o'er the bubbles' pulsing glow,<br>You've many friends dispersed below.\nWhite glimmer fades to grey,<br>You're stronger every day.<br>Provoked, you have a sharp tongue<br>And wit for one who died so young.\nMadam Firefly,<br>Blinking in the sky,<br>Your ghostly limbs are full of grace,<br>Enrobed in fabric made of space.",
+    "references": [
+     "Homestuck Anthem",
+     "Skies of Skaia"
+    ],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "madam-firefly",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/madam-firefly"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "7UN3 R3M1X",
+    "artists": [
+     "Princezz"
+    ],
+    "coverArtists": [
+     {
+      "who": "Shu",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "7UN3"
+    ],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "7un3-r3m1x",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/7un3-r3m1x"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "East Beforan Funk",
+    "artists": [
+     "Blackhole",
+     "The D"
+    ],
+    "coverArtists": [
+     {
+      "who": "memento vivere",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": "D: Aaaaaaow!\nD: Kick it,<br>D: And I'll see<br>D: East Beforus<Br>D: Drives you crazy.<Br>R: We're here, for them bright clothes,<br>R: Lost Weeaboos,<br>R: Got all the pieces.<br>R: Smilin', while I'm,<br>R: Living it up in the trees,<br>D: We'll soar across Beforus,<br>R: Just doing as we damn well please, yeah,<br>D: We're too hot! (R:Hot damn)<br>D: Like Pyralspite or Pupa Pan,<Br>R: We're too hot! (D:Hot damn)<br>R: Sing it out, like bangarang!<br>D: We're too hot! (R:Hot damn)<Br>D: この曲が長すぎます。<br>R: We're too hot! (D:Hot damn)<br>R: And you know what we've got<br>R: Break it down.\nD: Girls let us bring it to ya, (R:Whoo)<br>R: Boys let us bring it to ya, (D:Oh yeah)<br>D+R: Y'all let us bring it to ya, (D:Yeah!)<br>R: East Beforan Funk gon' give it to you,<Br>D: East Beforan Funk gon' give it to you,<Br>D+R: East Beforan Funk gon' give it to you!<br>D+R: When high dark strikes and you're in the spot,<br>D+R: Don't believe us? Just watch!\nD+R: Don't believe us? Just watch!\nD: Don't believe us? Just watch!<br>R: Don't believe us? Just watch!<br>D: Don't believe us? Just watch!<br>R: Don't believe us? Just watch!<br>D: Whoa, oh, oh, oh!\nR: Hey doll,<br>R: Stop a minute.<br>R: Spread your wings, let them flitter a bit!<br>D: Time's rollin', 'til the scratch,<br>D: Rufioh, take it back!<br>R: If you follow, we'll go cross the Medium and more,<Br>R: We'll carry the flame up in the game,<br>D: And we damn well know the score!\nD: We're too hot! (R:Hot damn)<br>D: Like Pyralspite or Pupa Pan,<Br>R: We're too hot! (D:Hot damn)<br>R: Sing it out, like bangarang!<br>D: We're too hot! (R:Hot damn)<br>D: のがクライマックスに行きましょう。<br>R: We're too hot! (D:Hot damn)<Br>R: And you know what we've got<br>D: Break it down.\nR: Trolls let us bring it to ya, (D:Oh)<br>D: Humans let us bring it to ya, (R:Woohoo)<br>D+R: Y'all let us bring it to ya, (D:Yeah!)<br>R: East Beforan Funk gon' give it to you,<br>D: East Beforan Funk gon' give it to you,<br>D+R: East Beforan Funk gon' give it to you!<Br>D+R: When high dark strikes and you're in the spot,<br>D+R: Don't believe us? Just watch!\nD+R: Don't believe us? Just watch!\nR: Don't believe us? Just watch!<br>D: Don't believe us? Just watch!<br>R: Don't believe us? Just watch!<br>D: Don't believe us? Just watch!<br>R: Whoa, oh, oh, oh!\nD: Before we go,<br>D: Let us show you something funky! (R: Yeah)<br>R: East Beforan Funk, East Beforan Funk,<br>D: East Beforan Funk, East Beforan Funk,<br>R: She said East Beforan Funk, East Beforan Funk!<br>D: I said East Beforan Funk, East Beforan Funk!\nR: Come on, dance,<br>R: Let's own it,<br>R: You're a mutant? Yo, just flaunt it,<br>R: Wanna spread your wings? Get on it,<br>R: 'Cause we're bold enough to just show it.<br>D: Come on, dance,<br>D: We'll own it,<br>D: Low blood colour? Just flaunt it,<br>D: When high dark strikes and you're in the spot,<br>D+R: Don't believe us? Just watch!\nD+R: Don't believe us? Just watch!\nD: Don't believe us? Just watch!<br>R: Don't believe us? Just watch!<br>D: Don't believe us? Just watch!<br>R: Don't believe us? Just watch!<br>D: Whoa, oh, oh, oh!\nR: East Beforan Funk, East Beforan Funk, (D: Oh yeah!)<Br>D: East Beforan Funk, East Beforan Funk,<br>R: East Beforan Funk, East Beforan Funk,<br>D: East Beforan Funk, East Beforan Funk, (R: Whoooohoooo)<br>R: East Beforan Funk, East Beforan Funk, (D: Oh yeah!)<br>D+R: East Beforan Funk, East Beforan Funk,<br>D+R: East Beforan Funk, East Beforan Funk, (D: Hey Hey,)<br>D+R: East Beforan Funk,<br>R: Aaaaaaow!",
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "east-beforan-funk",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/east-beforan-funk"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Rex Duodecim Daemonia X (ReDuX)",
+    "artists": [
+     "Veritas Unae"
+    ],
+    "coverArtists": [
+     {
+      "who": "HermesNitram",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "♈ - Fatalism",
+     "♉ - Breathtak1ng",
+     "♊ - The Mituna Method",
+     "♋ - Civil Discussi9n",
+     "♌ - MOG^3",
+     "♍ - Let Me Dance, Let Me Glisten",
+     "♎ - R4d1c4l!",
+     "♏ - Salv8tion",
+     "♐ - Creeping Blue",
+     "♑ - Pious Noise",
+     "♒ - Aquasex Renegade",
+     "♓ - Killer Beach",
+     "Rex Duodecim Angelus",
+     "The Thirteenth Hour"
+    ],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "rex-duodecim-daemonia-x-redux",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/rex-duodecim-daemonia-x-redux"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Motions of Infinity",
+    "artists": [
+     "Toris Crow"
+    ],
+    "coverArtists": [
+     {
+      "who": "Hongxii",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2016-04-12T03:00:00.000Z",
+    "artDate": "2016-04-12T03:00:00.000Z",
+    "directory": "motions-of-infinity",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/motions-of-infinity"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
    }
   ]
  },
@@ -18682,6 +24922,13 @@ window.albumData = [
    }
   ],
   "directory": "act-7",
+  "urls": [
+   "https://homestuck.bandcamp.com/album/homestuck-vol-9-10-with-s-collide-and-act-7",
+   "https://www.youtube.com/watch?v=FPsMeamXcE8"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#c7ff43",
@@ -18720,6 +24967,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/overture-canon-edit-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -18736,6 +24986,13 @@ window.albumData = [
    }
   ],
   "directory": "homestuck-vol-10",
+  "urls": [
+   "https://www.youtube.com/watch?v=LW9-Ov8CiRY",
+   "https://www.youtube.com/playlist?list=PLo6jbRGXGrth0hlSpAR9bO9_-iBqPy7Dq"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#0088ff",
@@ -18779,6 +25036,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/creata-3"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -18801,6 +25061,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/train-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -18825,6 +25088,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/of-gods-and-witches-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -18835,7 +25101,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Shannon Murphy",
+      "who": "Shan Murphy",
       "what": null
      }
     ],
@@ -18850,6 +25116,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/beatup-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -18869,7 +25138,7 @@ window.albumData = [
       "what": "drums, mixing"
      },
      {
-      "who": "Will Ascenzo",
+      "who": "Willow Ascenzo",
       "what": "orchestra, choir"
      },
      {
@@ -18898,7 +25167,7 @@ window.albumData = [
      "Showtime (Piano Refrain)",
      "Showtime (Original Mix)",
      "Aggrieve (Violin Refrain)",
-     "Black",
+     "Liquid Negrocity",
      "Checkmate",
      "Gaia Queen"
     ],
@@ -18908,6 +25177,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/you-killed-my-father-prepare-to-die-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -18933,6 +25205,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/sound-judgement-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -18957,6 +25232,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/aggrievocation-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -18983,6 +25261,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/stride-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -19008,6 +25289,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/skaian-overdrive-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -19032,6 +25316,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/freefall-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -19065,6 +25352,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/moonsweater-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -19087,6 +25377,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/castle-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -19112,6 +25405,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/skaian-happy-flight-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -19134,6 +25430,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/voidlight-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -19158,6 +25457,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/beatdown-dx-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -19213,6 +25515,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/solar-voyage-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -19253,6 +25558,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/feel-alive-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -19275,6 +25583,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/breeze-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -19304,6 +25615,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/starfall-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -19346,6 +25660,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/ascend-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -19373,6 +25690,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/lilith-in-starlight-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -19395,6 +25715,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/thanks-for-playing-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -19454,6 +25777,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/renewed-return-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -19478,6 +25804,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/this-pumpkin-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -19505,7 +25834,323 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/conclude-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
+   }
+  ]
+ },
+ {
+  "name": "Strife 2",
+  "date": "2017-03-13T03:00:00.000Z",
+  "artDate": "2017-03-13T03:00:00.000Z",
+  "artists": [
+   "Tensei"
+  ],
+  "coverArtists": [
+   {
+    "who": "Marimo",
+    "what": null
+   }
+  ],
+  "directory": "strife-2",
+  "urls": [
+   "https://tenseimusic.bandcamp.com/album/strife-2",
+   "https://www.youtube.com/playlist?list=PLo6jbRGXGrtga6SrkG6lFuibIh1nBq5AA"
+  ],
+  "isCanon": false,
+  "isBeyond": false,
+  "isOfficial": false,
+  "isFanon": true,
+  "theme": {
+   "fg": "#a347c5",
+   "bg": "#222222",
+   "theme": 0
+  },
+  "tracks": [
+   {
+    "name": "Spirit of Storms",
+    "artists": [
+     "Tensei"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-03-13T03:00:00.000Z",
+    "artDate": "2017-03-13T03:00:00.000Z",
+    "directory": "spirit-of-storms",
+    "urls": [
+     "https://tenseimusic.bandcamp.com/track/spirit-of-storms",
+     "https://youtu.be/SxAgn108-EI?list=PLo6jbRGXGrtga6SrkG6lFuibIh1nBq5AA"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Sanguine Panchromatic",
+    "artists": [
+     "Tensei"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-03-13T03:00:00.000Z",
+    "artDate": "2017-03-13T03:00:00.000Z",
+    "directory": "sanguine-panchromatic",
+    "urls": [
+     "https://tenseimusic.bandcamp.com/track/sanguine-panchromatic",
+     "https://youtu.be/6Vcp1k7NCFM?list=PLo6jbRGXGrtga6SrkG6lFuibIh1nBq5AA"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "G4M3 OR D13",
+    "artists": [
+     "Tensei"
+    ],
+    "coverArtists": [
+     {
+      "who": "nights",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-03-13T03:00:00.000Z",
+    "artDate": "2017-03-13T03:00:00.000Z",
+    "directory": "g4m3-or-d13",
+    "urls": [
+     "https://tenseimusic.bandcamp.com/track/g4m3-or-d13",
+     "https://youtu.be/yFlmr242IfA?list=PLo6jbRGXGrtga6SrkG6lFuibIh1nBq5AA"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Rouge on the Rox",
+    "artists": [
+     "Tensei"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-03-13T03:00:00.000Z",
+    "artDate": "2017-03-13T03:00:00.000Z",
+    "directory": "rouge-on-the-rox",
+    "urls": [
+     "https://tenseimusic.bandcamp.com/track/rouge-on-the-rox",
+     "https://youtu.be/3hepsdc1xPc?list=PLo6jbRGXGrtga6SrkG6lFuibIh1nBq5AA"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Perfect Cascade of the Heart",
+    "artists": [
+     "Tensei"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Cascade (Beta)",
+     "Time on My Side"
+    ],
+    "date": "2017-03-13T03:00:00.000Z",
+    "artDate": "2017-03-13T03:00:00.000Z",
+    "directory": "perfect-cascade-of-the-heart",
+    "urls": [
+     "https://tenseimusic.bandcamp.com/track/perfect-cascade-of-the-heart",
+     "https://youtu.be/8_iVaqCiRFE?list=PLo6jbRGXGrtga6SrkG6lFuibIh1nBq5AA"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Hope Strikes Eternal",
+    "artists": [
+     "Tensei"
+    ],
+    "coverArtists": [
+     {
+      "who": "nights",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-03-13T03:00:00.000Z",
+    "artDate": "2017-03-13T03:00:00.000Z",
+    "directory": "hope-strikes-eternal",
+    "urls": [
+     "https://tenseimusic.bandcamp.com/track/hope-strikes-eternal",
+     "https://youtu.be/OK4EIzezQ78?list=PLo6jbRGXGrtga6SrkG6lFuibIh1nBq5AA"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Aerosoul",
+    "artists": [
+     "Tensei"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-03-13T03:00:00.000Z",
+    "artDate": "2017-03-13T03:00:00.000Z",
+    "directory": "aerosoul",
+    "urls": [
+     "https://tenseimusic.bandcamp.com/track/aerosoul",
+     "https://youtu.be/EQfJqxsQ_P8?list=PLo6jbRGXGrtga6SrkG6lFuibIh1nBq5AA"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Arachnofunkia",
+    "artists": [
+     "Tensei"
+    ],
+    "coverArtists": [
+     {
+      "who": "nights",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-03-13T03:00:00.000Z",
+    "artDate": "2017-03-13T03:00:00.000Z",
+    "directory": "arachnofunkia",
+    "urls": [
+     "https://tenseimusic.bandcamp.com/track/arachnofunkia",
+     "https://youtu.be/gHllq3hex28?list=PLo6jbRGXGrtga6SrkG6lFuibIh1nBq5AA"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The King in Red",
+    "artists": [
+     "Tensei"
+    ],
+    "coverArtists": [
+     {
+      "who": "nights",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Crustacean"
+    ],
+    "date": "2017-03-13T03:00:00.000Z",
+    "artDate": "2017-03-13T03:00:00.000Z",
+    "directory": "the-king-in-red",
+    "urls": [
+     "https://tenseimusic.bandcamp.com/track/the-king-in-red",
+     "https://youtu.be/8kMVJ8wvLoo?list=PLo6jbRGXGrtga6SrkG6lFuibIh1nBq5AA"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Heel Girl",
+    "artists": [
+     "Tensei"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Umbral Ultimatum"
+    ],
+    "date": "2017-03-13T03:00:00.000Z",
+    "artDate": "2017-03-13T03:00:00.000Z",
+    "directory": "heel-girl",
+    "urls": [
+     "https://tenseimusic.bandcamp.com/track/heel-girl",
+     "https://youtu.be/RrU12KztX0Q?list=PLo6jbRGXGrtga6SrkG6lFuibIh1nBq5AA"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Unite Division",
+    "artists": [
+     "Tensei"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Liquid Negrocity"
+    ],
+    "date": "2017-03-13T03:00:00.000Z",
+    "artDate": "2017-03-13T03:00:00.000Z",
+    "directory": "unite-division",
+    "urls": [
+     "https://tenseimusic.bandcamp.com/track/unite-division",
+     "https://youtu.be/qZWBziarZ2E?list=PLo6jbRGXGrtga6SrkG6lFuibIh1nBq5AA"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Spirit of Storms (Reprise)",
+    "artists": [
+     "Tensei"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Spirit of Storms"
+    ],
+    "date": "2017-03-13T03:00:00.000Z",
+    "artDate": "2017-03-13T03:00:00.000Z",
+    "directory": "spirit-of-storms-reprise",
+    "urls": [
+     "https://tenseimusic.bandcamp.com/track/spirit-of-storms-reprise",
+     "https://youtu.be/psmbW5obOrQ?list=PLo6jbRGXGrtga6SrkG6lFuibIh1nBq5AA"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
    }
   ]
  },
@@ -19516,11 +26161,18 @@ window.albumData = [
   "artists": null,
   "coverArtists": [
    {
-    "who": "Sozay",
+    "who": "Sozzay",
     "what": null
    }
   ],
   "directory": "lofam4",
+  "urls": [
+   "https://unofficialmspafans.bandcamp.com/album/land-of-fans-and-music-4",
+   "https://www.youtube.com/playlist?list=PLYr2YZ5D3rfQBkwagYEi_JPvVYUIVfxn6"
+  ],
+  "isCanon": false,
+  "isBeyond": false,
+  "isOfficial": false,
   "isFanon": true,
   "theme": {
    "fg": "#aed6f0",
@@ -19546,6 +26198,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/disc-1-2"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -19572,6 +26227,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/merge"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -19597,6 +26255,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/jungle-3"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -19619,6 +26280,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/frost-and-clockwork"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -19644,6 +26308,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/reunited"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -19666,6 +26333,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/prospitian-crescent"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -19688,6 +26358,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/altitude"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -19713,6 +26386,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/midnight"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -19741,12 +26417,15 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/dersite"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "Pax Condesca",
     "artists": [
-     "ViKomprenas"
+     "Viko Riféo"
     ],
     "coverArtists": [
      {
@@ -19766,6 +26445,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/pax-condesca"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -19791,6 +26473,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/blind-pilot"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -19813,6 +26498,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/daywalker-rise"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -19837,6 +26525,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/savior-of-the-waking-world-cement-city-remix"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -19859,12 +26550,15 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/skaian-dreamers"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "Emerald Waltz",
     "artists": [
-     "Will Ascenzo"
+     "Willow Ascenzo"
     ],
     "coverArtists": [
      {
@@ -19883,6 +26577,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/emerald-waltz"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -19905,6 +26602,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/intermission"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -19930,6 +26630,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/retconjuration"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -19952,6 +26655,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/formation"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -19974,6 +26680,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/scales"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -19996,6 +26705,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/glide"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20023,12 +26735,15 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/limelight"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "Bonehead Destiny (LoFaM Cut)",
     "artists": [
-     "power464646"
+     "Grace Medley"
     ],
     "coverArtists": [
      {
@@ -20047,6 +26762,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/bonehead-destiny-lofam-cut"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20074,6 +26792,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/stubborn-throes"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20099,6 +26820,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/my-lady-greensleeves"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20121,6 +26845,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/highland-thunder"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20143,6 +26870,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/ghosts"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20169,6 +26899,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/pilotwave"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20191,6 +26924,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/aura-of-colour"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20215,6 +26951,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/beyond-the-death-of-the-king"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20241,6 +26980,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/en-masse"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20263,6 +27005,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/grief"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20285,6 +27030,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/plethoric-euphoria"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20310,6 +27058,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/buffskull"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20334,6 +27085,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/im-a-member-of-the-midnight-crew-theh0nestman-version"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20360,6 +27114,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/crystalendofgames"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20370,7 +27127,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Remi",
+      "who": "Buck",
       "what": null
      }
     ],
@@ -20385,6 +27142,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/disc-2-2"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20409,6 +27169,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/hiatus"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20465,6 +27228,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/homosuck-directors-cut-of-the-year-edition"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20489,6 +27255,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/three-in-the-morning-ngames-bowmix-explicit"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20514,6 +27283,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/schr-dingers-harbinger"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20536,6 +27308,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/listless-squiddly-bliss"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20545,7 +27320,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "P. Gibson",
+      "who": "Phil Gibson",
       "what": null
      }
     ],
@@ -20564,6 +27339,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/all-the-luck"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20587,6 +27365,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/wisest-wizord"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20609,6 +27390,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/prospit-towers"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20631,6 +27415,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/red"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20658,12 +27445,15 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/daydreamer"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "Grimbark",
     "artists": [
-     "Will Ascenzo"
+     "Willow Ascenzo"
     ],
     "coverArtists": [
      {
@@ -20682,6 +27472,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/grimbark"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20704,6 +27497,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/upward-meowvement-davepetasprite-2-owns"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20726,6 +27522,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/requited-dirtiest-remix"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20750,6 +27549,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/expanses-of-interstellar-space"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20787,6 +27589,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/horizontal-headshot"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20809,6 +27614,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/one-and-a-half-midnight"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20831,6 +27639,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/fractal-flowers-nui"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20862,6 +27673,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/ringleader"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20934,6 +27748,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/dance-of-the-dead"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20959,6 +27776,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/atomyk-clockwyrk"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -20981,6 +27801,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/cleopatras-cocktail-party"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21005,6 +27828,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/quest-crypt"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21037,6 +27863,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/noble-ascendance"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21046,7 +27875,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Culljoy",
+      "who": "Cro",
       "what": null
      }
     ],
@@ -21061,6 +27890,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/sunslammer-cement-city-remix"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21085,6 +27917,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/climbing-to-infinity"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21109,6 +27944,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/beatup-shutdown"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21135,12 +27973,15 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/airtime-assault"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "Robert Jailbreak",
     "artists": [
-     "FriendlyCoy"
+     "Matthias Ramalho"
     ],
     "coverArtists": [
      {
@@ -21161,6 +28002,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/robert-jailbreak"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21188,6 +28032,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/hors"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21215,6 +28062,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/the-gemoni-mustard-blood"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21240,6 +28090,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/reconciled"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21279,6 +28132,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/the-end-of-something-really-excellent"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21311,6 +28167,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/the-sin-and-the-salvation"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21341,6 +28200,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/resend"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21366,6 +28228,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/disc-3-2"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21397,6 +28262,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/pseudumbra-phauxtasm"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21421,6 +28289,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/crystalmethequins-broken-bad"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21430,7 +28301,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "TwinBuilder",
+      "who": "Ephemerald",
       "what": null
      }
     ],
@@ -21450,6 +28321,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/thyme-on-my-fries"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21480,6 +28354,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/raise-of-the-conductors-baton"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21504,6 +28381,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/radness-from-concentrate"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21526,6 +28406,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/conflict"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21550,6 +28433,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/solar-momentum"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21580,12 +28466,15 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/omega-timeline"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "Emerald Cinders",
     "artists": [
-     "power464646"
+     "Grace Medley"
     ],
     "coverArtists": [
      {
@@ -21607,6 +28496,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/emerald-cinders"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21629,6 +28521,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/sugar-cubes"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21651,12 +28546,15 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/fond-regard"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "Prospitian Monody",
     "artists": [
-     "ViKomprenas"
+     "Viko Riféo"
     ],
     "coverArtists": [
      {
@@ -21677,6 +28575,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/prospitian-monody"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21704,6 +28605,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/shatter"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21726,6 +28630,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/denizen"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21760,20 +28667,28 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/ultimate-alchemy"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "The Sock Ruse",
     "artists": [
-     "Facetious & Friends"
+     "Alex Votl"
     ],
     "coverArtists": [
      {
-      "who": "Nick Turner",
+      "who": "Nick Tucker",
       "what": null
      }
     ],
-    "contributors": [],
+    "contributors": [
+     {
+      "who": "Facetious (Alex Votl) & Friends",
+      "what": null
+     }
+    ],
     "lyrics": "Please <a href=\"feedback/index.html\">send me</a> the lyrics, i love them but i cannot make out a few parts <3\n<i>From <a href=\"http://www.mspaintadventures.com/sweetbroandhellajeff/?cid=007.jpg\">Sweet Bro and Hella Jeff, page 7</a>.</i>",
     "references": [],
     "date": "2017-09-09T03:00:00.000Z",
@@ -21782,6 +28697,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/the-sock-ruse"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21810,6 +28728,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/juju-breaker"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21832,6 +28753,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/tragic-heights"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21858,6 +28782,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/waltz-for-calliope"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21885,12 +28812,15 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/everlasting"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
     "name": "Crystalline Repose",
     "artists": [
-     "Will Ascenzo"
+     "Willow Ascenzo"
     ],
     "coverArtists": [
      {
@@ -21909,6 +28839,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/crystalline-repose"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21936,6 +28869,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/black-hole-white-door"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21967,6 +28903,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/strife-mayhem"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -21991,6 +28930,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/moonsetter-strider-remix"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -22015,6 +28957,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/exsanguinated"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -22044,6 +28989,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/premortem"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -22079,6 +29027,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/fruitjam"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -22101,6 +29052,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/lightfall"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -22125,6 +29079,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/blanc"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -22155,6 +29112,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/collision-course-davepetas-movement"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -22199,6 +29159,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/revisit-rewind"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -22229,6 +29192,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/homestuck-sonata"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -22253,6 +29219,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/wicker-kingdom"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -22290,6 +29259,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/skaian-rebirth"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    }
   ]
@@ -22308,6 +29280,13 @@ window.albumData = [
    }
   ],
   "directory": "the-grubbles",
+  "urls": [
+   "https://homestuck.bandcamp.com/album/hiveswap-act-1-ost-with-the-grubbles",
+   "https://www.youtube.com/playlist?list=PLo6jbRGXGrtjQOs-3_TbJ6SvFBUEhztgj"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#dd0000",
@@ -22331,6 +29310,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/broom-temperature",
      "https://youtu.be/cuqKzBxAnE8"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22349,6 +29331,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/frondly-warning",
      "https://youtu.be/OfkccsHR4fs"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22367,6 +29352,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/ghost-mound",
      "https://youtu.be/QqJhLGGHqCk"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22385,6 +29373,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/every-single-grievance",
      "https://youtu.be/D8N_53-cjGU"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22405,6 +29396,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/get-the-horns",
      "https://youtu.be/ZZbFo1W1TjQ"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -22424,6 +29418,14 @@ window.albumData = [
    }
   ],
   "directory": "hiveswap-act-1-ost",
+  "urls": [
+   "https://homestuck.bandcamp.com/album/homestuck-vol-9-10-with-s-collide-and-act-7",
+   "https://www.youtube.com/watch?v=IgPxbofdLF4",
+   "https://www.youtube.com/playlist?list=PLYtcpsy5kmMBxI5JuhAvlAV7wHkrts_w9"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#33cc77",
@@ -22449,6 +29451,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/definitely-safe-forever-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22471,6 +29476,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/snake-escape-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22489,6 +29497,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/joey-claire-extraordinaire-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22509,6 +29520,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/half-harley-manor-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22529,6 +29543,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/relatively-visible-darkness-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22549,6 +29566,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/bedroom-for-an-annoying-dog-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22570,6 +29590,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/thats-how-i-beat-snake-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22591,6 +29614,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/jude-harley-bizarrely-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22611,6 +29637,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/table-for-tooth-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22631,6 +29660,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/final-spice-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22652,6 +29684,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/living-legend-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22672,6 +29707,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/singular-peril-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22692,6 +29730,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/a-more-defensible-position-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22712,6 +29753,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/open-the-door-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22732,6 +29776,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/keep-your-head-down-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22752,6 +29799,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/oh-whoa-whats-this-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22772,6 +29822,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/some-kind-of-alien-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22790,6 +29843,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/rustblood-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22810,6 +29866,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/filthy-nuclear-bunker-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22830,6 +29889,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/sports-personally-i-love-them-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22850,6 +29912,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/lofted-gunpile-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22868,6 +29933,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/serpent-genesis-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22888,6 +29956,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/we-shall-go-together-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22908,6 +29979,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/wish-you-were-here-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22930,6 +30004,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/intermission-1-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22948,6 +30025,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/b-side-old-steps-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22968,6 +30048,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/b-side-how-it-could-have-gone-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -22986,6 +30069,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/b-side-alternate-recipe-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -23008,6 +30094,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/b-side-heavy-snaking-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -23028,6 +30117,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/b-side-spooktune-2"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -23046,6 +30138,14 @@ window.albumData = [
    }
   ],
   "directory": "hiveswap-friendsim",
+  "urls": [
+   "https://homestuck.bandcamp.com/album/hiveswap-friendsim",
+   "https://www.youtube.com/watch?v=UkwFC9Y_i4E",
+   "https://www.youtube.com/playlist?list=PLo6jbRGXGrthDwNj6v6rJKBBmRNluTn3d"
+  ],
+  "isCanon": true,
+  "isBeyond": false,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#33aaff",
@@ -23074,6 +30174,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/artchop-apparently",
      "https://soundcloud.com/jamesroachmusic/i-guess-its-called-artchop-i-didnt-name-it-but-im-down"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -23097,6 +30200,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/-",
      "https://soundcloud.com/jamesroachmusic/a-bunch-of-boxes-that-dont-translate-into-a-url"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -23120,6 +30226,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/call-me-gor-gor",
      "https://soundcloud.com/jamesroachmusic/call-me-gor-gor"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -23143,6 +30252,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/tfw-another-james-roach-track",
      "https://soundcloud.com/jamesroachmusic/tfw-another-james-roach-track"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -23166,6 +30278,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/piwates",
      "https://soundcloud.com/jamesroachmusic/piwates"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -23189,6 +30304,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/it-be-like-that-sometimes",
      "https://soundcloud.com/jamesroachmusic/it-be-like-that-sometimes"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -23212,6 +30330,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/take-me-to-clown-church",
      "https://soundcloud.com/jamesroachmusic/take-me-to-clown-church"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -23235,6 +30356,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/fortnite-funny-moments-epic-fails-episode-413",
      "https://soundcloud.com/jamesroachmusic/fortnite-funny-moments-epic-fails-episode-413"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -23258,6 +30382,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/old-secret",
      "https://soundcloud.com/jamesroachmusic/old-secret"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -23281,6 +30408,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/iiywaswiwtbotsa4aatwuotdtmihcimfh",
      "https://soundcloud.com/jamesroachmusic/iiywaswiwtbotsa4aatwuotdtmihcimfh"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -23304,6 +30434,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/service-car",
      "https://soundcloud.com/jamesroachmusic/service-car"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -23327,6 +30460,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/an-ascii-image-of-bowsette",
      "https://soundcloud.com/jamesroachmusic/an-ascii-image-of-bowsette"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -23350,6 +30486,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/idk-man-you-name-it-im-tired",
      "https://soundcloud.com/jamesroachmusic/wanshis-theme-idk-man-you-name-it-im-tired"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -23373,6 +30512,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/graveyard-shift",
      "https://soundcloud.com/jamesroachmusic/graveyard-shift-play-the-route-and-then-tweet-hamesatron-about-how-good-this-title-is"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -23399,6 +30541,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/clownfucker",
      "https://soundcloud.com/jamesroachmusic/clownfucker-by-james-roach-and-toby-fox"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -23422,6 +30567,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/this-title-was-too-long",
      "https://soundcloud.com/jamesroachmusic/this-title-is-too-long-see-description-darayas-theme"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -23445,6 +30593,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/turns-out-its-like-the-shoe",
      "https://soundcloud.com/jamesroachmusic/lmao-i-still-dont-know-if-its-nicky-or-nike-like-the-shoe-not-like-the-name-mike"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -23463,6 +30614,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/yall-know-i-just-do-the-music-right"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -23480,6 +30634,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/the-final-clowntdown"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -23501,6 +30658,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/end-of-friendvangelion"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -23518,6 +30678,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/valid-end"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -23535,7 +30698,7 @@ window.albumData = [
     "lyrics": null,
     "references": [
      "English",
-     "Black",
+     "Liquid Negrocity",
      "GRAVEYARD SHIFT"
     ],
     "date": "2018-12-15T04:00:00.000Z",
@@ -23544,7 +30707,317 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/worst-end"
     ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
     "isFanon": false
+   }
+  ]
+ },
+ {
+  "name": "Perfectly Generic Album",
+  "date": "2019-11-10T04:00:00.000Z",
+  "artDate": "2019-11-10T04:00:00.000Z",
+  "artists": [
+   "Cristata"
+  ],
+  "coverArtists": [
+   {
+    "who": "Cristata",
+    "what": null
+   }
+  ],
+  "directory": "perfectly-generic-album",
+  "urls": [
+   "https://smoothiefruitee.bandcamp.com/album/perfectly-generic-album",
+   "https://www.youtube.com/playlist?list=PLjYwXMkTvx6XTlCI7yQymaeeow-92CCS9"
+  ],
+  "isCanon": false,
+  "isBeyond": false,
+  "isOfficial": false,
+  "isFanon": true,
+  "theme": {
+   "fg": "#1cb611",
+   "bg": "#222222",
+   "theme": 0
+  },
+  "tracks": [
+   {
+    "name": "New and Improved",
+    "artists": [
+     "Cristata"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2019-11-10T04:00:00.000Z",
+    "artDate": "2019-11-10T04:00:00.000Z",
+    "directory": "new-and-improved",
+    "urls": [
+     "https://smoothiefruitee.bandcamp.com/track/new-and-improved",
+     "https://youtu.be/PNFVwcHAqmI?list=PLjYwXMkTvx6XTlCI7yQymaeeow-92CCS9"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Healing June",
+    "artists": [
+     "Cristata"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Doctor"
+    ],
+    "date": "2019-11-10T04:00:00.000Z",
+    "artDate": "2019-11-10T04:00:00.000Z",
+    "directory": "healing-june",
+    "urls": [
+     "https://smoothiefruitee.bandcamp.com/track/healing-june",
+     "https://youtu.be/xZtfOpp-0jo?list=PLjYwXMkTvx6XTlCI7yQymaeeow-92CCS9"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Moondancer",
+    "artists": [
+     "Cristata"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Moonsetter"
+    ],
+    "date": "2019-11-10T04:00:00.000Z",
+    "artDate": "2019-11-10T04:00:00.000Z",
+    "directory": "moondancer",
+    "urls": [
+     "https://smoothiefruitee.bandcamp.com/track/moondancer",
+     "https://youtu.be/Y9ltxPAI1r4?list=PLjYwXMkTvx6XTlCI7yQymaeeow-92CCS9"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Perfectly Generic",
+    "artists": [
+     "Cristata"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2019-11-10T04:00:00.000Z",
+    "artDate": "2019-11-10T04:00:00.000Z",
+    "directory": "perfectly-generic",
+    "urls": [
+     "https://smoothiefruitee.bandcamp.com/track/perfectly-generic",
+     "https://youtu.be/hYDmVvC2lMU?list=PLjYwXMkTvx6XTlCI7yQymaeeow-92CCS9"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Nepeta Plays Kingdom Hearts and Loses her Shit Over Lion King Sora",
+    "artists": [
+     "Cristata"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2019-11-10T04:00:00.000Z",
+    "artDate": "2019-11-10T04:00:00.000Z",
+    "directory": "nepeta-plays-kingdom-hearts-and-loses-her-shit-over-lion-king-sora",
+    "urls": [
+     "https://smoothiefruitee.bandcamp.com/track/nepeta-plays-kingdom-hearts-and-loses-her-shit-over-lion-king-sora",
+     "https://youtu.be/Xdp-61b-k2c?list=PLjYwXMkTvx6XTlCI7yQymaeeow-92CCS9"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "NEBULAMPHIBIAN",
+    "artists": [
+     "Cristata"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2019-11-10T04:00:00.000Z",
+    "artDate": "2019-11-10T04:00:00.000Z",
+    "directory": "nebulamphibian",
+    "urls": [
+     "https://smoothiefruitee.bandcamp.com/track/nebulamphibian",
+     "https://youtu.be/pIf8vXLo-kg?list=PLjYwXMkTvx6XTlCI7yQymaeeow-92CCS9"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Quartz and Melody",
+    "artists": [
+     "Cristata"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2019-11-10T04:00:00.000Z",
+    "artDate": "2019-11-10T04:00:00.000Z",
+    "directory": "quartz-and-melody",
+    "urls": [
+     "https://smoothiefruitee.bandcamp.com/track/quartz-and-melody",
+     "https://youtu.be/I8AMmelSZm8?list=PLjYwXMkTvx6XTlCI7yQymaeeow-92CCS9"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Thought and Flow",
+    "artists": [
+     "Cristata"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2019-11-10T04:00:00.000Z",
+    "artDate": "2019-11-10T04:00:00.000Z",
+    "directory": "thought-and-flow-pga",
+    "urls": [
+     "https://smoothiefruitee.bandcamp.com/track/thought-and-flow",
+     "https://youtu.be/3vE59Fdjdh4?list=PLjYwXMkTvx6XTlCI7yQymaeeow-92CCS9"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Gaster's Theme",
+    "artists": [
+     "Cristata"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2019-11-10T04:00:00.000Z",
+    "artDate": "2019-11-10T04:00:00.000Z",
+    "directory": "gasters-theme",
+    "urls": [
+     "https://smoothiefruitee.bandcamp.com/track/gasters-theme",
+     "https://youtu.be/kBzGz-XmMew?list=PLjYwXMkTvx6XTlCI7yQymaeeow-92CCS9"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Another Noir (Extended Void Mix)",
+    "artists": [
+     "Cristata"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2019-11-10T04:00:00.000Z",
+    "artDate": "2019-11-10T04:00:00.000Z",
+    "directory": "another-noir-extended-void-mix",
+    "urls": [
+     "https://smoothiefruitee.bandcamp.com/track/another-noir-extended-void-mix",
+     "https://youtu.be/if21XVJnGlE?list=PLjYwXMkTvx6XTlCI7yQymaeeow-92CCS9"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Megalo in Death // ʞɔɐq ǝʞᴉɹʇS ɥʇɐǝp",
+    "artists": [
+     "Cristata"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2019-11-10T04:00:00.000Z",
+    "artDate": "2019-11-10T04:00:00.000Z",
+    "directory": "megalo-in-death",
+    "urls": [
+     "https://smoothiefruitee.bandcamp.com/track/megalo-in-death-q-s-p",
+     "https://youtu.be/scoo6r7rW_E?list=PLjYwXMkTvx6XTlCI7yQymaeeow-92CCS9"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Welcome to Your New Suburban Reality",
+    "artists": [
+     "Cristata"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2019-11-10T04:00:00.000Z",
+    "artDate": "2019-11-10T04:00:00.000Z",
+    "directory": "welcome-to-your-new-suburban-reality",
+    "urls": [
+     "https://smoothiefruitee.bandcamp.com/track/welcome-to-your-new-suburban-reality",
+     "https://youtu.be/_3NstB6oouo?list=PLjYwXMkTvx6XTlCI7yQymaeeow-92CCS9"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Eternally You",
+    "artists": [
+     "Cristata"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2019-11-10T04:00:00.000Z",
+    "artDate": "2019-11-10T04:00:00.000Z",
+    "directory": "eternally-you",
+    "urls": [
+     "https://smoothiefruitee.bandcamp.com/track/eternally-you",
+     "https://youtu.be/mqPxB2ustEU?list=PLjYwXMkTvx6XTlCI7yQymaeeow-92CCS9"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
    }
   ]
  },
@@ -23560,6 +31033,13 @@ window.albumData = [
    }
   ],
   "directory": "diverging-delicacies",
+  "urls": [
+   "https://unofficialmspafans.bandcamp.com/album/diverging-delicacies",
+   "https://www.youtube.com/playlist?list=PL1fTYKSo2grAJ--CZjFkFeFa3Uy6-xV4x"
+  ],
+  "isCanon": false,
+  "isBeyond": false,
+  "isOfficial": false,
   "isFanon": true,
   "theme": {
    "fg": "#f2a400",
@@ -23589,6 +31069,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/greetings-from-earth-c"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -23614,6 +31097,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/hauntological-nightmares"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -23638,6 +31124,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/the-decision-the-division"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -23657,6 +31146,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/meat-epilogue"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -23681,6 +31173,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/party-god"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -23728,6 +31223,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/constituent-hearts"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -23754,6 +31252,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/the-cyan-experience"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -23788,6 +31289,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/the-rarest-and-most-interpretive-dance-meatcabre"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -23819,6 +31323,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/irrelevance-event-horizon"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -23844,6 +31351,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/betrayed"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -23869,6 +31379,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/gone-in-a-moment"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -23899,6 +31412,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/i-am-ascending-and-it-is-terrible"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -23925,6 +31441,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/come"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -23950,6 +31469,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/kamina-burana-ascend-to-the-highest-point-of-the-building"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -23974,6 +31496,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/giving-up-the-ghost"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -23983,7 +31508,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "swan",
+      "who": "sw4nfire",
       "what": null
      }
     ],
@@ -23996,6 +31521,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/pursuit-in-polykrome"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -24015,6 +31543,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/candy-epilogue"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -24037,6 +31568,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/athazagoraphobia"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -24063,6 +31597,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/repentance-galore"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -24085,6 +31622,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/rumble-in-da-pumpkin-patch"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -24112,6 +31652,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/remember-me-when-i-am-gone-away"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -24136,6 +31679,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/dirks-dreamers"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -24167,6 +31713,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/ghost-hole"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -24196,6 +31745,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/heritage-for-the-future"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -24218,6 +31770,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/thats-kind-of-xenophobic"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -24240,6 +31795,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/the-floor-is-faygo"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -24269,6 +31827,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/universal-remission"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    },
    {
@@ -24291,6 +31852,9 @@ window.albumData = [
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/postscript-sugar-mix"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
     "isFanon": true
    }
   ]
@@ -24307,6 +31871,14 @@ window.albumData = [
    }
   ],
   "directory": "beyond-canon",
+  "urls": [
+   "https://homestuck.bandcamp.com/album/beyond-canon",
+   "https://www.youtube.com/watch?v=CliIjlWjOMY",
+   "https://www.youtube.com/playlist?list=PLnVpmehyaOFbH-1hH663k70qBQp5jc_CU"
+  ],
+  "isCanon": false,
+  "isBeyond": true,
+  "isOfficial": true,
   "isFanon": false,
   "theme": {
    "fg": "#f2a400",
@@ -24321,14 +31893,18 @@ window.albumData = [
     ],
     "coverArtists": null,
     "contributors": [],
-    "lyrics": null,
+    "lyrics": "(vocalizations of \"ee\" and \"ah\")<br>always<br>you --<br>(vocalizations of \"ee\" and \"ah\" continue)<br>-- made a monster<br>ha ha ha<br>ha ha-ah\n<i>\"You sit up there all day long and do <b>nothing.</b> Except come down and make tea.</i>\nyou just made a monster (x4)\n(sampled vocoder breakdown begins)\nthe skyline, the skyline, the<br>storyteller<br>the skyline, the skyline<br>the storyteller\nyou just made a monster (x4)",
     "references": [],
     "date": "2020-04-13T03:00:00.000Z",
     "artDate": "2020-04-13T03:00:00.000Z",
     "directory": "exclusion-zone",
     "urls": [
-     "https://homestuck.bandcamp.com/track/exclusion-zone"
+     "https://homestuck.bandcamp.com/track/exclusion-zone",
+     "https://www.youtube.com/watch?v=yllaAhv5EYA"
     ],
+    "isCanon": false,
+    "isBeyond": true,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -24348,6 +31924,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/now-im-a-villain"
     ],
+    "isCanon": false,
+    "isBeyond": true,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -24372,6 +31951,9 @@ window.albumData = [
      "https://www.youtube.com/watch?v=xxVwRERwmJg",
      "https://soundcloud.com/polysaw/homestuck-beyond-canon-cosmic-carousel"
     ],
+    "isCanon": false,
+    "isBeyond": true,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -24392,6 +31974,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/surprise-were-back",
      "https://soundcloud.com/flareproductions/surprise-were-back"
     ],
+    "isCanon": false,
+    "isBeyond": true,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -24412,6 +31997,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/split-reality",
      "https://www.youtube.com/watch?v=XzZ7PNmcHiU"
     ],
+    "isCanon": false,
+    "isBeyond": true,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -24429,6 +32017,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/assembly"
     ],
+    "isCanon": false,
+    "isBeyond": true,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -24446,6 +32037,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/not-canon-in-f-major-op-69"
     ],
+    "isCanon": false,
+    "isBeyond": true,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -24472,6 +32066,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/the-leaving"
     ],
+    "isCanon": false,
+    "isBeyond": true,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -24492,9 +32089,11 @@ window.albumData = [
     "artDate": "2020-04-13T03:00:00.000Z",
     "directory": "light-burns-out-gestalt",
     "urls": [
-     "https://homestuck.bandcamp.com/track/light-burns-out-gestalt",
-     "https://soundcloud.com/shes-beautiful/light-goes-out-gestalt"
+     "https://homestuck.bandcamp.com/track/light-burns-out-gestalt"
     ],
+    "isCanon": false,
+    "isBeyond": true,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -24512,6 +32111,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/hometeam-adv8ntage"
     ],
+    "isCanon": false,
+    "isBeyond": true,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -24519,7 +32121,12 @@ window.albumData = [
     "artists": [
      "Circlejourney"
     ],
-    "coverArtists": null,
+    "coverArtists": [
+     {
+      "who": "Circlejourney",
+      "what": null
+     }
+    ],
     "contributors": [],
     "lyrics": null,
     "references": [],
@@ -24528,8 +32135,12 @@ window.albumData = [
     "directory": "after-the-sun",
     "urls": [
      "https://homestuck.bandcamp.com/track/after-the-sun",
-     "https://www.youtube.com/watch?v=wEIWdGAOBuc"
+     "https://www.youtube.com/watch?v=wEIWdGAOBuc",
+     "https://soundcloud.com/circlejourney/after-the-sun"
     ],
+    "isCanon": false,
+    "isBeyond": true,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -24553,6 +32164,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/narrative-command",
      "https://www.youtube.com/watch?v=keoJTpGQxPE"
     ],
+    "isCanon": false,
+    "isBeyond": true,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -24570,6 +32184,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/eleventh-hour"
     ],
+    "isCanon": false,
+    "isBeyond": true,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -24587,6 +32204,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/adios-lost-boys"
     ],
+    "isCanon": false,
+    "isBeyond": true,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -24605,6 +32225,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/moving-onwards",
      "https://soundcloud.com/friendly-coy/moving-onwards"
     ],
+    "isCanon": false,
+    "isBeyond": true,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -24622,6 +32245,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/make-a-pretty-picture"
     ],
+    "isCanon": false,
+    "isBeyond": true,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -24641,6 +32267,9 @@ window.albumData = [
     "urls": [
      "https://homestuck.bandcamp.com/track/four-kids-and-a-game-they-played-together"
     ],
+    "isCanon": false,
+    "isBeyond": true,
+    "isOfficial": true,
     "isFanon": false
    },
    {
@@ -24664,6 +32293,9 @@ window.albumData = [
      "https://homestuck.bandcamp.com/track/crystal-hung-in-firmaments-descent",
      "https://soundcloud.com/emelia-kaylee/crystal-hung-in-firmaments-descent"
     ],
+    "isCanon": false,
+    "isBeyond": true,
+    "isOfficial": true,
     "isFanon": false
    }
   ]
@@ -26103,7 +33735,7 @@ window.flashData = [
    "Indigo Heir",
    "Orchid Horror",
    "Davesprite",
-   "iRRRRRRRRECONCIA8LE"
+   "iRRRRRRRRECONCILA8LE"
   ],
   "theme": {
    "fg": "#b536da"
@@ -27378,6 +35010,10 @@ window.flashData = [
    {
     "who": "Xamag",
     "what": "art: backgrounds, endings"
+   },
+   {
+    "who": "Mint Chipleaf",
+    "what": "programming"
    }
   ],
   "tracks": [
@@ -27404,6 +35040,10 @@ window.flashData = [
    {
     "who": "Courtney Brendle",
     "what": "art: backgrounds, endings"
+   },
+   {
+    "who": "David Turnbull",
+    "what": "programming"
    }
   ],
   "tracks": [
@@ -27429,6 +35069,10 @@ window.flashData = [
    {
     "who": "Xamag",
     "what": "art: backgrounds, endings"
+   },
+   {
+    "who": "Mint Chipleaf",
+    "what": "programming"
    }
   ],
   "tracks": [
@@ -27447,7 +35091,7 @@ window.flashData = [
   "contributors": [
    {
     "who": "David Turnbull",
-    "what": "writing"
+    "what": "writing, programming"
    },
    {
     "who": "Breya Rivera",
@@ -27485,6 +35129,10 @@ window.flashData = [
    {
     "who": "Phil Gibson",
     "what": "art: backgrounds, endings"
+   },
+   {
+    "who": "Mint Chipleaf",
+    "what": "programming"
    }
   ],
   "tracks": [
@@ -27515,6 +35163,10 @@ window.flashData = [
    {
     "who": "Courtney Brendle",
     "what": "art: backgrounds, endings"
+   },
+   {
+    "who": "David Turnbull",
+    "what": "programming"
    }
   ],
   "tracks": [
@@ -27545,6 +35197,10 @@ window.flashData = [
    {
     "who": "Gina Chacón",
     "what": "art: backgrounds, endings"
+   },
+   {
+    "who": "Mint Chipleaf",
+    "what": "programming"
    }
   ],
   "tracks": [
@@ -27562,7 +35218,7 @@ window.flashData = [
   "contributors": [
    {
     "who": "David Turnbull",
-    "what": "writing: Tavros"
+    "what": "writing: Tavros, programming"
    },
    {
     "who": "James Roach",
@@ -27609,6 +35265,10 @@ window.flashData = [
    {
     "who": "Charlie Flocke",
     "what": "art: backgrounds, endings"
+   },
+   {
+    "who": "Mint Chipleaf",
+    "what": "programming"
    }
   ],
   "tracks": [
@@ -27639,6 +35299,10 @@ window.flashData = [
    {
     "who": "Gina Chacón",
     "what": "art: backgrounds, endings"
+   },
+   {
+    "who": "Zichao Zang",
+    "what": "programming"
    }
   ],
   "tracks": [
@@ -27666,6 +35330,10 @@ window.flashData = [
    {
     "who": "Courtney Brendle",
     "what": "art: backgrounds, endings"
+   },
+   {
+    "who": "Adelaide Killigan",
+    "what": "prorgamming"
    }
   ],
   "tracks": [
@@ -27691,6 +35359,10 @@ window.flashData = [
    {
     "who": "Gina Chacón",
     "what": "art: backgrounds, endings"
+   },
+   {
+    "who": "Andrew D.",
+    "what": "programming"
    }
   ],
   "tracks": [
@@ -27716,6 +35388,10 @@ window.flashData = [
    {
     "who": "Courtney Brendle",
     "what": "art: backgrounds, endings"
+   },
+   {
+    "who": "Andrew D.",
+    "what": "programming"
    }
   ],
   "tracks": [
@@ -27746,6 +35422,10 @@ window.flashData = [
    {
     "who": "Courtney Brendle",
     "what": "art: backgrounds, endings"
+   },
+   {
+    "who": "Adelaide Killigan",
+    "what": "programming"
    }
   ],
   "tracks": [
