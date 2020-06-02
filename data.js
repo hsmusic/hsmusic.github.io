@@ -31081,7 +31081,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "tipsy",
+      "who": "Tipsy",
       "what": null
      }
     ],
@@ -31782,7 +31782,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "tipsy",
+      "who": "Tipsy",
       "what": null
      }
     ],
@@ -31891,7 +31891,12 @@ window.albumData = [
     "artists": [
      "horizon"
     ],
-    "coverArtists": null,
+    "coverArtists": [
+     {
+      "who": "Zowerlemon",
+      "what": null
+     }
+    ],
     "contributors": [],
     "lyrics": "(vocalizations of \"ee\" and \"ah\")<br>always<br>you --<br>(vocalizations of \"ee\" and \"ah\" continue)<br>-- made a monster<br>ha ha ha<br>ha ha-ah\n<i>\"You sit up there all day long and do <b>nothing.</b> Except come down and make tea.</i>\nyou just made a monster (x4)\n(sampled vocoder breakdown begins)\nthe skyline, the skyline, the<br>storyteller<br>the skyline, the skyline<br>the storyteller\nyou just made a monster (x4)",
     "references": [],
@@ -31912,7 +31917,12 @@ window.albumData = [
     "artists": [
      "David Ellis"
     ],
-    "coverArtists": null,
+    "coverArtists": [
+     {
+      "who": "Jas",
+      "what": null
+     }
+    ],
     "contributors": [],
     "lyrics": null,
     "references": [
@@ -31936,7 +31946,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "CrepesAhoy",
+      "who": "Rachel Z",
       "what": null
      }
     ],
@@ -31961,7 +31971,12 @@ window.albumData = [
     "artists": [
      "Sean Gorter"
     ],
-    "coverArtists": null,
+    "coverArtists": [
+     {
+      "who": "D'paq",
+      "what": null
+     }
+    ],
     "contributors": [],
     "lyrics": null,
     "references": [
@@ -31984,7 +31999,12 @@ window.albumData = [
     "artists": [
      "Xauric"
     ],
-    "coverArtists": null,
+    "coverArtists": [
+     {
+      "who": "Gastlu",
+      "what": null
+     }
+    ],
     "contributors": [],
     "lyrics": null,
     "references": [
@@ -32007,7 +32027,12 @@ window.albumData = [
     "artists": [
      "Erik Scheele"
     ],
-    "coverArtists": null,
+    "coverArtists": [
+     {
+      "who": "ysh",
+      "what": null
+     }
+    ],
     "contributors": [],
     "lyrics": null,
     "references": [],
@@ -32027,7 +32052,12 @@ window.albumData = [
     "artists": [
      "Alex Votl"
     ],
-    "coverArtists": null,
+    "coverArtists": [
+     {
+      "who": "Spicy Nyx",
+      "what": null
+     }
+    ],
     "contributors": [],
     "lyrics": null,
     "references": [],
@@ -32047,7 +32077,12 @@ window.albumData = [
     "artists": [
      "Marcus Carline"
     ],
-    "coverArtists": null,
+    "coverArtists": [
+     {
+      "who": "RainbowLustDash",
+      "what": null
+     }
+    ],
     "contributors": [
      {
       "who": "Marc Encabo",
@@ -32058,7 +32093,7 @@ window.albumData = [
       "what": "drums"
      }
     ],
-    "lyrics": "Smoke is all I breathe,<br>is all you hear, is all in me.<br>Taste the drier air.<br>There’s nothing left.\nLetters fill the empty space.<br>There’s so much space that’s left untouched.<br>Running scares me more than God,<br>but staying can’t sustain.\nThe sparks of fire, earthbound,<br>have found your home. Be gone now.<br>It’s not your fault, you know this.<br>But the leaving is just the same.\nI feel the wind beneath my arms.<br>It’s warmer now than I recall.<br>Have you heard the news today?<br>They closed the school.\nYou and I have been through this,<br>have been through that, have been at ease.<br>Nothing scares me more than God,<br>and Nothing cannot sustain.\nThe sparks of fire, earthbound,<br>have found your home. Be gone now.<br>It’s not your fault, you know this.<br>But the leaving is still the same.\nYou sent me fire.<br>Fire, I’ll tear my throat out.<br>Burn my blackened lips.<br>You gave me fire.<br>Fire, I’ll tear my heart out.<br>I’d rather tear my heart out.<br>But I can’t stay here.\nThe sparks of fire earthbound<br>have found your home. Be gone now.<br>It’s not your fault, you know this.<br>But you can’t help but turn around.<br>The embers haven’t faded.<br>The love you left, unmade.<br>It’s not your fault, you know this.<br>But the leaving is still the same.",
+    "lyrics": "Smoke is all I breathe,<br>is all you hear, is all in me.<br>Taste the drier air.<br>There's nothing left.\nLetters fill the empty space.<br>There's so much space that's left untouched.<br>Running scares me more than God,<br>but staying can't sustain.\nThe sparks of fire, earthbound,<br>have found your home. Be gone now.<br>It's not your fault, you know this.<br>But the leaving is just the same.\nI feel the wind beneath my arms.<br>It's warmer now than I recall.<br>Have you heard the news today?<br>They closed the school.\nYou and I have been through this,<br>have been through that, have been at ease.<br>Nothing scares me more than God,<br>and Nothing cannot sustain.\nThe sparks of fire, earthbound,<br>have found your home. Be gone now.<br>It's not your fault, you know this.<br>But the leaving is still the same.\nYou sent me fire.<br>Fire, I'll tear my throat out.<br>Burn my blackened lips.<br>You gave me fire.<br>Fire, I'll tear my heart out.<br>I'd rather tear my heart out.<br>But I can't stay here.\nThe sparks of fire earthbound<br>have found your home. Be gone now.<br>It's not your fault, you know this.<br>But you can't help but turn around.<br>The embers haven't faded.<br>The love you left, unmade.<br>It's not your fault, you know this.<br>But the leaving is still the same.",
     "references": [],
     "date": "2020-04-13T03:00:00.000Z",
     "artDate": "2020-04-13T03:00:00.000Z",
@@ -32078,7 +32113,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Waif",
+      "who": "Mikkynga",
       "what": null
      }
     ],
@@ -32101,7 +32136,12 @@ window.albumData = [
     "artists": [
      "Twirlin' Curtis"
     ],
-    "coverArtists": null,
+    "coverArtists": [
+     {
+      "who": "Tipsy",
+      "what": null
+     }
+    ],
     "contributors": [],
     "lyrics": null,
     "references": [],
@@ -32123,7 +32163,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Circlejourney",
+      "who": "zzzealousy",
       "what": null
      }
     ],
@@ -32150,7 +32190,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Sean William Calhoun",
+      "who": "Ana",
       "what": null
      }
     ],
@@ -32174,7 +32214,12 @@ window.albumData = [
     "artists": [
      "Monobrow"
     ],
-    "coverArtists": null,
+    "coverArtists": [
+     {
+      "who": "Skyplayer",
+      "what": null
+     }
+    ],
     "contributors": [],
     "lyrics": null,
     "references": [],
@@ -32194,7 +32239,12 @@ window.albumData = [
     "artists": [
      "Clark Powell"
     ],
-    "coverArtists": null,
+    "coverArtists": [
+     {
+      "who": "qsleeper",
+      "what": null
+     }
+    ],
     "contributors": [],
     "lyrics": null,
     "references": [],
@@ -32214,7 +32264,12 @@ window.albumData = [
     "artists": [
      "Matthias Ramalho"
     ],
-    "coverArtists": null,
+    "coverArtists": [
+     {
+      "who": "cratmang",
+      "what": null
+     }
+    ],
     "contributors": [],
     "lyrics": null,
     "references": [],
@@ -32235,7 +32290,12 @@ window.albumData = [
     "artists": [
      "Tristan Scroggins"
     ],
-    "coverArtists": null,
+    "coverArtists": [
+     {
+      "who": "Aeritus",
+      "what": null
+     }
+    ],
     "contributors": [],
     "lyrics": null,
     "references": [],
@@ -32255,9 +32315,14 @@ window.albumData = [
     "artists": [
      "Robert J! Lake"
     ],
-    "coverArtists": null,
+    "coverArtists": [
+     {
+      "who": "Star-nomad",
+      "what": null
+     }
+    ],
     "contributors": [],
-    "lyrics": "it’s been a little bit since the last time we all talked<br>so...how are all of you doing?<br>i know that i have been a bit unkind to you all<br>and i’m trying to undo it\nwe thought this ended years ago but it survived<br>i've forgotten far too often why i even recognize these faces<br>that don't have names placed with them<br>inside my hazy brain, but then<br>there's too much to begin to touch on here\ni’m<br>pulled back<br>once again<br>and i told myself,<br>told myself,<br>told myself<br>i wouldn’t be on this adventure\nbut i’m haunted by<br>all of these memories<br>that i have of four kids<br>and the game they played together\ni burned the bridges thoroughly but still everyone's trusting me again<br>and i should be relieved but it happened so suddenly<br>and i know in my heart i haven't earned this,<br>but everyone acts like my concern isn't a problem<br>like nothing is wrong with my very involvement\nbut i know how the song ends\ni can’t begin to list the times that i’ve walked<br>along this road and concluded<br>that nothing that i’ve done here will make sense, in the end<br>but i find that kind of soothing",
+    "lyrics": "it's been a little bit since the last time we all talked<br>so...how are all of you doing?<br>i know that i have been a bit unkind to you all<br>and i'm trying to undo it\nwe thought this ended years ago but it survived<br>i've forgotten far too often why i even recognize these faces<br>that don't have names placed with them<br>inside my hazy brain, but then<br>there's too much to begin to touch on here\ni'm<br>pulled back<br>once again<br>and i told myself,<br>told myself,<br>told myself<br>i wouldn't be on this adventure\nbut i'm haunted by<br>all of these memories<br>that i have of four kids<br>and the game they played together\ni burned the bridges thoroughly but still everyone's trusting me again<br>and i should be relieved but it happened so suddenly<br>and i know in my heart i haven't earned this,<br>but everyone acts like my concern isn't a problem<br>like nothing is wrong with my very involvement\nbut i know how the song ends\ni can't begin to list the times that i've walked<br>along this road and concluded<br>that nothing that i've done here will make sense, in the end<br>but i find that kind of soothing",
     "references": [
      "Four Kids and a Game They Play Together"
     ],
@@ -32279,7 +32344,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Emelia K.",
+      "who": "awkward",
       "what": null
      }
     ],
