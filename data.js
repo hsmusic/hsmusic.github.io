@@ -31901,7 +31901,7 @@ window.albumData = [
     "lyrics": "(vocalizations of \"ee\" and \"ah\")<br>always<br>you --<br>(vocalizations of \"ee\" and \"ah\" continue)<br>-- made a monster<br>ha ha ha<br>ha ha-ah\n<i>\"You sit up there all day long and do <b>nothing.</b> Except come down and make tea.</i>\nyou just made a monster (x4)\n(sampled vocoder breakdown begins)\nthe skyline, the skyline, the<br>storyteller<br>the skyline, the skyline<br>the storyteller\nyou just made a monster (x4)",
     "references": [],
     "date": "2020-04-13T03:00:00.000Z",
-    "artDate": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-06-01T03:00:00.000Z",
     "directory": "exclusion-zone",
     "urls": [
      "https://homestuck.bandcamp.com/track/exclusion-zone",
@@ -31929,7 +31929,7 @@ window.albumData = [
      "Showtime (Original Mix)"
     ],
     "date": "2020-04-13T03:00:00.000Z",
-    "artDate": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-06-01T03:00:00.000Z",
     "directory": "now-im-a-villain",
     "urls": [
      "https://homestuck.bandcamp.com/track/now-im-a-villain"
@@ -31954,7 +31954,7 @@ window.albumData = [
     "lyrics": null,
     "references": [],
     "date": "2020-04-13T03:00:00.000Z",
-    "artDate": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-06-01T03:00:00.000Z",
     "directory": "cosmic-carousel",
     "urls": [
      "https://homestuck.bandcamp.com/track/cosmic-carousel",
@@ -31983,7 +31983,7 @@ window.albumData = [
      "End of Act"
     ],
     "date": "2020-04-13T03:00:00.000Z",
-    "artDate": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-06-01T03:00:00.000Z",
     "directory": "surprise-were-back",
     "urls": [
      "https://homestuck.bandcamp.com/track/surprise-were-back",
@@ -32011,7 +32011,7 @@ window.albumData = [
      "Alphamatic Replacement"
     ],
     "date": "2020-04-13T03:00:00.000Z",
-    "artDate": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-06-01T03:00:00.000Z",
     "directory": "split-reality",
     "urls": [
      "https://homestuck.bandcamp.com/track/split-reality",
@@ -32037,7 +32037,7 @@ window.albumData = [
     "lyrics": null,
     "references": [],
     "date": "2020-04-13T03:00:00.000Z",
-    "artDate": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-06-01T03:00:00.000Z",
     "directory": "assembly",
     "urls": [
      "https://homestuck.bandcamp.com/track/assembly"
@@ -32062,7 +32062,7 @@ window.albumData = [
     "lyrics": null,
     "references": [],
     "date": "2020-04-13T03:00:00.000Z",
-    "artDate": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-06-01T03:00:00.000Z",
     "directory": "not-canon-in-f-major-op-69",
     "urls": [
      "https://homestuck.bandcamp.com/track/not-canon-in-f-major-op-69"
@@ -32096,7 +32096,7 @@ window.albumData = [
     "lyrics": "Smoke is all I breathe,<br>is all you hear, is all in me.<br>Taste the drier air.<br>There's nothing left.\nLetters fill the empty space.<br>There's so much space that's left untouched.<br>Running scares me more than God,<br>but staying can't sustain.\nThe sparks of fire, earthbound,<br>have found your home. Be gone now.<br>It's not your fault, you know this.<br>But the leaving is just the same.\nI feel the wind beneath my arms.<br>It's warmer now than I recall.<br>Have you heard the news today?<br>They closed the school.\nYou and I have been through this,<br>have been through that, have been at ease.<br>Nothing scares me more than God,<br>and Nothing cannot sustain.\nThe sparks of fire, earthbound,<br>have found your home. Be gone now.<br>It's not your fault, you know this.<br>But the leaving is still the same.\nYou sent me fire.<br>Fire, I'll tear my throat out.<br>Burn my blackened lips.<br>You gave me fire.<br>Fire, I'll tear my heart out.<br>I'd rather tear my heart out.<br>But I can't stay here.\nThe sparks of fire earthbound<br>have found your home. Be gone now.<br>It's not your fault, you know this.<br>But you can't help but turn around.<br>The embers haven't faded.<br>The love you left, unmade.<br>It's not your fault, you know this.<br>But the leaving is still the same.",
     "references": [],
     "date": "2020-04-13T03:00:00.000Z",
-    "artDate": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-06-01T03:00:00.000Z",
     "directory": "the-leaving",
     "urls": [
      "https://homestuck.bandcamp.com/track/the-leaving"
@@ -32121,7 +32121,7 @@ window.albumData = [
     "lyrics": null,
     "references": [],
     "date": "2020-04-13T03:00:00.000Z",
-    "artDate": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-06-01T03:00:00.000Z",
     "directory": "light-burns-out-gestalt",
     "urls": [
      "https://homestuck.bandcamp.com/track/light-burns-out-gestalt"
@@ -32146,7 +32146,7 @@ window.albumData = [
     "lyrics": null,
     "references": [],
     "date": "2020-04-13T03:00:00.000Z",
-    "artDate": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-06-01T03:00:00.000Z",
     "directory": "hometeam-adv8ntage",
     "urls": [
      "https://homestuck.bandcamp.com/track/hometeam-adv8ntage"
@@ -32171,7 +32171,7 @@ window.albumData = [
     "lyrics": null,
     "references": [],
     "date": "2020-04-13T03:00:00.000Z",
-    "artDate": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-06-01T03:00:00.000Z",
     "directory": "after-the-sun",
     "urls": [
      "https://homestuck.bandcamp.com/track/after-the-sun",
@@ -32198,7 +32198,7 @@ window.albumData = [
     "lyrics": null,
     "references": [],
     "date": "2020-04-13T03:00:00.000Z",
-    "artDate": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-06-01T03:00:00.000Z",
     "directory": "narrative-command",
     "urls": [
      "https://homestuck.bandcamp.com/track/narrative-command",
@@ -32224,7 +32224,7 @@ window.albumData = [
     "lyrics": null,
     "references": [],
     "date": "2020-04-13T03:00:00.000Z",
-    "artDate": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-06-01T03:00:00.000Z",
     "directory": "eleventh-hour",
     "urls": [
      "https://homestuck.bandcamp.com/track/eleventh-hour"
@@ -32249,7 +32249,7 @@ window.albumData = [
     "lyrics": null,
     "references": [],
     "date": "2020-04-13T03:00:00.000Z",
-    "artDate": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-06-01T03:00:00.000Z",
     "directory": "adios-lost-boys",
     "urls": [
      "https://homestuck.bandcamp.com/track/adios-lost-boys"
@@ -32274,7 +32274,7 @@ window.albumData = [
     "lyrics": null,
     "references": [],
     "date": "2020-04-13T03:00:00.000Z",
-    "artDate": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-06-01T03:00:00.000Z",
     "directory": "moving-onwards",
     "urls": [
      "https://homestuck.bandcamp.com/track/moving-onwards",
@@ -32300,7 +32300,7 @@ window.albumData = [
     "lyrics": null,
     "references": [],
     "date": "2020-04-13T03:00:00.000Z",
-    "artDate": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-06-01T03:00:00.000Z",
     "directory": "make-a-pretty-picture",
     "urls": [
      "https://homestuck.bandcamp.com/track/make-a-pretty-picture"
@@ -32327,7 +32327,7 @@ window.albumData = [
      "Four Kids and a Game They Play Together"
     ],
     "date": "2020-04-13T03:00:00.000Z",
-    "artDate": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-06-01T03:00:00.000Z",
     "directory": "four-kids-and-a-game-they-played-together",
     "urls": [
      "https://homestuck.bandcamp.com/track/four-kids-and-a-game-they-played-together"
@@ -32352,7 +32352,7 @@ window.albumData = [
     "lyrics": null,
     "references": [],
     "date": "2020-04-13T03:00:00.000Z",
-    "artDate": "2020-04-13T03:00:00.000Z",
+    "artDate": "2020-06-01T03:00:00.000Z",
     "directory": "crystal-hung-in-firmaments-descent",
     "urls": [
      "https://homestuck.bandcamp.com/track/crystal-hung-in-firmaments-descent",
