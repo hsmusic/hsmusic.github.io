@@ -10,82 +10,87 @@
         <script defer src="client.js"></script>
     </head>
     <body style="--fg-color: #00aaff; --bg-color: #222222; --theme: 0; --album-directory: one-year-older; --track-directory: firefly-cloud">
-        <div id="sidebar">
-            <h2><a href="index.html">(Home)</a></h2>
-            <!-- <h3>Official</h3> -->
-            <hr>
-            <h1><a href="album/one-year-older/index.html">One Year Older</a></h1>
-            <ol>
-                <li class=""><a href="track/sunrise/index.html">Sunrise</a></li>
-                <li class=""><a href="track/october/index.html">October</a></li>
-                <li class="current"><a href="track/firefly-cloud/index.html">Firefly Cloud</a></li>
-                <li class=""><a href="track/fantasyp/index.html">FantasyP</a></li>
-                <li class=""><a href="track/underfoot/index.html">Underfoot</a></li>
-                <li class=""><a href="track/flying-car/index.html">Flying Car</a></li>
-                <li class=""><a href="track/cancerous-core/index.html">Cancerous Core</a></li>
-                <li class=""><a href="track/game-over/index.html">Game Over</a></li>
-                <li class=""><a href="track/unlabeled/index.html">Unlabeled</a></li>
-                <li class=""><a href="track/skaian-shrapnel/index.html">Skaian Shrapnel</a></li>
-                <li class=""><a href="track/the-scratch/index.html">The Scratch</a></li>
-                <li class=""><a href="track/respit/index.html">Respit</a></li>
-                <li class=""><a href="track/negastrife/index.html">Negastrife</a></li>
-                <li class=""><a href="track/mother/index.html">Mother</a></li>
-                <li class=""><a href="track/another-chance/index.html">Another Chance</a></li>
-                <li class=""><a href="track/under-the-hat/index.html">Under The Hat</a></li>
-                <li class=""><a href="track/mother-piano/index.html">Mother (Piano)</a></li>
-            </ol>
-            <hr>
-            <p>
-                <a href="js-disabled/index.html" data-random="track-in-album">Random track</a></li>
-            </p>
-            
-                        <p>
-                            44th track by <a href="artist/erik-scheele/index.html">Erik Scheele</a><br>
-                            (<a href="track/october/index.html" title="October">Previous</a>, <a href="track/fantasyp/index.html" title="FantasyP">Next</a>)
-                        </p>
-                        <p>
-                            4th cover art by <a href="artist/nic-carey/index.html">Nic Carey</a><br>
-                            (<a href="track/austin-atlantis/index.html" title="Austin, Atlantis">Previous</a>)
-                        </p>
+        <div id="header">
+            <h2>
+                <a href="index.html">Home</a>
+                / <a href="album/one-year-older/index.html">One Year Older</a>
+                / <a href="track/firefly-cloud/index.html">Firefly Cloud</a>
+                <span>(<a href="track/october/index.html" title="October">Previous</a>, <a href="track/fantasyp/index.html" title="FantasyP">Next</a>, <a href="js-disabled/index.html" data-random="track-in-album">Random</a>)</span>
+            </h2>
+            <div>
+                
+                                <div class="chronology">
+                                    <span class="heading">42nd track by <a href="artist/erik-scheele/index.html">Erik Scheele</a></span>
+                                    <span class="buttons">(<a href="track/october/index.html" title="October">Previous</a>, <a href="track/fantasyp/index.html" title="FantasyP">Next</a>)</span>
+                                </div>
+                                <div class="chronology">
+                                    <span class="heading">4th cover art by <a href="artist/nic-carey/index.html">Nic Carey</a></span>
+                                    <span class="buttons">(<a href="track/austin-atlantis/index.html" title="Austin, Atlantis">Previous</a>)</span>
+                                </div>
+            </div>
         </div>
-        <div id="content">
-            <a href="album/one-year-older/firefly-cloud.jpg" id="cover-art"><img src="album/one-year-older/firefly-cloud.jpg"></a>
-            <h1>Firefly Cloud</h1>
-            <p>
-                By <a href="artist/erik-scheele/index.html">Erik Scheele</a>.<br>
-                Cover art by <a href="artist/nic-carey/index.html">Nic Carey</a>.<br>
-                Released 2012-08-15.
+        <div class="columns">
+            <div id="sidebar">
+                <h1><a href="album/one-year-older/index.html">One Year Older</a></h1>
+                <ol>
+                    <li class=""><a href="track/sunrise/index.html">Sunrise</a></li>
+                    <li class=""><a href="track/october/index.html">October</a></li>
+                    <li class="current"><a href="track/firefly-cloud/index.html">Firefly Cloud</a></li>
+                    <li class=""><a href="track/fantasyp/index.html">FantasyP</a></li>
+                    <li class=""><a href="track/underfoot/index.html">Underfoot</a></li>
+                    <li class=""><a href="track/flying-car/index.html">Flying Car</a></li>
+                    <li class=""><a href="track/cancerous-core/index.html">Cancerous Core</a></li>
+                    <li class=""><a href="track/game-over/index.html">Game Over</a></li>
+                    <li class=""><a href="track/unlabeled/index.html">Unlabeled</a></li>
+                    <li class=""><a href="track/skaian-shrapnel/index.html">Skaian Shrapnel</a></li>
+                    <li class=""><a href="track/the-scratch/index.html">The Scratch</a></li>
+                    <li class=""><a href="track/respit/index.html">Respit</a></li>
+                    <li class=""><a href="track/negastrife/index.html">Negastrife</a></li>
+                    <li class=""><a href="track/mother/index.html">Mother</a></li>
+                    <li class=""><a href="track/another-chance/index.html">Another Chance</a></li>
+                    <li class=""><a href="track/under-the-hat/index.html">Under The Hat</a></li>
+                    <li class=""><a href="track/mother-piano/index.html">Mother (Piano)</a></li>
+                </ol>
+            </div>
+            <div id="content">
+                <a href="album/one-year-older/firefly-cloud.jpg" id="cover-art"><img src="album/one-year-older/firefly-cloud.jpg"></a>
+                <h1>Firefly Cloud</h1>
+                <p>
+                    By <a href="artist/erik-scheele/index.html">Erik Scheele</a>.<br>
+                    Cover art by <a href="artist/nic-carey/index.html">Nic Carey</a>.<br>
+                    Released 2012-08-15.
+                    
+                </p>
+                <p>Listen on <a href="https://erikscheele.bandcamp.com/track/firefly-cloud">Bandcamp</a>.</p>
                 
-            </p>
-            <p>Listen on <a href="https://erikscheele.bandcamp.com/track/firefly-cloud">Bandcamp</a>.</p>
-            
-            <p>Tracks that <i>Firefly Cloud</i> references:</p>
-            <ul>
-                <li>
-                    <a href="track/doctor/index.html" style="--fg-color: #aaccff; --bg-color: #222222; --theme: 0">Doctor</a>
-                    <span class="by">by <a href="artist/buzinkai/index.html">Buzinkai</a></span>
-                </li>
-            </ul>
-            <p>Tracks that reference <i>Firefly Cloud</i>:</p>
-            <dl>
-                
-                <dt>Fandom:</dt>
-                <dd><ul>
+                <p>Tracks that <i>Firefly Cloud</i> references:</p>
+                <ul>
                     <li>
-                        <a href="track/electric-fireflies/index.html" style="--fg-color: #88a4ff; --bg-color: #222222; --theme: 0">Electric Fireflies</a>
-                        <span class="by">by <a href="artist/thomas-ibarra/index.html">Thomas Ibarra</a></span>
+                        <a href="track/doctor/index.html" style="--fg-color: #aaccff; --bg-color: #222222; --theme: 0">Doctor</a>
+                        <span class="by">by <a href="artist/buzinkai/index.html">Buzinkai</a></span>
                     </li>
-                </ul></dd>
-            </dl>
-            
-            
-            <p>Artist commentary:</p>
-            <blockquote>
-                <p><i>Eric Scheele:</i></p>
-                <p>So after a quick burst of events and some luck, John finds himself in LOWAS, the Land of Wind and Shade. Everything's dark, except for the stars above, but as we found out, the were really fireflies trapped in the clouds. This was one of the concepts I latched onto rather hard with this piece, the mass of sparkling and blinking above John as he traipsed about. I've been lucky enough to live in a more rural area for most of my life, and being able to watch the stars was always great, so I could only ever imagine what LOWAS's clouds looked like.</p>
-                <p>Anyway. I kept the sparkling mainly to the piano, higher register work with some delay making a nice twinkling effect. I'd also just gotten some wonderful "piano in an attic for 80 years" samples, which came with a large variety of inner-piano works, like tapping or heavy strokes of the strings, and I sprinkled those rather liberally in places to try and get the effect of thunder. (After all, what sort of lightning storms could a firefly cloud have, anyway?)</p>
-                <p>And of course, there's one or two Doctor quotes in there just because.</p>
-            </blockquote>
+                </ul>
+                <p>Tracks that reference <i>Firefly Cloud</i>:</p>
+                <dl>
+                    
+                    <dt>Fandom:</dt>
+                    <dd><ul>
+                        <li>
+                            <a href="track/electric-fireflies/index.html" style="--fg-color: #88a4ff; --bg-color: #222222; --theme: 0">Electric Fireflies</a>
+                            <span class="by">by <a href="artist/thomas-ibarra/index.html">Thomas Ibarra</a></span>
+                        </li>
+                    </ul></dd>
+                </dl>
+                
+                
+                <p>Artist commentary:</p>
+                <blockquote>
+                    <p><i>Eric Scheele:</i></p>
+                    <p>So after a quick burst of events and some luck, John finds himself in LOWAS, the Land of Wind and Shade. Everything's dark, except for the stars above, but as we found out, the were really fireflies trapped in the clouds. This was one of the concepts I latched onto rather hard with this piece, the mass of sparkling and blinking above John as he traipsed about. I've been lucky enough to live in a more rural area for most of my life, and being able to watch the stars was always great, so I could only ever imagine what LOWAS's clouds looked like.</p>
+                    <p>Anyway. I kept the sparkling mainly to the piano, higher register work with some delay making a nice twinkling effect. I'd also just gotten some wonderful "piano in an attic for 80 years" samples, which came with a large variety of inner-piano works, like tapping or heavy strokes of the strings, and I sprinkled those rather liberally in places to try and get the effect of thunder. (After all, what sort of lightning storms could a firefly cloud have, anyway?)</p>
+                    <p>And of course, there's one or two Doctor quotes in there just because.</p>
+                </blockquote>
+            </div>
         </div>
     </body>
 </html>

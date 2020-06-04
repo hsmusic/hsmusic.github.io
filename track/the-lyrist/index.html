@@ -10,74 +10,79 @@
         <script defer src="client.js"></script>
     </head>
     <body style="--fg-color: #ff7600; --bg-color: #222222; --theme: 0; --album-directory: cherubim; --track-directory: the-lyrist">
-        <div id="sidebar">
-            <h2><a href="index.html">(Home)</a></h2>
-            <!-- <h3>Official</h3> -->
-            <hr>
-            <h1><a href="album/cherubim/index.html">Cherubim</a></h1>
-            <ol>
-                <li class=""><a href="track/reverie/index.html">Reverie</a></li>
-                <li class=""><a href="track/power-fantasy/index.html">Power Fantasy</a></li>
-                <li class=""><a href="track/stellarum-salve/index.html">Stellarum Salve</a></li>
-                <li class=""><a href="track/carne-vale/index.html">Carne Vale</a></li>
-                <li class=""><a href="track/green-lolly/index.html">Green Lolly</a></li>
-                <li class=""><a href="track/red-sucker/index.html">Red Sucker</a></li>
-                <li class=""><a href="track/constant-confinement/index.html">Constant Confinement</a></li>
-                <li class=""><a href="track/constant-conquest/index.html">Constant Conquest</a></li>
-                <li class="current"><a href="track/the-lyrist/index.html">The Lyrist</a></li>
-                <li class=""><a href="track/the-lordling/index.html">The Lordling</a></li>
-                <li class=""><a href="track/eternity-served-cold/index.html">Eternity Served Cold</a></li>
-            </ol>
-            <hr>
-            <p>
-                <a href="js-disabled/index.html" data-random="track-in-album">Random track</a></li>
-            </p>
-            
-                        <p>
-                            25th track by <a href="artist/thomas-ferkol/index.html">Thomas Ferkol</a><br>
-                            (<a href="track/nevermore-cant-sleep-crows-will-find-me/index.html" title="Nevermore (Can't Sleep, Crows Will Find Me)">Previous</a>, <a href="track/fracta-sub-luna/index.html" title="Fracta Sub Luna">Next</a>)
-                        </p>
-                        <p>
-                            2nd cover art by <a href="artist/rumminov/index.html">rumminov</a><br>
-                            (<a href="track/violet-mariner/index.html" title="Violet Mariner">Previous</a>, <a href="track/the-lordling/index.html" title="The Lordling">Next</a>)
-                        </p>
-        </div>
-        <div id="content">
-            <a href="album/cherubim/the-lyrist.jpg" id="cover-art"><img src="album/cherubim/the-lyrist.jpg"></a>
-            <h1>The Lyrist</h1>
-            <p>
-                By <a href="artist/thomas-ferkol/index.html">Thomas Ferkol</a>.<br>
-                Cover art by <a href="artist/rumminov/index.html">rumminov</a>.<br>
-                Released 2013-03-14.
+        <div id="header">
+            <h2>
+                <a href="index.html">Home</a>
+                / <a href="album/cherubim/index.html">Cherubim</a>
+                / <a href="track/the-lyrist/index.html">The Lyrist</a>
+                <span>(<a href="track/constant-conquest/index.html" title="Constant Conquest">Previous</a>, <a href="track/the-lordling/index.html" title="The Lordling">Next</a>, <a href="js-disabled/index.html" data-random="track-in-album">Random</a>)</span>
+            </h2>
+            <div>
                 
-            </p>
-            <p>Listen on <a href="https://homestuck.bandcamp.com/track/the-lyrist-2">Bandcamp</a>.</p>
-            
-            
-            <p>Tracks that reference <i>The Lyrist</i>:</p>
-            <dl>
-                <dt>Official:</dt>
-                <dd><ul>
-                    <li>
-                        <a href="track/the-lordling/index.html" style="--fg-color: #ff7600; --bg-color: #222222; --theme: 0">The Lordling</a>
-                        <span class="by">by <a href="artist/toby-fox/index.html">Toby Fox</a></span>
-                    </li>
-                </ul></dd>
-                <dt>Fandom:</dt>
-                <dd><ul>
-                    <li>
-                        <a href="track/limelight/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">Limelight</a>
-                        <span class="by">by <a href="artist/psithurist/index.html">psithurist</a></span>
-                    </li>
-                    <li>
-                        <a href="track/the-rarest-and-most-interpretive-dance-meatcabre/index.html" style="--fg-color: #f2a400; --bg-color: #222222; --theme: 0">THE RAREST. AND MOST INTERPRETIVE. DANCE MEATCABRE.</a>
-                        <span class="by">by <a href="artist/ndividedbyzero/index.html">ndividedbyzero</a></span>
-                    </li>
-                </ul></dd>
-            </dl>
-            
-            
-            
+                                <div class="chronology">
+                                    <span class="heading">25th track by <a href="artist/thomas-ferkol/index.html">Thomas Ferkol</a></span>
+                                    <span class="buttons">(<a href="track/nevermore-cant-sleep-crows-will-find-me/index.html" title="Nevermore (Can't Sleep, Crows Will Find Me)">Previous</a>, <a href="track/fracta-sub-luna/index.html" title="Fracta Sub Luna">Next</a>)</span>
+                                </div>
+                                <div class="chronology">
+                                    <span class="heading">2nd cover art by <a href="artist/rumminov/index.html">rumminov</a></span>
+                                    <span class="buttons">(<a href="track/violet-mariner/index.html" title="Violet Mariner">Previous</a>, <a href="track/the-lordling/index.html" title="The Lordling">Next</a>)</span>
+                                </div>
+            </div>
+        </div>
+        <div class="columns">
+            <div id="sidebar">
+                <h1><a href="album/cherubim/index.html">Cherubim</a></h1>
+                <ol>
+                    <li class=""><a href="track/reverie/index.html">Reverie</a></li>
+                    <li class=""><a href="track/power-fantasy/index.html">Power Fantasy</a></li>
+                    <li class=""><a href="track/stellarum-salve/index.html">Stellarum Salve</a></li>
+                    <li class=""><a href="track/carne-vale/index.html">Carne Vale</a></li>
+                    <li class=""><a href="track/green-lolly/index.html">Green Lolly</a></li>
+                    <li class=""><a href="track/red-sucker/index.html">Red Sucker</a></li>
+                    <li class=""><a href="track/constant-confinement/index.html">Constant Confinement</a></li>
+                    <li class=""><a href="track/constant-conquest/index.html">Constant Conquest</a></li>
+                    <li class="current"><a href="track/the-lyrist/index.html">The Lyrist</a></li>
+                    <li class=""><a href="track/the-lordling/index.html">The Lordling</a></li>
+                    <li class=""><a href="track/eternity-served-cold/index.html">Eternity Served Cold</a></li>
+                </ol>
+            </div>
+            <div id="content">
+                <a href="album/cherubim/the-lyrist.jpg" id="cover-art"><img src="album/cherubim/the-lyrist.jpg"></a>
+                <h1>The Lyrist</h1>
+                <p>
+                    By <a href="artist/thomas-ferkol/index.html">Thomas Ferkol</a>.<br>
+                    Cover art by <a href="artist/rumminov/index.html">rumminov</a>.<br>
+                    Released 2013-03-14.
+                    
+                </p>
+                <p>Listen on <a href="https://homestuck.bandcamp.com/track/the-lyrist-2">Bandcamp</a>.</p>
+                
+                
+                <p>Tracks that reference <i>The Lyrist</i>:</p>
+                <dl>
+                    <dt>Official:</dt>
+                    <dd><ul>
+                        <li>
+                            <a href="track/the-lordling/index.html" style="--fg-color: #ff7600; --bg-color: #222222; --theme: 0">The Lordling</a>
+                            <span class="by">by <a href="artist/toby-fox/index.html">Toby Fox</a></span>
+                        </li>
+                    </ul></dd>
+                    <dt>Fandom:</dt>
+                    <dd><ul>
+                        <li>
+                            <a href="track/limelight/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">Limelight</a>
+                            <span class="by">by <a href="artist/psithurist/index.html">psithurist</a></span>
+                        </li>
+                        <li>
+                            <a href="track/the-rarest-and-most-interpretive-dance-meatcabre/index.html" style="--fg-color: #f2a400; --bg-color: #222222; --theme: 0">THE RAREST. AND MOST INTERPRETIVE. DANCE MEATCABRE.</a>
+                            <span class="by">by <a href="artist/ndividedbyzero/index.html">ndividedbyzero</a></span>
+                        </li>
+                    </ul></dd>
+                </dl>
+                
+                
+                
+            </div>
         </div>
     </body>
 </html>

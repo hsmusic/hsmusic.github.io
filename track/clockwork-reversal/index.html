@@ -10,65 +10,70 @@
         <script defer src="client.js"></script>
     </head>
     <body style="--fg-color: #33aa55; --bg-color: #222222; --theme: 0; --album-directory: the-felt; --track-directory: clockwork-reversal">
-        <div id="sidebar">
-            <h2><a href="index.html">(Home)</a></h2>
-            <!-- <h3>Official</h3> -->
-            <hr>
-            <h1><a href="album/the-felt/index.html">The Felt</a></h1>
-            <ol>
-                <li class=""><a href="track/jade-dragon/index.html">Jade Dragon</a></li>
-                <li class=""><a href="track/swing-of-the-clock/index.html">Swing of the Clock</a></li>
-                <li class=""><a href="track/rhapsody-in-green/index.html">Rhapsody in Green</a></li>
-                <li class=""><a href="track/humphreys-lullaby/index.html">Humphrey's Lullaby</a></li>
-                <li class="current"><a href="track/clockwork-reversal/index.html">Clockwork Reversal</a></li>
-                <li class=""><a href="track/chartreuse-rewind/index.html">Chartreuse Rewind</a></li>
-                <li class=""><a href="track/the-broken-clock/index.html">The Broken Clock</a></li>
-                <li class=""><a href="track/apocryphal-antithesis/index.html">Apocryphal Antithesis</a></li>
-                <li class=""><a href="track/trails/index.html">Trails</a></li>
-                <li class=""><a href="track/baroqueback-bowtier-scratchs-lament/index.html">Baroqueback Bowtier (Scratch's Lament)</a></li>
-                <li class=""><a href="track/scratch/index.html">Scratch</a></li>
-                <li class=""><a href="track/omelette-sandwich/index.html">Omelette Sandwich</a></li>
-                <li class=""><a href="track/temporal-piano/index.html">Temporal Piano</a></li>
-                <li class=""><a href="track/time-paradox/index.html">Time Paradox</a></li>
-                <li class=""><a href="track/eldritch/index.html">Eldritch</a></li>
-                <li class=""><a href="track/english/index.html">English</a></li>
-                <li class=""><a href="track/variations/index.html">Variations</a></li>
-            </ol>
-            <hr>
-            <p>
-                <a href="js-disabled/index.html" data-random="track-in-album">Random track</a></li>
-            </p>
-            
-                        <p>
-                            1st track by <a href="artist/thomas-ferkol/index.html">Thomas Ferkol</a><br>
-                            (<a href="track/time-paradox/index.html" title="Time Paradox">Next</a>)
-                        </p>
-                        <p>
-                            81st cover art by <a href="artist/homestuck/index.html">Homestuck</a><br>
-                            (<a href="track/humphreys-lullaby/index.html" title="Humphrey's Lullaby">Previous</a>, <a href="track/chartreuse-rewind/index.html" title="Chartreuse Rewind">Next</a>)
-                        </p>
-        </div>
-        <div id="content">
-            <a href="album/the-felt/clockwork-reversal.jpg" id="cover-art"><img src="album/the-felt/clockwork-reversal.jpg"></a>
-            <h1>Clockwork Reversal</h1>
-            <p>
-                By <a href="artist/thomas-ferkol/index.html">Thomas Ferkol</a>.<br>
-                Cover art by <a href="artist/homestuck/index.html">Homestuck</a>.<br>
-                Released 2010-12-02.
+        <div id="header">
+            <h2>
+                <a href="index.html">Home</a>
+                / <a href="album/the-felt/index.html">The Felt</a>
+                / <a href="track/clockwork-reversal/index.html">Clockwork Reversal</a>
+                <span>(<a href="track/humphreys-lullaby/index.html" title="Humphrey's Lullaby">Previous</a>, <a href="track/chartreuse-rewind/index.html" title="Chartreuse Rewind">Next</a>, <a href="js-disabled/index.html" data-random="track-in-album">Random</a>)</span>
+            </h2>
+            <div>
                 
-            </p>
-            <p>Listen on <a href="https://homestuck.bandcamp.com/track/clockwork-reversal-2">Bandcamp</a>.</p>
-            
-            
-            
-            
-            
-            <p>Artist commentary:</p>
-            <blockquote>
-                <p><i>Thomas Ferkol:</i></p>
-                <p>Clockwork Reversal was my second contribution to the Felt.  I love the melody of Endless Climb.  I loved the music box-esque remixes on Volume 5 even more.  Before I got on the team, I had written Clockwork Apocalypse, an orchestrated version of Clockwork Melody.  After realizing Audacity could reverse music, I started experimenting.</p>
-                <p>Since the Endless Climb melody was so memorable and it had served as good sort of interlude tracks on Volume 5, I decided to try to make something in a similar vein.  Oddly enough, I think the reversed version of the Clockwork Reversal sounds even better than both Clockwork Reversal and Clockwork Apocalypse.</p>
-            </blockquote>
+                                <div class="chronology">
+                                    <span class="heading">1st track by <a href="artist/thomas-ferkol/index.html">Thomas Ferkol</a></span>
+                                    <span class="buttons">(<a href="track/time-paradox/index.html" title="Time Paradox">Next</a>)</span>
+                                </div>
+                                <div class="chronology">
+                                    <span class="heading">81st cover art by <a href="artist/homestuck/index.html">Homestuck</a></span>
+                                    <span class="buttons">(<a href="track/humphreys-lullaby/index.html" title="Humphrey's Lullaby">Previous</a>, <a href="track/chartreuse-rewind/index.html" title="Chartreuse Rewind">Next</a>)</span>
+                                </div>
+            </div>
+        </div>
+        <div class="columns">
+            <div id="sidebar">
+                <h1><a href="album/the-felt/index.html">The Felt</a></h1>
+                <ol>
+                    <li class=""><a href="track/jade-dragon/index.html">Jade Dragon</a></li>
+                    <li class=""><a href="track/swing-of-the-clock/index.html">Swing of the Clock</a></li>
+                    <li class=""><a href="track/rhapsody-in-green/index.html">Rhapsody in Green</a></li>
+                    <li class=""><a href="track/humphreys-lullaby/index.html">Humphrey's Lullaby</a></li>
+                    <li class="current"><a href="track/clockwork-reversal/index.html">Clockwork Reversal</a></li>
+                    <li class=""><a href="track/chartreuse-rewind/index.html">Chartreuse Rewind</a></li>
+                    <li class=""><a href="track/the-broken-clock/index.html">The Broken Clock</a></li>
+                    <li class=""><a href="track/apocryphal-antithesis/index.html">Apocryphal Antithesis</a></li>
+                    <li class=""><a href="track/trails/index.html">Trails</a></li>
+                    <li class=""><a href="track/baroqueback-bowtier-scratchs-lament/index.html">Baroqueback Bowtier (Scratch's Lament)</a></li>
+                    <li class=""><a href="track/scratch/index.html">Scratch</a></li>
+                    <li class=""><a href="track/omelette-sandwich/index.html">Omelette Sandwich</a></li>
+                    <li class=""><a href="track/temporal-piano/index.html">Temporal Piano</a></li>
+                    <li class=""><a href="track/time-paradox/index.html">Time Paradox</a></li>
+                    <li class=""><a href="track/eldritch/index.html">Eldritch</a></li>
+                    <li class=""><a href="track/english/index.html">English</a></li>
+                    <li class=""><a href="track/variations/index.html">Variations</a></li>
+                </ol>
+            </div>
+            <div id="content">
+                <a href="album/the-felt/clockwork-reversal.jpg" id="cover-art"><img src="album/the-felt/clockwork-reversal.jpg"></a>
+                <h1>Clockwork Reversal</h1>
+                <p>
+                    By <a href="artist/thomas-ferkol/index.html">Thomas Ferkol</a>.<br>
+                    Cover art by <a href="artist/homestuck/index.html">Homestuck</a>.<br>
+                    Released 2010-12-02.
+                    
+                </p>
+                <p>Listen on <a href="https://homestuck.bandcamp.com/track/clockwork-reversal-2">Bandcamp</a>.</p>
+                
+                
+                
+                
+                
+                <p>Artist commentary:</p>
+                <blockquote>
+                    <p><i>Thomas Ferkol:</i></p>
+                    <p>Clockwork Reversal was my second contribution to the Felt.  I love the melody of Endless Climb.  I loved the music box-esque remixes on Volume 5 even more.  Before I got on the team, I had written Clockwork Apocalypse, an orchestrated version of Clockwork Melody.  After realizing Audacity could reverse music, I started experimenting.</p>
+                    <p>Since the Endless Climb melody was so memorable and it had served as good sort of interlude tracks on Volume 5, I decided to try to make something in a similar vein.  Oddly enough, I think the reversed version of the Clockwork Reversal sounds even better than both Clockwork Reversal and Clockwork Apocalypse.</p>
+                </blockquote>
+            </div>
         </div>
     </body>
 </html>

@@ -10,64 +10,69 @@
         <script defer src="client.js"></script>
     </head>
     <body style="--fg-color: #33aa55; --bg-color: #222222; --theme: 0; --album-directory: the-felt; --track-directory: trails">
-        <div id="sidebar">
-            <h2><a href="index.html">(Home)</a></h2>
-            <!-- <h3>Official</h3> -->
-            <hr>
-            <h1><a href="album/the-felt/index.html">The Felt</a></h1>
-            <ol>
-                <li class=""><a href="track/jade-dragon/index.html">Jade Dragon</a></li>
-                <li class=""><a href="track/swing-of-the-clock/index.html">Swing of the Clock</a></li>
-                <li class=""><a href="track/rhapsody-in-green/index.html">Rhapsody in Green</a></li>
-                <li class=""><a href="track/humphreys-lullaby/index.html">Humphrey's Lullaby</a></li>
-                <li class=""><a href="track/clockwork-reversal/index.html">Clockwork Reversal</a></li>
-                <li class=""><a href="track/chartreuse-rewind/index.html">Chartreuse Rewind</a></li>
-                <li class=""><a href="track/the-broken-clock/index.html">The Broken Clock</a></li>
-                <li class=""><a href="track/apocryphal-antithesis/index.html">Apocryphal Antithesis</a></li>
-                <li class="current"><a href="track/trails/index.html">Trails</a></li>
-                <li class=""><a href="track/baroqueback-bowtier-scratchs-lament/index.html">Baroqueback Bowtier (Scratch's Lament)</a></li>
-                <li class=""><a href="track/scratch/index.html">Scratch</a></li>
-                <li class=""><a href="track/omelette-sandwich/index.html">Omelette Sandwich</a></li>
-                <li class=""><a href="track/temporal-piano/index.html">Temporal Piano</a></li>
-                <li class=""><a href="track/time-paradox/index.html">Time Paradox</a></li>
-                <li class=""><a href="track/eldritch/index.html">Eldritch</a></li>
-                <li class=""><a href="track/english/index.html">English</a></li>
-                <li class=""><a href="track/variations/index.html">Variations</a></li>
-            </ol>
-            <hr>
-            <p>
-                <a href="js-disabled/index.html" data-random="track-in-album">Random track</a></li>
-            </p>
-            
-                        <p>
-                            16th track by <a href="artist/mark-hadley/index.html">Mark Hadley</a><br>
-                            (<a href="track/ocean-stars/index.html" title="Ocean Stars">Previous</a>, <a href="track/omelette-sandwich/index.html" title="Omelette Sandwich">Next</a>)
-                        </p>
-                        <p>
-                            85th cover art by <a href="artist/homestuck/index.html">Homestuck</a><br>
-                            (<a href="track/apocryphal-antithesis/index.html" title="Apocryphal Antithesis">Previous</a>, <a href="track/baroqueback-bowtier-scratchs-lament/index.html" title="Baroqueback Bowtier (Scratch's Lament)">Next</a>)
-                        </p>
-        </div>
-        <div id="content">
-            <a href="album/the-felt/trails.jpg" id="cover-art"><img src="album/the-felt/trails.jpg"></a>
-            <h1>Trails</h1>
-            <p>
-                By <a href="artist/mark-hadley/index.html">Mark Hadley</a>.<br>
-                Cover art by <a href="artist/homestuck/index.html">Homestuck</a>.<br>
-                Released 2010-12-02.
+        <div id="header">
+            <h2>
+                <a href="index.html">Home</a>
+                / <a href="album/the-felt/index.html">The Felt</a>
+                / <a href="track/trails/index.html">Trails</a>
+                <span>(<a href="track/apocryphal-antithesis/index.html" title="Apocryphal Antithesis">Previous</a>, <a href="track/baroqueback-bowtier-scratchs-lament/index.html" title="Baroqueback Bowtier (Scratch's Lament)">Next</a>, <a href="js-disabled/index.html" data-random="track-in-album">Random</a>)</span>
+            </h2>
+            <div>
                 
-            </p>
-            <p>Listen on <a href="https://homestuck.bandcamp.com/track/trails-2">Bandcamp</a>.</p>
-            
-            
-            
-            
-            
-            <p>Artist commentary:</p>
-            <blockquote>
-                <p><i>Mark Hadley:</i></p>
-                <p>At its heart, Trails is basically a fugue, with a melodic line being repeated and played over the previous one. Trace and Fin follow past and future trails, so I made the first melody in the first half hollow and somewhat indistinct, since it is a "future trail" for the second melody that will come in a few bars later. In the second half I reverse this and have the indistinct melody come afterwards, a "past trail" of the melody that just played.</p>
-            </blockquote>
+                                <div class="chronology">
+                                    <span class="heading">16th track by <a href="artist/mark-hadley/index.html">Mark Hadley</a></span>
+                                    <span class="buttons">(<a href="track/ocean-stars/index.html" title="Ocean Stars">Previous</a>, <a href="track/omelette-sandwich/index.html" title="Omelette Sandwich">Next</a>)</span>
+                                </div>
+                                <div class="chronology">
+                                    <span class="heading">85th cover art by <a href="artist/homestuck/index.html">Homestuck</a></span>
+                                    <span class="buttons">(<a href="track/apocryphal-antithesis/index.html" title="Apocryphal Antithesis">Previous</a>, <a href="track/baroqueback-bowtier-scratchs-lament/index.html" title="Baroqueback Bowtier (Scratch's Lament)">Next</a>)</span>
+                                </div>
+            </div>
+        </div>
+        <div class="columns">
+            <div id="sidebar">
+                <h1><a href="album/the-felt/index.html">The Felt</a></h1>
+                <ol>
+                    <li class=""><a href="track/jade-dragon/index.html">Jade Dragon</a></li>
+                    <li class=""><a href="track/swing-of-the-clock/index.html">Swing of the Clock</a></li>
+                    <li class=""><a href="track/rhapsody-in-green/index.html">Rhapsody in Green</a></li>
+                    <li class=""><a href="track/humphreys-lullaby/index.html">Humphrey's Lullaby</a></li>
+                    <li class=""><a href="track/clockwork-reversal/index.html">Clockwork Reversal</a></li>
+                    <li class=""><a href="track/chartreuse-rewind/index.html">Chartreuse Rewind</a></li>
+                    <li class=""><a href="track/the-broken-clock/index.html">The Broken Clock</a></li>
+                    <li class=""><a href="track/apocryphal-antithesis/index.html">Apocryphal Antithesis</a></li>
+                    <li class="current"><a href="track/trails/index.html">Trails</a></li>
+                    <li class=""><a href="track/baroqueback-bowtier-scratchs-lament/index.html">Baroqueback Bowtier (Scratch's Lament)</a></li>
+                    <li class=""><a href="track/scratch/index.html">Scratch</a></li>
+                    <li class=""><a href="track/omelette-sandwich/index.html">Omelette Sandwich</a></li>
+                    <li class=""><a href="track/temporal-piano/index.html">Temporal Piano</a></li>
+                    <li class=""><a href="track/time-paradox/index.html">Time Paradox</a></li>
+                    <li class=""><a href="track/eldritch/index.html">Eldritch</a></li>
+                    <li class=""><a href="track/english/index.html">English</a></li>
+                    <li class=""><a href="track/variations/index.html">Variations</a></li>
+                </ol>
+            </div>
+            <div id="content">
+                <a href="album/the-felt/trails.jpg" id="cover-art"><img src="album/the-felt/trails.jpg"></a>
+                <h1>Trails</h1>
+                <p>
+                    By <a href="artist/mark-hadley/index.html">Mark Hadley</a>.<br>
+                    Cover art by <a href="artist/homestuck/index.html">Homestuck</a>.<br>
+                    Released 2010-12-02.
+                    
+                </p>
+                <p>Listen on <a href="https://homestuck.bandcamp.com/track/trails-2">Bandcamp</a>.</p>
+                
+                
+                
+                
+                
+                <p>Artist commentary:</p>
+                <blockquote>
+                    <p><i>Mark Hadley:</i></p>
+                    <p>At its heart, Trails is basically a fugue, with a melodic line being repeated and played over the previous one. Trace and Fin follow past and future trails, so I made the first melody in the first half hollow and somewhat indistinct, since it is a "future trail" for the second melody that will come in a few bars later. In the second half I reverse this and have the indistinct melody come afterwards, a "past trail" of the melody that just played.</p>
+                </blockquote>
+            </div>
         </div>
     </body>
 </html>

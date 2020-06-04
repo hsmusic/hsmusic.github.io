@@ -110,6 +110,26 @@ window.albumData = [
     "isFanon": true
    },
    {
+    "name": "Amen, Brother",
+    "artists": [
+     "The Winstons"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "amen-brother",
+    "urls": [
+     "https://www.youtube.com/watch?v=GxZuq57_bYM"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
     "name": "An Apple Disaster!!",
     "artists": [
      "Toby Fox"
@@ -124,6 +144,26 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=wa2K_8Ff41M",
      "https://fwugradiation.tumblr.com/post/13528293577/improvised-touhou-music-with-annoying-commentary"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Battle! (Colress)",
+    "artists": [
+     "Pokémon"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "battle-colress",
+    "urls": [
+     "https://www.youtube.com/watch?v=NvQBpb6eqp8"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -194,6 +234,26 @@ window.albumData = [
     "isFanon": true
    },
    {
+    "name": "Creeping in My Soul",
+    "artists": [
+     "Cryoshell"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "creeping-in-my-soul",
+    "urls": [
+     "https://www.youtube.com/watch?v=qI6qyW3QCLc"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
     "name": "DaJam",
     "artists": [
      "Alexander Rosetti"
@@ -230,6 +290,29 @@ window.albumData = [
     "directory": "darling-dolorosa",
     "urls": [
      "https://www.youtube.com/watch?v=G28357JCv4c"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Double Midnight",
+    "artists": [
+     "Toby Fox"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Liquid Negrocity",
+     "I'm a Member of the Midnight Crew"
+    ],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "double-midnight",
+    "urls": [
+     "https://www.youtube.com/watch?v=un7k0l8p12U"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -473,6 +556,46 @@ window.albumData = [
     "directory": "im-a-member-of-the-midnight-crew",
     "urls": [
      "https://www.youtube.com/watch?v=ARLPT5rKjWo"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Icirrus City",
+    "artists": [
+     "Pokémon"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "icirrus-city",
+    "urls": [
+     "https://www.youtube.com/watch?v=nDNqwdjCGBQ"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "In the Hall of the Mountain King",
+    "artists": [
+     "Edvard Grieg"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "in-the-hall-of-the-mountain-king",
+    "urls": [
+     "https://www.youtube.com/watch?v=kLp_Hh6DKWc"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -752,6 +875,26 @@ window.albumData = [
     "isFanon": true
    },
    {
+    "name": "The Court of Miracles",
+    "artists": [
+     "Disney"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "the-court-of-miracles",
+    "urls": [
+     "https://www.youtube.com/watch?v=xq7z_xMGPM8"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
     "name": "The Paradox Paradigm",
     "artists": [
      "Jack McMenamin"
@@ -869,6 +1012,26 @@ window.albumData = [
     "directory": "white-king",
     "urls": [
      "https://www.youtube.com/watch?v=x6NrArPldZo"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Wind-up Storm",
+    "artists": [
+     "Llyona Fang"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "wind-up-storm",
+    "urls": [
+     "https://reversalrain.bandcamp.com/track/wind-up-storm"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -3308,7 +3471,7 @@ window.albumData = [
    {
     "name": "Candles and Clockwork",
     "artists": [
-     "Tyler Dever"
+     "James Dever"
     ],
     "coverArtists": [
      {
@@ -6026,7 +6189,9 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Cuddlefish"
+    ],
     "date": "2011-03-14T03:00:00.000Z",
     "artDate": "2011-03-14T03:00:00.000Z",
     "directory": "dreamers-and-the-dead",
@@ -7790,7 +7955,7 @@ window.albumData = [
   "date": "2011-07-13T03:00:00.000Z",
   "artDate": "2011-07-13T03:00:00.000Z",
   "artists": [
-   "Tyler Dever",
+   "James Dever",
    "Erik Scheele"
   ],
   "coverArtists": [
@@ -7817,7 +7982,7 @@ window.albumData = [
    {
     "name": "The Prelude",
     "artists": [
-     "Tyler Dever",
+     "James Dever",
      "Erik Scheele"
     ],
     "coverArtists": null,
@@ -7841,7 +8006,7 @@ window.albumData = [
    {
     "name": "Genesis",
     "artists": [
-     "Tyler Dever",
+     "James Dever",
      "Erik Scheele"
     ],
     "coverArtists": null,
@@ -7863,7 +8028,7 @@ window.albumData = [
    {
     "name": "Eden",
     "artists": [
-     "Tyler Dever",
+     "James Dever",
      "Erik Scheele"
     ],
     "coverArtists": null,
@@ -7885,7 +8050,7 @@ window.albumData = [
    {
     "name": "Exodus",
     "artists": [
-     "Tyler Dever",
+     "James Dever",
      "Erik Scheele"
     ],
     "coverArtists": null,
@@ -7909,7 +8074,7 @@ window.albumData = [
    {
     "name": "Requiem",
     "artists": [
-     "Tyler Dever",
+     "James Dever",
      "Erik Scheele"
     ],
     "coverArtists": null,
@@ -7931,7 +8096,7 @@ window.albumData = [
    {
     "name": "The Meek",
     "artists": [
-     "Tyler Dever",
+     "James Dever",
      "Erik Scheele"
     ],
     "coverArtists": null,
@@ -7953,7 +8118,7 @@ window.albumData = [
    {
     "name": "Chronicles",
     "artists": [
-     "Tyler Dever",
+     "James Dever",
      "Erik Scheele"
     ],
     "coverArtists": null,
@@ -7977,7 +8142,7 @@ window.albumData = [
    {
     "name": "Rapture",
     "artists": [
-     "Tyler Dever",
+     "James Dever",
      "Erik Scheele"
     ],
     "coverArtists": null,
@@ -7999,7 +8164,7 @@ window.albumData = [
    {
     "name": "Creation",
     "artists": [
-     "Tyler Dever",
+     "James Dever",
      "Erik Scheele"
     ],
     "coverArtists": null,
@@ -8023,7 +8188,7 @@ window.albumData = [
    {
     "name": "Revelations I",
     "artists": [
-     "Tyler Dever",
+     "James Dever",
      "Erik Scheele"
     ],
     "coverArtists": null,
@@ -8047,7 +8212,7 @@ window.albumData = [
    {
     "name": "Revelations II",
     "artists": [
-     "Tyler Dever",
+     "James Dever",
      "Erik Scheele"
     ],
     "coverArtists": null,
@@ -8069,7 +8234,7 @@ window.albumData = [
    {
     "name": "Revelations III",
     "artists": [
-     "Tyler Dever",
+     "James Dever",
      "Erik Scheele"
     ],
     "coverArtists": null,
@@ -8294,7 +8459,7 @@ window.albumData = [
    {
     "name": "Requiem for an Exile",
     "artists": [
-     "Tyler Dever",
+     "James Dever",
      "Solatrus"
     ],
     "coverArtists": [
@@ -9525,7 +9690,7 @@ window.albumData = [
    {
     "name": "L'etat de l'ambivalence",
     "artists": [
-     "Tyler Dever"
+     "James Dever"
     ],
     "coverArtists": [
      {
@@ -10630,7 +10795,9 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Amen, Brother"
+    ],
     "date": "2009-12-14T04:00:00.000Z",
     "artDate": "2009-12-14T04:00:00.000Z",
     "directory": "upward-movement-dave-owns",
@@ -12002,7 +12169,7 @@ window.albumData = [
    {
     "name": "Gust of Heir",
     "artists": [
-     "Tyler Dever",
+     "James Dever",
      "Michael Guy Bowman"
     ],
     "coverArtists": [
@@ -14075,7 +14242,9 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Amen, Brother"
+    ],
     "date": "2012-04-13T03:00:00.000Z",
     "artDate": "2012-04-13T03:00:00.000Z",
     "directory": "bec-noir",
@@ -15396,7 +15565,7 @@ window.albumData = [
    {
     "name": "Red Miles",
     "artists": [
-     "Tyler Dever"
+     "James Dever"
     ],
     "coverArtists": [
      {
@@ -15532,7 +15701,7 @@ window.albumData = [
    {
     "name": "Candles and Clockwork (Alpha Version)",
     "artists": [
-     "Tyler Dever"
+     "James Dever"
     ],
     "coverArtists": [
      {
@@ -20429,6 +20598,165 @@ window.albumData = [
   ]
  },
  {
+  "name": "Rust Apocalypse",
+  "date": "2013-01-05T04:00:00.000Z",
+  "artDate": "2013-01-05T04:00:00.000Z",
+  "artists": [
+   "Willow Ascenzo"
+  ],
+  "coverArtists": [
+   {
+    "who": "Ducky Senpai",
+    "what": null
+   }
+  ],
+  "directory": "rust-apocalypse",
+  "urls": [
+   "https://wellmanicuredmusic.bandcamp.com/album/rust-apocalypse"
+  ],
+  "isCanon": false,
+  "isBeyond": false,
+  "isOfficial": false,
+  "isFanon": true,
+  "theme": {
+   "fg": "#7848e4",
+   "bg": "#222222",
+   "theme": 0
+  },
+  "tracks": [
+   {
+    "name": "Broken Rainbow",
+    "artists": [
+     "Willow Ascenzo"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2013-01-05T04:00:00.000Z",
+    "artDate": "2013-01-05T04:00:00.000Z",
+    "directory": "broken-rainbow",
+    "urls": [
+     "https://wellmanicuredmusic.bandcamp.com/track/broken-rainbow"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Rust Witch",
+    "artists": [
+     "Willow Ascenzo"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Rust Servant"
+    ],
+    "date": "2013-01-05T04:00:00.000Z",
+    "artDate": "2013-01-05T04:00:00.000Z",
+    "directory": "rust-witch-ascenzo",
+    "urls": [
+     "https://wellmanicuredmusic.bandcamp.com/track/rust-witch"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Teal Justice",
+    "artists": [
+     "Willow Ascenzo"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Teal Hunter"
+    ],
+    "date": "2013-01-05T04:00:00.000Z",
+    "artDate": "2013-01-05T04:00:00.000Z",
+    "directory": "teal-justice",
+    "urls": [
+     "https://wellmanicuredmusic.bandcamp.com/track/teal-justice"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Violet Armada",
+    "artists": [
+     "Willow Ascenzo"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Violet Mariner"
+    ],
+    "date": "2013-01-05T04:00:00.000Z",
+    "artDate": "2013-01-05T04:00:00.000Z",
+    "directory": "violet-armada",
+    "urls": [
+     "https://wellmanicuredmusic.bandcamp.com/track/violet-armada"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Rust Apocalypse",
+    "artists": [
+     "Willow Ascenzo"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Rust Servant"
+    ],
+    "date": "2013-01-05T04:00:00.000Z",
+    "artDate": "2013-01-05T04:00:00.000Z",
+    "directory": "rust-apocalypse",
+    "urls": [
+     "https://wellmanicuredmusic.bandcamp.com/track/rust-apocalypse"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "White Angel",
+    "artists": [
+     "Willow Ascenzo"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Teal Hunter"
+    ],
+    "date": "2013-01-05T04:00:00.000Z",
+    "artDate": "2013-01-05T04:00:00.000Z",
+    "directory": "white-angel",
+    "urls": [
+     "https://wellmanicuredmusic.bandcamp.com/track/white-angel"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   }
+  ]
+ },
+ {
   "name": "Cherubim",
   "date": "2013-03-14T03:00:00.000Z",
   "artDate": "2013-03-14T03:00:00.000Z",
@@ -20568,7 +20896,7 @@ window.albumData = [
    {
     "name": "Green Lolly",
     "artists": [
-     "Tyler Dever",
+     "James Dever",
      "Robert J! Lake"
     ],
     "coverArtists": [
@@ -20579,7 +20907,7 @@ window.albumData = [
     ],
     "contributors": [
      {
-      "who": "Tyler Dever",
+      "who": "James Dever",
       "what": "original theme"
      },
      {
@@ -20603,7 +20931,7 @@ window.albumData = [
    {
     "name": "Red Sucker",
     "artists": [
-     "Tyler Dever",
+     "James Dever",
      "Robert J! Lake"
     ],
     "coverArtists": [
@@ -20614,7 +20942,7 @@ window.albumData = [
     ],
     "contributors": [
      {
-      "who": "Tyler Dever",
+      "who": "James Dever",
       "what": "theme"
      },
      {
@@ -21477,7 +21805,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "rufiohbascoh",
+      "who": "Ducky Senpai",
       "what": null
      }
     ],
@@ -22408,7 +22736,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "rufiohbascoh",
+      "who": "Ducky Senpai",
       "what": null
      }
     ],
@@ -22939,7 +23267,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Smear",
+      "who": "smear",
       "what": null
      }
     ],
@@ -22985,7 +23313,7 @@ window.albumData = [
    {
     "name": "♐ - Creeping Blue",
     "artists": [
-     "Smear"
+     "smear"
     ],
     "coverArtists": [
      {
@@ -23064,7 +23392,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Hongxii",
+      "who": "Rangzhe",
       "what": null
      }
     ],
@@ -23848,7 +24176,7 @@ window.albumData = [
    {
     "name": "CHEATER PAN",
     "artists": [
-     "thedistortedsamurai"
+     "David Burkee"
     ],
     "coverArtists": [
      {
@@ -24613,7 +24941,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Smear",
+      "who": "smear",
       "what": null
      }
     ],
@@ -24890,7 +25218,7 @@ window.albumData = [
     ],
     "coverArtists": [
      {
-      "who": "Hongxii",
+      "who": "Rangzhe",
       "what": null
      }
     ],
@@ -26155,6 +26483,1929 @@ window.albumData = [
   ]
  },
  {
+  "name": "Ancestral",
+  "date": "2017-08-27T03:00:00.000Z",
+  "artDate": "2017-08-27T03:00:00.000Z",
+  "artists": null,
+  "coverArtists": [
+   {
+    "who": "Rangzhe",
+    "what": null
+   }
+  ],
+  "directory": "ancestral",
+  "urls": [
+   "https://unofficialmspafans.bandcamp.com/album/ancestral",
+   "https://www.youtube.com/playlist?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
+  ],
+  "isCanon": false,
+  "isBeyond": false,
+  "isOfficial": false,
+  "isFanon": true,
+  "theme": {
+   "fg": "#ff0300",
+   "bg": "#222222",
+   "theme": 0
+  },
+  "tracks": [
+   {
+    "name": "Disc One",
+    "artists": [
+     "Corona Sanctus"
+    ],
+    "coverArtists": [
+     {
+      "who": "Rebecca Peason",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "disc1-ancestral",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/disc-one"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♈Reality Theatre♈",
+    "artists": [
+     "Navochao"
+    ],
+    "coverArtists": [
+     {
+      "who": "Prince",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "reality-theatre",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/reality-theatre"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♉W1th W1ngs♉",
+    "artists": [
+     "irl-porrim-maryam"
+    ],
+    "coverArtists": [
+     {
+      "who": "Molly",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "w1th-w1ngs",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/w1th-w1ngs"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♊Propulsion♊",
+    "artists": [
+     "Sean William Calhoun"
+    ],
+    "coverArtists": [
+     {
+      "who": "Dogslug",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "propulsion",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/propulsion"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♋️A Peace Worth Fighting For♋️",
+    "artists": [
+     "Nate Tronerud"
+    ],
+    "coverArtists": [
+     {
+      "who": "Lilly Higgs",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Skies of Skaia"
+    ],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "a-peace-worth-fighting-for",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/a-peace-worth-fighting-for"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♌On The Hunt For Something Unknown♌",
+    "artists": [
+     "The One Music Maniac"
+    ],
+    "coverArtists": [
+     {
+      "who": "Melissa Peebles",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "on-the-hunt-for-something-unknown",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/on-the-hunt-for-something-unknown"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♍Theotokos♍",
+    "artists": [
+     "SerialSymphony"
+    ],
+    "coverArtists": [
+     {
+      "who": "Shu",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Crustacean"
+    ],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "theotokos",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/theotokos"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♎H3R HONOR4BL3 V3NG34NC3♎",
+    "artists": [
+     "Seren Mist"
+    ],
+    "coverArtists": [
+     {
+      "who": "Liz Fish",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "h3r-honor4bl3-v3ng34nc3",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/h3r-honor4bl3-v3ng34nc3"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♏Spider's Eclipse♏",
+    "artists": [
+     "Blackhole"
+    ],
+    "coverArtists": [
+     {
+      "who": "Josefin B.",
+      "what": null
+     }
+    ],
+    "contributors": [
+     {
+      "who": "Magnoliajades",
+      "what": "vocals"
+     }
+    ],
+    "lyrics": "Walk the gangway, look right through me,<br>Take it my way, no one's duty.<br>Trust my dice cast, where the wind falls,<br>Fortune's eye glass, scattered light shoals.\nFires burning 'cross the ocean,<br>Fate is turning, starboard motion.<br>Now an outcast, dreams of dying<br>Foretold at last, waking, flying.",
+    "references": [
+     "Spider8ite!!!!!!!!",
+     "Cobalt Corsair"
+    ],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "spiders-eclipse",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/spiders-eclipse"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♐Broken Strings♐",
+    "artists": [
+     "psithurist"
+    ],
+    "coverArtists": [
+     {
+      "who": "Phil Gibson",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "broken-strings",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/broken-strings"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♑His Demented Mural♑",
+    "artists": [
+     "Zan Beaver"
+    ],
+    "coverArtists": [
+     {
+      "who": "Amanda",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "his-demented-mural",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/his-demented-mural"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♒Tumescent♒",
+    "artists": [
+     "Seijen"
+    ],
+    "coverArtists": [
+     {
+      "who": "Sigourney Martin",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "tumescent",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/tumescent"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "♓Greatest -Empress♓",
+    "artists": [
+     "Matthias Ramalho"
+    ],
+    "coverArtists": [
+     {
+      "who": "Lou Chastain",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "greatest-empress",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/greatest-empress"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Disc Two",
+    "artists": [
+     "Corona Sanctus"
+    ],
+    "coverArtists": [
+     {
+      "who": "Rebecca Peason",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "disc2-ancestral",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/disc-two"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Ancestral Anthem",
+    "artists": [
+     "Rhyselinn"
+    ],
+    "coverArtists": [
+     {
+      "who": "bootsie",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Theme",
+     "Darling Dolorosa",
+     "Iron Infidel",
+     "Olive Scribe",
+     "Gold Pilot",
+     "Jade Mother",
+     "Indigo Heir",
+     "Cobalt Corsair",
+     "The Lost Child",
+     "Fuchsia Ruler",
+     "♈Reality Theatre♈",
+     "♉W1th W1ngs♉",
+     "♊Propulsion♊",
+     "♋️A Peace Worth Fighting For♋️",
+     "♌On The Hunt For Something Unknown♌",
+     "♍Theotokos♍",
+     "♎H3R HONOR4BL3 V3NG34NC3♎",
+     "♏Spider's Eclipse♏",
+     "♐Broken Strings♐",
+     "♑His Demented Mural♑",
+     "♒Tumescent♒",
+     "♓Greatest -Empress♓"
+    ],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "ancestral-anthem",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/ancestral-anthem"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "BATTERWITC)( ASC-ENDANT",
+    "artists": [
+     "Seren Mist"
+    ],
+    "coverArtists": [
+     {
+      "who": "Shellsea",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "batterwitch-ascendant",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/batterwitc-asc-endant"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Rampage",
+    "artists": [
+     "Matthias Ramalho"
+    ],
+    "coverArtists": [
+     {
+      "who": "Kisbys",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "rampage",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/rampage"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Orphaner's Ocean",
+    "artists": [
+     "Acyl"
+    ],
+    "coverArtists": [
+     {
+      "who": "Cro",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Eridan's Theme"
+    ],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "orphaners-ocean",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/orphaners-ocean"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "cerulean seas, misery machine",
+    "artists": [
+     "smear"
+    ],
+    "coverArtists": [
+     {
+      "who": "Silverwater",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "cerulean-seas-misery-machine",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/cerulean-seas-misery-machine"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Nothing Will Ever Be The Same",
+    "artists": [
+     "Nate Tronerud"
+    ],
+    "coverArtists": [
+     {
+      "who": "Anna Rodman",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "nothing-will-ever-be-the-same",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/nothing-will-ever-be-the-same"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Protector",
+    "artists": [
+     "Sean William Calhoun"
+    ],
+    "coverArtists": [
+     {
+      "who": "Tunapuns",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "protector",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/protector"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "In The Forest",
+    "artists": [
+     "WC"
+    ],
+    "coverArtists": [
+     {
+      "who": "Sigourney Martin",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "in-the-forest",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/in-the-forest"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "PRII2M BREAK",
+    "artists": [
+     "David Burkee"
+    ],
+    "coverArtists": [
+     {
+      "who": "Andi DiSpirito",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Battle! (Colress)"
+    ],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "prii2m-break",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/prii2m-break"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Disciple's New Beginning",
+    "artists": [
+     "Neveah Drexler"
+    ],
+    "coverArtists": [
+     {
+      "who": "Gilwing",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "the-disciples-new-beginning",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/the-disciples-new-beginning"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "C9me T9gether",
+    "artists": [
+     "TempiTunes"
+    ],
+    "coverArtists": [
+     {
+      "who": "Erin B.",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Jade Mother",
+     "Iron Infidel",
+     "Walls Covered in Blood",
+     "Serenade",
+     "Gold Pilot"
+    ],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "c9me-t9gether",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/c9me-t9gether"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Sufferer's Suite",
+    "artists": [
+     "Toris Crow"
+    ],
+    "coverArtists": [
+     {
+      "who": "Dogslug",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "sufferers-suite",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/sufferers-suite"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Black Heart, Green Dress",
+    "artists": [
+     "psithurist"
+    ],
+    "coverArtists": [
+     {
+      "who": "Josefin B.",
+      "what": "lines"
+     },
+     {
+      "who": "Andi DiSpirito",
+      "what": "coloring"
+     }
+    ],
+    "contributors": [],
+    "lyrics": "i'd like to introduce myself<br>although i'm sure you know me well<br>i am the shadow<br>of tomorrow<br>and it's time for my next spell\nwith only seconds to spare you're dead<br>wiped out with nothing to be said<br>for your existence<br>before resistance<br>can find a thread\nby his dread hand i come<br>from out behind the pendulum<br>when there's work to be done<br>so why let woe begone<br>it's part of the experience<br>it's half of the fun\ni'm only moments away at any time<br>before you know it my light turns lime<br>i cross the threshold<br>and the air goes cold<br>no ghost left behind\nso ready or not, here it goes again<br>how many times now has it been<br>[wait, lemme check]<br>(you see a thousand of me, and)<br>i won't ever stop, because\nevery puppet has it's strings\nwhen he lines up the shot<br>i put that special spin on it<br>and wait for the drop<br>so why not feed the flame<br>it's written in the basecode, yeah<br>in the rules of the game\ni promise you, this won't take a second<br>there's no need to fear<br>so listen now, there ain't no use in running<br>cuz i'm already here",
+    "references": [
+     "Amen, Brother",
+     "Limelight",
+     "Temporal Shenanigans",
+     "English"
+    ],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "black-heart-green-dress",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/black-heart-green-dress"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Expatri8's March",
+    "artists": [
+     "Nymelord"
+    ],
+    "coverArtists": [
+     {
+      "who": "Donomon",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "expatri8s-march",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/expatri8s-march"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Release Me",
+    "artists": [
+     "not-the-kind-you-save"
+    ],
+    "coverArtists": [
+     {
+      "who": "Oskarna",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": "I'm not a god--I never said so<br>I'm not a fool--I never lied<br>I am not a king--I don't decide<br>No<br>I'm not wrong, I'm not wrong\nI'm not a shame--I shouldn't hide<br>We are not weak--we live inside<br>We are your hands<br>Without the low you would not survive<br>You would not survive\nRelease me<br>Go ahead<br>Release me<br>My arms don't matter<br>I can take this pain\nRelease me<br>Go ahead<br>Cut the cord<br>Release me<br>Ideas don't die when<br>You kill the source\nAre you scared?<br>When you throw me around<br>Can you feel the eyes<br>of the crowd?<br>How do you know when you're<br>On the stand<br>Judgement is forthcoming<br>You're running<br>From the things that you don't understand<br>You fear what you don't understand\nRelease me<br>Go ahead<br>Release me<br>One life doesn't matter<br>I can take this hate\nRelease me<br>Don't be weak<br>Let it go<br>Release me<br>My blood is my weapon<br>Let it fall below\nBut she<br>She's innocent<br>Don't let her suffer<br>For what I've done<br>You can break me<br>You can hurt me<br>You can shoot me<br>(whispered) But I'm the one you want<br>Release me\nRelease me<br>Go ahead<br>Release me<br>Your blood doesn't matter<br>You cannot change time\nRelease me<br>Don't be weak<br>Let it fly<br>Release me<br>My words are my weapons<br>Let my body die",
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "release-me",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/release-me"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "E%ile",
+    "artists": [
+     "ndividedbyzero"
+    ],
+    "coverArtists": [
+     {
+      "who": "Xagave",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Ruins (With Strings)"
+    ],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "exile",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/e-ile"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Legacy",
+    "artists": [
+     "aeolianChemist"
+    ],
+    "coverArtists": [
+     {
+      "who": "Rangzhe",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": "I wrote once in a book, ancient record I kept<br>Of a Hero whose story they wish you'd furget<br>A legacy I fought to purrtect<br>Of a signless seer burdened by Blood and dreams of an impawsible past\nAnd so it is known, in a world enslaved by Rage,<br>He alone defied her throne, he had faith in a better way\nDelicate lines writ on delicate pages,<br>measuring lives to be known through the ages<br>Efury word that he spoke, I wrote<br>I always lent him my ear, his dear Disciple\nIn word and in action, he taught love and compassion<br>and equality despite blood, caste, or faction<br>In whispers he roared with a burning passion<br>But no Hero's tail is complete without a villain, without a tragedy\nAnd so it is told, from his words arose outrage,<br>The peace he furtold inspired a challenge, inspired a change\nDelicate lines writ on delicate pages,<br>measuring lives to be known through the ages<br>Efury word that he spoke, I wrote<br>I always lent him my ear, his dear Disciple\nAnd when the Time came when they called fur his name,<br>they cried fur his blood and they put him to shame<br>They branded him heretic, cast him in irons<br>without Hope, a lamb at the mercy of lions<br>His love and compassion burned bright as the shackles,<br>the scarlet-soaked ground became his tabernacle<br>To speak one final word, one Final Sermon...\nNow these despurrate lines scrawled on a canvas of caves<br>measure his life in a pallet of pain<br>The final curse that he cried I remember<br>His suffuring's branded on my Heart furever<br>A new sign we did take from the ash of his shame<br>to remember his strife and hallow his name<br>Efuryone he once loved was condemned,<br>but I vow his words won't disappear,<br>written in ink, traced in blood, sealed with tears,<br>his legacy I'll keep through the years, his dear Disciple\nI wrote once in a book, ancient record I kept,<br>of a Hero whose story I purray you will never furget",
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "legacy",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/legacy"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Terminal Aeon",
+    "artists": [
+     "WC"
+    ],
+    "coverArtists": [
+     {
+      "who": "Gelasticat",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Gold Pilot"
+    ],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "terminal-aeon",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/terminal-aeon"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Vwigor8us",
+    "artists": [
+     "Llyona Fang"
+    ],
+    "coverArtists": [
+     {
+      "who": "Donomon",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Wind-up Storm",
+     "Doctor"
+    ],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "vwigor8us",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/vwigor8us"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Lady of Sorrows",
+    "artists": [
+     "Dallas Ross Hicks"
+    ],
+    "coverArtists": [
+     {
+      "who": "Oskarna",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "lady-of-sorrows",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/lady-of-sorrows"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Dualscar's Lament",
+    "artists": [
+     "not-the-kind-you-save"
+    ],
+    "coverArtists": [
+     {
+      "who": "Lou Chastain",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": "First things first she says your name<br>You gotta hear it to believe it and it gets in your grain<br>You think \"uh oh, she's the one\"<br>There's hate in her eye and it's turning you on\nYou haven't really met her, you don't know her<br>She's a black box<br>One controlling mind, when she talks it's<br>Hopeless, helpless, hate cascades<br>Before you even know it you've been taken up in spades\nI am royalty, not prone to jealousy<br>But<br>In this case I think my head's gone up in<br>Flames of something I can't place<br>I saw the look on the slave girl's face\nWho does she think she is--she's a riot<br>If I tell her we're done she'd deny it<br>The only thing left for her to do is run<br>It's a black-rom rom-com if you've ever seen one\nI'll find her<br>Don't know where<br>But she'll know what a broken heart feels like<br>When she's staring down Ahab's Crosshairs\nSorry, did I miss the boat?<br>I am realizing slowly, quickly I have<br>Fallen for her crossways, what a joke\nYou always hear those stories about<br>Someone you don't know and they say that<br>Hate and love don't mix, like water and oil<br>The blood just floats\nI have never had a strong sense of humor<br>I get off on rumors everywhere I go that she has<br>Gone to the east, or the west, or to hell<br>No matter where, I know her well\nIt's sad that it should end like this<br>One of us will leave this dead<br>It's not my fault she struck me when she knew our black was red\nI'll find her<br>Don't know where<br>But she'll know what a broken heart feels like<br>When I send the clown after her head",
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "dualscars-lament",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/dualscars-lament"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Court of Miracles",
+    "artists": [
+     "irl-porrim-maryam"
+    ],
+    "coverArtists": [
+     {
+      "who": "bootsie",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "In the Hall of the Mountain King",
+     "Purple Tyrant",
+     "The Court of Miracles"
+    ],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "court-of-miracles",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/court-of-miracles"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Violet Means to a Violent End",
+    "artists": [
+     "Acyl"
+    ],
+    "coverArtists": [
+     {
+      "who": "Liz Fish",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Purple Tyrant"
+    ],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "violet-means-to-a-violent-end",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/violet-means-to-a-violent-end"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Paint The Walls",
+    "artists": [
+     "The One Music Maniac"
+    ],
+    "coverArtists": [
+     {
+      "who": "Melissa Peebles",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "paint-the-walls",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/paint-the-walls"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Pursuit of Justice",
+    "artists": [
+     "SerialSymphony"
+    ],
+    "coverArtists": [
+     {
+      "who": "Thiefofstars",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "the-pursuit-of-justice",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/the-pursuit-of-justice"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Confront8ion",
+    "artists": [
+     "Circlejourney"
+    ],
+    "coverArtists": [
+     {
+      "who": "Lilly Higgs",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "the-confront8ion",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/the-confront8ion"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "JUST1C3 R41NS FROM 4BOV3",
+    "artists": [
+     "SerialSymphony",
+     "Circlejourney"
+    ],
+    "coverArtists": [
+     {
+      "who": "Lou Chastain",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "The Confront8ion"
+    ],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "just1c3-r41ns-from-4bov3",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/just1c3-r41ns-from-4bov3"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Demise of Neophyte Redglare at the Hands of the Unruly Mob",
+    "artists": [
+     "SerialSymphony"
+    ],
+    "coverArtists": [
+     {
+      "who": "Daisy S.",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Terezi's Theme"
+    ],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "the-demise-of-neophyte-redglare-at-the-hands-of-the-unruly-mob",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/the-demise-of-neophyte-redglare-at-the-hands-of-the-unruly-mob"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Mechanism",
+    "artists": [
+     "not-the-kind-you-save"
+    ],
+    "coverArtists": [
+     {
+      "who": "Amanda",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": "Leave me be<br>This is what I deserve<br>Broken hallways<br>And empty words\nI had a purpose<br>I had a design<br>When your puppet doesn't work right<br>You set it aside\n(Pre-Chorus)<br>I didn't know her<br>I'd never seen her before<br>And yet when I turned to her<br>I couldn't do it anymore\nIt's quiet—disturbing<br>I can still hear her cry<br>He was only a lowblood<br>He was always going to die\n(Chorus)<br>I am mechanical<br>Methodical<br>I only see detail<br>I can watch the world from below\nIt is my legacy<br>My rightful place<br>In the glimmer of the moons<br>But my body is empty<br>Moonlight bleaches<br>Mechanical bones\nWander off<br>It's a terrible place<br>I have made myself a castle<br>To hold my disgrace\nWho am I kidding?<br>I belong alone<br>There is nothing for me elsewhere<br>And this my home\n(Pre-Chorus)\n(Chorus) x2",
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "the-mechanism",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/the-mechanism"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Summon the Cavalreapers",
+    "artists": [
+     "The One Music Maniac"
+    ],
+    "coverArtists": [
+     {
+      "who": "Andi DiSpirito",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "summon-the-cavalreapers",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/summon-the-cavalreapers"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Last Lovers",
+    "artists": [
+     "Matthias Ramalho"
+    ],
+    "coverArtists": [
+     {
+      "who": "Melissa Peebles",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "last-lovers",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/last-lovers"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "pyrrhic rust",
+    "artists": [
+     "smear"
+    ],
+    "coverArtists": [
+     {
+      "who": "Xagave",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "pyrrhic-rust",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/pyrrhic-rust"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Mutiny",
+    "artists": [
+     "Zan Beaver"
+    ],
+    "coverArtists": [
+     {
+      "who": "Elanor Pam",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "mutiny",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/mutiny"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Black Flag Stained 8lue",
+    "artists": [
+     "Navochao"
+    ],
+    "coverArtists": [
+     {
+      "who": "Thiefofstars",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "black-flag-stained-8lue",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/black-flag-stained-8lue"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "A Rebel's Requiem",
+    "artists": [
+     "Seren Mist"
+    ],
+    "coverArtists": [
+     {
+      "who": "Kisbys",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "a-rebels-requiem",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/a-rebels-requiem"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "In Condescent Darkness",
+    "artists": [
+     "Nate Tronerud"
+    ],
+    "coverArtists": [
+     {
+      "who": "Dogslug",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "in-condescent-darkness",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/in-condescent-darkness"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Die For Me",
+    "artists": [
+     "Ducky Senpai"
+    ],
+    "coverArtists": [
+     {
+      "who": "Shu",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "die-for-me",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/die-for-me"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Doom of the Planets",
+    "artists": [
+     "Circlejourney"
+    ],
+    "coverArtists": [
+     {
+      "who": "Tunapuns",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Fuchsia Ruler",
+     "Gold Pilot",
+     "Heir of Grief"
+    ],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "the-doom-of-the-planets",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/the-doom-of-the-planets"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Rusted Wench",
+    "artists": [
+     "miraculouslollipop"
+    ],
+    "coverArtists": [
+     {
+      "who": "Shu",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "rusted-wench",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/rusted-wench"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Handmaiden's F(l)ight",
+    "artists": [
+     "SerialSymphony"
+    ],
+    "coverArtists": [
+     {
+      "who": "Silverwater",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Sburban Jungle"
+    ],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "handmaidens-flight",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/handmaidens-f-l-ight"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Of Rust and Royalty",
+    "artists": [
+     "Grace Medley"
+    ],
+    "coverArtists": [
+     {
+      "who": "Elanor Pam",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Rust Apocalypse",
+     "Fuchsia Ruler",
+     "Eternity Served Cold"
+    ],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "of-rust-and-royalty",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/of-rust-and-royalty"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Handmaid's Lament",
+    "artists": [
+     "Sara Stebbins"
+    ],
+    "coverArtists": [
+     {
+      "who": "Sigourney Martin",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "the-handmaids-lament",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/the-handmaids-lament"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "(Her Imperial) Ascension",
+    "artists": [
+     "SerialSymphony"
+    ],
+    "coverArtists": [
+     {
+      "who": "Xagave",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "her-imperial-ascension",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/her-imperial-ascension"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Crockercorpse",
+    "artists": [
+     "Sean William Calhoun"
+    ],
+    "coverArtists": [
+     {
+      "who": "Donomon",
+      "what": null
+     }
+    ],
+    "contributors": [
+     {
+      "who": "Josefin B.",
+      "what": "vocals"
+     }
+    ],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "crockercorpse",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/crockercorpse"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Disc Three",
+    "artists": [
+     "Corona Sanctus"
+    ],
+    "coverArtists": [
+     {
+      "who": "Rebecca Peason",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "disc3-ancestral",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/disc-three"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "the mother, a child",
+    "artists": [
+     "smear"
+    ],
+    "coverArtists": [
+     {
+      "who": "Kaz",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "the-mother-a-child",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/the-mother-a-child"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Space Serenade (A Lullaby for a Restless Sleeper)",
+    "artists": [
+     "Navochao"
+    ],
+    "coverArtists": [
+     {
+      "who": "Phil Gibson",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "space-serenade-a-lullaby-for-a-restless-sleeper",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/space-serenade-a-lullaby-for-a-restless-sleeper"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Sweet Baby Tr9ll Jegus",
+    "artists": [
+     "potato-sollux"
+    ],
+    "coverArtists": [
+     {
+      "who": "Gelasticat",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "sweet-baby-tr9ll-jegus",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/sweet-baby-tr9ll-jegus"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Tomorrow There'll Be More Of Us",
+    "artists": [
+     "Navochao"
+    ],
+    "coverArtists": [
+     {
+      "who": "Liz Fish",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "tomorrow-therell-be-more-of-us",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/tomorrow-therell-be-more-of-us"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Signless Protection Squad",
+    "artists": [
+     "Navochao"
+    ],
+    "coverArtists": [
+     {
+      "who": "bootsie",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Icirrus City"
+    ],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "signless-protection-squad",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/signless-protection-squad"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Purple And Purple",
+    "artists": [
+     "WC"
+    ],
+    "coverArtists": [
+     {
+      "who": "Cro",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "purple-and-purple",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/purple-and-purple"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Sandswept Schismatic",
+    "artists": [
+     "Acyl"
+    ],
+    "coverArtists": [
+     {
+      "who": "Amanda",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "sandswept-schismatic",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/sandswept-schismatic"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "lazutrix",
+    "artists": [
+     "smear"
+    ],
+    "coverArtists": [
+     {
+      "who": "Andi DiSpirito",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": "Blue, blue, blue<br>Im seein blue, blue blue<br>A couple hundred years, waiting to run into you<br>Seldom thoughts can hurt me<br>I cant even find my self<br>In the void i wish to linger,<br>Not that i have a choice\nSomething here seems to be<br>Always eating at my health<br>Something i cant quite figure<br>Not that i have a voice\nMaybe i pitied you<br>Giddy at the thought of you<br>Maybe my hearts not true<br>To the cause ive devoted my life into\nPerhaps not out of my own volition<br>Stomping out every coalition<br>Regardless of the lives they may have saved<br>I knew to you they only misbehaved\nMaybe it is because<br>Im a glutton for punishment<br>Behind my eyes a buzz,<br>Banishment, admonishment\nBlue, blue, blue<br>Im seeing blue, blue, blue,<br>Somehow im still not free,<br>Finding comfort in my stealth<br>a misery machine, with her<br>No reason to rejoice",
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "lazutrix",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/lazutrix"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Leftovers",
+    "artists": [
+     "psithurist"
+    ],
+    "coverArtists": [
+     {
+      "who": "senpai-satan",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": "Every word you say,<br>Every piece you give.<br>Every night and day,<br>Every life you save.<br>For them,<br>For us.\nEvery shot they take,<br>Every drop they spill.<br>Every heart they break,<br>Every one they kill.<br>For what?<br>For her?\nIn every severed tail|tale,<br>In every leap<br>I won't hold back.<br>In every ship that sails,<br>In every spark of love<br>I will remain.<br>For him,<br>For me.",
+    "references": [
+     "Walls Covered in Blood",
+     "Olive Scribe",
+     "Flare"
+    ],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "leftovers",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/leftovers"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Cardinal Fyre",
+    "artists": [
+     "Zan Beaver"
+    ],
+    "coverArtists": [
+     {
+      "who": "Gilwing",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "cardinal-fyre",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/cardinal-fyre"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Preach",
+    "artists": [
+     "Seijen"
+    ],
+    "coverArtists": [
+     {
+      "who": "Erin B.",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "preach",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/preach"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Swan Song",
+    "artists": [
+     "Navochao"
+    ],
+    "coverArtists": [
+     {
+      "who": "Gelasticat",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "swan-song",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/swan-song"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Doom of the Planets (Reprise)",
+    "artists": [
+     "Circlejourney"
+    ],
+    "coverArtists": [
+     {
+      "who": "Circlejourney",
+      "what": null
+     }
+    ],
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "The Doom of the Planets"
+    ],
+    "date": "2017-08-27T03:00:00.000Z",
+    "artDate": "2017-08-27T03:00:00.000Z",
+    "directory": "the-doom-of-the-planets-reprise",
+    "urls": [
+     "https://unofficialmspafans.bandcamp.com/track/the-doom-of-the-planets-reprise"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   }
+  ]
+ },
+ {
   "name": "Land of Fans and Music 4",
   "date": "2017-09-09T03:00:00.000Z",
   "artDate": "2017-09-09T03:00:00.000Z",
@@ -26378,7 +28629,8 @@ window.albumData = [
     "lyrics": null,
     "references": [
      "Midnight Suffer",
-     "Liquid Negrocity"
+     "Liquid Negrocity",
+     "Amen, Brother"
     ],
     "date": "2017-09-09T03:00:00.000Z",
     "artDate": "2017-09-09T03:00:00.000Z",
@@ -26782,6 +29034,7 @@ window.albumData = [
     "lyrics": null,
     "references": [
      "Chorale for Jaspers",
+     "Amen, Brother",
      "Aggrieve",
      "Battle Against an Unfathomable Enemy",
      "At The Price of Oblivion"
@@ -27607,7 +29860,23 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Liquid Negrocity",
+     "Amen, Brother",
+     "Upward Movement (Dave Owns)",
+     "Double Midnight",
+     "I'm a Member of the Midnight Crew",
+     "Showtime (Original Mix)",
+     "Beatdown (Strider Style)",
+     "Freefall",
+     "Terezi's Theme",
+     "Unite Synchronization",
+     "Moonsetter",
+     "Sunsetter",
+     "Moshi Moshi?",
+     "English",
+     "~~ADDITIONAL MAYHEM~~"
+    ],
     "date": "2017-09-09T03:00:00.000Z",
     "artDate": "2017-09-09T03:00:00.000Z",
     "directory": "one-and-a-half-midnight",
@@ -27632,7 +29901,10 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Fractal Flowers",
+     "Creeping in My Soul"
+    ],
     "date": "2017-09-09T03:00:00.000Z",
     "artDate": "2017-09-09T03:00:00.000Z",
     "directory": "fractal-flowers-nui",
@@ -28595,6 +30867,7 @@ window.albumData = [
     "lyrics": null,
     "references": [
      "Double Midnight",
+     "Amen, Brother",
      "Penumbra Phantasm",
      "A Baby Legend - The Baby is 2 (by Toby Fox)",
      "Dirgeish"

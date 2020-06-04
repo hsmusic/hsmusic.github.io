@@ -10,42 +10,47 @@
         <script defer src="client.js"></script>
     </head>
     <body style="--fg-color: #02b7ff; --bg-color: #222222; --theme: 0; --album-directory: song-of-skaia; --track-directory: null-mark-hadley">
-        <div id="sidebar">
-            <h2><a href="index.html">(Home)</a></h2>
-            <!-- <h3>Official</h3> -->
-            <hr>
-            <h1><a href="album/song-of-skaia/index.html">Song of Skaia</a></h1>
-            <ol>
-                <li class="current"><a href="track/null-mark-hadley/index.html">Null</a></li>
-                <li class=""><a href="track/skaian-birth/index.html">Skaian Birth</a></li>
-                <li class=""><a href="track/song-of-skaia/index.html">Song of Skaia</a></li>
-            </ol>
-            <hr>
-            <p>
-                <a href="js-disabled/index.html" data-random="track-in-album">Random track</a></li>
-            </p>
-            
-                        <p>
-                            25th track by <a href="artist/mark-hadley/index.html">Mark Hadley</a><br>
-                            (<a href="album/song-of-skaia/index.html" title="Song of Skaia">Previous</a>, <a href="track/skaian-birth/index.html" title="Skaian Birth">Next</a>)
-                        </p>
+        <div id="header">
+            <h2>
+                <a href="index.html">Home</a>
+                / <a href="album/song-of-skaia/index.html">Song of Skaia</a>
+                / <a href="track/null-mark-hadley/index.html">Null</a>
+                <span>(<a href="track/skaian-birth/index.html" title="Skaian Birth">Next</a>, <a href="js-disabled/index.html" data-random="track-in-album">Random</a>)</span>
+            </h2>
+            <div>
+                
+                                <div class="chronology">
+                                    <span class="heading">24th track by <a href="artist/mark-hadley/index.html">Mark Hadley</a></span>
+                                    <span class="buttons">(<a href="track/carefree-action/index.html" title="Carefree Action">Previous</a>, <a href="track/skaian-birth/index.html" title="Skaian Birth">Next</a>)</span>
+                                </div>
+            </div>
         </div>
-        <div id="content">
-            <a href="album/song-of-skaia/cover.jpg" id="cover-art"><img src="album/song-of-skaia/cover.jpg"></a>
-            <h1>Null</h1>
-            <p>
-                By <a href="artist/mark-hadley/index.html">Mark Hadley</a>.<br>
+        <div class="columns">
+            <div id="sidebar">
+                <h1><a href="album/song-of-skaia/index.html">Song of Skaia</a></h1>
+                <ol>
+                    <li class="current"><a href="track/null-mark-hadley/index.html">Null</a></li>
+                    <li class=""><a href="track/skaian-birth/index.html">Skaian Birth</a></li>
+                    <li class=""><a href="track/song-of-skaia/index.html">Song of Skaia</a></li>
+                </ol>
+            </div>
+            <div id="content">
+                <a href="album/song-of-skaia/cover.jpg" id="cover-art"><img src="album/song-of-skaia/cover.jpg"></a>
+                <h1>Null</h1>
+                <p>
+                    By <a href="artist/mark-hadley/index.html">Mark Hadley</a>.<br>
+                    
+                    Released 2012-01-01.
+                    
+                </p>
+                <p>Listen on <a href="https://parsecproductions.bandcamp.com/track/null">Bandcamp</a>.</p>
                 
-                Released 2012-01-01.
                 
-            </p>
-            <p>Listen on <a href="https://parsecproductions.bandcamp.com/track/null">Bandcamp</a>.</p>
-            
-            
-            
-            
-            
-            
+                
+                
+                
+                
+            </div>
         </div>
     </body>
 </html>

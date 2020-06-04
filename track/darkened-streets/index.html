@@ -10,59 +10,67 @@
         <script defer src="client.js"></script>
     </head>
     <body style="--fg-color: #cc44cc; --bg-color: #222222; --theme: 0; --album-directory: prospit-and-derse; --track-directory: darkened-streets">
-        <div id="sidebar">
-            <h2><a href="index.html">(Home)</a></h2>
-            <!-- <h3>Official</h3> -->
-            <hr>
-            <h1><a href="album/prospit-and-derse/index.html">Prospit & Derse</a></h1>
-            <ol>
-                <li class=""><a href="track/hallowed-halls/index.html">Hallowed Halls</a></li>
-                <li class=""><a href="track/the-golden-towers/index.html">The Golden Towers</a></li>
-                <li class=""><a href="track/prospit-dreamers/index.html">Prospit Dreamers</a></li>
-                <li class=""><a href="track/center-of-brilliance/index.html">Center of Brilliance</a></li>
-                <li class="current"><a href="track/darkened-streets/index.html">Darkened Streets</a></li>
-                <li class=""><a href="track/the-obsidian-towers/index.html">The Obsidian Towers</a></li>
-                <li class=""><a href="track/derse-dreamers/index.html">Derse Dreamers</a></li>
-                <li class=""><a href="track/core-of-darkness/index.html">Core of Darkness</a></li>
-            </ol>
-            <hr>
-            <p>
-                <a href="js-disabled/index.html" data-random="track-in-album">Random track</a></li>
-            </p>
-            
-                        <p>
-                            15th track by <a href="artist/solatrus/index.html">Solatrus</a><br>
-                            (<a href="track/center-of-brilliance/index.html" title="Center of Brilliance">Previous</a>, <a href="track/the-obsidian-towers/index.html" title="The Obsidian Towers">Next</a>)
-                        </p>
-                        <p>1st cover art by <a href="artist/a-smith/index.html">A. Smith</a></p>
-        </div>
-        <div id="content">
-            <a href="album/prospit-and-derse/darkened-streets.jpg" id="cover-art"><img src="album/prospit-and-derse/darkened-streets.jpg"></a>
-            <h1>Darkened Streets</h1>
-            <p>
-                By <a href="artist/solatrus/index.html">Solatrus</a>.<br>
-                Cover art by <a href="artist/a-smith/index.html">A. Smith</a>.<br>
-                Released 2011-08-22.
+        <div id="header">
+            <h2>
+                <a href="index.html">Home</a>
+                / <a href="album/prospit-and-derse/index.html">Prospit & Derse</a>
+                / <a href="track/darkened-streets/index.html">Darkened Streets</a>
+                <span>(<a href="track/center-of-brilliance/index.html" title="Center of Brilliance">Previous</a>, <a href="track/the-obsidian-towers/index.html" title="The Obsidian Towers">Next</a>, <a href="js-disabled/index.html" data-random="track-in-album">Random</a>)</span>
+            </h2>
+            <div>
                 
-            </p>
-            <p>Listen on <a href="https://youtu.be/mVpqo-OdbSk">YouTube</a>.</p>
-            
-            
-            
-            
-            
-            <p>Artist commentary:</p>
-            <blockquote>
-                <p><i>Solatrus:</i></p>
-                <p>This was definitely the song that started everything off. It’s dark, dreary, but still majestic like the very moon it describes. The music takes on you a flight. You’re one of the Derse Dreamers, the wind rushing across your face as you approach the moon’s surface. Carapaces scurrying about, too afraid to be caught after curfew, wary of Jack Noir and his gang.</p>
-                <p>My original goal was to make this song set the example of how I perceive Derse. Dark, but not evil. Fitting for the Dreamers we know and love there.</p>
-                <p>I definitely tried to go into some new territory with this song. While I’ve always loved the Metroid Prime Trilogy soundtrack, this was my first real attempt at trying to imitate many quality’s of that trilogy’s music.</p>
-                <p>The violin that comes in pretty early on was actually added in near the end of the album’s production, and the idea to really strongly associate every song with the kids didn’t occur to me until part of the way into doing Prospit’s half, but I’ll get to that later.</p>
-                <p>I really have to say I like the the bass I chose for this song. It has a sort of heart beat quality to it. Very simple, very deep. But it really cuts through. Of course, I did get to do my favorite high pass/bitcrushed beats again, but this time I did a spin on it: Gross Beat. I mentioned it with Crystalanthology, but I used Gross Beat far more extensively in Derse.</p>
-                <p>When I was initially creating this song, Prospit & Derse was a concept album. You, the listener, would have been guided along a journey, first to Derse, going through the Darkened Streets, up the Obsidian Towers to where the Derse Dreamers were jamming out, before heading deep into the Core of Darkness, until you were suddenly transported to Prospit, appearing in the Hallowed Halls before repeating the journey with Prospit’s counterparts. Honestly, if you listen to the album as Derse & Prospit instead, you still can kind of get that vibe!</p>
-                <p>You can definitely hear the idea of that in how it goes into The Obsidian Towers, but I ended up removing the more seemless transitions in favor of just having two somewhat parallel albums, and stuck with the parallel idea for awhile. This is the most obvious in the first two songs of each half. Hallowed Halls is based on Darkened Streets, and The Golden Towers is based on The Obsidian Towers.</p>
-                <p>In a side note, I’d love to link you to the artist who did the song cover art for Darkened Streets, but I’ve lost contact with them! If anyone knows where I can get in contact again, please let me know!</p>
-            </blockquote>
+                                <div class="chronology">
+                                    <span class="heading">14th track by <a href="artist/solatrus/index.html">Solatrus</a></span>
+                                    <span class="buttons">(<a href="track/center-of-brilliance/index.html" title="Center of Brilliance">Previous</a>, <a href="track/the-obsidian-towers/index.html" title="The Obsidian Towers">Next</a>)</span>
+                                </div>
+                                <div class="chronology">
+                                    <span class="heading">1st cover art by <a href="artist/a-smith/index.html">A. Smith</a></span>
+                                    
+                                </div>
+            </div>
+        </div>
+        <div class="columns">
+            <div id="sidebar">
+                <h1><a href="album/prospit-and-derse/index.html">Prospit & Derse</a></h1>
+                <ol>
+                    <li class=""><a href="track/hallowed-halls/index.html">Hallowed Halls</a></li>
+                    <li class=""><a href="track/the-golden-towers/index.html">The Golden Towers</a></li>
+                    <li class=""><a href="track/prospit-dreamers/index.html">Prospit Dreamers</a></li>
+                    <li class=""><a href="track/center-of-brilliance/index.html">Center of Brilliance</a></li>
+                    <li class="current"><a href="track/darkened-streets/index.html">Darkened Streets</a></li>
+                    <li class=""><a href="track/the-obsidian-towers/index.html">The Obsidian Towers</a></li>
+                    <li class=""><a href="track/derse-dreamers/index.html">Derse Dreamers</a></li>
+                    <li class=""><a href="track/core-of-darkness/index.html">Core of Darkness</a></li>
+                </ol>
+            </div>
+            <div id="content">
+                <a href="album/prospit-and-derse/darkened-streets.jpg" id="cover-art"><img src="album/prospit-and-derse/darkened-streets.jpg"></a>
+                <h1>Darkened Streets</h1>
+                <p>
+                    By <a href="artist/solatrus/index.html">Solatrus</a>.<br>
+                    Cover art by <a href="artist/a-smith/index.html">A. Smith</a>.<br>
+                    Released 2011-08-22.
+                    
+                </p>
+                <p>Listen on <a href="https://youtu.be/mVpqo-OdbSk">YouTube</a>.</p>
+                
+                
+                
+                
+                
+                <p>Artist commentary:</p>
+                <blockquote>
+                    <p><i>Solatrus:</i></p>
+                    <p>This was definitely the song that started everything off. It’s dark, dreary, but still majestic like the very moon it describes. The music takes on you a flight. You’re one of the Derse Dreamers, the wind rushing across your face as you approach the moon’s surface. Carapaces scurrying about, too afraid to be caught after curfew, wary of Jack Noir and his gang.</p>
+                    <p>My original goal was to make this song set the example of how I perceive Derse. Dark, but not evil. Fitting for the Dreamers we know and love there.</p>
+                    <p>I definitely tried to go into some new territory with this song. While I’ve always loved the Metroid Prime Trilogy soundtrack, this was my first real attempt at trying to imitate many quality’s of that trilogy’s music.</p>
+                    <p>The violin that comes in pretty early on was actually added in near the end of the album’s production, and the idea to really strongly associate every song with the kids didn’t occur to me until part of the way into doing Prospit’s half, but I’ll get to that later.</p>
+                    <p>I really have to say I like the the bass I chose for this song. It has a sort of heart beat quality to it. Very simple, very deep. But it really cuts through. Of course, I did get to do my favorite high pass/bitcrushed beats again, but this time I did a spin on it: Gross Beat. I mentioned it with Crystalanthology, but I used Gross Beat far more extensively in Derse.</p>
+                    <p>When I was initially creating this song, Prospit & Derse was a concept album. You, the listener, would have been guided along a journey, first to Derse, going through the Darkened Streets, up the Obsidian Towers to where the Derse Dreamers were jamming out, before heading deep into the Core of Darkness, until you were suddenly transported to Prospit, appearing in the Hallowed Halls before repeating the journey with Prospit’s counterparts. Honestly, if you listen to the album as Derse & Prospit instead, you still can kind of get that vibe!</p>
+                    <p>You can definitely hear the idea of that in how it goes into The Obsidian Towers, but I ended up removing the more seemless transitions in favor of just having two somewhat parallel albums, and stuck with the parallel idea for awhile. This is the most obvious in the first two songs of each half. Hallowed Halls is based on Darkened Streets, and The Golden Towers is based on The Obsidian Towers.</p>
+                    <p>In a side note, I’d love to link you to the artist who did the song cover art for Darkened Streets, but I’ve lost contact with them! If anyone knows where I can get in contact again, please let me know!</p>
+                </blockquote>
+            </div>
         </div>
     </body>
 </html>

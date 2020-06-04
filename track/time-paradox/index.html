@@ -10,66 +10,71 @@
         <script defer src="client.js"></script>
     </head>
     <body style="--fg-color: #33aa55; --bg-color: #222222; --theme: 0; --album-directory: the-felt; --track-directory: time-paradox">
-        <div id="sidebar">
-            <h2><a href="index.html">(Home)</a></h2>
-            <!-- <h3>Official</h3> -->
-            <hr>
-            <h1><a href="album/the-felt/index.html">The Felt</a></h1>
-            <ol>
-                <li class=""><a href="track/jade-dragon/index.html">Jade Dragon</a></li>
-                <li class=""><a href="track/swing-of-the-clock/index.html">Swing of the Clock</a></li>
-                <li class=""><a href="track/rhapsody-in-green/index.html">Rhapsody in Green</a></li>
-                <li class=""><a href="track/humphreys-lullaby/index.html">Humphrey's Lullaby</a></li>
-                <li class=""><a href="track/clockwork-reversal/index.html">Clockwork Reversal</a></li>
-                <li class=""><a href="track/chartreuse-rewind/index.html">Chartreuse Rewind</a></li>
-                <li class=""><a href="track/the-broken-clock/index.html">The Broken Clock</a></li>
-                <li class=""><a href="track/apocryphal-antithesis/index.html">Apocryphal Antithesis</a></li>
-                <li class=""><a href="track/trails/index.html">Trails</a></li>
-                <li class=""><a href="track/baroqueback-bowtier-scratchs-lament/index.html">Baroqueback Bowtier (Scratch's Lament)</a></li>
-                <li class=""><a href="track/scratch/index.html">Scratch</a></li>
-                <li class=""><a href="track/omelette-sandwich/index.html">Omelette Sandwich</a></li>
-                <li class=""><a href="track/temporal-piano/index.html">Temporal Piano</a></li>
-                <li class="current"><a href="track/time-paradox/index.html">Time Paradox</a></li>
-                <li class=""><a href="track/eldritch/index.html">Eldritch</a></li>
-                <li class=""><a href="track/english/index.html">English</a></li>
-                <li class=""><a href="track/variations/index.html">Variations</a></li>
-            </ol>
-            <hr>
-            <p>
-                <a href="js-disabled/index.html" data-random="track-in-album">Random track</a></li>
-            </p>
-            
-                        <p>
-                            2nd track by <a href="artist/thomas-ferkol/index.html">Thomas Ferkol</a><br>
-                            (<a href="track/clockwork-reversal/index.html" title="Clockwork Reversal">Previous</a>, <a href="track/dreamers-and-the-dead/index.html" title="Dreamers and The Dead">Next</a>)
-                        </p>
-                        <p>
-                            90th cover art by <a href="artist/homestuck/index.html">Homestuck</a><br>
-                            (<a href="track/temporal-piano/index.html" title="Temporal Piano">Previous</a>, <a href="track/eldritch/index.html" title="Eldritch">Next</a>)
-                        </p>
-        </div>
-        <div id="content">
-            <a href="album/the-felt/time-paradox.jpg" id="cover-art"><img src="album/the-felt/time-paradox.jpg"></a>
-            <h1>Time Paradox</h1>
-            <p>
-                By <a href="artist/thomas-ferkol/index.html">Thomas Ferkol</a>.<br>
-                Cover art by <a href="artist/homestuck/index.html">Homestuck</a>.<br>
-                Released 2010-12-02.
+        <div id="header">
+            <h2>
+                <a href="index.html">Home</a>
+                / <a href="album/the-felt/index.html">The Felt</a>
+                / <a href="track/time-paradox/index.html">Time Paradox</a>
+                <span>(<a href="track/temporal-piano/index.html" title="Temporal Piano">Previous</a>, <a href="track/eldritch/index.html" title="Eldritch">Next</a>, <a href="js-disabled/index.html" data-random="track-in-album">Random</a>)</span>
+            </h2>
+            <div>
                 
-            </p>
-            <p>Listen on <a href="https://homestuck.bandcamp.com/track/time-paradox-2">Bandcamp</a>.</p>
-            
-            
-            
-            
-            
-            <p>Artist commentary:</p>
-            <blockquote>
-                <p><i>Thomas Ferkol:</i></p>
-                <p>This was the first piece I submitted for an album once I got on the team.  Basically what happened was: I am visiting somewhere in Chicago with only my phone’s connection to the internet, check the MSPA forums and find a message notification waiting for me.  Radiation congratulates me on getting on the team.  After some moments of sputtering disbelief, I read on.  He says if I want to get started on something, the Squiddles was being finished up and the Felt was on the table.  So, for the next couple hours I was invigorated, consumed wholly during the car ride and time in the hotel before I finally fell asleep with working on a track for the Felt.  Time Paradox was made.</p>
-                <p>Originally, I made it imagining the recruitment of the Felt, picturing Doc Scratch warping across time and space, assembling the green goons from who knows where, and then witnessing the construction of the Felt manor.</p>
-                <p>It’s a fun track, more energetic than a lot of things I had worked on and definitely influenced by Radiation’s style.  The last two sections are still some of my favorite phrases that I’ve written.</p>
-            </blockquote>
+                                <div class="chronology">
+                                    <span class="heading">2nd track by <a href="artist/thomas-ferkol/index.html">Thomas Ferkol</a></span>
+                                    <span class="buttons">(<a href="track/clockwork-reversal/index.html" title="Clockwork Reversal">Previous</a>, <a href="track/dreamers-and-the-dead/index.html" title="Dreamers and The Dead">Next</a>)</span>
+                                </div>
+                                <div class="chronology">
+                                    <span class="heading">90th cover art by <a href="artist/homestuck/index.html">Homestuck</a></span>
+                                    <span class="buttons">(<a href="track/temporal-piano/index.html" title="Temporal Piano">Previous</a>, <a href="track/eldritch/index.html" title="Eldritch">Next</a>)</span>
+                                </div>
+            </div>
+        </div>
+        <div class="columns">
+            <div id="sidebar">
+                <h1><a href="album/the-felt/index.html">The Felt</a></h1>
+                <ol>
+                    <li class=""><a href="track/jade-dragon/index.html">Jade Dragon</a></li>
+                    <li class=""><a href="track/swing-of-the-clock/index.html">Swing of the Clock</a></li>
+                    <li class=""><a href="track/rhapsody-in-green/index.html">Rhapsody in Green</a></li>
+                    <li class=""><a href="track/humphreys-lullaby/index.html">Humphrey's Lullaby</a></li>
+                    <li class=""><a href="track/clockwork-reversal/index.html">Clockwork Reversal</a></li>
+                    <li class=""><a href="track/chartreuse-rewind/index.html">Chartreuse Rewind</a></li>
+                    <li class=""><a href="track/the-broken-clock/index.html">The Broken Clock</a></li>
+                    <li class=""><a href="track/apocryphal-antithesis/index.html">Apocryphal Antithesis</a></li>
+                    <li class=""><a href="track/trails/index.html">Trails</a></li>
+                    <li class=""><a href="track/baroqueback-bowtier-scratchs-lament/index.html">Baroqueback Bowtier (Scratch's Lament)</a></li>
+                    <li class=""><a href="track/scratch/index.html">Scratch</a></li>
+                    <li class=""><a href="track/omelette-sandwich/index.html">Omelette Sandwich</a></li>
+                    <li class=""><a href="track/temporal-piano/index.html">Temporal Piano</a></li>
+                    <li class="current"><a href="track/time-paradox/index.html">Time Paradox</a></li>
+                    <li class=""><a href="track/eldritch/index.html">Eldritch</a></li>
+                    <li class=""><a href="track/english/index.html">English</a></li>
+                    <li class=""><a href="track/variations/index.html">Variations</a></li>
+                </ol>
+            </div>
+            <div id="content">
+                <a href="album/the-felt/time-paradox.jpg" id="cover-art"><img src="album/the-felt/time-paradox.jpg"></a>
+                <h1>Time Paradox</h1>
+                <p>
+                    By <a href="artist/thomas-ferkol/index.html">Thomas Ferkol</a>.<br>
+                    Cover art by <a href="artist/homestuck/index.html">Homestuck</a>.<br>
+                    Released 2010-12-02.
+                    
+                </p>
+                <p>Listen on <a href="https://homestuck.bandcamp.com/track/time-paradox-2">Bandcamp</a>.</p>
+                
+                
+                
+                
+                
+                <p>Artist commentary:</p>
+                <blockquote>
+                    <p><i>Thomas Ferkol:</i></p>
+                    <p>This was the first piece I submitted for an album once I got on the team.  Basically what happened was: I am visiting somewhere in Chicago with only my phone’s connection to the internet, check the MSPA forums and find a message notification waiting for me.  Radiation congratulates me on getting on the team.  After some moments of sputtering disbelief, I read on.  He says if I want to get started on something, the Squiddles was being finished up and the Felt was on the table.  So, for the next couple hours I was invigorated, consumed wholly during the car ride and time in the hotel before I finally fell asleep with working on a track for the Felt.  Time Paradox was made.</p>
+                    <p>Originally, I made it imagining the recruitment of the Felt, picturing Doc Scratch warping across time and space, assembling the green goons from who knows where, and then witnessing the construction of the Felt manor.</p>
+                    <p>It’s a fun track, more energetic than a lot of things I had worked on and definitely influenced by Radiation’s style.  The last two sections are still some of my favorite phrases that I’ve written.</p>
+                </blockquote>
+            </div>
         </div>
     </body>
 </html>

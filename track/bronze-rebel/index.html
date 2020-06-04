@@ -10,95 +10,103 @@
         <script defer src="client.js"></script>
     </head>
     <body style="--fg-color: #9292e2; --bg-color: #222222; --theme: 0; --album-directory: coloUrs-and-mayhem-universe-a; --track-directory: bronze-rebel">
-        <div id="sidebar">
-            <h2><a href="index.html">(Home)</a></h2>
-            <!-- <h3>Official</h3> -->
-            <hr>
-            <h1><a href="album/coloUrs-and-mayhem-universe-a/index.html">coloUrs and mayhem: Universe A</a></h1>
-            <ol>
-                <li class=""><a href="track/side-1-universe-a/index.html">~~SIDE 1~~</a></li>
-                <li class=""><a href="track/rust-servant/index.html">Rust Servant</a></li>
-                <li class="current"><a href="track/bronze-rebel/index.html">Bronze Rebel</a></li>
-                <li class=""><a href="track/gold-pilot/index.html">Gold Pilot</a></li>
-                <li class=""><a href="track/iron-infidel/index.html">Iron Infidel</a></li>
-                <li class=""><a href="track/olive-scribe/index.html">Olive Scribe</a></li>
-                <li class=""><a href="track/jade-mother/index.html">Jade Mother</a></li>
-                <li class=""><a href="track/teal-hunter/index.html">Teal Hunter</a></li>
-                <li class=""><a href="track/cobalt-corsair/index.html">Cobalt Corsair</a></li>
-                <li class=""><a href="track/indigo-archer/index.html">Indigo Archer</a></li>
-                <li class=""><a href="track/purple-tyrant/index.html">Purple Tyrant</a></li>
-                <li class=""><a href="track/violet-mariner/index.html">Violet Mariner</a></li>
-                <li class=""><a href="track/fuchsia-ruler/index.html">Fuchsia Ruler</a></li>
-                <li class=""><a href="track/side-2-universe-a/index.html">~~SIDE 2~~</a></li>
-                <li class=""><a href="track/rust-maid/index.html">Rust Maid</a></li>
-                <li class=""><a href="track/bronze-page/index.html">Bronze Page</a></li>
-                <li class=""><a href="track/gold-mage/index.html">Gold Mage</a></li>
-                <li class=""><a href="track/iron-knight/index.html">Iron Knight</a></li>
-                <li class=""><a href="track/olive-rogue/index.html">Olive Rogue</a></li>
-                <li class=""><a href="track/jade-sylph/index.html">Jade Sylph</a></li>
-                <li class=""><a href="track/teal-seer/index.html">Teal Seer</a></li>
-                <li class=""><a href="track/cobalt-thief/index.html">Cobalt Thief</a></li>
-                <li class=""><a href="track/indigo-heir/index.html">Indigo Heir</a></li>
-                <li class=""><a href="track/purple-bard/index.html">Purple Bard</a></li>
-                <li class=""><a href="track/violet-prince/index.html">Violet Prince</a></li>
-                <li class=""><a href="track/fuchsia-witch/index.html">Fuchsia Witch</a></li>
-                <li class=""><a href="track/additional-mayhem-universe-a/index.html">~~ADITIONAL MAYHEM~~</a></li>
-                <li class=""><a href="track/your-universe/index.html">Your Universe</a></li>
-                <li class=""><a href="track/superego/index.html">Superego</a></li>
-                <li class=""><a href="track/made-of-time/index.html">Made of Time</a></li>
-                <li class=""><a href="track/nine-lives-one-love/index.html">Nine Lives One Love</a></li>
-                <li class=""><a href="track/temporal-shenanigans/index.html">Temporal Shenanigans</a></li>
-            </ol>
-            <hr>
-            <p>
-                <a href="js-disabled/index.html" data-random="track-in-album">Random track</a></li>
-            </p>
-            
-                        <p>
-                            3rd track by <a href="artist/yan-rodriguez/index.html">Yan Rodriguez</a><br>
-                            (<a href="track/midnight-spider/index.html" title="Midnight Spider">Previous</a>, <a href="track/superego/index.html" title="Superego">Next</a>)
-                        </p>
-                        <p>1st cover art by <a href="artist/kitsu/index.html">Kitsu</a></p>
+        <div id="header">
+            <h2>
+                <a href="index.html">Home</a>
+                / <a href="album/coloUrs-and-mayhem-universe-a/index.html">coloUrs and mayhem: Universe A</a>
+                / <a href="track/bronze-rebel/index.html">Bronze Rebel</a>
+                <span>(<a href="track/rust-servant/index.html" title="Rust Servant">Previous</a>, <a href="track/gold-pilot/index.html" title="Gold Pilot">Next</a>, <a href="js-disabled/index.html" data-random="track-in-album">Random</a>)</span>
+            </h2>
+            <div>
+                
+                                <div class="chronology">
+                                    <span class="heading">3rd track by <a href="artist/yan-rodriguez/index.html">Yan Rodriguez</a></span>
+                                    <span class="buttons">(<a href="track/midnight-spider/index.html" title="Midnight Spider">Previous</a>, <a href="track/superego/index.html" title="Superego">Next</a>)</span>
+                                </div>
+                                <div class="chronology">
+                                    <span class="heading">1st cover art by <a href="artist/kitsu/index.html">Kitsu</a></span>
+                                    
+                                </div>
+            </div>
         </div>
-        <div id="content">
-            <a href="album/coloUrs-and-mayhem-universe-a/bronze-rebel.jpg" id="cover-art"><img src="album/coloUrs-and-mayhem-universe-a/bronze-rebel.jpg"></a>
-            <h1>Bronze Rebel</h1>
-            <p>
-                By <a href="artist/yan-rodriguez/index.html">Yan Rodriguez</a>.<br>
-                Cover art by <a href="artist/kitsu/index.html">Kitsu</a>.<br>
-                Released 2012-04-02.
+        <div class="columns">
+            <div id="sidebar">
+                <h1><a href="album/coloUrs-and-mayhem-universe-a/index.html">coloUrs and mayhem: Universe A</a></h1>
+                <ol>
+                    <li class=""><a href="track/side-1-universe-a/index.html">~~SIDE 1~~</a></li>
+                    <li class=""><a href="track/rust-servant/index.html">Rust Servant</a></li>
+                    <li class="current"><a href="track/bronze-rebel/index.html">Bronze Rebel</a></li>
+                    <li class=""><a href="track/gold-pilot/index.html">Gold Pilot</a></li>
+                    <li class=""><a href="track/iron-infidel/index.html">Iron Infidel</a></li>
+                    <li class=""><a href="track/olive-scribe/index.html">Olive Scribe</a></li>
+                    <li class=""><a href="track/jade-mother/index.html">Jade Mother</a></li>
+                    <li class=""><a href="track/teal-hunter/index.html">Teal Hunter</a></li>
+                    <li class=""><a href="track/cobalt-corsair/index.html">Cobalt Corsair</a></li>
+                    <li class=""><a href="track/indigo-archer/index.html">Indigo Archer</a></li>
+                    <li class=""><a href="track/purple-tyrant/index.html">Purple Tyrant</a></li>
+                    <li class=""><a href="track/violet-mariner/index.html">Violet Mariner</a></li>
+                    <li class=""><a href="track/fuchsia-ruler/index.html">Fuchsia Ruler</a></li>
+                    <li class=""><a href="track/side-2-universe-a/index.html">~~SIDE 2~~</a></li>
+                    <li class=""><a href="track/rust-maid/index.html">Rust Maid</a></li>
+                    <li class=""><a href="track/bronze-page/index.html">Bronze Page</a></li>
+                    <li class=""><a href="track/gold-mage/index.html">Gold Mage</a></li>
+                    <li class=""><a href="track/iron-knight/index.html">Iron Knight</a></li>
+                    <li class=""><a href="track/olive-rogue/index.html">Olive Rogue</a></li>
+                    <li class=""><a href="track/jade-sylph/index.html">Jade Sylph</a></li>
+                    <li class=""><a href="track/teal-seer/index.html">Teal Seer</a></li>
+                    <li class=""><a href="track/cobalt-thief/index.html">Cobalt Thief</a></li>
+                    <li class=""><a href="track/indigo-heir/index.html">Indigo Heir</a></li>
+                    <li class=""><a href="track/purple-bard/index.html">Purple Bard</a></li>
+                    <li class=""><a href="track/violet-prince/index.html">Violet Prince</a></li>
+                    <li class=""><a href="track/fuchsia-witch/index.html">Fuchsia Witch</a></li>
+                    <li class=""><a href="track/additional-mayhem-universe-a/index.html">~~ADITIONAL MAYHEM~~</a></li>
+                    <li class=""><a href="track/your-universe/index.html">Your Universe</a></li>
+                    <li class=""><a href="track/superego/index.html">Superego</a></li>
+                    <li class=""><a href="track/made-of-time/index.html">Made of Time</a></li>
+                    <li class=""><a href="track/nine-lives-one-love/index.html">Nine Lives One Love</a></li>
+                    <li class=""><a href="track/temporal-shenanigans/index.html">Temporal Shenanigans</a></li>
+                </ol>
+            </div>
+            <div id="content">
+                <a href="album/coloUrs-and-mayhem-universe-a/bronze-rebel.jpg" id="cover-art"><img src="album/coloUrs-and-mayhem-universe-a/bronze-rebel.jpg"></a>
+                <h1>Bronze Rebel</h1>
+                <p>
+                    By <a href="artist/yan-rodriguez/index.html">Yan Rodriguez</a>.<br>
+                    Cover art by <a href="artist/kitsu/index.html">Kitsu</a>.<br>
+                    Released 2012-04-02.
+                    
+                </p>
+                <p>Listen on <a href="https://homestuck.bandcamp.com/track/bronze-rebel">Bandcamp</a>.</p>
                 
-            </p>
-            <p>Listen on <a href="https://homestuck.bandcamp.com/track/bronze-rebel">Bandcamp</a>.</p>
-            
-            
-            <p>Tracks that reference <i>Bronze Rebel</i>:</p>
-            <dl>
                 
-                <dt>Fandom:</dt>
-                <dd><ul>
-                    <li>
-                        <a href="track/breathtak1ng/index.html" style="--fg-color: #ff00c5; --bg-color: #222222; --theme: 0">♉ - Breathtak1ng</a>
-                        <span class="by">by <a href="artist/rhyselinn/index.html">Rhyselinn</a></span>
-                    </li>
-                    <li>
-                        <a href="track/cheater-pan/index.html" style="--fg-color: #ff00c5; --bg-color: #222222; --theme: 0">CHEATER PAN</a>
-                        <span class="by">by <a href="artist/thedistortedsamurai/index.html">thedistortedsamurai</a></span>
-                    </li>
-                </ul></dd>
-            </dl>
-            <p>Flashes &amp; games that feature <i>Bronze Rebel</i>:</p>
-            <ul>
-                <li><a href="flash/pq-vol8/index.html" title="Page undefined" style="--fg-color: #71daff">Team Charge</a></li>
-            </ul>
-            
-            <p>Artist commentary:</p>
-            <blockquote>
-                <p><i>Yan Rodriguez:</i></p>
-                <p>This track is one I sure as hell put a ton of effort into, as it was my big chance to finally do something with my music. I was at a pretty good time of my life and I was able to work on this thing day in and day out, and so I did, but first I put a lot of though into what I wanted to actually do. I’m a bit of a contrarian when it comes to making music, always trying to figure out what everyone else does so that I could do something different, and so I wanted to make a theme for Tavros that looked at his character from a more serious perspective about what he was and what he wanted to do. It’s original title, “If I were like Rufio,” reflected the melancholy desire to be something or be in a world where he was great, where he was a hero but in reality he couldn’t really amount to much, and it was his own fault.</p>
-                <p>For the style of the song I ended up falling back on one of my main styles, which I called “orchestral cinematic/game with a hint of latin rhythms and harmonies.” I don’t really know what it might actually be called. Unfortunately, while this made the song accomplish what I wanted it to, it can be a bit hard to listen to at times, for being too dependent on situation and scenery.</p>
-                <p>However I’m very proud of it! I got to practice a lot of new and old things and combine them into what’s currently my longest song! Well, longest I’m not ashamed of. It ended up being allocated to the Summoner, and I had a feeling it would. I’d say close enough, but it feels a bit weird to say that! I wouldn’t change much about it, but I think it’s a bit bland, and I’ve learned a lot from that.</p>
-            </blockquote>
+                <p>Tracks that reference <i>Bronze Rebel</i>:</p>
+                <dl>
+                    
+                    <dt>Fandom:</dt>
+                    <dd><ul>
+                        <li>
+                            <a href="track/breathtak1ng/index.html" style="--fg-color: #ff00c5; --bg-color: #222222; --theme: 0">♉ - Breathtak1ng</a>
+                            <span class="by">by <a href="artist/rhyselinn/index.html">Rhyselinn</a></span>
+                        </li>
+                        <li>
+                            <a href="track/cheater-pan/index.html" style="--fg-color: #ff00c5; --bg-color: #222222; --theme: 0">CHEATER PAN</a>
+                            <span class="by">by <a href="artist/david-burkee/index.html">David Burkee</a></span>
+                        </li>
+                    </ul></dd>
+                </dl>
+                <p>Flashes &amp; games that feature <i>Bronze Rebel</i>:</p>
+                <ul>
+                    <li><a href="flash/pq-vol8/index.html" title="Page undefined" style="--fg-color: #71daff">Team Charge</a></li>
+                </ul>
+                
+                <p>Artist commentary:</p>
+                <blockquote>
+                    <p><i>Yan Rodriguez:</i></p>
+                    <p>This track is one I sure as hell put a ton of effort into, as it was my big chance to finally do something with my music. I was at a pretty good time of my life and I was able to work on this thing day in and day out, and so I did, but first I put a lot of though into what I wanted to actually do. I’m a bit of a contrarian when it comes to making music, always trying to figure out what everyone else does so that I could do something different, and so I wanted to make a theme for Tavros that looked at his character from a more serious perspective about what he was and what he wanted to do. It’s original title, “If I were like Rufio,” reflected the melancholy desire to be something or be in a world where he was great, where he was a hero but in reality he couldn’t really amount to much, and it was his own fault.</p>
+                    <p>For the style of the song I ended up falling back on one of my main styles, which I called “orchestral cinematic/game with a hint of latin rhythms and harmonies.” I don’t really know what it might actually be called. Unfortunately, while this made the song accomplish what I wanted it to, it can be a bit hard to listen to at times, for being too dependent on situation and scenery.</p>
+                    <p>However I’m very proud of it! I got to practice a lot of new and old things and combine them into what’s currently my longest song! Well, longest I’m not ashamed of. It ended up being allocated to the Summoner, and I had a feeling it would. I’d say close enough, but it feels a bit weird to say that! I wouldn’t change much about it, but I think it’s a bit bland, and I’ve learned a lot from that.</p>
+                </blockquote>
+            </div>
         </div>
     </body>
 </html>

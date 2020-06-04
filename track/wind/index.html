@@ -10,47 +10,52 @@
         <script defer src="client.js"></script>
     </head>
     <body style="--fg-color: #22ccff; --bg-color: #222222; --theme: 0; --album-directory: medium; --track-directory: wind">
-        <div id="sidebar">
-            <h2><a href="index.html">(Home)</a></h2>
-            <!-- <h3>Official</h3> -->
-            <hr>
-            <h1><a href="album/medium/index.html">Medium</a></h1>
-            <ol>
-                <li class=""><a href="track/light-medium/index.html">Light</a></li>
-                <li class=""><a href="track/shade/index.html">Shade</a></li>
-                <li class=""><a href="track/rain/index.html">Rain</a></li>
-                <li class=""><a href="track/frogs/index.html">Frogs</a></li>
-                <li class=""><a href="track/frost-medium/index.html">Frost</a></li>
-                <li class=""><a href="track/clockwork/index.html">Clockwork</a></li>
-                <li class=""><a href="track/heat/index.html">Heat</a></li>
-                <li class="current"><a href="track/wind/index.html">Wind</a></li>
-            </ol>
-            <hr>
-            <p>
-                <a href="js-disabled/index.html" data-random="track-in-album">Random track</a></li>
-            </p>
-            
-                        <p>
-                            19th track by <a href="artist/clark-powell/index.html">Clark Powell</a><br>
-                            (<a href="track/heat/index.html" title="Heat">Previous</a>, <a href="track/even-in-death/index.html" title="Even in Death">Next</a>)
-                        </p>
+        <div id="header">
+            <h2>
+                <a href="index.html">Home</a>
+                / <a href="album/medium/index.html">Medium</a>
+                / <a href="track/wind/index.html">Wind</a>
+                <span>(<a href="track/heat/index.html" title="Heat">Previous</a>, <a href="js-disabled/index.html" data-random="track-in-album">Random</a>)</span>
+            </h2>
+            <div>
+                
+                                <div class="chronology">
+                                    <span class="heading">18th track by <a href="artist/clark-powell/index.html">Clark Powell</a></span>
+                                    <span class="buttons">(<a href="track/heat/index.html" title="Heat">Previous</a>, <a href="track/even-in-death/index.html" title="Even in Death">Next</a>)</span>
+                                </div>
+            </div>
         </div>
-        <div id="content">
-            <a href="album/medium/cover.jpg" id="cover-art"><img src="album/medium/cover.jpg"></a>
-            <h1>Wind</h1>
-            <p>
-                By <a href="artist/clark-powell/index.html">Clark Powell</a>.<br>
+        <div class="columns">
+            <div id="sidebar">
+                <h1><a href="album/medium/index.html">Medium</a></h1>
+                <ol>
+                    <li class=""><a href="track/light-medium/index.html">Light</a></li>
+                    <li class=""><a href="track/shade/index.html">Shade</a></li>
+                    <li class=""><a href="track/rain/index.html">Rain</a></li>
+                    <li class=""><a href="track/frogs/index.html">Frogs</a></li>
+                    <li class=""><a href="track/frost-medium/index.html">Frost</a></li>
+                    <li class=""><a href="track/clockwork/index.html">Clockwork</a></li>
+                    <li class=""><a href="track/heat/index.html">Heat</a></li>
+                    <li class="current"><a href="track/wind/index.html">Wind</a></li>
+                </ol>
+            </div>
+            <div id="content">
+                <a href="album/medium/cover.jpg" id="cover-art"><img src="album/medium/cover.jpg"></a>
+                <h1>Wind</h1>
+                <p>
+                    By <a href="artist/clark-powell/index.html">Clark Powell</a>.<br>
+                    
+                    Released 2011-04-14.
+                    
+                </p>
+                <p>Listen on <a href="https://homestuck.bandcamp.com/track/wind-2">Bandcamp</a>.</p>
                 
-                Released 2011-04-14.
                 
-            </p>
-            <p>Listen on <a href="https://homestuck.bandcamp.com/track/wind-2">Bandcamp</a>.</p>
-            
-            
-            
-            
-            
-            
+                
+                
+                
+                
+            </div>
         </div>
     </body>
 </html>

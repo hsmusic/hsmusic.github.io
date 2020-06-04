@@ -10,113 +10,118 @@
         <script defer src="client.js"></script>
     </head>
     <body style="--fg-color: #33aa55; --bg-color: #222222; --theme: 0; --album-directory: the-felt; --track-directory: swing-of-the-clock">
-        <div id="sidebar">
-            <h2><a href="index.html">(Home)</a></h2>
-            <!-- <h3>Official</h3> -->
-            <hr>
-            <h1><a href="album/the-felt/index.html">The Felt</a></h1>
-            <ol>
-                <li class=""><a href="track/jade-dragon/index.html">Jade Dragon</a></li>
-                <li class="current"><a href="track/swing-of-the-clock/index.html">Swing of the Clock</a></li>
-                <li class=""><a href="track/rhapsody-in-green/index.html">Rhapsody in Green</a></li>
-                <li class=""><a href="track/humphreys-lullaby/index.html">Humphrey's Lullaby</a></li>
-                <li class=""><a href="track/clockwork-reversal/index.html">Clockwork Reversal</a></li>
-                <li class=""><a href="track/chartreuse-rewind/index.html">Chartreuse Rewind</a></li>
-                <li class=""><a href="track/the-broken-clock/index.html">The Broken Clock</a></li>
-                <li class=""><a href="track/apocryphal-antithesis/index.html">Apocryphal Antithesis</a></li>
-                <li class=""><a href="track/trails/index.html">Trails</a></li>
-                <li class=""><a href="track/baroqueback-bowtier-scratchs-lament/index.html">Baroqueback Bowtier (Scratch's Lament)</a></li>
-                <li class=""><a href="track/scratch/index.html">Scratch</a></li>
-                <li class=""><a href="track/omelette-sandwich/index.html">Omelette Sandwich</a></li>
-                <li class=""><a href="track/temporal-piano/index.html">Temporal Piano</a></li>
-                <li class=""><a href="track/time-paradox/index.html">Time Paradox</a></li>
-                <li class=""><a href="track/eldritch/index.html">Eldritch</a></li>
-                <li class=""><a href="track/english/index.html">English</a></li>
-                <li class=""><a href="track/variations/index.html">Variations</a></li>
-            </ol>
-            <hr>
-            <p>
-                <a href="js-disabled/index.html" data-random="track-in-album">Random track</a></li>
-            </p>
-            
-                        <p>
-                            3rd track by <a href="artist/solatrus/index.html">Solatrus</a><br>
-                            (<a href="track/squiddles-in-paradise/index.html" title="Squiddles in Paradise">Previous</a>, <a href="track/chartreuse-rewind/index.html" title="Chartreuse Rewind">Next</a>)
-                        </p>
-                        <p>
-                            78th cover art by <a href="artist/homestuck/index.html">Homestuck</a><br>
-                            (<a href="track/jade-dragon/index.html" title="Jade Dragon">Previous</a>, <a href="track/rhapsody-in-green/index.html" title="Rhapsody in Green">Next</a>)
-                        </p>
-        </div>
-        <div id="content">
-            <a href="album/the-felt/swing-of-the-clock.jpg" id="cover-art"><img src="album/the-felt/swing-of-the-clock.jpg"></a>
-            <h1>Swing of the Clock</h1>
-            <p>
-                By <a href="artist/solatrus/index.html">Solatrus</a>.<br>
-                Cover art by <a href="artist/homestuck/index.html">Homestuck</a>.<br>
-                Released 2010-12-02.
+        <div id="header">
+            <h2>
+                <a href="index.html">Home</a>
+                / <a href="album/the-felt/index.html">The Felt</a>
+                / <a href="track/swing-of-the-clock/index.html">Swing of the Clock</a>
+                <span>(<a href="track/jade-dragon/index.html" title="Jade Dragon">Previous</a>, <a href="track/rhapsody-in-green/index.html" title="Rhapsody in Green">Next</a>, <a href="js-disabled/index.html" data-random="track-in-album">Random</a>)</span>
+            </h2>
+            <div>
                 
-            </p>
-            <p>Listen on <a href="https://homestuck.bandcamp.com/track/swing-of-the-clock-2">Bandcamp</a>.</p>
-            
-            <p>Tracks that <i>Swing of the Clock</i> references:</p>
-            <ul>
-                <li>
-                    <a href="track/three-in-the-morning/index.html" style="--fg-color: #dd0000; --bg-color: #222222; --theme: 0">Three in the Morning</a>
-                    <span class="by">by <a href="artist/clark-powell/index.html">Clark Powell</a></span>
-                </li>
-            </ul>
-            <p>Tracks that reference <i>Swing of the Clock</i>:</p>
-            <dl>
-                <dt>Official:</dt>
-                <dd><ul>
+                                <div class="chronology">
+                                    <span class="heading">3rd track by <a href="artist/solatrus/index.html">Solatrus</a></span>
+                                    <span class="buttons">(<a href="track/squiddles-in-paradise/index.html" title="Squiddles in Paradise">Previous</a>, <a href="track/chartreuse-rewind/index.html" title="Chartreuse Rewind">Next</a>)</span>
+                                </div>
+                                <div class="chronology">
+                                    <span class="heading">78th cover art by <a href="artist/homestuck/index.html">Homestuck</a></span>
+                                    <span class="buttons">(<a href="track/jade-dragon/index.html" title="Jade Dragon">Previous</a>, <a href="track/rhapsody-in-green/index.html" title="Rhapsody in Green">Next</a>)</span>
+                                </div>
+            </div>
+        </div>
+        <div class="columns">
+            <div id="sidebar">
+                <h1><a href="album/the-felt/index.html">The Felt</a></h1>
+                <ol>
+                    <li class=""><a href="track/jade-dragon/index.html">Jade Dragon</a></li>
+                    <li class="current"><a href="track/swing-of-the-clock/index.html">Swing of the Clock</a></li>
+                    <li class=""><a href="track/rhapsody-in-green/index.html">Rhapsody in Green</a></li>
+                    <li class=""><a href="track/humphreys-lullaby/index.html">Humphrey's Lullaby</a></li>
+                    <li class=""><a href="track/clockwork-reversal/index.html">Clockwork Reversal</a></li>
+                    <li class=""><a href="track/chartreuse-rewind/index.html">Chartreuse Rewind</a></li>
+                    <li class=""><a href="track/the-broken-clock/index.html">The Broken Clock</a></li>
+                    <li class=""><a href="track/apocryphal-antithesis/index.html">Apocryphal Antithesis</a></li>
+                    <li class=""><a href="track/trails/index.html">Trails</a></li>
+                    <li class=""><a href="track/baroqueback-bowtier-scratchs-lament/index.html">Baroqueback Bowtier (Scratch's Lament)</a></li>
+                    <li class=""><a href="track/scratch/index.html">Scratch</a></li>
+                    <li class=""><a href="track/omelette-sandwich/index.html">Omelette Sandwich</a></li>
+                    <li class=""><a href="track/temporal-piano/index.html">Temporal Piano</a></li>
+                    <li class=""><a href="track/time-paradox/index.html">Time Paradox</a></li>
+                    <li class=""><a href="track/eldritch/index.html">Eldritch</a></li>
+                    <li class=""><a href="track/english/index.html">English</a></li>
+                    <li class=""><a href="track/variations/index.html">Variations</a></li>
+                </ol>
+            </div>
+            <div id="content">
+                <a href="album/the-felt/swing-of-the-clock.jpg" id="cover-art"><img src="album/the-felt/swing-of-the-clock.jpg"></a>
+                <h1>Swing of the Clock</h1>
+                <p>
+                    By <a href="artist/solatrus/index.html">Solatrus</a>.<br>
+                    Cover art by <a href="artist/homestuck/index.html">Homestuck</a>.<br>
+                    Released 2010-12-02.
+                    
+                </p>
+                <p>Listen on <a href="https://homestuck.bandcamp.com/track/swing-of-the-clock-2">Bandcamp</a>.</p>
+                
+                <p>Tracks that <i>Swing of the Clock</i> references:</p>
+                <ul>
                     <li>
-                        <a href="track/variations/index.html" style="--fg-color: #33aa55; --bg-color: #222222; --theme: 0">Variations</a>
-                        <span class="by">by <a href="artist/robert-j-lake/index.html">Robert J! Lake</a></span>
+                        <a href="track/three-in-the-morning/index.html" style="--fg-color: #dd0000; --bg-color: #222222; --theme: 0">Three in the Morning</a>
+                        <span class="by">by <a href="artist/clark-powell/index.html">Clark Powell</a></span>
                     </li>
-                </ul></dd>
-                <dt>Fandom:</dt>
-                <dd><ul>
-                    <li>
-                        <a href="track/homosuck-directors-cut-of-the-year-edition/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">HOMOSUCK. DIRECTOR'S CUT, OF THE YEAR EDITION.</a>
-                        <span class="by">by <a href="artist/ndividedbyzero/index.html">ndividedbyzero</a></span>
-                    </li>
-                    <li>
-                        <a href="track/the-rarest-and-most-interpretive-dance-meatcabre/index.html" style="--fg-color: #f2a400; --bg-color: #222222; --theme: 0">THE RAREST. AND MOST INTERPRETIVE. DANCE MEATCABRE.</a>
-                        <span class="by">by <a href="artist/ndividedbyzero/index.html">ndividedbyzero</a></span>
-                    </li>
-                </ul></dd>
-            </dl>
-            
-            
-            <p>Artist commentary:</p>
-            <blockquote>
-                <p><i>Solatrus:</i></p>
-                <p><i>(original commentary)</i></p>
-                <p>Ah, yes, Swing of the Clock. One of my better songs. Also the first song I wrote after joining the team!</p>
-                <p>If you didn’t know, Swing of the Clock was heavily inspired off of both Clark Powell’s Three in the Morning and various Philip Glass musical compositions. It was my first attempt at doing something with a lot of orchestral instruments, though definitely far from my best orchestral composition.</p>
-                <p>In retrospect, it’s a bit of a boring song with its chord progression, but I’d be damned if I didn’t say something about the shift from Philip Glass style clarinets to swung synth rock. I was very proud of that contrast.</p>
-                <p>Also a lesser known fact: It was actually considered for a flash animation, in a similar vein to Alex Rosetti’s Squiddles song. But, due to the difficulties in organizing a full song animation, especially one that was twice as long as Squiddles, it was just impossible to do realistically.</p>
-                <p><i>(commentary redux)</i></p>
-                <p>Ah, this song. The memories.  Not really any pre-song history so I’ll just get right into how it was created and why I took this song in this direction.</p>
-                <p>Swing of the Clock, henceforth shortened to SotC (not to be confused with Shadow of the Colossus! It’s just a hilarious coincidence) was the first song I started writing after joining the team. Multiple fake band albums were in progress (The Felt and Squiddles), but at the time I had no idea how to even approach Squiddles (see <a href="track/squiddles-in-paradise/index.html">last week’s post</a> for details).</p>
-                <p>So, I decided I’d try to do something orchestral. I went with a few ideas, but for some reason I kept wanting to write a song with a swing feel in it, though that’s more Midnight Crew than Felt, yet at the same time I wanted to do something that was clearly Philip Glass influenced. The small scraps I started before finally settling on a starting point (none of them were saved, sorry!) all shared two major common pieces: a ticking clock, and an arpeggio piano inspired off of Clark Powell’s Three in the Morning.</p>
-                <p>Both are still in the song, though amusingly many people didn’t notice the piano. It’s there. In reverse. :D</p>
-                <p>While I was messing around with the early ideas for SotC, I managed to create a nice sounding bass synth, but I ended up replacing the sound with a couple of clarinets to keep the focus on orchestral instruments instead.</p>
-                <p>I knew early on I wanted to write a song with a very slow progression, very gradual and subtle shifts between sections. However, I wasn’t entirely sure how to approach it until Beatfox [Seth Peelle] made a suggestion on the forums about mastering and production as a whole. Before this song I tended to have a bad habit of improperly using compressors and limiters, though I definitely knew better than to use FL Studio’s stock setting for the Fruity Limiter. (Not saying the Limiter is bad, it’s just really horrible in what the default project template gives you.)</p>
-                <p>While SotC isn’t the first song I put a significant amount of effort into controlling the mix, it was the first I really managed to succeed in understanding what I was doing in that area of production.</p>
-                <p>I ended up automating everything in the song, and I realized how much easier it was to fulfill my original idea plus improve on my overall production. Sadly, the song was still very much on the loud side compared to the rest of the album, so there were some problems with how it was mastered in the end.</p>
-                <p>Going back on track with the swing feel I originally intended… As you can tell, the song is in a 6/8 time signature. It’s one of my favorites. It’s not a true swing, but it was close enough to get where I wanted.</p>
-                <p>A true swing is lazy 6/8. Sort of.</p>
-                <p>Anyway, so while the first third of the song is pretty strictly 6/8, the drum beat comes in that’s definitely swing influenced. And during that section, there’s the tuba part. Well! That originally was actually a stand up bass part, but there’s really no way to mimic a stand up bass with sample libraries, so I experimented with a bunch of sounds until I settled on the tuba.</p>
-                <p>It was passable, but only after I shifted it to actually play slightly early. The attack was so slow.  It was a little frustrating.</p>
-                <p>After that, as you know, it goes into the heavier synth rock section. Oh, hey, remember that bassline I said I scrapped in favor of the clarinets? There it is. Back in its glory.</p>
-                <p>The fun big moment, and then the song fades away.</p>
-                <p>Still one of my best songs in the Homestuck canon. I felt like I had set a new standard far higher than I’d ever be able to reach, but being on the team has pushed me further than I ever expected.</p>
-                <p><b>Now For Some Trivia!</b></p>
-                <p>Swing of the Clock was the second to last of a very long stretch of original songs I did in the key of F minor. It’s my favorite key to write music in, but I’ve barely touched it since Chartreuse Rewind. (Which is next week..! Er.. I guess this week, since I was late on this. Oops.) Why? Well, too much of a good thing is a bad thing.</p>
-                <p>Secondly, Lexxy really dug this song and it made me flip the fuck out when I found out she liked it, because she’s an amazing person!</p>
-            </blockquote>
+                </ul>
+                <p>Tracks that reference <i>Swing of the Clock</i>:</p>
+                <dl>
+                    <dt>Official:</dt>
+                    <dd><ul>
+                        <li>
+                            <a href="track/variations/index.html" style="--fg-color: #33aa55; --bg-color: #222222; --theme: 0">Variations</a>
+                            <span class="by">by <a href="artist/robert-j-lake/index.html">Robert J! Lake</a></span>
+                        </li>
+                    </ul></dd>
+                    <dt>Fandom:</dt>
+                    <dd><ul>
+                        <li>
+                            <a href="track/homosuck-directors-cut-of-the-year-edition/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">HOMOSUCK. DIRECTOR'S CUT, OF THE YEAR EDITION.</a>
+                            <span class="by">by <a href="artist/ndividedbyzero/index.html">ndividedbyzero</a></span>
+                        </li>
+                        <li>
+                            <a href="track/the-rarest-and-most-interpretive-dance-meatcabre/index.html" style="--fg-color: #f2a400; --bg-color: #222222; --theme: 0">THE RAREST. AND MOST INTERPRETIVE. DANCE MEATCABRE.</a>
+                            <span class="by">by <a href="artist/ndividedbyzero/index.html">ndividedbyzero</a></span>
+                        </li>
+                    </ul></dd>
+                </dl>
+                
+                
+                <p>Artist commentary:</p>
+                <blockquote>
+                    <p><i>Solatrus:</i></p>
+                    <p><i>(original commentary)</i></p>
+                    <p>Ah, yes, Swing of the Clock. One of my better songs. Also the first song I wrote after joining the team!</p>
+                    <p>If you didn’t know, Swing of the Clock was heavily inspired off of both Clark Powell’s Three in the Morning and various Philip Glass musical compositions. It was my first attempt at doing something with a lot of orchestral instruments, though definitely far from my best orchestral composition.</p>
+                    <p>In retrospect, it’s a bit of a boring song with its chord progression, but I’d be damned if I didn’t say something about the shift from Philip Glass style clarinets to swung synth rock. I was very proud of that contrast.</p>
+                    <p>Also a lesser known fact: It was actually considered for a flash animation, in a similar vein to Alex Rosetti’s Squiddles song. But, due to the difficulties in organizing a full song animation, especially one that was twice as long as Squiddles, it was just impossible to do realistically.</p>
+                    <p><i>(commentary redux)</i></p>
+                    <p>Ah, this song. The memories.  Not really any pre-song history so I’ll just get right into how it was created and why I took this song in this direction.</p>
+                    <p>Swing of the Clock, henceforth shortened to SotC (not to be confused with Shadow of the Colossus! It’s just a hilarious coincidence) was the first song I started writing after joining the team. Multiple fake band albums were in progress (The Felt and Squiddles), but at the time I had no idea how to even approach Squiddles (see <a href="track/squiddles-in-paradise/index.html">last week’s post</a> for details).</p>
+                    <p>So, I decided I’d try to do something orchestral. I went with a few ideas, but for some reason I kept wanting to write a song with a swing feel in it, though that’s more Midnight Crew than Felt, yet at the same time I wanted to do something that was clearly Philip Glass influenced. The small scraps I started before finally settling on a starting point (none of them were saved, sorry!) all shared two major common pieces: a ticking clock, and an arpeggio piano inspired off of Clark Powell’s Three in the Morning.</p>
+                    <p>Both are still in the song, though amusingly many people didn’t notice the piano. It’s there. In reverse. :D</p>
+                    <p>While I was messing around with the early ideas for SotC, I managed to create a nice sounding bass synth, but I ended up replacing the sound with a couple of clarinets to keep the focus on orchestral instruments instead.</p>
+                    <p>I knew early on I wanted to write a song with a very slow progression, very gradual and subtle shifts between sections. However, I wasn’t entirely sure how to approach it until Beatfox [Seth Peelle] made a suggestion on the forums about mastering and production as a whole. Before this song I tended to have a bad habit of improperly using compressors and limiters, though I definitely knew better than to use FL Studio’s stock setting for the Fruity Limiter. (Not saying the Limiter is bad, it’s just really horrible in what the default project template gives you.)</p>
+                    <p>While SotC isn’t the first song I put a significant amount of effort into controlling the mix, it was the first I really managed to succeed in understanding what I was doing in that area of production.</p>
+                    <p>I ended up automating everything in the song, and I realized how much easier it was to fulfill my original idea plus improve on my overall production. Sadly, the song was still very much on the loud side compared to the rest of the album, so there were some problems with how it was mastered in the end.</p>
+                    <p>Going back on track with the swing feel I originally intended… As you can tell, the song is in a 6/8 time signature. It’s one of my favorites. It’s not a true swing, but it was close enough to get where I wanted.</p>
+                    <p>A true swing is lazy 6/8. Sort of.</p>
+                    <p>Anyway, so while the first third of the song is pretty strictly 6/8, the drum beat comes in that’s definitely swing influenced. And during that section, there’s the tuba part. Well! That originally was actually a stand up bass part, but there’s really no way to mimic a stand up bass with sample libraries, so I experimented with a bunch of sounds until I settled on the tuba.</p>
+                    <p>It was passable, but only after I shifted it to actually play slightly early. The attack was so slow.  It was a little frustrating.</p>
+                    <p>After that, as you know, it goes into the heavier synth rock section. Oh, hey, remember that bassline I said I scrapped in favor of the clarinets? There it is. Back in its glory.</p>
+                    <p>The fun big moment, and then the song fades away.</p>
+                    <p>Still one of my best songs in the Homestuck canon. I felt like I had set a new standard far higher than I’d ever be able to reach, but being on the team has pushed me further than I ever expected.</p>
+                    <p><b>Now For Some Trivia!</b></p>
+                    <p>Swing of the Clock was the second to last of a very long stretch of original songs I did in the key of F minor. It’s my favorite key to write music in, but I’ve barely touched it since Chartreuse Rewind. (Which is next week..! Er.. I guess this week, since I was late on this. Oops.) Why? Well, too much of a good thing is a bad thing.</p>
+                    <p>Secondly, Lexxy really dug this song and it made me flip the fuck out when I found out she liked it, because she’s an amazing person!</p>
+                </blockquote>
+            </div>
         </div>
     </body>
 </html>

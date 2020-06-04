@@ -10,90 +10,98 @@
         <script defer src="client.js"></script>
     </head>
     <body style="--fg-color: #00aaff; --bg-color: #222222; --theme: 0; --album-directory: one-year-older; --track-directory: mother">
-        <div id="sidebar">
-            <h2><a href="index.html">(Home)</a></h2>
-            <!-- <h3>Official</h3> -->
-            <hr>
-            <h1><a href="album/one-year-older/index.html">One Year Older</a></h1>
-            <ol>
-                <li class=""><a href="track/sunrise/index.html">Sunrise</a></li>
-                <li class=""><a href="track/october/index.html">October</a></li>
-                <li class=""><a href="track/firefly-cloud/index.html">Firefly Cloud</a></li>
-                <li class=""><a href="track/fantasyp/index.html">FantasyP</a></li>
-                <li class=""><a href="track/underfoot/index.html">Underfoot</a></li>
-                <li class=""><a href="track/flying-car/index.html">Flying Car</a></li>
-                <li class=""><a href="track/cancerous-core/index.html">Cancerous Core</a></li>
-                <li class=""><a href="track/game-over/index.html">Game Over</a></li>
-                <li class=""><a href="track/unlabeled/index.html">Unlabeled</a></li>
-                <li class=""><a href="track/skaian-shrapnel/index.html">Skaian Shrapnel</a></li>
-                <li class=""><a href="track/the-scratch/index.html">The Scratch</a></li>
-                <li class=""><a href="track/respit/index.html">Respit</a></li>
-                <li class=""><a href="track/negastrife/index.html">Negastrife</a></li>
-                <li class="current"><a href="track/mother/index.html">Mother</a></li>
-                <li class=""><a href="track/another-chance/index.html">Another Chance</a></li>
-                <li class=""><a href="track/under-the-hat/index.html">Under The Hat</a></li>
-                <li class=""><a href="track/mother-piano/index.html">Mother (Piano)</a></li>
-            </ol>
-            <hr>
-            <p>
-                <a href="js-disabled/index.html" data-random="track-in-album">Random track</a></li>
-            </p>
-            
-                        <p>
-                            55th track by <a href="artist/erik-scheele/index.html">Erik Scheele</a><br>
-                            (<a href="track/negastrife/index.html" title="Negastrife">Previous</a>, <a href="track/under-the-hat/index.html" title="Under The Hat">Next</a>)
-                        </p>
-                        <p>
-                            30th track by <a href="artist/robert-j-lake/index.html">Robert J! Lake</a><br>
-                            (<a href="track/threes-a-crowd/index.html" title="Three's a Crowd">Previous</a>, <a href="track/stellarum-salve/index.html" title="Stellarum Salve">Next</a>)
-                        </p>
-                        <p>1st cover art by <a href="artist/louise-l/index.html">Louise L.</a></p>
+        <div id="header">
+            <h2>
+                <a href="index.html">Home</a>
+                / <a href="album/one-year-older/index.html">One Year Older</a>
+                / <a href="track/mother/index.html">Mother</a>
+                <span>(<a href="track/negastrife/index.html" title="Negastrife">Previous</a>, <a href="track/another-chance/index.html" title="Another Chance">Next</a>, <a href="js-disabled/index.html" data-random="track-in-album">Random</a>)</span>
+            </h2>
+            <div>
+                
+                                <div class="chronology">
+                                    <span class="heading">53rd track by <a href="artist/erik-scheele/index.html">Erik Scheele</a></span>
+                                    <span class="buttons">(<a href="track/negastrife/index.html" title="Negastrife">Previous</a>, <a href="track/under-the-hat/index.html" title="Under The Hat">Next</a>)</span>
+                                </div>
+                                <div class="chronology">
+                                    <span class="heading">30th track by <a href="artist/robert-j-lake/index.html">Robert J! Lake</a></span>
+                                    <span class="buttons">(<a href="track/threes-a-crowd/index.html" title="Three's a Crowd">Previous</a>, <a href="track/stellarum-salve/index.html" title="Stellarum Salve">Next</a>)</span>
+                                </div>
+                                <div class="chronology">
+                                    <span class="heading">1st cover art by <a href="artist/louise-l/index.html">Louise L.</a></span>
+                                    
+                                </div>
+            </div>
         </div>
-        <div id="content">
-            <a href="album/one-year-older/mother.jpg" id="cover-art"><img src="album/one-year-older/mother.jpg"></a>
-            <h1>Mother</h1>
-            <p>
-                By <a href="artist/erik-scheele/index.html">Erik Scheele</a>.<br>
-                Cover art by <a href="artist/louise-l/index.html">Louise L.</a>.<br>
-                Released 2012-08-15.
-                
-            </p>
-            <p>Listen on <a href="https://erikscheele.bandcamp.com/track/mother">Bandcamp</a>.</p>
-            <p>Contributors:</p>
-            <ul>
-                <li><a href="artist/robert-j-lake/index.html">Robert J! Lake</a> (additional beats)</li>
-            </ul>
-            <p>Tracks that <i>Mother</i> references:</p>
-            <ul>
-                <li>
-                    <a href="track/mother-piano/index.html" style="--fg-color: #00aaff; --bg-color: #222222; --theme: 0">Mother (Piano)</a>
-                    <span class="by">by <a href="artist/erik-scheele/index.html">Erik Scheele</a></span>
-                </li>
-                <li>
-                    <a href="track/skies-of-skaia/index.html" style="--fg-color: #aaccff; --bg-color: #222222; --theme: 0">Skies of Skaia</a>
-                    <span class="by">by <a href="artist/mark-hadley/index.html">Mark Hadley</a></span>
-                </li>
-            </ul>
-            <p>Tracks that reference <i>Mother</i>:</p>
-            <dl>
-                <dt>Official:</dt>
-                <dd><ul>
+        <div class="columns">
+            <div id="sidebar">
+                <h1><a href="album/one-year-older/index.html">One Year Older</a></h1>
+                <ol>
+                    <li class=""><a href="track/sunrise/index.html">Sunrise</a></li>
+                    <li class=""><a href="track/october/index.html">October</a></li>
+                    <li class=""><a href="track/firefly-cloud/index.html">Firefly Cloud</a></li>
+                    <li class=""><a href="track/fantasyp/index.html">FantasyP</a></li>
+                    <li class=""><a href="track/underfoot/index.html">Underfoot</a></li>
+                    <li class=""><a href="track/flying-car/index.html">Flying Car</a></li>
+                    <li class=""><a href="track/cancerous-core/index.html">Cancerous Core</a></li>
+                    <li class=""><a href="track/game-over/index.html">Game Over</a></li>
+                    <li class=""><a href="track/unlabeled/index.html">Unlabeled</a></li>
+                    <li class=""><a href="track/skaian-shrapnel/index.html">Skaian Shrapnel</a></li>
+                    <li class=""><a href="track/the-scratch/index.html">The Scratch</a></li>
+                    <li class=""><a href="track/respit/index.html">Respit</a></li>
+                    <li class=""><a href="track/negastrife/index.html">Negastrife</a></li>
+                    <li class="current"><a href="track/mother/index.html">Mother</a></li>
+                    <li class=""><a href="track/another-chance/index.html">Another Chance</a></li>
+                    <li class=""><a href="track/under-the-hat/index.html">Under The Hat</a></li>
+                    <li class=""><a href="track/mother-piano/index.html">Mother (Piano)</a></li>
+                </ol>
+            </div>
+            <div id="content">
+                <a href="album/one-year-older/mother.jpg" id="cover-art"><img src="album/one-year-older/mother.jpg"></a>
+                <h1>Mother</h1>
+                <p>
+                    By <a href="artist/erik-scheele/index.html">Erik Scheele</a>.<br>
+                    Cover art by <a href="artist/louise-l/index.html">Louise L.</a>.<br>
+                    Released 2012-08-15.
+                    
+                </p>
+                <p>Listen on <a href="https://erikscheele.bandcamp.com/track/mother">Bandcamp</a>.</p>
+                <p>Contributors:</p>
+                <ul>
+                    <li><a href="artist/robert-j-lake/index.html">Robert J! Lake</a> (additional beats)</li>
+                </ul>
+                <p>Tracks that <i>Mother</i> references:</p>
+                <ul>
                     <li>
-                        <a href="track/lilith-in-starlight/index.html" style="--fg-color: #0088ff; --bg-color: #222222; --theme: 0">Lilith in Starlight</a>
-                        <span class="by">by <a href="artist/malcolm-brown/index.html">Malcolm Brown</a></span>
+                        <a href="track/mother-piano/index.html" style="--fg-color: #00aaff; --bg-color: #222222; --theme: 0">Mother (Piano)</a>
+                        <span class="by">by <a href="artist/erik-scheele/index.html">Erik Scheele</a></span>
                     </li>
-                </ul></dd>
+                    <li>
+                        <a href="track/skies-of-skaia/index.html" style="--fg-color: #aaccff; --bg-color: #222222; --theme: 0">Skies of Skaia</a>
+                        <span class="by">by <a href="artist/mark-hadley/index.html">Mark Hadley</a></span>
+                    </li>
+                </ul>
+                <p>Tracks that reference <i>Mother</i>:</p>
+                <dl>
+                    <dt>Official:</dt>
+                    <dd><ul>
+                        <li>
+                            <a href="track/lilith-in-starlight/index.html" style="--fg-color: #0088ff; --bg-color: #222222; --theme: 0">Lilith in Starlight</a>
+                            <span class="by">by <a href="artist/malcolm-brown/index.html">Malcolm Brown</a></span>
+                        </li>
+                    </ul></dd>
+                    
+                </dl>
                 
-            </dl>
-            
-            
-            <p>Artist commentary:</p>
-            <blockquote>
-                <p><i>Erik Scheele:</i></p>
-                <p>Way back, before I was even on the team and before I thought I even belonged on the team, I recorded a simple piano refrain. First thing I'd ever recorded, too, and I want to say it was done a few months after Homestuck had started. In my ehad, it fit in as a possible refrain for one of the characters, and the idea always stuck in my head that it could also work as a piece for the very ending for Homestuck, a sort of "all is well" refrain. After two years, I was finally able to make something like what I was thinking and put it in the right context.</p>
-                <p>Like <a href="track/homestuck-anthem/index.html">the Homestuck Anthem</a>, I went with using the four kids' instruments: piano, strings, drums/percussion, and bass, and stuck mainly with those. I also got some help by Mr. Lake of Awesome Beats Inc. who was way better at beats than I am, and he made it way better too. Big props to him.</p>
-                <p>With the new universe and many new characters being explored, this piece might not work for "the end of Homestuck" anymore, but if anything, I see it as a sort of moving forward. John's journey on that one day, when he turned 13, matured both him and his friends. Like many others, he took the hero's journey, and grew as a result of it, and so this piece could very well fit him leaving his universe and going on to the next, bringing his experiences and knowledge with him, just as well as it could fit him moving past Sburb to whatever adventures lie ahead.</p>
-            </blockquote>
+                
+                <p>Artist commentary:</p>
+                <blockquote>
+                    <p><i>Erik Scheele:</i></p>
+                    <p>Way back, before I was even on the team and before I thought I even belonged on the team, I recorded a simple piano refrain. First thing I'd ever recorded, too, and I want to say it was done a few months after Homestuck had started. In my ehad, it fit in as a possible refrain for one of the characters, and the idea always stuck in my head that it could also work as a piece for the very ending for Homestuck, a sort of "all is well" refrain. After two years, I was finally able to make something like what I was thinking and put it in the right context.</p>
+                    <p>Like <a href="track/homestuck-anthem/index.html">the Homestuck Anthem</a>, I went with using the four kids' instruments: piano, strings, drums/percussion, and bass, and stuck mainly with those. I also got some help by Mr. Lake of Awesome Beats Inc. who was way better at beats than I am, and he made it way better too. Big props to him.</p>
+                    <p>With the new universe and many new characters being explored, this piece might not work for "the end of Homestuck" anymore, but if anything, I see it as a sort of moving forward. John's journey on that one day, when he turned 13, matured both him and his friends. Like many others, he took the hero's journey, and grew as a result of it, and so this piece could very well fit him leaving his universe and going on to the next, bringing his experiences and knowledge with him, just as well as it could fit him moving past Sburb to whatever adventures lie ahead.</p>
+                </blockquote>
+            </div>
         </div>
     </body>
 </html>

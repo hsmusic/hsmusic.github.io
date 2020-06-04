@@ -10,95 +10,108 @@
         <script defer src="client.js"></script>
     </head>
     <body style="--fg-color: #9292e2; --bg-color: #222222; --theme: 0; --album-directory: coloUrs-and-mayhem-universe-a; --track-directory: iron-infidel">
-        <div id="sidebar">
-            <h2><a href="index.html">(Home)</a></h2>
-            <!-- <h3>Official</h3> -->
-            <hr>
-            <h1><a href="album/coloUrs-and-mayhem-universe-a/index.html">coloUrs and mayhem: Universe A</a></h1>
-            <ol>
-                <li class=""><a href="track/side-1-universe-a/index.html">~~SIDE 1~~</a></li>
-                <li class=""><a href="track/rust-servant/index.html">Rust Servant</a></li>
-                <li class=""><a href="track/bronze-rebel/index.html">Bronze Rebel</a></li>
-                <li class=""><a href="track/gold-pilot/index.html">Gold Pilot</a></li>
-                <li class="current"><a href="track/iron-infidel/index.html">Iron Infidel</a></li>
-                <li class=""><a href="track/olive-scribe/index.html">Olive Scribe</a></li>
-                <li class=""><a href="track/jade-mother/index.html">Jade Mother</a></li>
-                <li class=""><a href="track/teal-hunter/index.html">Teal Hunter</a></li>
-                <li class=""><a href="track/cobalt-corsair/index.html">Cobalt Corsair</a></li>
-                <li class=""><a href="track/indigo-archer/index.html">Indigo Archer</a></li>
-                <li class=""><a href="track/purple-tyrant/index.html">Purple Tyrant</a></li>
-                <li class=""><a href="track/violet-mariner/index.html">Violet Mariner</a></li>
-                <li class=""><a href="track/fuchsia-ruler/index.html">Fuchsia Ruler</a></li>
-                <li class=""><a href="track/side-2-universe-a/index.html">~~SIDE 2~~</a></li>
-                <li class=""><a href="track/rust-maid/index.html">Rust Maid</a></li>
-                <li class=""><a href="track/bronze-page/index.html">Bronze Page</a></li>
-                <li class=""><a href="track/gold-mage/index.html">Gold Mage</a></li>
-                <li class=""><a href="track/iron-knight/index.html">Iron Knight</a></li>
-                <li class=""><a href="track/olive-rogue/index.html">Olive Rogue</a></li>
-                <li class=""><a href="track/jade-sylph/index.html">Jade Sylph</a></li>
-                <li class=""><a href="track/teal-seer/index.html">Teal Seer</a></li>
-                <li class=""><a href="track/cobalt-thief/index.html">Cobalt Thief</a></li>
-                <li class=""><a href="track/indigo-heir/index.html">Indigo Heir</a></li>
-                <li class=""><a href="track/purple-bard/index.html">Purple Bard</a></li>
-                <li class=""><a href="track/violet-prince/index.html">Violet Prince</a></li>
-                <li class=""><a href="track/fuchsia-witch/index.html">Fuchsia Witch</a></li>
-                <li class=""><a href="track/additional-mayhem-universe-a/index.html">~~ADITIONAL MAYHEM~~</a></li>
-                <li class=""><a href="track/your-universe/index.html">Your Universe</a></li>
-                <li class=""><a href="track/superego/index.html">Superego</a></li>
-                <li class=""><a href="track/made-of-time/index.html">Made of Time</a></li>
-                <li class=""><a href="track/nine-lives-one-love/index.html">Nine Lives One Love</a></li>
-                <li class=""><a href="track/temporal-shenanigans/index.html">Temporal Shenanigans</a></li>
-            </ol>
-            <hr>
-            <p>
-                <a href="js-disabled/index.html" data-random="track-in-album">Random track</a></li>
-            </p>
-            
-                        <p>
-                            1st track by <a href="artist/samm-neiland/index.html">Samm Neiland</a><br>
-                            (<a href="track/moonsetter/index.html" title="Moonsetter">Next</a>)
-                        </p>
-                        <p>
-                            1st cover art by <a href="artist/elanor-pam/index.html">Elanor Pam</a><br>
-                            (<a href="track/blood-knight/index.html" title="Blood Knight">Next</a>)
-                        </p>
+        <div id="header">
+            <h2>
+                <a href="index.html">Home</a>
+                / <a href="album/coloUrs-and-mayhem-universe-a/index.html">coloUrs and mayhem: Universe A</a>
+                / <a href="track/iron-infidel/index.html">Iron Infidel</a>
+                <span>(<a href="track/gold-pilot/index.html" title="Gold Pilot">Previous</a>, <a href="track/olive-scribe/index.html" title="Olive Scribe">Next</a>, <a href="js-disabled/index.html" data-random="track-in-album">Random</a>)</span>
+            </h2>
+            <div>
+                
+                                <div class="chronology">
+                                    <span class="heading">1st track by <a href="artist/samm-neiland/index.html">Samm Neiland</a></span>
+                                    <span class="buttons">(<a href="track/moonsetter/index.html" title="Moonsetter">Next</a>)</span>
+                                </div>
+                                <div class="chronology">
+                                    <span class="heading">1st cover art by <a href="artist/elanor-pam/index.html">Elanor Pam</a></span>
+                                    <span class="buttons">(<a href="track/blood-knight/index.html" title="Blood Knight">Next</a>)</span>
+                                </div>
+            </div>
         </div>
-        <div id="content">
-            <a href="album/coloUrs-and-mayhem-universe-a/iron-infidel.jpg" id="cover-art"><img src="album/coloUrs-and-mayhem-universe-a/iron-infidel.jpg"></a>
-            <h1>Iron Infidel</h1>
-            <p>
-                By <a href="artist/samm-neiland/index.html">Samm Neiland</a>.<br>
-                Cover art by <a href="artist/elanor-pam/index.html">Elanor Pam</a>.<br>
-                Released 2012-04-02.
+        <div class="columns">
+            <div id="sidebar">
+                <h1><a href="album/coloUrs-and-mayhem-universe-a/index.html">coloUrs and mayhem: Universe A</a></h1>
+                <ol>
+                    <li class=""><a href="track/side-1-universe-a/index.html">~~SIDE 1~~</a></li>
+                    <li class=""><a href="track/rust-servant/index.html">Rust Servant</a></li>
+                    <li class=""><a href="track/bronze-rebel/index.html">Bronze Rebel</a></li>
+                    <li class=""><a href="track/gold-pilot/index.html">Gold Pilot</a></li>
+                    <li class="current"><a href="track/iron-infidel/index.html">Iron Infidel</a></li>
+                    <li class=""><a href="track/olive-scribe/index.html">Olive Scribe</a></li>
+                    <li class=""><a href="track/jade-mother/index.html">Jade Mother</a></li>
+                    <li class=""><a href="track/teal-hunter/index.html">Teal Hunter</a></li>
+                    <li class=""><a href="track/cobalt-corsair/index.html">Cobalt Corsair</a></li>
+                    <li class=""><a href="track/indigo-archer/index.html">Indigo Archer</a></li>
+                    <li class=""><a href="track/purple-tyrant/index.html">Purple Tyrant</a></li>
+                    <li class=""><a href="track/violet-mariner/index.html">Violet Mariner</a></li>
+                    <li class=""><a href="track/fuchsia-ruler/index.html">Fuchsia Ruler</a></li>
+                    <li class=""><a href="track/side-2-universe-a/index.html">~~SIDE 2~~</a></li>
+                    <li class=""><a href="track/rust-maid/index.html">Rust Maid</a></li>
+                    <li class=""><a href="track/bronze-page/index.html">Bronze Page</a></li>
+                    <li class=""><a href="track/gold-mage/index.html">Gold Mage</a></li>
+                    <li class=""><a href="track/iron-knight/index.html">Iron Knight</a></li>
+                    <li class=""><a href="track/olive-rogue/index.html">Olive Rogue</a></li>
+                    <li class=""><a href="track/jade-sylph/index.html">Jade Sylph</a></li>
+                    <li class=""><a href="track/teal-seer/index.html">Teal Seer</a></li>
+                    <li class=""><a href="track/cobalt-thief/index.html">Cobalt Thief</a></li>
+                    <li class=""><a href="track/indigo-heir/index.html">Indigo Heir</a></li>
+                    <li class=""><a href="track/purple-bard/index.html">Purple Bard</a></li>
+                    <li class=""><a href="track/violet-prince/index.html">Violet Prince</a></li>
+                    <li class=""><a href="track/fuchsia-witch/index.html">Fuchsia Witch</a></li>
+                    <li class=""><a href="track/additional-mayhem-universe-a/index.html">~~ADITIONAL MAYHEM~~</a></li>
+                    <li class=""><a href="track/your-universe/index.html">Your Universe</a></li>
+                    <li class=""><a href="track/superego/index.html">Superego</a></li>
+                    <li class=""><a href="track/made-of-time/index.html">Made of Time</a></li>
+                    <li class=""><a href="track/nine-lives-one-love/index.html">Nine Lives One Love</a></li>
+                    <li class=""><a href="track/temporal-shenanigans/index.html">Temporal Shenanigans</a></li>
+                </ol>
+            </div>
+            <div id="content">
+                <a href="album/coloUrs-and-mayhem-universe-a/iron-infidel.jpg" id="cover-art"><img src="album/coloUrs-and-mayhem-universe-a/iron-infidel.jpg"></a>
+                <h1>Iron Infidel</h1>
+                <p>
+                    By <a href="artist/samm-neiland/index.html">Samm Neiland</a>.<br>
+                    Cover art by <a href="artist/elanor-pam/index.html">Elanor Pam</a>.<br>
+                    Released 2012-04-02.
+                    
+                </p>
+                <p>Listen on <a href="https://homestuck.bandcamp.com/track/iron-infidel">Bandcamp</a>.</p>
+                <p>Contributors:</p>
+                <ul>
+                    <li>Katherine Bordonaro, Connor Favero, Lorilyn "Neoscottie" Seyler, Steve Johnson, Andrea McNeil, Ari, Pippin (special thanks)</li>
+                </ul>
                 
-            </p>
-            <p>Listen on <a href="https://homestuck.bandcamp.com/track/iron-infidel">Bandcamp</a>.</p>
-            <p>Contributors:</p>
-            <ul>
-                <li>Katherine Bordonaro, Connor Favero, Lorilyn "Neoscottie" Seyler, Steve Johnson, Andrea McNeil, Ari, Pippin (special thanks)</li>
-            </ul>
-            
-            <p>Tracks that reference <i>Iron Infidel</i>:</p>
-            <dl>
+                <p>Tracks that reference <i>Iron Infidel</i>:</p>
+                <dl>
+                    
+                    <dt>Fandom:</dt>
+                    <dd><ul>
+                        <li>
+                            <a href="track/emissary-of-dance/index.html" style="--fg-color: #88a4ff; --bg-color: #222222; --theme: 0">Emissary of Dance</a>
+                            <span class="by">by <a href="artist/yishan-mai/index.html">Yishan Mai</a></span>
+                        </li>
+                        <li>
+                            <a href="track/infidels/index.html" style="--fg-color: #88a4ff; --bg-color: #222222; --theme: 0">INFIDELS!</a>
+                            <span class="by">by <a href="artist/david-ellis/index.html">David Ellis</a></span>
+                        </li>
+                        <li>
+                            <a href="track/ancestral-anthem/index.html" style="--fg-color: #ff0300; --bg-color: #222222; --theme: 0">Ancestral Anthem</a>
+                            <span class="by">by <a href="artist/rhyselinn/index.html">Rhyselinn</a></span>
+                        </li>
+                        <li>
+                            <a href="track/c9me-t9gether/index.html" style="--fg-color: #ff0300; --bg-color: #222222; --theme: 0">C9me T9gether</a>
+                            <span class="by">by <a href="artist/tempitunes/index.html">TempiTunes</a></span>
+                        </li>
+                    </ul></dd>
+                </dl>
+                <p>Flashes &amp; games that feature <i>Iron Infidel</i>:</p>
+                <ul>
+                    <li><a href="flash/5263/index.html" title="Page 5263" style="--fg-color: #b536da">[S] ACT 6 INTERMISSION 3</a></li>
+                </ul>
                 
-                <dt>Fandom:</dt>
-                <dd><ul>
-                    <li>
-                        <a href="track/emissary-of-dance/index.html" style="--fg-color: #88a4ff; --bg-color: #222222; --theme: 0">Emissary of Dance</a>
-                        <span class="by">by <a href="artist/yishan-mai/index.html">Yishan Mai</a></span>
-                    </li>
-                    <li>
-                        <a href="track/infidels/index.html" style="--fg-color: #88a4ff; --bg-color: #222222; --theme: 0">INFIDELS!</a>
-                        <span class="by">by <a href="artist/david-ellis/index.html">David Ellis</a></span>
-                    </li>
-                </ul></dd>
-            </dl>
-            <p>Flashes &amp; games that feature <i>Iron Infidel</i>:</p>
-            <ul>
-                <li><a href="flash/5263/index.html" title="Page 5263" style="--fg-color: #b536da">[S] ACT 6 INTERMISSION 3</a></li>
-            </ul>
-            
-            
+                
+            </div>
         </div>
     </body>
 </html>

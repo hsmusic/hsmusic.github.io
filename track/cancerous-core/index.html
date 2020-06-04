@@ -10,65 +10,70 @@
         <script defer src="client.js"></script>
     </head>
     <body style="--fg-color: #00aaff; --bg-color: #222222; --theme: 0; --album-directory: one-year-older; --track-directory: cancerous-core">
-        <div id="sidebar">
-            <h2><a href="index.html">(Home)</a></h2>
-            <!-- <h3>Official</h3> -->
-            <hr>
-            <h1><a href="album/one-year-older/index.html">One Year Older</a></h1>
-            <ol>
-                <li class=""><a href="track/sunrise/index.html">Sunrise</a></li>
-                <li class=""><a href="track/october/index.html">October</a></li>
-                <li class=""><a href="track/firefly-cloud/index.html">Firefly Cloud</a></li>
-                <li class=""><a href="track/fantasyp/index.html">FantasyP</a></li>
-                <li class=""><a href="track/underfoot/index.html">Underfoot</a></li>
-                <li class=""><a href="track/flying-car/index.html">Flying Car</a></li>
-                <li class="current"><a href="track/cancerous-core/index.html">Cancerous Core</a></li>
-                <li class=""><a href="track/game-over/index.html">Game Over</a></li>
-                <li class=""><a href="track/unlabeled/index.html">Unlabeled</a></li>
-                <li class=""><a href="track/skaian-shrapnel/index.html">Skaian Shrapnel</a></li>
-                <li class=""><a href="track/the-scratch/index.html">The Scratch</a></li>
-                <li class=""><a href="track/respit/index.html">Respit</a></li>
-                <li class=""><a href="track/negastrife/index.html">Negastrife</a></li>
-                <li class=""><a href="track/mother/index.html">Mother</a></li>
-                <li class=""><a href="track/another-chance/index.html">Another Chance</a></li>
-                <li class=""><a href="track/under-the-hat/index.html">Under The Hat</a></li>
-                <li class=""><a href="track/mother-piano/index.html">Mother (Piano)</a></li>
-            </ol>
-            <hr>
-            <p>
-                <a href="js-disabled/index.html" data-random="track-in-album">Random track</a></li>
-            </p>
-            
-                        <p>
-                            48th track by <a href="artist/erik-scheele/index.html">Erik Scheele</a><br>
-                            (<a href="track/flying-car/index.html" title="Flying Car">Previous</a>, <a href="track/game-over/index.html" title="Game Over">Next</a>)
-                        </p>
-                        <p>
-                            4th cover art by <a href="artist/dawn-davis/index.html">Dawn Davis</a><br>
-                            (<a href="track/three-in-the-morning-aftermath/index.html" title="Three in the Morning (Aftermath)">Previous</a>, <a href="track/metamorphic-choices/index.html" title="Metamorphic Choices [Kernel Prototyping]">Next</a>)
-                        </p>
-        </div>
-        <div id="content">
-            <a href="album/one-year-older/cancerous-core.jpg" id="cover-art"><img src="album/one-year-older/cancerous-core.jpg"></a>
-            <h1>Cancerous Core</h1>
-            <p>
-                By <a href="artist/erik-scheele/index.html">Erik Scheele</a>.<br>
-                Cover art by <a href="artist/dawn-davis/index.html">Dawn Davis</a>.<br>
-                Released 2012-08-15.
+        <div id="header">
+            <h2>
+                <a href="index.html">Home</a>
+                / <a href="album/one-year-older/index.html">One Year Older</a>
+                / <a href="track/cancerous-core/index.html">Cancerous Core</a>
+                <span>(<a href="track/flying-car/index.html" title="Flying Car">Previous</a>, <a href="track/game-over/index.html" title="Game Over">Next</a>, <a href="js-disabled/index.html" data-random="track-in-album">Random</a>)</span>
+            </h2>
+            <div>
                 
-            </p>
-            <p>Listen on <a href="https://erikscheele.bandcamp.com/track/cancerous-core">Bandcamp</a>.</p>
-            
-            
-            
-            
-            
-            <p>Artist commentary:</p>
-            <blockquote>
-                <p><i>Erik Scheele:</i></p>
-                <p>The descent into Skaia and the exploration of its interior, I feel, went by too quick. It might just be because the Tomb Raider series was a favorite while growing up, but I've always loved old, unexplored ruins, arcane or mystical elements hinted at with wall carvings or murals, that sort of thing. And Skaia, being the center of a sort of central planet to everything in Sburb, could be chock-full of old buildings and mystical secrets to explore.</p>
-                <p>So, to try and accompany the general air of mystery and exploration that would have gone with a long journey into the center of Skaia, I took an old idea in Locrian mode. If you're a music person, Locrian is when you take a major scale, but start it on the last note. It's a rather off-kilter scale, and it can't ever really resolve to the toni chord like most other scales can, which made it rather suited to a piece about the sort of strange secrets and landscapes that could be hidden in the center of Skaia.</p>
-            </blockquote>
+                                <div class="chronology">
+                                    <span class="heading">46th track by <a href="artist/erik-scheele/index.html">Erik Scheele</a></span>
+                                    <span class="buttons">(<a href="track/flying-car/index.html" title="Flying Car">Previous</a>, <a href="track/game-over/index.html" title="Game Over">Next</a>)</span>
+                                </div>
+                                <div class="chronology">
+                                    <span class="heading">4th cover art by <a href="artist/dawn-davis/index.html">Dawn Davis</a></span>
+                                    <span class="buttons">(<a href="track/three-in-the-morning-aftermath/index.html" title="Three in the Morning (Aftermath)">Previous</a>, <a href="track/metamorphic-choices/index.html" title="Metamorphic Choices [Kernel Prototyping]">Next</a>)</span>
+                                </div>
+            </div>
+        </div>
+        <div class="columns">
+            <div id="sidebar">
+                <h1><a href="album/one-year-older/index.html">One Year Older</a></h1>
+                <ol>
+                    <li class=""><a href="track/sunrise/index.html">Sunrise</a></li>
+                    <li class=""><a href="track/october/index.html">October</a></li>
+                    <li class=""><a href="track/firefly-cloud/index.html">Firefly Cloud</a></li>
+                    <li class=""><a href="track/fantasyp/index.html">FantasyP</a></li>
+                    <li class=""><a href="track/underfoot/index.html">Underfoot</a></li>
+                    <li class=""><a href="track/flying-car/index.html">Flying Car</a></li>
+                    <li class="current"><a href="track/cancerous-core/index.html">Cancerous Core</a></li>
+                    <li class=""><a href="track/game-over/index.html">Game Over</a></li>
+                    <li class=""><a href="track/unlabeled/index.html">Unlabeled</a></li>
+                    <li class=""><a href="track/skaian-shrapnel/index.html">Skaian Shrapnel</a></li>
+                    <li class=""><a href="track/the-scratch/index.html">The Scratch</a></li>
+                    <li class=""><a href="track/respit/index.html">Respit</a></li>
+                    <li class=""><a href="track/negastrife/index.html">Negastrife</a></li>
+                    <li class=""><a href="track/mother/index.html">Mother</a></li>
+                    <li class=""><a href="track/another-chance/index.html">Another Chance</a></li>
+                    <li class=""><a href="track/under-the-hat/index.html">Under The Hat</a></li>
+                    <li class=""><a href="track/mother-piano/index.html">Mother (Piano)</a></li>
+                </ol>
+            </div>
+            <div id="content">
+                <a href="album/one-year-older/cancerous-core.jpg" id="cover-art"><img src="album/one-year-older/cancerous-core.jpg"></a>
+                <h1>Cancerous Core</h1>
+                <p>
+                    By <a href="artist/erik-scheele/index.html">Erik Scheele</a>.<br>
+                    Cover art by <a href="artist/dawn-davis/index.html">Dawn Davis</a>.<br>
+                    Released 2012-08-15.
+                    
+                </p>
+                <p>Listen on <a href="https://erikscheele.bandcamp.com/track/cancerous-core">Bandcamp</a>.</p>
+                
+                
+                
+                
+                
+                <p>Artist commentary:</p>
+                <blockquote>
+                    <p><i>Erik Scheele:</i></p>
+                    <p>The descent into Skaia and the exploration of its interior, I feel, went by too quick. It might just be because the Tomb Raider series was a favorite while growing up, but I've always loved old, unexplored ruins, arcane or mystical elements hinted at with wall carvings or murals, that sort of thing. And Skaia, being the center of a sort of central planet to everything in Sburb, could be chock-full of old buildings and mystical secrets to explore.</p>
+                    <p>So, to try and accompany the general air of mystery and exploration that would have gone with a long journey into the center of Skaia, I took an old idea in Locrian mode. If you're a music person, Locrian is when you take a major scale, but start it on the last note. It's a rather off-kilter scale, and it can't ever really resolve to the toni chord like most other scales can, which made it rather suited to a piece about the sort of strange secrets and landscapes that could be hidden in the center of Skaia.</p>
+                </blockquote>
+            </div>
         </div>
     </body>
 </html>

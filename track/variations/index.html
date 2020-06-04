@@ -10,78 +10,83 @@
         <script defer src="client.js"></script>
     </head>
     <body style="--fg-color: #33aa55; --bg-color: #222222; --theme: 0; --album-directory: the-felt; --track-directory: variations">
-        <div id="sidebar">
-            <h2><a href="index.html">(Home)</a></h2>
-            <!-- <h3>Official</h3> -->
-            <hr>
-            <h1><a href="album/the-felt/index.html">The Felt</a></h1>
-            <ol>
-                <li class=""><a href="track/jade-dragon/index.html">Jade Dragon</a></li>
-                <li class=""><a href="track/swing-of-the-clock/index.html">Swing of the Clock</a></li>
-                <li class=""><a href="track/rhapsody-in-green/index.html">Rhapsody in Green</a></li>
-                <li class=""><a href="track/humphreys-lullaby/index.html">Humphrey's Lullaby</a></li>
-                <li class=""><a href="track/clockwork-reversal/index.html">Clockwork Reversal</a></li>
-                <li class=""><a href="track/chartreuse-rewind/index.html">Chartreuse Rewind</a></li>
-                <li class=""><a href="track/the-broken-clock/index.html">The Broken Clock</a></li>
-                <li class=""><a href="track/apocryphal-antithesis/index.html">Apocryphal Antithesis</a></li>
-                <li class=""><a href="track/trails/index.html">Trails</a></li>
-                <li class=""><a href="track/baroqueback-bowtier-scratchs-lament/index.html">Baroqueback Bowtier (Scratch's Lament)</a></li>
-                <li class=""><a href="track/scratch/index.html">Scratch</a></li>
-                <li class=""><a href="track/omelette-sandwich/index.html">Omelette Sandwich</a></li>
-                <li class=""><a href="track/temporal-piano/index.html">Temporal Piano</a></li>
-                <li class=""><a href="track/time-paradox/index.html">Time Paradox</a></li>
-                <li class=""><a href="track/eldritch/index.html">Eldritch</a></li>
-                <li class=""><a href="track/english/index.html">English</a></li>
-                <li class="current"><a href="track/variations/index.html">Variations</a></li>
-            </ol>
-            <hr>
-            <p>
-                <a href="js-disabled/index.html" data-random="track-in-album">Random track</a></li>
-            </p>
-            
-                        <p>
-                            12th track by <a href="artist/robert-j-lake/index.html">Robert J! Lake</a><br>
-                            (<a href="track/jade-dragon/index.html" title="Jade Dragon">Previous</a>, <a href="track/heir-transparent/index.html" title="Heir Transparent">Next</a>)
-                        </p>
-                        <p>
-                            93rd cover art by <a href="artist/homestuck/index.html">Homestuck</a><br>
-                            (<a href="track/english/index.html" title="English">Previous</a>, <a href="album/homestuck-vol-6/index.html" title="Homestuck Vol. 6: Heir Transparent">Next</a>)
-                        </p>
-        </div>
-        <div id="content">
-            <a href="album/the-felt/variations.jpg" id="cover-art"><img src="album/the-felt/variations.jpg"></a>
-            <h1>Variations</h1>
-            <p>
-                By <a href="artist/robert-j-lake/index.html">Robert J! Lake</a>.<br>
-                Cover art by <a href="artist/homestuck/index.html">Homestuck</a>.<br>
-                Released 2010-12-02.
+        <div id="header">
+            <h2>
+                <a href="index.html">Home</a>
+                / <a href="album/the-felt/index.html">The Felt</a>
+                / <a href="track/variations/index.html">Variations</a>
+                <span>(<a href="track/english/index.html" title="English">Previous</a>, <a href="js-disabled/index.html" data-random="track-in-album">Random</a>)</span>
+            </h2>
+            <div>
                 
-            </p>
-            <p>Listen on <a href="https://homestuck.bandcamp.com/track/variations-2">Bandcamp</a>.</p>
-            
-            <p>Tracks that <i>Variations</i> references:</p>
-            <ul>
-                <li>
-                    <a href="track/rhapsody-in-green/index.html" style="--fg-color: #33aa55; --bg-color: #222222; --theme: 0">Rhapsody in Green</a>
-                    <span class="by">by <a href="artist/clark-powell/index.html">Clark Powell</a></span>
-                </li>
-                <li>
-                    <a href="track/jade-dragon/index.html" style="--fg-color: #33aa55; --bg-color: #222222; --theme: 0">Jade Dragon</a>
-                    <span class="by">by <a href="artist/robert-j-lake/index.html">Robert J! Lake</a></span>
-                </li>
-                <li>
-                    <a href="track/swing-of-the-clock/index.html" style="--fg-color: #33aa55; --bg-color: #222222; --theme: 0">Swing of the Clock</a>
-                    <span class="by">by <a href="artist/solatrus/index.html">Solatrus</a></span>
-                </li>
-                <li>
-                    <a href="track/afraid-of-the-darko/index.html" style="--fg-color: #4ac925; --bg-color: #222222; --theme: 0">Afraid of the Darko</a>
-                    <span class="by">by <a href="artist/robert-j-lake/index.html">Robert J! Lake</a></span>
-                </li>
-            </ul>
-            
-            
-            
-            
+                                <div class="chronology">
+                                    <span class="heading">12th track by <a href="artist/robert-j-lake/index.html">Robert J! Lake</a></span>
+                                    <span class="buttons">(<a href="track/jade-dragon/index.html" title="Jade Dragon">Previous</a>, <a href="track/heir-transparent/index.html" title="Heir Transparent">Next</a>)</span>
+                                </div>
+                                <div class="chronology">
+                                    <span class="heading">93rd cover art by <a href="artist/homestuck/index.html">Homestuck</a></span>
+                                    <span class="buttons">(<a href="track/english/index.html" title="English">Previous</a>, <a href="album/homestuck-vol-6/index.html" title="Homestuck Vol. 6: Heir Transparent">Next</a>)</span>
+                                </div>
+            </div>
+        </div>
+        <div class="columns">
+            <div id="sidebar">
+                <h1><a href="album/the-felt/index.html">The Felt</a></h1>
+                <ol>
+                    <li class=""><a href="track/jade-dragon/index.html">Jade Dragon</a></li>
+                    <li class=""><a href="track/swing-of-the-clock/index.html">Swing of the Clock</a></li>
+                    <li class=""><a href="track/rhapsody-in-green/index.html">Rhapsody in Green</a></li>
+                    <li class=""><a href="track/humphreys-lullaby/index.html">Humphrey's Lullaby</a></li>
+                    <li class=""><a href="track/clockwork-reversal/index.html">Clockwork Reversal</a></li>
+                    <li class=""><a href="track/chartreuse-rewind/index.html">Chartreuse Rewind</a></li>
+                    <li class=""><a href="track/the-broken-clock/index.html">The Broken Clock</a></li>
+                    <li class=""><a href="track/apocryphal-antithesis/index.html">Apocryphal Antithesis</a></li>
+                    <li class=""><a href="track/trails/index.html">Trails</a></li>
+                    <li class=""><a href="track/baroqueback-bowtier-scratchs-lament/index.html">Baroqueback Bowtier (Scratch's Lament)</a></li>
+                    <li class=""><a href="track/scratch/index.html">Scratch</a></li>
+                    <li class=""><a href="track/omelette-sandwich/index.html">Omelette Sandwich</a></li>
+                    <li class=""><a href="track/temporal-piano/index.html">Temporal Piano</a></li>
+                    <li class=""><a href="track/time-paradox/index.html">Time Paradox</a></li>
+                    <li class=""><a href="track/eldritch/index.html">Eldritch</a></li>
+                    <li class=""><a href="track/english/index.html">English</a></li>
+                    <li class="current"><a href="track/variations/index.html">Variations</a></li>
+                </ol>
+            </div>
+            <div id="content">
+                <a href="album/the-felt/variations.jpg" id="cover-art"><img src="album/the-felt/variations.jpg"></a>
+                <h1>Variations</h1>
+                <p>
+                    By <a href="artist/robert-j-lake/index.html">Robert J! Lake</a>.<br>
+                    Cover art by <a href="artist/homestuck/index.html">Homestuck</a>.<br>
+                    Released 2010-12-02.
+                    
+                </p>
+                <p>Listen on <a href="https://homestuck.bandcamp.com/track/variations-2">Bandcamp</a>.</p>
+                
+                <p>Tracks that <i>Variations</i> references:</p>
+                <ul>
+                    <li>
+                        <a href="track/rhapsody-in-green/index.html" style="--fg-color: #33aa55; --bg-color: #222222; --theme: 0">Rhapsody in Green</a>
+                        <span class="by">by <a href="artist/clark-powell/index.html">Clark Powell</a></span>
+                    </li>
+                    <li>
+                        <a href="track/jade-dragon/index.html" style="--fg-color: #33aa55; --bg-color: #222222; --theme: 0">Jade Dragon</a>
+                        <span class="by">by <a href="artist/robert-j-lake/index.html">Robert J! Lake</a></span>
+                    </li>
+                    <li>
+                        <a href="track/swing-of-the-clock/index.html" style="--fg-color: #33aa55; --bg-color: #222222; --theme: 0">Swing of the Clock</a>
+                        <span class="by">by <a href="artist/solatrus/index.html">Solatrus</a></span>
+                    </li>
+                    <li>
+                        <a href="track/afraid-of-the-darko/index.html" style="--fg-color: #4ac925; --bg-color: #222222; --theme: 0">Afraid of the Darko</a>
+                        <span class="by">by <a href="artist/robert-j-lake/index.html">Robert J! Lake</a></span>
+                    </li>
+                </ul>
+                
+                
+                
+                
+            </div>
         </div>
     </body>
 </html>

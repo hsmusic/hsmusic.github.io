@@ -10,70 +10,75 @@
         <script defer src="client.js"></script>
     </head>
     <body style="--fg-color: #33aa55; --bg-color: #222222; --theme: 0; --album-directory: the-felt; --track-directory: jade-dragon">
-        <div id="sidebar">
-            <h2><a href="index.html">(Home)</a></h2>
-            <!-- <h3>Official</h3> -->
-            <hr>
-            <h1><a href="album/the-felt/index.html">The Felt</a></h1>
-            <ol>
-                <li class="current"><a href="track/jade-dragon/index.html">Jade Dragon</a></li>
-                <li class=""><a href="track/swing-of-the-clock/index.html">Swing of the Clock</a></li>
-                <li class=""><a href="track/rhapsody-in-green/index.html">Rhapsody in Green</a></li>
-                <li class=""><a href="track/humphreys-lullaby/index.html">Humphrey's Lullaby</a></li>
-                <li class=""><a href="track/clockwork-reversal/index.html">Clockwork Reversal</a></li>
-                <li class=""><a href="track/chartreuse-rewind/index.html">Chartreuse Rewind</a></li>
-                <li class=""><a href="track/the-broken-clock/index.html">The Broken Clock</a></li>
-                <li class=""><a href="track/apocryphal-antithesis/index.html">Apocryphal Antithesis</a></li>
-                <li class=""><a href="track/trails/index.html">Trails</a></li>
-                <li class=""><a href="track/baroqueback-bowtier-scratchs-lament/index.html">Baroqueback Bowtier (Scratch's Lament)</a></li>
-                <li class=""><a href="track/scratch/index.html">Scratch</a></li>
-                <li class=""><a href="track/omelette-sandwich/index.html">Omelette Sandwich</a></li>
-                <li class=""><a href="track/temporal-piano/index.html">Temporal Piano</a></li>
-                <li class=""><a href="track/time-paradox/index.html">Time Paradox</a></li>
-                <li class=""><a href="track/eldritch/index.html">Eldritch</a></li>
-                <li class=""><a href="track/english/index.html">English</a></li>
-                <li class=""><a href="track/variations/index.html">Variations</a></li>
-            </ol>
-            <hr>
-            <p>
-                <a href="js-disabled/index.html" data-random="track-in-album">Random track</a></li>
-            </p>
-            
-                        <p>
-                            11th track by <a href="artist/robert-j-lake/index.html">Robert J! Lake</a><br>
-                            (<a href="track/let-the-squiddles-sleep-end-theme/index.html" title="Let the Squiddles Sleep (End Theme)">Previous</a>, <a href="track/variations/index.html" title="Variations">Next</a>)
-                        </p>
-                        <p>
-                            77th cover art by <a href="artist/homestuck/index.html">Homestuck</a><br>
-                            (<a href="album/squiddles/index.html" title="Squiddles!">Previous</a>, <a href="track/swing-of-the-clock/index.html" title="Swing of the Clock">Next</a>)
-                        </p>
+        <div id="header">
+            <h2>
+                <a href="index.html">Home</a>
+                / <a href="album/the-felt/index.html">The Felt</a>
+                / <a href="track/jade-dragon/index.html">Jade Dragon</a>
+                <span>(<a href="track/swing-of-the-clock/index.html" title="Swing of the Clock">Next</a>, <a href="js-disabled/index.html" data-random="track-in-album">Random</a>)</span>
+            </h2>
+            <div>
+                
+                                <div class="chronology">
+                                    <span class="heading">11th track by <a href="artist/robert-j-lake/index.html">Robert J! Lake</a></span>
+                                    <span class="buttons">(<a href="track/let-the-squiddles-sleep-end-theme/index.html" title="Let the Squiddles Sleep (End Theme)">Previous</a>, <a href="track/variations/index.html" title="Variations">Next</a>)</span>
+                                </div>
+                                <div class="chronology">
+                                    <span class="heading">77th cover art by <a href="artist/homestuck/index.html">Homestuck</a></span>
+                                    <span class="buttons">(<a href="album/squiddles/index.html" title="Squiddles!">Previous</a>, <a href="track/swing-of-the-clock/index.html" title="Swing of the Clock">Next</a>)</span>
+                                </div>
+            </div>
         </div>
-        <div id="content">
-            <a href="album/the-felt/jade-dragon.jpg" id="cover-art"><img src="album/the-felt/jade-dragon.jpg"></a>
-            <h1>Jade Dragon</h1>
-            <p>
-                By <a href="artist/robert-j-lake/index.html">Robert J! Lake</a>.<br>
-                Cover art by <a href="artist/homestuck/index.html">Homestuck</a>.<br>
-                Released 2010-12-02.
+        <div class="columns">
+            <div id="sidebar">
+                <h1><a href="album/the-felt/index.html">The Felt</a></h1>
+                <ol>
+                    <li class="current"><a href="track/jade-dragon/index.html">Jade Dragon</a></li>
+                    <li class=""><a href="track/swing-of-the-clock/index.html">Swing of the Clock</a></li>
+                    <li class=""><a href="track/rhapsody-in-green/index.html">Rhapsody in Green</a></li>
+                    <li class=""><a href="track/humphreys-lullaby/index.html">Humphrey's Lullaby</a></li>
+                    <li class=""><a href="track/clockwork-reversal/index.html">Clockwork Reversal</a></li>
+                    <li class=""><a href="track/chartreuse-rewind/index.html">Chartreuse Rewind</a></li>
+                    <li class=""><a href="track/the-broken-clock/index.html">The Broken Clock</a></li>
+                    <li class=""><a href="track/apocryphal-antithesis/index.html">Apocryphal Antithesis</a></li>
+                    <li class=""><a href="track/trails/index.html">Trails</a></li>
+                    <li class=""><a href="track/baroqueback-bowtier-scratchs-lament/index.html">Baroqueback Bowtier (Scratch's Lament)</a></li>
+                    <li class=""><a href="track/scratch/index.html">Scratch</a></li>
+                    <li class=""><a href="track/omelette-sandwich/index.html">Omelette Sandwich</a></li>
+                    <li class=""><a href="track/temporal-piano/index.html">Temporal Piano</a></li>
+                    <li class=""><a href="track/time-paradox/index.html">Time Paradox</a></li>
+                    <li class=""><a href="track/eldritch/index.html">Eldritch</a></li>
+                    <li class=""><a href="track/english/index.html">English</a></li>
+                    <li class=""><a href="track/variations/index.html">Variations</a></li>
+                </ol>
+            </div>
+            <div id="content">
+                <a href="album/the-felt/jade-dragon.jpg" id="cover-art"><img src="album/the-felt/jade-dragon.jpg"></a>
+                <h1>Jade Dragon</h1>
+                <p>
+                    By <a href="artist/robert-j-lake/index.html">Robert J! Lake</a>.<br>
+                    Cover art by <a href="artist/homestuck/index.html">Homestuck</a>.<br>
+                    Released 2010-12-02.
+                    
+                </p>
+                <p>Listen on <a href="https://homestuck.bandcamp.com/track/jade-dragon-2">Bandcamp</a>.</p>
                 
-            </p>
-            <p>Listen on <a href="https://homestuck.bandcamp.com/track/jade-dragon-2">Bandcamp</a>.</p>
-            
-            
-            <p>Tracks that reference <i>Jade Dragon</i>:</p>
-            <dl>
-                <dt>Official:</dt>
-                <dd><ul>
-                    <li>
-                        <a href="track/variations/index.html" style="--fg-color: #33aa55; --bg-color: #222222; --theme: 0">Variations</a>
-                        <span class="by">by <a href="artist/robert-j-lake/index.html">Robert J! Lake</a></span>
-                    </li>
-                </ul></dd>
                 
-            </dl>
-            
-            
-            
+                <p>Tracks that reference <i>Jade Dragon</i>:</p>
+                <dl>
+                    <dt>Official:</dt>
+                    <dd><ul>
+                        <li>
+                            <a href="track/variations/index.html" style="--fg-color: #33aa55; --bg-color: #222222; --theme: 0">Variations</a>
+                            <span class="by">by <a href="artist/robert-j-lake/index.html">Robert J! Lake</a></span>
+                        </li>
+                    </ul></dd>
+                    
+                </dl>
+                
+                
+                
+            </div>
         </div>
     </body>
 </html>

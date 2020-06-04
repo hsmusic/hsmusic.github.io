@@ -10,107 +10,115 @@
         <script defer src="client.js"></script>
     </head>
     <body style="--fg-color: #0088ff; --bg-color: #222222; --theme: 0; --album-directory: homestuck-vol-10; --track-directory: beatup">
-        <div id="sidebar">
-            <h2><a href="index.html">(Home)</a></h2>
-            <!-- <h3>Official</h3> -->
-            <hr>
-            <h1><a href="album/homestuck-vol-10/index.html">Homestuck Vol. 10</a></h1>
-            <ol>
-                <li class=""><a href="track/creata/index.html">Creata</a></li>
-                <li class=""><a href="track/train/index.html">Train</a></li>
-                <li class=""><a href="track/of-gods-and-witches/index.html">Of Gods and Witches</a></li>
-                <li class="current"><a href="track/beatup/index.html">Beatup</a></li>
-                <li class=""><a href="track/you-killed-my-father-prepare-to-die/index.html">You Killed My Father (Prepare To Die)</a></li>
-                <li class=""><a href="track/sound-judgement/index.html">Sound Judgement</a></li>
-                <li class=""><a href="track/aggrievocation/index.html">Aggrievocation</a></li>
-                <li class=""><a href="track/stride/index.html">Stride</a></li>
-                <li class=""><a href="track/skaian-overdrive/index.html">Skaian Overdrive</a></li>
-                <li class=""><a href="track/freefall/index.html">Freefall</a></li>
-                <li class=""><a href="track/moonsweater/index.html">Moonsweater</a></li>
-                <li class=""><a href="track/castle/index.html">Castle</a></li>
-                <li class=""><a href="track/skaian-happy-flight/index.html">Skaian Happy Flight</a></li>
-                <li class=""><a href="track/voidlight/index.html">Voidlight</a></li>
-                <li class=""><a href="track/beatdown-dx/index.html">Beatdown DX</a></li>
-                <li class=""><a href="track/solar-voyage/index.html">Solar Voyage</a></li>
-                <li class=""><a href="track/feel-alive/index.html">Feel (Alive)</a></li>
-                <li class=""><a href="track/breeze/index.html">Breeze</a></li>
-                <li class=""><a href="track/starfall/index.html">Starfall</a></li>
-                <li class=""><a href="track/ascend/index.html">Ascend</a></li>
-                <li class=""><a href="track/lilith-in-starlight/index.html">Lilith in Starlight</a></li>
-                <li class=""><a href="track/thanks-for-playing/index.html">Thanks for Playing</a></li>
-                <li class=""><a href="track/renewed-return/index.html">Renewed Return</a></li>
-                <li class=""><a href="track/this-pumpkin/index.html">THIS Pumpkin</a></li>
-                <li class=""><a href="track/conclude/index.html">Conclude</a></li>
-            </ol>
-            <hr>
-            <p>
-                <a href="js-disabled/index.html" data-random="track-in-album">Random track</a></li>
-            </p>
-            
-                        <p>
-                            45th track by <a href="artist/clark-powell/index.html">Clark Powell</a><br>
-                            (<a href="track/overture-canon-edit/index.html" title="Overture (Canon Edit)">Previous</a>, <a href="track/solar-voyage/index.html" title="Solar Voyage">Next</a>)
-                        </p>
-                        <p>
-                            8th track by <a href="artist/astro-kid/index.html">Astro Kid</a><br>
-                            (<a href="track/starblaze/index.html" title="Starblaze">Previous</a>, <a href="track/beatup-shutdown/index.html" title="Beatup (Shutdown)">Next</a>)
-                        </p>
-                        <p>1st cover art by <a href="artist/shan-murphy/index.html">Shan Murphy</a></p>
+        <div id="header">
+            <h2>
+                <a href="index.html">Home</a>
+                / <a href="album/homestuck-vol-10/index.html">Homestuck Vol. 10</a>
+                / <a href="track/beatup/index.html">Beatup</a>
+                <span>(<a href="track/of-gods-and-witches/index.html" title="Of Gods and Witches">Previous</a>, <a href="track/you-killed-my-father-prepare-to-die/index.html" title="You Killed My Father (Prepare To Die)">Next</a>, <a href="js-disabled/index.html" data-random="track-in-album">Random</a>)</span>
+            </h2>
+            <div>
+                
+                                <div class="chronology">
+                                    <span class="heading">43rd track by <a href="artist/clark-powell/index.html">Clark Powell</a></span>
+                                    <span class="buttons">(<a href="track/overture-canon-edit/index.html" title="Overture (Canon Edit)">Previous</a>, <a href="track/solar-voyage/index.html" title="Solar Voyage">Next</a>)</span>
+                                </div>
+                                <div class="chronology">
+                                    <span class="heading">8th track by <a href="artist/astro-kid/index.html">Astro Kid</a></span>
+                                    <span class="buttons">(<a href="track/starblaze/index.html" title="Starblaze">Previous</a>, <a href="track/beatup-shutdown/index.html" title="Beatup (Shutdown)">Next</a>)</span>
+                                </div>
+                                <div class="chronology">
+                                    <span class="heading">1st cover art by <a href="artist/shan-murphy/index.html">Shan Murphy</a></span>
+                                    
+                                </div>
+            </div>
         </div>
-        <div id="content">
-            <a href="album/homestuck-vol-10/beatup.jpg" id="cover-art"><img src="album/homestuck-vol-10/beatup.jpg"></a>
-            <h1>Beatup</h1>
-            <p>
-                By <a href="artist/clark-powell/index.html">Clark Powell</a> and <a href="artist/astro-kid/index.html">Astro Kid</a>.<br>
-                Cover art by <a href="artist/shan-murphy/index.html">Shan Murphy</a>.<br>
-                Released 2016-06-12.
+        <div class="columns">
+            <div id="sidebar">
+                <h1><a href="album/homestuck-vol-10/index.html">Homestuck Vol. 10</a></h1>
+                <ol>
+                    <li class=""><a href="track/creata/index.html">Creata</a></li>
+                    <li class=""><a href="track/train/index.html">Train</a></li>
+                    <li class=""><a href="track/of-gods-and-witches/index.html">Of Gods and Witches</a></li>
+                    <li class="current"><a href="track/beatup/index.html">Beatup</a></li>
+                    <li class=""><a href="track/you-killed-my-father-prepare-to-die/index.html">You Killed My Father (Prepare To Die)</a></li>
+                    <li class=""><a href="track/sound-judgement/index.html">Sound Judgement</a></li>
+                    <li class=""><a href="track/aggrievocation/index.html">Aggrievocation</a></li>
+                    <li class=""><a href="track/stride/index.html">Stride</a></li>
+                    <li class=""><a href="track/skaian-overdrive/index.html">Skaian Overdrive</a></li>
+                    <li class=""><a href="track/freefall/index.html">Freefall</a></li>
+                    <li class=""><a href="track/moonsweater/index.html">Moonsweater</a></li>
+                    <li class=""><a href="track/castle/index.html">Castle</a></li>
+                    <li class=""><a href="track/skaian-happy-flight/index.html">Skaian Happy Flight</a></li>
+                    <li class=""><a href="track/voidlight/index.html">Voidlight</a></li>
+                    <li class=""><a href="track/beatdown-dx/index.html">Beatdown DX</a></li>
+                    <li class=""><a href="track/solar-voyage/index.html">Solar Voyage</a></li>
+                    <li class=""><a href="track/feel-alive/index.html">Feel (Alive)</a></li>
+                    <li class=""><a href="track/breeze/index.html">Breeze</a></li>
+                    <li class=""><a href="track/starfall/index.html">Starfall</a></li>
+                    <li class=""><a href="track/ascend/index.html">Ascend</a></li>
+                    <li class=""><a href="track/lilith-in-starlight/index.html">Lilith in Starlight</a></li>
+                    <li class=""><a href="track/thanks-for-playing/index.html">Thanks for Playing</a></li>
+                    <li class=""><a href="track/renewed-return/index.html">Renewed Return</a></li>
+                    <li class=""><a href="track/this-pumpkin/index.html">THIS Pumpkin</a></li>
+                    <li class=""><a href="track/conclude/index.html">Conclude</a></li>
+                </ol>
+            </div>
+            <div id="content">
+                <a href="album/homestuck-vol-10/beatup.jpg" id="cover-art"><img src="album/homestuck-vol-10/beatup.jpg"></a>
+                <h1>Beatup</h1>
+                <p>
+                    By <a href="artist/clark-powell/index.html">Clark Powell</a> and <a href="artist/astro-kid/index.html">Astro Kid</a>.<br>
+                    Cover art by <a href="artist/shan-murphy/index.html">Shan Murphy</a>.<br>
+                    Released 2016-06-12.
+                    
+                </p>
+                <p>Listen on <a href="https://homestuck.bandcamp.com/track/beatup-2">Bandcamp</a>.</p>
                 
-            </p>
-            <p>Listen on <a href="https://homestuck.bandcamp.com/track/beatup-2">Bandcamp</a>.</p>
-            
-            <p>Tracks that <i>Beatup</i> references:</p>
-            <ul>
-                <li>
-                    <a href="track/beatdown-strider-style/index.html" style="--fg-color: #aaccff; --bg-color: #222222; --theme: 0">Beatdown (Strider Style)</a>
-                    <span class="by">by <a href="artist/curt-blakeslee/index.html">Curt Blakeslee</a></span>
-                </li>
-            </ul>
-            <p>Tracks that reference <i>Beatup</i>:</p>
-            <dl>
-                
-                <dt>Fandom:</dt>
-                <dd><ul>
+                <p>Tracks that <i>Beatup</i> references:</p>
+                <ul>
                     <li>
-                        <a href="track/beatup-shutdown/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">Beatup (Shutdown)</a>
-                        <span class="by">by <a href="artist/astro-kid/index.html">Astro Kid</a></span>
+                        <a href="track/beatdown-strider-style/index.html" style="--fg-color: #aaccff; --bg-color: #222222; --theme: 0">Beatdown (Strider Style)</a>
+                        <span class="by">by <a href="artist/curt-blakeslee/index.html">Curt Blakeslee</a></span>
                     </li>
-                </ul></dd>
-            </dl>
-            <p>Flashes &amp; games that feature <i>Beatup</i>:</p>
-            <ul>
-                <li><a href="flash/pq-vol14/index.html" title="Page undefined" style="--fg-color: #71daff">Just Go Ahead Now</a></li>
-            </ul>
-            
-            <p>Artist commentary:</p>
-            <blockquote>
-                <p><i>Clark Powell:</i></p>
-                <p>This was the best remix I ever worked on. There was another ermix of this song that didn't make it onto the album, but you can use your imagination for that.</p>
-                <p><i>Astro Kid:</i></p>
-                <p>actually clark is wrong and u dont have to use ur imagination <a href="https://unofficialmspafans.bandcamp.com/track/beatup-shutdown">here u go</a> ... bye</p>
-                <p><i>Clark Powell:</i></p>
-                <p>step on me Riki</p>
-                <p><i>Astro Kid:</i></p>
-                <p>i step on nobody</p>
-                <p><i>Clark Powell:</i></p>
-                <p>pls make an exception for me</p>
-                <p><i>Robert J! Lake:</i></p>
-                <p>is that your actual commentary i'll literally put this all in</p>
-                <p><i>Astro Kid:</i></p>
-                <p>yes RJ literally put this in also Clark I love you but this, I cannot make an exception for. Please go step on yourself.</p>
-                <p><i>Shannon Murphy:</i></p>
-                <p>This is a Strider song and I just wanted to draw both Strider bros in action..</p>
-                <p>I felt like a lot of saturated cool colors would really match how the song felt to me as well!</p>
-            </blockquote>
+                </ul>
+                <p>Tracks that reference <i>Beatup</i>:</p>
+                <dl>
+                    
+                    <dt>Fandom:</dt>
+                    <dd><ul>
+                        <li>
+                            <a href="track/beatup-shutdown/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">Beatup (Shutdown)</a>
+                            <span class="by">by <a href="artist/astro-kid/index.html">Astro Kid</a></span>
+                        </li>
+                    </ul></dd>
+                </dl>
+                <p>Flashes &amp; games that feature <i>Beatup</i>:</p>
+                <ul>
+                    <li><a href="flash/pq-vol14/index.html" title="Page undefined" style="--fg-color: #71daff">Just Go Ahead Now</a></li>
+                </ul>
+                
+                <p>Artist commentary:</p>
+                <blockquote>
+                    <p><i>Clark Powell:</i></p>
+                    <p>This was the best remix I ever worked on. There was another ermix of this song that didn't make it onto the album, but you can use your imagination for that.</p>
+                    <p><i>Astro Kid:</i></p>
+                    <p>actually clark is wrong and u dont have to use ur imagination <a href="https://unofficialmspafans.bandcamp.com/track/beatup-shutdown">here u go</a> ... bye</p>
+                    <p><i>Clark Powell:</i></p>
+                    <p>step on me Riki</p>
+                    <p><i>Astro Kid:</i></p>
+                    <p>i step on nobody</p>
+                    <p><i>Clark Powell:</i></p>
+                    <p>pls make an exception for me</p>
+                    <p><i>Robert J! Lake:</i></p>
+                    <p>is that your actual commentary i'll literally put this all in</p>
+                    <p><i>Astro Kid:</i></p>
+                    <p>yes RJ literally put this in also Clark I love you but this, I cannot make an exception for. Please go step on yourself.</p>
+                    <p><i>Shannon Murphy:</i></p>
+                    <p>This is a Strider song and I just wanted to draw both Strider bros in action..</p>
+                    <p>I felt like a lot of saturated cool colors would really match how the song felt to me as well!</p>
+                </blockquote>
+            </div>
         </div>
     </body>
 </html>

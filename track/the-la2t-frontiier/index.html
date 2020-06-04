@@ -10,102 +10,107 @@
         <script defer src="client.js"></script>
     </head>
     <body style="--fg-color: #cc44ff; --bg-color: #222222; --theme: 0; --album-directory: alternia; --track-directory: the-la2t-frontiier">
-        <div id="sidebar">
-            <h2><a href="index.html">(Home)</a></h2>
-            <!-- <h3>Official</h3> -->
-            <hr>
-            <h1><a href="album/alternia/index.html">Alternia</a></h1>
-            <ol>
-                <li class=""><a href="track/crustacean/index.html">Crustacean</a></li>
-                <li class=""><a href="track/showdown/index.html">Showdown</a></li>
-                <li class=""><a href="track/miracles/index.html">mIrAcLeS</a></li>
-                <li class=""><a href="track/the-lemonsnout-turnabout/index.html">The Lemonsnout Turnabout</a></li>
-                <li class=""><a href="track/phaze-and-blood/index.html">Phaze and Blood</a></li>
-                <li class=""><a href="track/psych0ruins/index.html">psych0ruins</a></li>
-                <li class=""><a href="track/walls-covered-in-blood/index.html">Walls Covered in Blood</a></li>
-                <li class=""><a href="track/desperado-rocket-chairs/index.html">dESPERADO ROCKET CHAIRS,</a></li>
-                <li class=""><a href="track/death-of-the-lusii/index.html">Death of the Lusii</a></li>
-                <li class=""><a href="track/virgin-orb/index.html">Virgin Orb</a></li>
-                <li class="current"><a href="track/the-la2t-frontiier/index.html">The La2t Frontiier</a></li>
-                <li class=""><a href="track/skaian-summoning/index.html">Skaian Summoning</a></li>
-                <li class=""><a href="track/the-thirteenth-hour/index.html">The Thirteenth Hour</a></li>
-                <li class=""><a href="track/spiders-claw/index.html">Spider's Claw</a></li>
-                <li class=""><a href="track/staring/index.html">Staring</a></li>
-                <li class=""><a href="track/keepers/index.html">Keepers</a></li>
-                <li class=""><a href="track/theme/index.html">Theme</a></li>
-                <li class=""><a href="track/walls-covered-in-blood-dx/index.html">Walls Covered in Blood DX</a></li>
-            </ol>
-            <hr>
-            <p>
-                <a href="js-disabled/index.html" data-random="track-in-album">Random track</a></li>
-            </p>
-            
-                        <p>
-                            35th track by <a href="artist/toby-fox/index.html">Toby Fox</a><br>
-                            (<a href="track/virgin-orb/index.html" title="Virgin Orb">Previous</a>, <a href="track/skaian-summoning/index.html" title="Skaian Summoning">Next</a>)
-                        </p>
-                        <p>
-                            69th cover art by <a href="artist/homestuck/index.html">Homestuck</a><br>
-                            (<a href="track/virgin-orb/index.html" title="Virgin Orb">Previous</a>, <a href="track/skaian-summoning/index.html" title="Skaian Summoning">Next</a>)
-                        </p>
-        </div>
-        <div id="content">
-            <a href="album/alternia/the-la2t-frontiier.jpg" id="cover-art"><img src="album/alternia/the-la2t-frontiier.jpg"></a>
-            <h1>The La2t Frontiier</h1>
-            <p>
-                By <a href="artist/toby-fox/index.html">Toby Fox</a>.<br>
-                Cover art by <a href="artist/homestuck/index.html">Homestuck</a>.<br>
-                Released 2010-07-18.
+        <div id="header">
+            <h2>
+                <a href="index.html">Home</a>
+                / <a href="album/alternia/index.html">Alternia</a>
+                / <a href="track/the-la2t-frontiier/index.html">The La2t Frontiier</a>
+                <span>(<a href="track/virgin-orb/index.html" title="Virgin Orb">Previous</a>, <a href="track/skaian-summoning/index.html" title="Skaian Summoning">Next</a>, <a href="js-disabled/index.html" data-random="track-in-album">Random</a>)</span>
+            </h2>
+            <div>
                 
-            </p>
-            <p>Listen on <a href="https://homestuck.bandcamp.com/track/the-la2t-frontiier-2">Bandcamp</a>.</p>
-            
-            <p>Tracks that <i>The La2t Frontiier</i> references:</p>
-            <ul>
-                <li>
-                    <a href="track/sunsetter/index.html" style="--fg-color: #00aaff; --bg-color: #222222; --theme: 0">Sunsetter</a>
-                    <span class="by">by <a href="artist/toby-fox/index.html">Toby Fox</a></span>
-                </li>
-            </ul>
-            <p>Tracks that reference <i>The La2t Frontiier</i>:</p>
-            <dl>
-                <dt>Official:</dt>
-                <dd><ul>
+                                <div class="chronology">
+                                    <span class="heading">34th track by <a href="artist/toby-fox/index.html">Toby Fox</a></span>
+                                    <span class="buttons">(<a href="track/virgin-orb/index.html" title="Virgin Orb">Previous</a>, <a href="track/skaian-summoning/index.html" title="Skaian Summoning">Next</a>)</span>
+                                </div>
+                                <div class="chronology">
+                                    <span class="heading">69th cover art by <a href="artist/homestuck/index.html">Homestuck</a></span>
+                                    <span class="buttons">(<a href="track/virgin-orb/index.html" title="Virgin Orb">Previous</a>, <a href="track/skaian-summoning/index.html" title="Skaian Summoning">Next</a>)</span>
+                                </div>
+            </div>
+        </div>
+        <div class="columns">
+            <div id="sidebar">
+                <h1><a href="album/alternia/index.html">Alternia</a></h1>
+                <ol>
+                    <li class=""><a href="track/crustacean/index.html">Crustacean</a></li>
+                    <li class=""><a href="track/showdown/index.html">Showdown</a></li>
+                    <li class=""><a href="track/miracles/index.html">mIrAcLeS</a></li>
+                    <li class=""><a href="track/the-lemonsnout-turnabout/index.html">The Lemonsnout Turnabout</a></li>
+                    <li class=""><a href="track/phaze-and-blood/index.html">Phaze and Blood</a></li>
+                    <li class=""><a href="track/psych0ruins/index.html">psych0ruins</a></li>
+                    <li class=""><a href="track/walls-covered-in-blood/index.html">Walls Covered in Blood</a></li>
+                    <li class=""><a href="track/desperado-rocket-chairs/index.html">dESPERADO ROCKET CHAIRS,</a></li>
+                    <li class=""><a href="track/death-of-the-lusii/index.html">Death of the Lusii</a></li>
+                    <li class=""><a href="track/virgin-orb/index.html">Virgin Orb</a></li>
+                    <li class="current"><a href="track/the-la2t-frontiier/index.html">The La2t Frontiier</a></li>
+                    <li class=""><a href="track/skaian-summoning/index.html">Skaian Summoning</a></li>
+                    <li class=""><a href="track/the-thirteenth-hour/index.html">The Thirteenth Hour</a></li>
+                    <li class=""><a href="track/spiders-claw/index.html">Spider's Claw</a></li>
+                    <li class=""><a href="track/staring/index.html">Staring</a></li>
+                    <li class=""><a href="track/keepers/index.html">Keepers</a></li>
+                    <li class=""><a href="track/theme/index.html">Theme</a></li>
+                    <li class=""><a href="track/walls-covered-in-blood-dx/index.html">Walls Covered in Blood DX</a></li>
+                </ol>
+            </div>
+            <div id="content">
+                <a href="album/alternia/the-la2t-frontiier.jpg" id="cover-art"><img src="album/alternia/the-la2t-frontiier.jpg"></a>
+                <h1>The La2t Frontiier</h1>
+                <p>
+                    By <a href="artist/toby-fox/index.html">Toby Fox</a>.<br>
+                    Cover art by <a href="artist/homestuck/index.html">Homestuck</a>.<br>
+                    Released 2010-07-18.
+                    
+                </p>
+                <p>Listen on <a href="https://homestuck.bandcamp.com/track/the-la2t-frontiier-2">Bandcamp</a>.</p>
+                
+                <p>Tracks that <i>The La2t Frontiier</i> references:</p>
+                <ul>
                     <li>
-                        <a href="track/MeGaLoVania/index.html" style="--fg-color: #6699ff; --bg-color: #222222; --theme: 0">MeGaLoVania</a>
+                        <a href="track/sunsetter/index.html" style="--fg-color: #00aaff; --bg-color: #222222; --theme: 0">Sunsetter</a>
                         <span class="by">by <a href="artist/toby-fox/index.html">Toby Fox</a></span>
                     </li>
-                    <li>
-                        <a href="track/rex-duodecim-angelus/index.html" style="--fg-color: #00a4a4; --bg-color: #222222; --theme: 0">Rex Duodecim Angelus</a>
-                        <span class="by">by <a href="artist/malcolm-brown/index.html">Malcolm Brown</a></span>
-                    </li>
-                    <li>
-                        <a href="track/the-blind-prophet/index.html" style="--fg-color: #00a4a4; --bg-color: #222222; --theme: 0">The Blind Prophet</a>
-                        <span class="by">by <a href="artist/toby-fox/index.html">Toby Fox</a></span>
-                    </li>
-                </ul></dd>
-                <dt>Fandom:</dt>
-                <dd><ul>
-                    <li>
-                        <a href="track/g4m38l0rg/index.html" style="--fg-color: #ff7bf7; --bg-color: #222222; --theme: 0">G4M38L0RG</a>
-                        <span class="by">by <a href="artist/toby-fox/index.html">Toby Fox</a></span>
-                    </li>
-                    <li>
-                        <a href="track/megadancevania/index.html" style="--fg-color: #4876ff; --bg-color: #222222; --theme: 0">MeGaDanceVaNia</a>
-                        <span class="by">by <a href="artist/yishan-mai/index.html">Yishan Mai</a></span>
-                    </li>
-                    <li>
-                        <a href="track/the-gemoni-mustard-blood/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">The Gemoni Mustard Blood</a>
-                        <span class="by">by <a href="artist/cookiefonster/index.html">cookiefonster</a></span>
-                    </li>
-                </ul></dd>
-            </dl>
-            <p>Flashes &amp; games that feature <i>The La2t Frontiier</i>:</p>
-            <ul>
-                <li><a href="flash/pq-vol10/index.html" title="Page undefined" style="--fg-color: #71daff">Wow Pesterquest Your Mom Lets You Have Two Fish ?</a></li>
-            </ul>
-            
-            
+                </ul>
+                <p>Tracks that reference <i>The La2t Frontiier</i>:</p>
+                <dl>
+                    <dt>Official:</dt>
+                    <dd><ul>
+                        <li>
+                            <a href="track/MeGaLoVania/index.html" style="--fg-color: #6699ff; --bg-color: #222222; --theme: 0">MeGaLoVania</a>
+                            <span class="by">by <a href="artist/toby-fox/index.html">Toby Fox</a></span>
+                        </li>
+                        <li>
+                            <a href="track/rex-duodecim-angelus/index.html" style="--fg-color: #00a4a4; --bg-color: #222222; --theme: 0">Rex Duodecim Angelus</a>
+                            <span class="by">by <a href="artist/malcolm-brown/index.html">Malcolm Brown</a></span>
+                        </li>
+                        <li>
+                            <a href="track/the-blind-prophet/index.html" style="--fg-color: #00a4a4; --bg-color: #222222; --theme: 0">The Blind Prophet</a>
+                            <span class="by">by <a href="artist/toby-fox/index.html">Toby Fox</a></span>
+                        </li>
+                    </ul></dd>
+                    <dt>Fandom:</dt>
+                    <dd><ul>
+                        <li>
+                            <a href="track/g4m38l0rg/index.html" style="--fg-color: #ff7bf7; --bg-color: #222222; --theme: 0">G4M38L0RG</a>
+                            <span class="by">by <a href="artist/toby-fox/index.html">Toby Fox</a></span>
+                        </li>
+                        <li>
+                            <a href="track/megadancevania/index.html" style="--fg-color: #4876ff; --bg-color: #222222; --theme: 0">MeGaDanceVaNia</a>
+                            <span class="by">by <a href="artist/yishan-mai/index.html">Yishan Mai</a></span>
+                        </li>
+                        <li>
+                            <a href="track/the-gemoni-mustard-blood/index.html" style="--fg-color: #aed6f0; --bg-color: #222222; --theme: 0">The Gemoni Mustard Blood</a>
+                            <span class="by">by <a href="artist/cookiefonster/index.html">cookiefonster</a></span>
+                        </li>
+                    </ul></dd>
+                </dl>
+                <p>Flashes &amp; games that feature <i>The La2t Frontiier</i>:</p>
+                <ul>
+                    <li><a href="flash/pq-vol10/index.html" title="Page undefined" style="--fg-color: #71daff">Wow Pesterquest Your Mom Lets You Have Two Fish ?</a></li>
+                </ul>
+                
+                
+            </div>
         </div>
     </body>
 </html>

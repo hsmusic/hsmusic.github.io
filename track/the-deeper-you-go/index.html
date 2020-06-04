@@ -10,62 +10,67 @@
         <script defer src="client.js"></script>
     </head>
     <body style="--fg-color: #eecc22; --bg-color: #222222; --theme: 0; --album-directory: mobius-trip-and-hadron-kaleido; --track-directory: the-deeper-you-go">
-        <div id="sidebar">
-            <h2><a href="index.html">(Home)</a></h2>
-            <!-- <h3>Official</h3> -->
-            <hr>
-            <h1><a href="album/mobius-trip-and-hadron-kaleido/index.html">Mobius Trip and Hadron Kaleido</a></h1>
-            <ol>
-                <li class=""><a href="track/forever/index.html">Forever</a></li>
-                <li class=""><a href="track/dawn-of-man/index.html">Dawn of Man</a></li>
-                <li class=""><a href="track/beta-version/index.html">Beta Version</a></li>
-                <li class=""><a href="track/no-release/index.html">No Release</a></li>
-                <li class=""><a href="track/fly/index.html">Fly</a></li>
-                <li class=""><a href="track/lies-with-the-sea/index.html">Lies With The Sea</a></li>
-                <li class=""><a href="track/chain-of-prospit/index.html">Chain Of Prospit</a></li>
-                <li class=""><a href="track/pumpkin-tide/index.html">Pumpkin Tide</a></li>
-                <li class="current"><a href="track/the-deeper-you-go/index.html">The Deeper You Go</a></li>
-            </ol>
-            <hr>
-            <p>
-                <a href="js-disabled/index.html" data-random="track-in-album">Random track</a></li>
-            </p>
-            
-                        <p>
-                            28th track by <a href="artist/michael-guy-bowman/index.html">Michael Guy Bowman</a><br>
-                            (<a href="track/pumpkin-tide/index.html" title="Pumpkin Tide">Previous</a>, <a href="track/warhammer-of-zillyhoo/index.html" title="Warhammer of Zillyhoo">Next</a>)
-                        </p>
-                        <p>
-                            10th cover art by <a href="artist/tavia-morra/index.html">Tavia Morra</a><br>
-                            (<a href="track/pumpkin-tide/index.html" title="Pumpkin Tide">Previous</a>, <a href="track/calamity/index.html" title="Calamity">Next</a>)
-                        </p>
-                        <p>
-                            10th cover art by <a href="artist/richard-gung/index.html">Richard Gung</a><br>
-                            (<a href="track/pumpkin-tide/index.html" title="Pumpkin Tide">Previous</a>, <a href="track/do-you-remem8er-me/index.html" title="Do You Remem8er Me">Next</a>)
-                        </p>
-        </div>
-        <div id="content">
-            <a href="album/mobius-trip-and-hadron-kaleido/the-deeper-you-go.jpg" id="cover-art"><img src="album/mobius-trip-and-hadron-kaleido/the-deeper-you-go.jpg"></a>
-            <h1>The Deeper You Go</h1>
-            <p>
-                By <a href="artist/michael-guy-bowman/index.html">Michael Guy Bowman</a>.<br>
-                Cover art by <a href="artist/tavia-morra/index.html">Tavia Morra</a> and <a href="artist/richard-gung/index.html">Richard Gung</a>.<br>
-                Released 2011-05-31.
+        <div id="header">
+            <h2>
+                <a href="index.html">Home</a>
+                / <a href="album/mobius-trip-and-hadron-kaleido/index.html">Mobius Trip and Hadron Kaleido</a>
+                / <a href="track/the-deeper-you-go/index.html">The Deeper You Go</a>
+                <span>(<a href="track/pumpkin-tide/index.html" title="Pumpkin Tide">Previous</a>, <a href="js-disabled/index.html" data-random="track-in-album">Random</a>)</span>
+            </h2>
+            <div>
                 
-            </p>
-            <p>Listen on <a href="https://bowman.bandcamp.com/track/the-deeper-you-go">Bandcamp</a>.</p>
-            
-            <p>Tracks that <i>The Deeper You Go</i> references:</p>
-            <ul>
-                <li>
-                    <a href="track/sburban-jungle/index.html" style="--fg-color: #aaccff; --bg-color: #222222; --theme: 0">Sburban Jungle</a>
-                    <span class="by">by <a href="artist/michael-guy-bowman/index.html">Michael Guy Bowman</a></span>
-                </li>
-            </ul>
-            
-            
-            
-            
+                                <div class="chronology">
+                                    <span class="heading">27th track by <a href="artist/michael-guy-bowman/index.html">Michael Guy Bowman</a></span>
+                                    <span class="buttons">(<a href="track/pumpkin-tide/index.html" title="Pumpkin Tide">Previous</a>, <a href="track/warhammer-of-zillyhoo/index.html" title="Warhammer of Zillyhoo">Next</a>)</span>
+                                </div>
+                                <div class="chronology">
+                                    <span class="heading">10th cover art by <a href="artist/tavia-morra/index.html">Tavia Morra</a></span>
+                                    <span class="buttons">(<a href="track/pumpkin-tide/index.html" title="Pumpkin Tide">Previous</a>, <a href="track/calamity/index.html" title="Calamity">Next</a>)</span>
+                                </div>
+                                <div class="chronology">
+                                    <span class="heading">10th cover art by <a href="artist/richard-gung/index.html">Richard Gung</a></span>
+                                    <span class="buttons">(<a href="track/pumpkin-tide/index.html" title="Pumpkin Tide">Previous</a>, <a href="track/do-you-remem8er-me/index.html" title="Do You Remem8er Me">Next</a>)</span>
+                                </div>
+            </div>
+        </div>
+        <div class="columns">
+            <div id="sidebar">
+                <h1><a href="album/mobius-trip-and-hadron-kaleido/index.html">Mobius Trip and Hadron Kaleido</a></h1>
+                <ol>
+                    <li class=""><a href="track/forever/index.html">Forever</a></li>
+                    <li class=""><a href="track/dawn-of-man/index.html">Dawn of Man</a></li>
+                    <li class=""><a href="track/beta-version/index.html">Beta Version</a></li>
+                    <li class=""><a href="track/no-release/index.html">No Release</a></li>
+                    <li class=""><a href="track/fly/index.html">Fly</a></li>
+                    <li class=""><a href="track/lies-with-the-sea/index.html">Lies With The Sea</a></li>
+                    <li class=""><a href="track/chain-of-prospit/index.html">Chain Of Prospit</a></li>
+                    <li class=""><a href="track/pumpkin-tide/index.html">Pumpkin Tide</a></li>
+                    <li class="current"><a href="track/the-deeper-you-go/index.html">The Deeper You Go</a></li>
+                </ol>
+            </div>
+            <div id="content">
+                <a href="album/mobius-trip-and-hadron-kaleido/the-deeper-you-go.jpg" id="cover-art"><img src="album/mobius-trip-and-hadron-kaleido/the-deeper-you-go.jpg"></a>
+                <h1>The Deeper You Go</h1>
+                <p>
+                    By <a href="artist/michael-guy-bowman/index.html">Michael Guy Bowman</a>.<br>
+                    Cover art by <a href="artist/tavia-morra/index.html">Tavia Morra</a> and <a href="artist/richard-gung/index.html">Richard Gung</a>.<br>
+                    Released 2011-05-31.
+                    
+                </p>
+                <p>Listen on <a href="https://bowman.bandcamp.com/track/the-deeper-you-go">Bandcamp</a>.</p>
+                
+                <p>Tracks that <i>The Deeper You Go</i> references:</p>
+                <ul>
+                    <li>
+                        <a href="track/sburban-jungle/index.html" style="--fg-color: #aaccff; --bg-color: #222222; --theme: 0">Sburban Jungle</a>
+                        <span class="by">by <a href="artist/michael-guy-bowman/index.html">Michael Guy Bowman</a></span>
+                    </li>
+                </ul>
+                
+                
+                
+                
+            </div>
         </div>
     </body>
 </html>
