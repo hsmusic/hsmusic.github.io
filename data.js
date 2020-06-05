@@ -26526,7 +26526,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "disc1-ancestral",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/disc-one"
+     "https://unofficialmspafans.bandcamp.com/track/disc-one",
+     "https://youtu.be/ZUckuE8Kzt8?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -26551,7 +26552,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "reality-theatre",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/reality-theatre"
+     "https://unofficialmspafans.bandcamp.com/track/reality-theatre",
+     "https://youtu.be/wfJJW5x1zo0?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -26576,7 +26578,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "w1th-w1ngs",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/w1th-w1ngs"
+     "https://unofficialmspafans.bandcamp.com/track/w1th-w1ngs",
+     "https://youtu.be/xmTBPsfjtY8?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -26601,7 +26604,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "propulsion",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/propulsion"
+     "https://unofficialmspafans.bandcamp.com/track/propulsion",
+     "https://youtu.be/QHlaCcFXXwY?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -26628,7 +26632,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "a-peace-worth-fighting-for",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/a-peace-worth-fighting-for"
+     "https://unofficialmspafans.bandcamp.com/track/a-peace-worth-fighting-for",
+     "https://youtu.be/sFhScGwOe00?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -26653,7 +26658,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "on-the-hunt-for-something-unknown",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/on-the-hunt-for-something-unknown"
+     "https://unofficialmspafans.bandcamp.com/track/on-the-hunt-for-something-unknown",
+     "https://youtu.be/rNxOZggKOIM?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -26680,7 +26686,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "theotokos",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/theotokos"
+     "https://unofficialmspafans.bandcamp.com/track/theotokos",
+     "https://youtu.be/4X00kfRnmcc?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -26705,7 +26712,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "h3r-honor4bl3-v3ng34nc3",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/h3r-honor4bl3-v3ng34nc3"
+     "https://unofficialmspafans.bandcamp.com/track/h3r-honor4bl3-v3ng34nc3",
+     "https://youtu.be/IusAe6XHzws?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -26738,7 +26746,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "spiders-eclipse",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/spiders-eclipse"
+     "https://unofficialmspafans.bandcamp.com/track/spiders-eclipse",
+     "https://youtu.be/LtLE_T53p_A?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -26763,7 +26772,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "broken-strings",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/broken-strings"
+     "https://unofficialmspafans.bandcamp.com/track/broken-strings",
+     "https://youtu.be/oje4ziyMcy0?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -26788,7 +26798,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "his-demented-mural",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/his-demented-mural"
+     "https://unofficialmspafans.bandcamp.com/track/his-demented-mural",
+     "https://youtu.be/8oNF8p_6Q84?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -26813,7 +26824,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "tumescent",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/tumescent"
+     "https://unofficialmspafans.bandcamp.com/track/tumescent",
+     "https://youtu.be/5VKSoP22sIg?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -26838,7 +26850,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "greatest-empress",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/greatest-empress"
+     "https://unofficialmspafans.bandcamp.com/track/greatest-empress",
+     "https://youtu.be/Y_pWa2CA2x0?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -26863,7 +26876,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "disc2-ancestral",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/disc-two"
+     "https://unofficialmspafans.bandcamp.com/track/disc-two",
+     "https://youtu.be/fad2nOKc-Js?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -26911,7 +26925,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "ancestral-anthem",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/ancestral-anthem"
+     "https://unofficialmspafans.bandcamp.com/track/ancestral-anthem",
+     "https://youtu.be/t3GvIlY-Krw?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -26936,7 +26951,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "batterwitch-ascendant",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/batterwitc-asc-endant"
+     "https://unofficialmspafans.bandcamp.com/track/batterwitc-asc-endant",
+     "https://youtu.be/D8Fxv8MBdU4?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -26961,7 +26977,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "rampage",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/rampage"
+     "https://unofficialmspafans.bandcamp.com/track/rampage",
+     "https://youtu.be/z7y8pJdo5bk?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -26988,7 +27005,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "orphaners-ocean",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/orphaners-ocean"
+     "https://unofficialmspafans.bandcamp.com/track/orphaners-ocean",
+     "https://youtu.be/vSluYX6xYl0?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27013,7 +27031,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "cerulean-seas-misery-machine",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/cerulean-seas-misery-machine"
+     "https://unofficialmspafans.bandcamp.com/track/cerulean-seas-misery-machine",
+     "https://youtu.be/A2U3gFZr748?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27038,7 +27057,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "nothing-will-ever-be-the-same",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/nothing-will-ever-be-the-same"
+     "https://unofficialmspafans.bandcamp.com/track/nothing-will-ever-be-the-same",
+     "https://youtu.be/eZV2dexbkC0?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27063,7 +27083,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "protector",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/protector"
+     "https://unofficialmspafans.bandcamp.com/track/protector",
+     "https://youtu.be/PdWbdxzO6ig?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27088,7 +27109,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "in-the-forest",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/in-the-forest"
+     "https://unofficialmspafans.bandcamp.com/track/in-the-forest",
+     "https://youtu.be/63IDW0iDdbQ?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27115,7 +27137,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "prii2m-break",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/prii2m-break"
+     "https://unofficialmspafans.bandcamp.com/track/prii2m-break",
+     "https://youtu.be/1A3-rn4FTys?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27140,7 +27163,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "the-disciples-new-beginning",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/the-disciples-new-beginning"
+     "https://unofficialmspafans.bandcamp.com/track/the-disciples-new-beginning",
+     "https://youtu.be/_GYKJe_l5vI?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27171,7 +27195,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "c9me-t9gether",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/c9me-t9gether"
+     "https://unofficialmspafans.bandcamp.com/track/c9me-t9gether",
+     "https://youtu.be/qsPG2Kwp-zw?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27196,7 +27221,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "sufferers-suite",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/sufferers-suite"
+     "https://unofficialmspafans.bandcamp.com/track/sufferers-suite",
+     "https://youtu.be/elQOhIKHWVw?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27230,7 +27256,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "black-heart-green-dress",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/black-heart-green-dress"
+     "https://unofficialmspafans.bandcamp.com/track/black-heart-green-dress",
+     "https://youtu.be/0A9JljvOJEI?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27255,7 +27282,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "expatri8s-march",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/expatri8s-march"
+     "https://unofficialmspafans.bandcamp.com/track/expatri8s-march",
+     "https://youtu.be/Kj8v_FnFOl4?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27280,7 +27308,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "release-me",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/release-me"
+     "https://unofficialmspafans.bandcamp.com/track/release-me",
+     "https://youtu.be/O6VS7yWl1C4?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27307,7 +27336,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "exile",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/e-ile"
+     "https://unofficialmspafans.bandcamp.com/track/e-ile",
+     "https://youtu.be/r_wqTbLDEAE?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27332,7 +27362,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "legacy",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/legacy"
+     "https://unofficialmspafans.bandcamp.com/track/legacy",
+     "https://youtu.be/e-A2mSbNl9o?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27359,7 +27390,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "terminal-aeon",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/terminal-aeon"
+     "https://unofficialmspafans.bandcamp.com/track/terminal-aeon",
+     "https://youtu.be/7ceSHgCuJHk?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27387,7 +27419,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "vwigor8us",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/vwigor8us"
+     "https://unofficialmspafans.bandcamp.com/track/vwigor8us",
+     "https://youtu.be/6S7k6zZcjls?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27412,7 +27445,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "lady-of-sorrows",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/lady-of-sorrows"
+     "https://unofficialmspafans.bandcamp.com/track/lady-of-sorrows",
+     "https://youtu.be/UeUGGehexC0?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27437,7 +27471,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "dualscars-lament",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/dualscars-lament"
+     "https://unofficialmspafans.bandcamp.com/track/dualscars-lament",
+     "https://youtu.be/YmOr_qLr_hQ?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27466,7 +27501,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "court-of-miracles",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/court-of-miracles"
+     "https://unofficialmspafans.bandcamp.com/track/court-of-miracles",
+     "https://youtu.be/tx5xxC2y4xk?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27493,7 +27529,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "violet-means-to-a-violent-end",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/violet-means-to-a-violent-end"
+     "https://unofficialmspafans.bandcamp.com/track/violet-means-to-a-violent-end",
+     "https://youtu.be/OgQ2ywrV5c4?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27518,7 +27555,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "paint-the-walls",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/paint-the-walls"
+     "https://unofficialmspafans.bandcamp.com/track/paint-the-walls",
+     "https://youtu.be/8AH5dxKeTvk?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27543,7 +27581,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "the-pursuit-of-justice",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/the-pursuit-of-justice"
+     "https://unofficialmspafans.bandcamp.com/track/the-pursuit-of-justice",
+     "https://youtu.be/45EtHqNfhBQ?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27568,7 +27607,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "the-confront8ion",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/the-confront8ion"
+     "https://unofficialmspafans.bandcamp.com/track/the-confront8ion",
+     "https://youtu.be/r6VjBsFuqzA?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27596,7 +27636,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "just1c3-r41ns-from-4bov3",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/just1c3-r41ns-from-4bov3"
+     "https://unofficialmspafans.bandcamp.com/track/just1c3-r41ns-from-4bov3",
+     "https://youtu.be/jMkLXQf-Vvo?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27623,7 +27664,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "the-demise-of-neophyte-redglare-at-the-hands-of-the-unruly-mob",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/the-demise-of-neophyte-redglare-at-the-hands-of-the-unruly-mob"
+     "https://unofficialmspafans.bandcamp.com/track/the-demise-of-neophyte-redglare-at-the-hands-of-the-unruly-mob",
+     "https://youtu.be/6R1O1zfaKfU?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27648,7 +27690,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "the-mechanism",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/the-mechanism"
+     "https://unofficialmspafans.bandcamp.com/track/the-mechanism",
+     "https://youtu.be/7eX_Q4cmAow?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27673,7 +27716,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "summon-the-cavalreapers",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/summon-the-cavalreapers"
+     "https://unofficialmspafans.bandcamp.com/track/summon-the-cavalreapers",
+     "https://youtu.be/b9wOdfuPo_8?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27698,7 +27742,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "last-lovers",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/last-lovers"
+     "https://unofficialmspafans.bandcamp.com/track/last-lovers",
+     "https://youtu.be/YTY-YLx8SH8?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27723,7 +27768,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "pyrrhic-rust",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/pyrrhic-rust"
+     "https://unofficialmspafans.bandcamp.com/track/pyrrhic-rust",
+     "https://youtu.be/J_WjzbKvcAE?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27748,7 +27794,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "mutiny",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/mutiny"
+     "https://unofficialmspafans.bandcamp.com/track/mutiny",
+     "https://youtu.be/N5cgR8KXbZA?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27773,7 +27820,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "black-flag-stained-8lue",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/black-flag-stained-8lue"
+     "https://unofficialmspafans.bandcamp.com/track/black-flag-stained-8lue",
+     "https://youtu.be/Fe7rCwyB04E?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27798,7 +27846,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "a-rebels-requiem",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/a-rebels-requiem"
+     "https://unofficialmspafans.bandcamp.com/track/a-rebels-requiem",
+     "https://youtu.be/cgwBrV0AzSQ?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27823,7 +27872,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "in-condescent-darkness",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/in-condescent-darkness"
+     "https://unofficialmspafans.bandcamp.com/track/in-condescent-darkness",
+     "https://youtu.be/S8Xi-oe3R0A?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27848,7 +27898,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "die-for-me",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/die-for-me"
+     "https://unofficialmspafans.bandcamp.com/track/die-for-me",
+     "https://youtu.be/hPkPJx7Jnno?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27877,7 +27928,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "the-doom-of-the-planets",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/the-doom-of-the-planets"
+     "https://unofficialmspafans.bandcamp.com/track/the-doom-of-the-planets",
+     "https://youtu.be/SkLVln1KnRc?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27902,7 +27954,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "rusted-wench",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/rusted-wench"
+     "https://unofficialmspafans.bandcamp.com/track/rusted-wench",
+     "https://youtu.be/uXJjB9JkQ1Y?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27929,7 +27982,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "handmaidens-flight",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/handmaidens-f-l-ight"
+     "https://unofficialmspafans.bandcamp.com/track/handmaidens-f-l-ight",
+     "https://youtu.be/dYSvDkTSrRk?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27958,7 +28012,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "of-rust-and-royalty",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/of-rust-and-royalty"
+     "https://unofficialmspafans.bandcamp.com/track/of-rust-and-royalty",
+     "https://youtu.be/wZMCe6jy7xs?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -27983,7 +28038,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "the-handmaids-lament",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/the-handmaids-lament"
+     "https://unofficialmspafans.bandcamp.com/track/the-handmaids-lament",
+     "https://youtu.be/9-6r_T_3poQ?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -28008,7 +28064,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "her-imperial-ascension",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/her-imperial-ascension"
+     "https://unofficialmspafans.bandcamp.com/track/her-imperial-ascension",
+     "https://youtu.be/rRLr17RZmYg?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -28038,7 +28095,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "crockercorpse",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/crockercorpse"
+     "https://unofficialmspafans.bandcamp.com/track/crockercorpse",
+     "https://youtu.be/VU-vPcs2HY0?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -28063,7 +28121,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "disc3-ancestral",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/disc-three"
+     "https://unofficialmspafans.bandcamp.com/track/disc-three",
+     "https://youtu.be/hiu2h-gCLkA?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -28088,7 +28147,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "the-mother-a-child",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/the-mother-a-child"
+     "https://unofficialmspafans.bandcamp.com/track/the-mother-a-child",
+     "https://youtu.be/NNlqFwRmMRo?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -28113,7 +28173,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "space-serenade-a-lullaby-for-a-restless-sleeper",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/space-serenade-a-lullaby-for-a-restless-sleeper"
+     "https://unofficialmspafans.bandcamp.com/track/space-serenade-a-lullaby-for-a-restless-sleeper",
+     "https://youtu.be/WzbUdnxSZvk?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -28138,7 +28199,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "sweet-baby-tr9ll-jegus",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/sweet-baby-tr9ll-jegus"
+     "https://unofficialmspafans.bandcamp.com/track/sweet-baby-tr9ll-jegus",
+     "https://youtu.be/NlX7MkeuJUE?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -28163,7 +28225,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "tomorrow-therell-be-more-of-us",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/tomorrow-therell-be-more-of-us"
+     "https://unofficialmspafans.bandcamp.com/track/tomorrow-therell-be-more-of-us",
+     "https://youtu.be/sCRu0qZOiMA?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -28190,7 +28253,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "signless-protection-squad",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/signless-protection-squad"
+     "https://unofficialmspafans.bandcamp.com/track/signless-protection-squad",
+     "https://youtu.be/JRvsco-mVB8?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -28215,7 +28279,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "purple-and-purple",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/purple-and-purple"
+     "https://unofficialmspafans.bandcamp.com/track/purple-and-purple",
+     "https://youtu.be/GPjMY-lZgP0?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -28240,7 +28305,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "sandswept-schismatic",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/sandswept-schismatic"
+     "https://unofficialmspafans.bandcamp.com/track/sandswept-schismatic",
+     "https://youtu.be/BOf4YnCcm9k?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -28265,7 +28331,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "lazutrix",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/lazutrix"
+     "https://unofficialmspafans.bandcamp.com/track/lazutrix",
+     "https://youtu.be/tIxmOUQnz08?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -28294,7 +28361,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "leftovers",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/leftovers"
+     "https://unofficialmspafans.bandcamp.com/track/leftovers",
+     "https://youtu.be/fQsujVTQ3e8?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -28319,7 +28387,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "cardinal-fyre",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/cardinal-fyre"
+     "https://unofficialmspafans.bandcamp.com/track/cardinal-fyre",
+     "https://youtu.be/yZHBHz5n88A?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -28344,7 +28413,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "preach",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/preach"
+     "https://unofficialmspafans.bandcamp.com/track/preach",
+     "https://youtu.be/78VVxNx51Xg?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -28369,7 +28439,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "swan-song",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/swan-song"
+     "https://unofficialmspafans.bandcamp.com/track/swan-song",
+     "https://youtu.be/MGOoXJMvZNU?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -28396,7 +28467,8 @@ window.albumData = [
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "the-doom-of-the-planets-reprise",
     "urls": [
-     "https://unofficialmspafans.bandcamp.com/track/the-doom-of-the-planets-reprise"
+     "https://unofficialmspafans.bandcamp.com/track/the-doom-of-the-planets-reprise",
+     "https://youtu.be/WG81465YQf4?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
     ],
     "isCanon": false,
     "isBeyond": false,
