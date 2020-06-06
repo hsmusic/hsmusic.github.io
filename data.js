@@ -389,6 +389,24 @@ window.albumData = [
     "isFanon": true
    },
    {
+    "name": "Guardian",
+    "artists": [
+     "Bill Bolin"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "guardian",
+    "urls": false,
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
     "name": "Ham And Steak",
     "artists": [
      "Malcolm Brown"
@@ -543,6 +561,31 @@ window.albumData = [
     "isFanon": true
    },
    {
+    "name": "How Do I Live",
+    "artists": [
+     "Diane Warren"
+    ],
+    "coverArtists": null,
+    "contributors": [
+     {
+      "who": "Trisha Yearwood",
+      "what": "performance in Con Air"
+     }
+    ],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "how-do-i-live",
+    "urls": [
+     "https://www.youtube.com/watch?v=Sjx-T7_CGQA"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
     "name": "I'm a Member of the Midnight Crew",
     "artists": [
      "Eddie Morton"
@@ -663,6 +706,42 @@ window.albumData = [
     "isFanon": true
    },
    {
+    "name": "Mutiny",
+    "artists": [
+     "Bill Bolin"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "mutiny",
+    "urls": false,
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Non Compos Mentis",
+    "artists": [
+     "Bill Bolin"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "non-compos-mentis",
+    "urls": false,
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
     "name": "not a creature was stirring",
     "artists": [
      "Alexander Rosetti"
@@ -719,6 +798,26 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=RIq4GrMv96I",
      "https://www.youtube.com/watch?v=OdntMzdkFnk"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Problem Sleuth Theme",
+    "artists": [
+     "Mark Hadley"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "problem-sleuth-theme",
+    "urls": [
+     "https://www.youtube.com/watch?v=DAj-vYcKNYY"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -794,6 +893,26 @@ window.albumData = [
     "isFanon": true
    },
    {
+    "name": "Ruins",
+    "artists": [
+     "Erik Scheele"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "ruins",
+    "urls": [
+     "https://youtu.be/gbiS4WkCOVo?t=4987"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
     "name": "Secret ROM",
     "artists": [
      "Toby Fox"
@@ -849,6 +968,26 @@ window.albumData = [
     "urls": [
      "https://archive.homestuck.net/wl/?id=bBs1qkrvHtZIpfhl7XCLoBX7o41d3nEE&path=Homestuck%20Sound%20Test%2F~Disc%203~%20Unreleased%20Homestuck%20Music%20Team%20Music%2F059%20Skaian%20Shuffle.mp3&mode=default"
     ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Strider Showdown",
+    "artists": [
+     "Bill Bolin"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Beatdown (Strider Style)"
+    ],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "strider-showdown",
+    "urls": false,
     "isCanon": false,
     "isBeyond": false,
     "isOfficial": false,
@@ -2739,7 +2878,9 @@ window.albumData = [
      }
     ],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "How Do I Live"
+    ],
     "date": "2010-06-13T03:00:00.000Z",
     "artDate": "2017-04-13T03:00:00.000Z",
     "directory": "how-do-i-live-bunny-back-in-the-box-version",
@@ -2871,7 +3012,7 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Ruins (by Erik Scheele)",
+     "Ruins",
      "Sburban Jungle"
     ],
     "date": "2010-06-13T03:00:00.000Z",
@@ -7642,7 +7783,7 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Ruins (With Strings)"
+     "Ruins"
     ],
     "date": "2011-05-31T03:00:05.000Z",
     "artDate": "2011-05-31T03:00:05.000Z",
@@ -8582,7 +8723,7 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Ruins (With Strings)"
+     "Ruins"
     ],
     "date": "2011-07-14T03:00:00.000Z",
     "artDate": "2011-07-14T03:00:00.000Z",
@@ -10008,7 +10149,7 @@ window.albumData = [
      "Hearts Flush",
      "Crystalanthemums",
      "Homestuck Anthem",
-     "Ruins (With Strings)",
+     "Ruins",
      "Liquid Negrocity"
     ],
     "date": "2011-07-30T03:00:00.000Z",
@@ -11655,7 +11796,7 @@ window.albumData = [
      "Lifdoff",
      "Showtime (Original Mix)",
      "Death of the Lusii",
-     "Ruins (With Strings)"
+     "Ruins"
     ],
     "date": "2011-10-25T03:00:00.000Z",
     "artDate": "2011-10-25T03:00:00.000Z",
@@ -12519,7 +12660,7 @@ window.albumData = [
     ],
     "lyrics": null,
     "references": [
-     "Ruins (With Strings)"
+     "Ruins"
     ],
     "date": "2011-10-25T03:00:00.000Z",
     "artDate": "2011-10-25T03:00:00.000Z",
@@ -16094,7 +16235,7 @@ window.albumData = [
     "lyrics": null,
     "references": [
      "Serenade",
-     "Ruins (With Strings)"
+     "Ruins"
     ],
     "date": "2012-08-01T03:00:00.000Z",
     "artDate": "2012-08-01T03:00:00.000Z",
@@ -16404,7 +16545,7 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Ruins (With Strings)",
+     "Ruins",
      "Walk-Stab-Walk (R&E)",
      "Crystalanthemums"
     ],
@@ -18925,7 +19066,7 @@ window.albumData = [
     "references": [
      "Endless Expanse",
      "Carapacian Dominion",
-     "Ruins (With Strings)",
+     "Ruins",
      "Growing Up",
      "Gilded Sands",
      "Nightmare"
@@ -19440,7 +19581,7 @@ window.albumData = [
      "Courser",
      "Earthsea Borealis",
      "Upward Movement (Dave Owns)",
-     "Ruins (With Strings)",
+     "Ruins",
      "Dawn of Man",
      "the rose rap (by Toby Fox)",
      "Cascade"
@@ -19695,7 +19836,7 @@ window.albumData = [
      "Gaia Queen",
      "Endless Climb",
      "Olive Rogue",
-     "Ruins (With Strings)",
+     "Ruins",
      "Lotus",
      "BL1ND JUST1C3 : 1NV3ST1G4T1ON !!",
      "Chorale for Jaspers",
@@ -21087,7 +21228,7 @@ window.albumData = [
      "Revelawesome",
      "Black Rose / Green Sun",
      "Endless Climb",
-     "Ruins (With Strings)",
+     "Ruins",
      "Penumbra Phantasm",
      "Doctor"
     ],
@@ -22040,7 +22181,7 @@ window.albumData = [
      "Dawn of Man",
      "Cascade (Beta)",
      "Liquid Negrocity",
-     "Ruins (With Strings)",
+     "Ruins",
      "Black Rose / Green Sun"
     ],
     "date": "2013-12-15T04:00:00.000Z",
@@ -22219,7 +22360,7 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Ruins (With Strings)"
+     "Ruins"
     ],
     "date": "2013-12-15T04:00:00.000Z",
     "artDate": "2013-12-15T04:00:00.000Z",
@@ -23935,7 +24076,7 @@ window.albumData = [
     "lyrics": null,
     "references": [
      "Explore",
-     "Ruins (With Strings)"
+     "Ruins"
     ],
     "date": "2016-04-12T03:00:00.000Z",
     "artDate": "2016-04-12T03:00:00.000Z",
@@ -25242,7 +25383,10 @@ window.albumData = [
   "name": "Act 7",
   "date": "2016-04-13T03:00:00.000Z",
   "artDate": "2016-04-13T03:00:00.000Z",
-  "artists": null,
+  "artists": [
+   "Clark Powell",
+   "Toby Fox"
+  ],
   "coverArtists": [
    {
     "who": "Homestuck",
@@ -25276,12 +25420,7 @@ window.albumData = [
       "what": null
      }
     ],
-    "contributors": [
-     {
-      "who": "Toby Fox",
-      "what": "additional work"
-     }
-    ],
+    "contributors": [],
     "lyrics": null,
     "references": [
      "I - Overture",
@@ -25293,7 +25432,8 @@ window.albumData = [
     "artDate": "2016-04-13T03:00:00.000Z",
     "directory": "overture-canon-edit",
     "urls": [
-     "https://homestuck.bandcamp.com/track/overture-canon-edit-2"
+     "https://homestuck.bandcamp.com/track/overture-canon-edit-2",
+     "https://www.youtube.com/watch?v=FPsMeamXcE8"
     ],
     "isCanon": true,
     "isBeyond": false,
@@ -25833,7 +25973,7 @@ window.albumData = [
     ],
     "lyrics": null,
     "references": [
-     "Ruins (With Strings)",
+     "Ruins",
      "Flare",
      "Explore"
     ],
@@ -27330,7 +27470,7 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Ruins (With Strings)"
+     "Ruins"
     ],
     "date": "2017-08-27T03:00:00.000Z",
     "artDate": "2017-08-27T03:00:00.000Z",
@@ -27792,7 +27932,7 @@ window.albumData = [
     "references": [],
     "date": "2017-08-27T03:00:00.000Z",
     "artDate": "2017-08-27T03:00:00.000Z",
-    "directory": "mutiny",
+    "directory": "mutiny-ancestral",
     "urls": [
      "https://unofficialmspafans.bandcamp.com/track/mutiny",
      "https://youtu.be/N5cgR8KXbZA?list=PL1fTYKSo2grBk7cJ3aIoYT2tc8eikCUKV"
@@ -30199,7 +30339,7 @@ window.albumData = [
      "Sunsetter",
      "Oppa Toby Style",
      "Hate You",
-     "Ruins (With Strings)"
+     "Ruins"
     ],
     "date": "2017-09-09T03:00:00.000Z",
     "artDate": "2017-09-09T03:00:00.000Z",
@@ -37849,5 +37989,3720 @@ window.flashData = [
   "theme": {
    "fg": "#71daff"
   }
+ }
+];
+window.artistData = [
+ {
+  "name": "0ysTezy",
+  "urls": []
+ },
+ {
+  "name": "8bitkitten",
+  "urls": [
+   "https://kitten-burrito.tumblr.com/"
+  ]
+ },
+ {
+  "name": "a-vodka-mutini",
+  "urls": [
+   "https://a-vodka-mutini.tumblr.com/"
+  ]
+ },
+ {
+  "name": "A. Smith",
+  "urls": []
+ },
+ {
+  "name": "Acyl",
+  "urls": [
+   "https://asktheseacowvboys.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Adamantist",
+  "urls": [
+   "https://admantist.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Adoxographist",
+  "urls": [
+   "https://adoxographist.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Adrienne Garcia",
+  "urls": [
+   "https://paperseverywhere.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Aelyrin",
+  "urls": []
+ },
+ {
+  "name": "aeolianChemist",
+  "urls": [
+   "https://aeolianchemist.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Adelaide Killigan",
+  "urls": [
+   "https://twitter.com/oxfordroulette",
+   "https://adelaide.monster"
+  ]
+ },
+ {
+  "name": "Aeritus",
+  "urls": [
+   "https://aeritus.tumblr.com/",
+   "https://twitter.com/Aeritus91/"
+  ]
+ },
+ {
+  "name": "Al Neun",
+  "urls": [
+   "https://mous-bones.tumblr.com/"
+  ]
+ },
+ {
+  "name": "albel-is-mine",
+  "urls": [
+   "https://albel-is-mine.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Alex Votl",
+  "urls": [
+   "https://soundcloud.com/votl"
+  ]
+ },
+ {
+  "name": "Alexander Rosetti",
+  "urls": [
+   "https://soundcloud.com/albatrosssoup"
+  ]
+ },
+ {
+  "name": "Alexia Khodanian",
+  "urls": [
+   "https://alexiadraws.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Alina James",
+  "urls": [
+   "https://alinajames.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Alistair Diszrali",
+  "urls": []
+ },
+ {
+  "name": "allyssinian",
+  "urls": [
+   "https://allyssinian.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Alyssa Lee Dalangin",
+  "urls": []
+ },
+ {
+  "name": "Amanda",
+  "urls": [
+   "https://astropunch.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Amanda DiSpirito",
+  "urls": [],
+  "alias": "Andi DiSpirito"
+ },
+ {
+  "name": "Amelia G.",
+  "urls": []
+ },
+ {
+  "name": "Amethyst Barron",
+  "urls": [
+   "https://amethystbarron.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Ana",
+  "urls": [
+   "https://twitter.com/lakat_ana/",
+   "https://www.instagram.com/lakat_ana/"
+  ]
+ },
+ {
+  "name": "Andi DiSpirito",
+  "urls": [
+   "https://allegro-designs.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Andiavang",
+  "urls": [
+   "https://andiavang.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Andrew D.",
+  "urls": []
+ },
+ {
+  "name": "Andrew Huo",
+  "urls": []
+ },
+ {
+  "name": "Andrew Hussie",
+  "urls": []
+ },
+ {
+  "name": "Angela Sham",
+  "urls": [
+   "https://guzusuru.tumblr.com/",
+   "https://twitter.com/guzusuru"
+  ]
+ },
+ {
+  "name": "angryoct",
+  "urls": []
+ },
+ {
+  "name": "Ann-Marie Blackington",
+  "urls": [
+   "https://akumaasylum.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Anna Marcus-Hecht",
+  "urls": [
+   "https://articulatelycomposed.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Anna Rodman",
+  "urls": [
+   "https://fernacular.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Anonymous",
+  "urls": []
+ },
+ {
+  "name": "Anonymous 2.0",
+  "urls": []
+ },
+ {
+  "name": "appulsprite",
+  "urls": [
+   "https://appulsprite.tumblr.com/"
+  ]
+ },
+ {
+  "name": "aranciart",
+  "urls": [
+   "https://aranciart.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Archeia",
+  "urls": [
+   "https://divisionheaven.me/"
+  ]
+ },
+ {
+  "name": "ari",
+  "urls": [
+   "https://arijandro.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Aris Martinian",
+  "urls": [
+   "https://ostrichlittledungeon.bandcamp.com/"
+  ]
+ },
+ {
+  "name": "arosoup",
+  "urls": []
+ },
+ {
+  "name": "Artisticpolo",
+  "urls": []
+ },
+ {
+  "name": "ARTistotel",
+  "urls": [
+   "https://artistotel.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Aryll",
+  "urls": [
+   "https://aryll.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Arzenic",
+  "urls": [
+   "https://arzenic-music.tumblr.com/"
+  ]
+ },
+ {
+  "name": "AS",
+  "urls": [
+   "https://solarvagrant.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Ashley Jones",
+  "urls": []
+ },
+ {
+  "name": "Asiul",
+  "urls": [
+   "https://purenonsens.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Astro Kid",
+  "urls": [
+   "https://soundcloud.com/astro_kid",
+   "https://astrokid.bandcamp.com/"
+  ]
+ },
+ {
+  "name": "Astrom",
+  "urls": []
+ },
+ {
+  "name": "august",
+  "urls": []
+ },
+ {
+  "name": "Temporal Shenanigans",
+  "urls": [
+   "https://alliebirdseed.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Aurum",
+  "urls": [
+   "https://geolu.tumblr.com/",
+   "https://www.quietcosmos.com/"
+  ]
+ },
+ {
+  "name": "awakesleeping",
+  "urls": [
+   "https://awakesleeping.tumblr.com/"
+  ]
+ },
+ {
+  "name": "awildcale",
+  "urls": [
+   "https://the-cale.tumblr.com/"
+  ]
+ },
+ {
+  "name": "awkward",
+  "urls": [
+   "https://twitter.com/awkwarddoesart"
+  ]
+ },
+ {
+  "name": "Aysha U. Farah",
+  "urls": [
+   "https://www.ayshaufarah.com/",
+   "https://twitter.com/ayshaufarah"
+  ]
+ },
+ {
+  "name": "azuzatori",
+  "urls": [
+   "https://azuzatori.tumblr.com/"
+  ]
+ },
+ {
+  "name": "batteravesucriere",
+  "urls": []
+ },
+ {
+  "name": "Bea",
+  "urls": [
+   "https://beesmygod.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Benedict Ide",
+  "urls": [
+   "https://itsbenedict.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Beta",
+  "urls": []
+ },
+ {
+  "name": "Bill Bolin",
+  "urls": []
+ },
+ {
+  "name": "Blackhole",
+  "urls": [
+   "https://not-terezi-pyrope.tumblr.com/",
+   "https://soundcloud.com/blackholesc"
+  ]
+ },
+ {
+  "name": "Bloodredbites",
+  "urls": [
+   "https://www.deviantart.com/bloodredbites"
+  ]
+ },
+ {
+  "name": "BlueAmethyst",
+  "urls": [
+   "https://blueamethystdraw.tumblr.com/"
+  ]
+ },
+ {
+  "name": "bootsie",
+  "urls": [
+   "https://bootsie-art.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Brad Griffin",
+  "urls": []
+ },
+ {
+  "name": "Brawlitup99",
+  "urls": []
+ },
+ {
+  "name": "Brenden Cameron",
+  "urls": []
+ },
+ {
+  "name": "Brenna Curran",
+  "urls": []
+ },
+ {
+  "name": "Blue Amethyst",
+  "urls": [],
+  "alias": "BlueAmethyst"
+ },
+ {
+  "name": "Breya Rivera",
+  "urls": [
+   "https://soundcloud.com/strovi399",
+   "https://strovii.tumblr.com/",
+   "https://twitter.com/Strovistuck"
+  ]
+ },
+ {
+  "name": "Brian Griv",
+  "urls": [
+   "https://brigriv.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Brian Schaefer",
+  "urls": []
+ },
+ {
+  "name": "Brianne",
+  "urls": [
+   "https://ghostbri.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Buck",
+  "urls": [
+   "https://phishfry.weebly.com/"
+  ]
+ },
+ {
+  "name": "BurnedKirby",
+  "urls": []
+ },
+ {
+  "name": "Buzinkai",
+  "urls": []
+ },
+ {
+  "name": "Cactuar",
+  "urls": [
+   "https://cactuar.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Cakelets",
+  "urls": [
+   "https://myaverageartblog.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Caliboner",
+  "urls": []
+ },
+ {
+  "name": "Calicorn",
+  "urls": [
+   "https://calicorn.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Cap",
+  "urls": [
+   "https://penumbraphantasm.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Cari Garafalo",
+  "urls": [
+   "http://endofinfinity.com/"
+  ]
+ },
+ {
+  "name": "Carla Bravo",
+  "urls": []
+ },
+ {
+  "name": "catastrophicGenesis",
+  "urls": []
+ },
+ {
+  "name": "Cee L. Kyle",
+  "urls": [
+   "https://twitter.com/ceekylewrite"
+  ]
+ },
+ {
+  "name": "Cement City",
+  "urls": [
+   "https://www.youtube.com/channel/UCjWgYyOmxzjC7JcWnES_7Ig"
+  ]
+ },
+ {
+  "name": "Cerulean",
+  "urls": [
+   "https://soundcloud.com/ctza"
+  ]
+ },
+ {
+  "name": "ceruleantrafficlights",
+  "urls": [
+   "https://ceruleantrafficlights.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Chalaite",
+  "urls": [
+   "https://chalaite.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Charles Neudorf",
+  "urls": []
+ },
+ {
+  "name": "Charlie Clouser",
+  "urls": []
+ },
+ {
+  "name": "Charlie Flocke",
+  "urls": [
+   "https://twitter.com/calochart",
+   "https://caloch.weebly.com/"
+  ]
+ },
+ {
+  "name": "Chase",
+  "urls": []
+ },
+ {
+  "name": "Chaz Canterbury",
+  "urls": []
+ },
+ {
+  "name": "Cheers",
+  "urls": []
+ },
+ {
+  "name": "Chelsea Thomas",
+  "urls": [
+   "https://toguchin.tumblr.com/"
+  ]
+ },
+ {
+  "name": "cherry bomb bunny",
+  "urls": []
+ },
+ {
+  "name": "Christina Lillard",
+  "urls": [
+   "https://lunedraws.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Chumi",
+  "urls": [
+   "https://chuchumi.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Cindy Dominguez",
+  "urls": []
+ },
+ {
+  "name": "Circlejourney",
+  "urls": [
+   "https://circlejourneyart.tumblr.com/",
+   "https://soundcloud.com/circlejourney",
+   "https://twitter.com/circlejourney"
+  ]
+ },
+ {
+  "name": "cityinthesea",
+  "urls": []
+ },
+ {
+  "name": "CJ Walker",
+  "urls": [
+   "https://www.cjwalker.net/"
+  ]
+ },
+ {
+  "name": "Clark Powell",
+  "urls": [
+   "https://clarkpowell.bandcamp.com/",
+   "https://soundcloud.com/plazmataz"
+  ]
+ },
+ {
+  "name": "clorinspats",
+  "urls": []
+ },
+ {
+  "name": "clumsyroyalty",
+  "urls": []
+ },
+ {
+  "name": "cobaltmoth",
+  "urls": []
+ },
+ {
+  "name": "Colin Stanfill",
+  "urls": []
+ },
+ {
+  "name": "cookiefonster",
+  "urls": [
+   "https://soundcloud.com/cookiefonster-2",
+   "https://cookiefonster666.tumblr.com/"
+  ]
+ },
+ {
+  "name": "copiko-art",
+  "urls": []
+ },
+ {
+  "name": "Corona Sanctus",
+  "urls": []
+ },
+ {
+  "name": "Corrina",
+  "urls": [
+   "https://pigeonleg.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Cosmic",
+  "urls": [
+   "https://windy-warrior.tumblr.com/",
+   "https://ghostbunn-y.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Courtney Brendle",
+  "urls": [
+   "https://twitter.com/kuramapaw"
+  ]
+ },
+ {
+  "name": "cratmang",
+  "urls": [
+   "https://twitter.com/CRatmanG"
+  ]
+ },
+ {
+  "name": "creepyknees",
+  "urls": [
+   "https://creepyknees.tumblr.com/"
+  ]
+ },
+ {
+  "name": "CrepesAhoy",
+  "urls": [
+   "https://www.youtube.com/channel/UComhXe-4lIhnpzAm93Xglkw"
+  ]
+ },
+ {
+  "name": "crepuscularDissembler",
+  "urls": []
+ },
+ {
+  "name": "Cristata",
+  "urls": [
+   "https://smoothiefruitee.bandcamp.com/",
+   "https://twitter.com/CristataMusic"
+  ]
+ },
+ {
+  "name": "Cro",
+  "urls": [
+   "https://yoitscro.tumblr.com/",
+   "https://twitter.com/yoitscro"
+  ]
+ },
+ {
+  "name": "Cryoshell",
+  "urls": []
+ },
+ {
+  "name": "Cryptanark",
+  "urls": []
+ },
+ {
+  "name": "Crystalrina",
+  "urls": [
+   "https://crystalrina.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Cullen Lawson",
+  "urls": []
+ },
+ {
+  "name": "Culljoy",
+  "urls": [],
+  "alias": "Cro"
+ },
+ {
+  "name": "Curt Blakeslee",
+  "urls": [
+   "https://norock.bandcamp.com/",
+   "https://soundcloud.com/norockchiptunes"
+  ]
+ },
+ {
+  "name": "CybeR",
+  "urls": []
+ },
+ {
+  "name": "Cyclostome",
+  "urls": [
+   "https://cyclostome.bandcamp.com/"
+  ]
+ },
+ {
+  "name": "D'paq",
+  "urls": [
+   "https://twitter.com/dpaqdraws/"
+  ]
+ },
+ {
+  "name": "D. Crystal",
+  "urls": []
+ },
+ {
+  "name": "Dallas Ross Hicks",
+  "urls": [
+   "https://drhicks76.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Dalmationer",
+  "urls": []
+ },
+ {
+  "name": "Dana Smart",
+  "urls": []
+ },
+ {
+  "name": "Daniel McDonald",
+  "urls": []
+ },
+ {
+  "name": "Danna Vital",
+  "urls": []
+ },
+ {
+  "name": "Danny Cragg",
+  "urls": []
+ },
+ {
+  "name": "Dante Basco",
+  "urls": []
+ },
+ {
+  "name": "Daedalus Dog",
+  "urls": [
+   "https://soundcloud.com/daedalusdog",
+   "https://daedalus-dog.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Daisy S.",
+  "urls": [
+   "https://cosmicartisian.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Dakota Medina",
+  "urls": []
+ },
+ {
+  "name": "h0nk",
+  "urls": [
+   "https://h0nk.tumblr.com/",
+   "https://www.youtube.com/c/h0nk"
+  ]
+ },
+ {
+  "name": "dapperpixel",
+  "urls": [
+   "https://eddio.tumblr.com/"
+  ]
+ },
+ {
+  "name": "David Burkee",
+  "urls": []
+ },
+ {
+  "name": "David DeCou",
+  "urls": []
+ },
+ {
+  "name": "David Dycus",
+  "urls": []
+ },
+ {
+  "name": "David Ellis",
+  "urls": [
+   "https://alunaticsdaydream.bandcamp.com/"
+  ]
+ },
+ {
+  "name": "David Ko",
+  "urls": []
+ },
+ {
+  "name": "David Litt",
+  "urls": []
+ },
+ {
+  "name": "David Turnbull",
+  "urls": []
+ },
+ {
+  "name": "Dawn Davis",
+  "urls": [
+   "https://playerprophet.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Daysi",
+  "urls": []
+ },
+ {
+  "name": "dazed-squid",
+  "urls": [
+   "https://dazed-squid.tumblr.com/"
+  ]
+ },
+ {
+  "name": "demfury",
+  "urls": [
+   "https://demfury.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Demographerist",
+  "urls": []
+ },
+ {
+  "name": "Derples",
+  "urls": [
+   "https://frickerdoodle.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Devin H-S",
+  "urls": []
+ },
+ {
+  "name": "devonianecho",
+  "urls": []
+ },
+ {
+  "name": "Diane Warren",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Diane_Warren"
+  ]
+ },
+ {
+  "name": "Difarem",
+  "urls": [
+   "https://soundcloud.com/difarem"
+  ]
+ },
+ {
+  "name": "Digidigi66",
+  "urls": []
+ },
+ {
+  "name": "Disney",
+  "urls": []
+ },
+ {
+  "name": "DJ最テー",
+  "urls": []
+ },
+ {
+  "name": "doctoroftime",
+  "urls": []
+ },
+ {
+  "name": "dodostad",
+  "urls": [
+   "https://dodostad.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Dogslug",
+  "urls": [
+   "https://dogslug.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Domble",
+  "urls": []
+ },
+ {
+  "name": "Donomon",
+  "urls": [
+   "https://donomon.tumblr.com/"
+  ]
+ },
+ {
+  "name": "doodlebonez",
+  "urls": [
+   "https://doodlebonez.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Dragonnova",
+  "urls": [],
+  "alias": "Melissa Peebles"
+ },
+ {
+  "name": "Ducky Seils",
+  "urls": [],
+  "alias": "Ducky Senpai"
+ },
+ {
+  "name": "Ducky Senpai",
+  "urls": [
+   "https://duckysenpai.bandcamp.com/",
+   "https://kamokachan.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Durandana",
+  "urls": []
+ },
+ {
+  "name": "Dzu",
+  "urls": []
+ },
+ {
+  "name": "Eddie Morton",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Eddie_Morton"
+  ]
+ },
+ {
+  "name": "Edvard Grieg",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Edvard_Grieg"
+  ]
+ },
+ {
+  "name": "Egossweetart",
+  "urls": []
+ },
+ {
+  "name": "ehlsea",
+  "urls": [
+   "https://ehlsea.tumblr.com/",
+   "https://soundcloud.com/ehlseamusic"
+  ]
+ },
+ {
+  "name": "Elaine Wang",
+  "urls": [
+   "https://music.orngjce223.net/"
+  ]
+ },
+ {
+  "name": "Elanor Pam",
+  "urls": []
+ },
+ {
+  "name": "electric lantern",
+  "urls": [
+   "https://soundcloud.com/soregold"
+  ]
+ },
+ {
+  "name": "Elisa McCabe",
+  "urls": []
+ },
+ {
+  "name": "EllenZarael",
+  "urls": []
+ },
+ {
+  "name": "Elliot Colp",
+  "urls": []
+ },
+ {
+  "name": "Elly",
+  "urls": [
+   "https://yoccu.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Emelia K.",
+  "urls": [
+   "https://soundcloud.com/emelia-kaylee"
+  ]
+ },
+ {
+  "name": "Emery Ferguson",
+  "urls": []
+ },
+ {
+  "name": "Emi",
+  "urls": [
+   "https://averyniceprince.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Emily",
+  "urls": []
+ },
+ {
+  "name": "Emily Blundell",
+  "urls": []
+ },
+ {
+  "name": "Emily Jane",
+  "urls": []
+ },
+ {
+  "name": "Emma Glaze",
+  "urls": [
+   "https://bedsafely.tumblr.com/"
+  ]
+ },
+ {
+  "name": "enjistier",
+  "urls": [
+   "https://enjistier.tumblr.com/"
+  ]
+ },
+ {
+  "name": "EnnuiKing",
+  "urls": []
+ },
+ {
+  "name": "Ephemerald",
+  "urls": [
+   "https://emeraldephemeral.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Erik Scheele",
+  "urls": [
+   "https://erikscheele.bandcamp.com/"
+  ]
+ },
+ {
+  "name": "Erin B.",
+  "urls": [
+   "https://crowwingedangel.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Esabelle Ryngin",
+  "urls": [
+   "https://esabelleryngin.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Eston Schweickart",
+  "urls": [
+   "https://siasinsilence.tumblr.com/",
+   "https://soundcloud.com/eschweic"
+  ]
+ },
+ {
+  "name": "Evan Copeland",
+  "urls": []
+ },
+ {
+  "name": "Fayghost",
+  "urls": [
+   "https://gamzee.tumblr.com/"
+  ]
+ },
+ {
+  "name": "felicitousArtisan",
+  "urls": []
+ },
+ {
+  "name": "fenkko",
+  "urls": [
+   "https://fenkko.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Fenn",
+  "urls": [
+   "https://wizardhecker.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Fenris",
+  "urls": []
+ },
+ {
+  "name": "Fibug",
+  "urls": [
+   "https://fishiebug-art.tumblr.com/"
+  ]
+ },
+ {
+  "name": "First Turn Fold",
+  "urls": [
+   "https://soundcloud.com/first-turn-fold"
+  ]
+ },
+ {
+  "name": "Fitzwibble",
+  "urls": [
+   "https://fitzwibble.tumblr.com/"
+  ]
+ },
+ {
+  "name": "fizzmouth",
+  "urls": []
+ },
+ {
+  "name": "floralmarsupial",
+  "urls": [
+   "https://floralmarsupial.tumblr.com/",
+   "https://twitter.com/floralmarsupial/",
+   "https://liminalspacecomics.com/"
+  ]
+ },
+ {
+  "name": "Flutterwhat",
+  "urls": [
+   "https://flutterwhat.bandcamp.com/"
+  ]
+ },
+ {
+  "name": "foreverFlummoxed",
+  "urls": [
+   "https://forum.homestuck.xyz/memberlist.php?mode=viewprofile&u=432"
+  ]
+ },
+ {
+  "name": "Fortnight",
+  "urls": []
+ },
+ {
+  "name": "Frank Haught",
+  "urls": []
+ },
+ {
+  "name": "Freckledoctopus",
+  "urls": [
+   "https://freckledoctopus.tumblr.com/"
+  ]
+ },
+ {
+  "name": "FriendlyCoy",
+  "urls": [],
+  "alias": "Matthias Ramalho"
+ },
+ {
+  "name": "fuchsi",
+  "urls": []
+ },
+ {
+  "name": "fueledbyanimation",
+  "urls": [
+   "https://fueledbyanimation.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Fuzz",
+  "urls": []
+ },
+ {
+  "name": "Gabe Nezovic",
+  "urls": []
+ },
+ {
+  "name": "Gabe Stilez",
+  "urls": []
+ },
+ {
+  "name": "Gastlu",
+  "urls": [
+   "https://ghastaboo.tumblr.com/",
+   "https://twitter.com/ghastaboo"
+  ]
+ },
+ {
+  "name": "Gec",
+  "urls": []
+ },
+ {
+  "name": "Gelasticat",
+  "urls": []
+ },
+ {
+  "name": "Gene",
+  "urls": [
+   "https://trainwreckgenerator.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Ghostcrebs",
+  "urls": [
+   "https://ghostcrebs.tumblr.com/"
+  ]
+ },
+ {
+  "name": "ghostecutioner",
+  "urls": []
+ },
+ {
+  "name": "ghostpressure",
+  "urls": [
+   "https://ghostpressure.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Gillian Pascasio",
+  "urls": [
+   "https://grovey.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Gilwing",
+  "urls": [
+   "http://www.hannahchambers.net/",
+   "https://gilwing.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Gina Chacón",
+  "urls": [
+   "https://twitter.com/SaiyaGina",
+   "https://ginilla.tumblr.com/",
+   "http://ginachacon.daportfolio.com/"
+  ]
+ },
+ {
+  "name": "Grace Medley",
+  "urls": [
+   "https://power46.bandcamp.com/",
+   "https://soundcloud.com/user-743933328",
+   "https://twitter.com/power464646"
+  ]
+ },
+ {
+  "name": "grayscaleOddysey",
+  "urls": []
+ },
+ {
+  "name": "Griever",
+  "urls": [
+   "https://mspfa.com/?s=13714&p=1",
+   "https://twitter.com/Griever1337/"
+  ]
+ },
+ {
+  "name": "Gunsandwwands",
+  "urls": []
+ },
+ {
+  "name": "Guy",
+  "urls": []
+ },
+ {
+  "name": "Hadron Kalido",
+  "urls": [
+   "https://hadronus.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Hames",
+  "urls": [],
+  "alias": "James Roach"
+ },
+ {
+  "name": "Haunter",
+  "urls": []
+ },
+ {
+  "name": "Haven Daniels-Taylor",
+  "urls": [
+   "https://vintage-foods.tumblr.com/",
+   "https://twitter.com/vintagefoods_"
+  ]
+ },
+ {
+  "name": "heir-of-puns",
+  "urls": [
+   "https://heir-of-puns.tumblr.com/",
+   "https://soundcloud.com/heir-of-puns"
+  ]
+ },
+ {
+  "name": "Helena Ruth",
+  "urls": [
+   "https://helenaruth.bandcamp.com/",
+   "https://helenaruth.com/"
+  ]
+ },
+ {
+  "name": "HermesNitram",
+  "urls": []
+ },
+ {
+  "name": "Hilary Troiano",
+  "urls": []
+ },
+ {
+  "name": "Homestuck",
+  "urls": []
+ },
+ {
+  "name": "Hongxii",
+  "urls": [],
+  "alias": "Rangzhe"
+ },
+ {
+  "name": "horizon",
+  "urls": [
+   "https://www.youtube.com/c/horizonandyomene",
+   "https://twitter.com/ohanadyomene"
+  ]
+ },
+ {
+  "name": "Ian Taylor",
+  "urls": []
+ },
+ {
+  "name": "Ian White",
+  "urls": []
+ },
+ {
+  "name": "inariijane",
+  "urls": []
+ },
+ {
+  "name": "Indolentjellyfish",
+  "urls": [
+   "https://indolentjellyfish.tumblr.com/"
+  ]
+ },
+ {
+  "name": "infiniteKnife",
+  "urls": []
+ },
+ {
+  "name": "infinitymechanism",
+  "urls": []
+ },
+ {
+  "name": "inimitable-nectar",
+  "urls": [
+   "https://inimitable-nectar.tumblr.com/"
+  ]
+ },
+ {
+  "name": "innocoussketches",
+  "urls": []
+ },
+ {
+  "name": "insecureIllustrator",
+  "urls": [
+   "https://insecureillustrator.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Interrobang",
+  "urls": []
+ },
+ {
+  "name": "invalidgriffin",
+  "urls": [
+   "https://invalidgriffin.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Inverts",
+  "urls": [
+   "https://inverts.tumblr.com/"
+  ]
+ },
+ {
+  "name": "irl-porrim-maryam",
+  "urls": []
+ },
+ {
+  "name": "Isoraķatheð Zorethan F.",
+  "urls": []
+ },
+ {
+  "name": "Jack McMenamin",
+  "urls": []
+ },
+ {
+  "name": "James Dever",
+  "urls": [
+   "https://jamesdever.bandcamp.com",
+   "https://soundcloud.com/jamesdevermusic",
+   "https://twitter.com/jamzdenver"
+  ]
+ },
+ {
+  "name": "James Roach",
+  "urls": [
+   "https://hames.bandcamp.com/",
+   "https://soundcloud.com/jamesroachmusic",
+   "https://twitter.com/hamesatron/"
+  ]
+ },
+ {
+  "name": "Jamie Paige Stanley",
+  "urls": [
+   "https://jamiepaige.bandcamp.com/",
+   "https://twitter.com/polyromantic"
+  ]
+ },
+ {
+  "name": "Jas",
+  "urls": [
+   "https://hipstersoulgushers.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Jaspy",
+  "urls": []
+ },
+ {
+  "name": "Jenny",
+  "urls": [
+   "https://jununy.tumblr.com/"
+  ]
+ },
+ {
+  "name": "JNJ",
+  "urls": []
+ },
+ {
+  "name": "Joe Griffith",
+  "urls": []
+ },
+ {
+  "name": "Joe Ouellet",
+  "urls": [
+   "https://soundcloud.com/doublejoeseven-1"
+  ]
+ },
+ {
+  "name": "Jonathan Griffiths",
+  "urls": [
+   "http://www.beyondthecanopy.com/"
+  ]
+ },
+ {
+  "name": "Jones N. Wiedle",
+  "urls": [
+   "https://blog.jnwiedle.com/"
+  ]
+ },
+ {
+  "name": "Josefin B.",
+  "urls": []
+ },
+ {
+  "name": "Joseph Aylsworth",
+  "urls": []
+ },
+ {
+  "name": "JulietCee",
+  "urls": [
+   "https://julietcee.tumblr.com/"
+  ]
+ },
+ {
+  "name": "K",
+  "urls": [
+   "https://masterkfox.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Kadi Fedoruk",
+  "urls": [
+   "https://blindsprings.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Kait Linney",
+  "urls": []
+ },
+ {
+  "name": "Kajoi",
+  "urls": [
+   "https://kajoi.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Kal-la-kal-la",
+  "urls": [
+   "https://soundcloud.com/kal-la-kal-la",
+   "https://kal-la-kal-la.tumblr.com/",
+   "https://twitter.com/kal_la_kal_la"
+  ]
+ },
+ {
+  "name": "Kalibration",
+  "urls": [
+   "https://kalibration.bandcamp.com/"
+  ]
+ },
+ {
+  "name": "Kat",
+  "urls": [
+   "https://nyanface.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Kate Griffith",
+  "urls": []
+ },
+ {
+  "name": "Kate Holden",
+  "urls": [
+   "https://faisdm.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Kate Mitchell",
+  "urls": [
+   "https://katemitchell.bandcamp.com/",
+   "https://twitter.com/gamblignant8",
+   "https://www.ssstudio.org/kate"
+  ]
+ },
+ {
+  "name": "kayak",
+  "urls": []
+ },
+ {
+  "name": "Kaymurph",
+  "urls": [
+   "https://kaymurph.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Kayson Spinazzola",
+  "urls": [
+   "https://tangledinink.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Kaz",
+  "urls": [
+   "https://kchloewhite.tumblr.com/"
+  ]
+ },
+ {
+  "name": "kendle bentley b!",
+  "urls": []
+ },
+ {
+  "name": "Kera Jones",
+  "urls": []
+ },
+ {
+  "name": "Kevin Grant",
+  "urls": [
+   "https://soundcloud.com/kevingrant"
+  ]
+ },
+ {
+  "name": "Kevin Regamey",
+  "urls": []
+ },
+ {
+  "name": "Khoroshonov",
+  "urls": []
+ },
+ {
+  "name": "Kibbynbits",
+  "urls": []
+ },
+ {
+  "name": "Kiddy",
+  "urls": [
+   "https://kiddybro.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Kieran Miranda",
+  "urls": [
+   "https://mu2tardblood2.tumblr.com/",
+   "https://twitter.com/kieranmira"
+  ]
+ },
+ {
+  "name": "KIIPPU",
+  "urls": []
+ },
+ {
+  "name": "Kiko B.",
+  "urls": [
+   "https://kingcheddarxvii.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Kim Quach",
+  "urls": [
+   "https://kimquatz.tumblr.com/",
+   "https://twitter.com/kimquatz"
+  ]
+ },
+ {
+  "name": "kindergraph",
+  "urls": [
+   "https://kindergraph.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Kirvia",
+  "urls": [
+   "https://kirvia.tumblr.com/"
+  ]
+ },
+ {
+  "name": "kis",
+  "urls": [],
+  "alias": "Kisbys"
+ },
+ {
+  "name": "Kisbys",
+  "urls": []
+ },
+ {
+  "name": "Kitsu",
+  "urls": [
+   "https://akitsu-47.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Koba",
+  "urls": [
+   "https://kobakoba.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Koukouvayia",
+  "urls": [
+   "https://koukouvayia.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Kouta",
+  "urls": [
+   "https://eridanampora.tumblr.com/",
+   "https://davestrider.bandcamp.com/releases"
+  ]
+ },
+ {
+  "name": "Kris Flacke",
+  "urls": [
+   "https://bluesalamandermusic.bandcamp.com/"
+  ]
+ },
+ {
+  "name": "Kristian Anderson",
+  "urls": []
+ },
+ {
+  "name": "Kurimja",
+  "urls": [
+   "https://www.deviantart.com/kurimja"
+  ]
+ },
+ {
+  "name": "Kurtis Burton",
+  "urls": []
+ },
+ {
+  "name": "ladylovelycocks",
+  "urls": []
+ },
+ {
+  "name": "Lalo Hunt",
+  "urls": [
+   "https://la-loh.tumblr.com/",
+   "https://twitter.com/oh_laloh"
+  ]
+ },
+ {
+  "name": "Lambda Bledsoe",
+  "urls": []
+ },
+ {
+  "name": "Land of Ships and Music",
+  "urls": []
+ },
+ {
+  "name": "laptopStrummer",
+  "urls": [
+   "https://hypefr.bandcamp.com/",
+   "https://soundcloud.com/frenchhype"
+  ]
+ },
+ {
+  "name": "Lark Mordancy",
+  "urls": [
+   "https://larkmordancy.bandcamp.com/"
+  ]
+ },
+ {
+  "name": "laroone",
+  "urls": [
+   "https://laroone.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Lauren Collis",
+  "urls": []
+ },
+ {
+  "name": "Lauren Ross",
+  "urls": [
+   "https://luzerna.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Laurent Désautels-Séguin",
+  "urls": [
+   "https://laurentds.bandcamp.com/"
+  ]
+ },
+ {
+  "name": "Lazylaz",
+  "urls": []
+ },
+ {
+  "name": "Left",
+  "urls": []
+ },
+ {
+  "name": "Leland Goodman",
+  "urls": []
+ },
+ {
+  "name": "Leondra",
+  "urls": []
+ },
+ {
+  "name": "Leslie Hung",
+  "urls": []
+ },
+ {
+  "name": "Lexxy",
+  "urls": [
+   "https://lexxercise.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Liam O'Donnell",
+  "urls": []
+ },
+ {
+  "name": "Lilly Higgs",
+  "urls": [
+   "https://saccharinesylph.tumblr.com/",
+   "https://twitter.com/saccharinesylph",
+   "https://www.lillyhiggs.com/"
+  ]
+ },
+ {
+  "name": "linde-enge",
+  "urls": []
+ },
+ {
+  "name": "Linnet",
+  "urls": []
+ },
+ {
+  "name": "Liz Fish",
+  "urls": [
+   "https://lizardlicks.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Llyona Fang",
+  "urls": [
+   "https://llyonafang.tumblr.com/",
+   "https://www.youtube.com/user/misticwater123"
+  ]
+ },
+ {
+  "name": "Lou Chastain",
+  "urls": [
+   "https://vendelaberglin.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Louise L.",
+  "urls": [
+   "https://potentialforart.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Lovisa Lassen",
+  "urls": [
+   "https://pancakemolybdenum.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Lukanya",
+  "urls": []
+ },
+ {
+  "name": "Luke Benjamins",
+  "urls": [
+   "https://twitter.com/Gee_Eff_Dee"
+  ]
+ },
+ {
+  "name": "LydianChord",
+  "urls": [
+   "https://lydianchord.bandcamp.com/",
+   "https://lydianchord.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Lynnai Hicks",
+  "urls": [
+   "https://drhicks76.tumblr.com/tagged/Lynnai-Art"
+  ]
+ },
+ {
+  "name": "Lyza K.",
+  "urls": [
+   "https://happycaptors.tumblr.com/"
+  ]
+ },
+ {
+  "name": "M. Schmahl",
+  "urls": [
+   "https://brilleg.tumblr.com/"
+  ]
+ },
+ {
+  "name": "M3l0m4ni4c",
+  "urls": [
+   "https://soundcloud.com/m3l0m4ni4c"
+  ]
+ },
+ {
+  "name": "Maddie Haines",
+  "urls": []
+ },
+ {
+  "name": "madragingven",
+  "urls": []
+ },
+ {
+  "name": "Maf",
+  "urls": []
+ },
+ {
+  "name": "Magdalena Clark",
+  "urls": [
+   "https://twitter.com/magpielena"
+  ]
+ },
+ {
+  "name": "magnoliajades",
+  "urls": [
+   "https://magnoliajades.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Magnum",
+  "urls": [
+   "https://charredasperity.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Mags",
+  "urls": [
+   "https://cheapcigarbunnies.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Mal McGannon",
+  "urls": []
+ },
+ {
+  "name": "Malcolm Brown",
+  "urls": [
+   "https://soundcloud.com/dragonxvi"
+  ]
+ },
+ {
+  "name": "Manyan",
+  "urls": []
+ },
+ {
+  "name": "Marcus Carline",
+  "urls": [
+   "https://marcuscarline.com/"
+  ]
+ },
+ {
+  "name": "Marcus Citrine",
+  "urls": []
+ },
+ {
+  "name": "Marcy Nabors",
+  "urls": [
+   "https://shadolith.bandcamp.com/",
+   "https://soundcloud.com/shadolith",
+   "https://twitter.com/Shadolith"
+  ]
+ },
+ {
+  "name": "MariEaster",
+  "urls": []
+ },
+ {
+  "name": "Marimo",
+  "urls": [
+   "https://marimo.carbonmade.com/"
+  ]
+ },
+ {
+  "name": "Marina",
+  "urls": []
+ },
+ {
+  "name": "Mark Hadley",
+  "urls": [
+   "https://parsecproductions.bandcamp.com/"
+  ]
+ },
+ {
+  "name": "Matrosha",
+  "urls": [
+   "https://www.deviantart.com/o-matrosha-o"
+  ]
+ },
+ {
+  "name": "Matt Lee",
+  "urls": [
+   "https://nicewizard.bandcamp.com/",
+   "https://soundcloud.com/nicewizard"
+  ]
+ },
+ {
+  "name": "Matthias Ramalho",
+  "urls": [
+   "https://friendlycoy.bandcamp.com/",
+   "https://soundcloud.com/friendly-coy"
+  ]
+ },
+ {
+  "name": "Max Wright",
+  "urls": [
+   "https://soundcloud.com/mxwright",
+   "https://imbrog.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Maya Kern",
+  "urls": [
+   "https://soundcloud.com/mxwright",
+   "https://twitter.com/mayakern"
+  ]
+ },
+ {
+  "name": "mcsiggy",
+  "urls": [
+   "https://mcsiggy.tumblr.com/"
+  ]
+ },
+ {
+  "name": "megalovriska",
+  "urls": []
+ },
+ {
+  "name": "Meggie Fox",
+  "urls": [
+   "https://bottleshark.tumblr.com/"
+  ]
+ },
+ {
+  "name": "meigender",
+  "urls": [
+   "https://orewing.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Mel",
+  "urls": []
+ },
+ {
+  "name": "Melissa Peebles",
+  "urls": [
+   "https://dragonnova.tumblr.com/"
+  ]
+ },
+ {
+  "name": "melodiousDiscord",
+  "urls": []
+ },
+ {
+  "name": "memento vivere",
+  "urls": [
+   "https://www.truecolors-comic.com/",
+   "https://memviv.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Merrigo",
+  "urls": [
+   "https://merrigo.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Meruz",
+  "urls": [
+   "https://meruz.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Mia Schwartz",
+  "urls": []
+ },
+ {
+  "name": "Michael Guy Bowman",
+  "urls": [
+   "https://bowman.bandcamp.com/",
+   "https://www.youtube.com/channel/UCL5ykJ3-tVwrZFNtMSlTaVQ"
+  ]
+ },
+ {
+  "name": "Michelle Czajkowski",
+  "urls": []
+ },
+ {
+  "name": "microwavedsoap",
+  "urls": [
+   "https://microwavedsoap.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Miff",
+  "urls": []
+ },
+ {
+  "name": "Mika B.",
+  "urls": [
+   "https://aohydrangeas.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Mike Anderson",
+  "urls": []
+ },
+ {
+  "name": "Mikkynga",
+  "urls": [
+   "https://twitter.com/Thelilhamstar",
+   "https://www.behance.net/mikkynga"
+  ]
+ },
+ {
+  "name": "Mingmingfurb",
+  "urls": [
+   "https://grimharlequin.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Mint Chipleaf",
+  "urls": [
+   "https://twitter.com/mintchipleaf",
+   "http://mintchipleaf.com/"
+  ]
+ },
+ {
+  "name": "minty",
+  "urls": [
+   "https://twitter.com/gnvbarron",
+   "https://www.gnvbarron.com/"
+  ]
+ },
+ {
+  "name": "miraculouslollipop",
+  "urls": [
+   "https://miraculouslollipop.tumblr.com/"
+  ]
+ },
+ {
+  "name": "miraculoustang",
+  "urls": [
+   "https://miraculoustang.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Miss Prince",
+  "urls": []
+ },
+ {
+  "name": "MissNK",
+  "urls": [
+   "https://missnk.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Mixt",
+  "urls": [
+   "https://paperbarkscrolls.tumblr.com/"
+  ]
+ },
+ {
+  "name": "MK_97",
+  "urls": []
+ },
+ {
+  "name": "Mmetafour",
+  "urls": [
+   "https://soundcloud.com/mmetafour",
+   "https://mmetafour.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Molly",
+  "urls": []
+ },
+ {
+  "name": "Mobble",
+  "urls": [
+   "https://mobble.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Monobrow",
+  "urls": [
+   "https://soundcloud.com/robobrow"
+  ]
+ },
+ {
+  "name": "motorizedBootlegger",
+  "urls": []
+ },
+ {
+  "name": "multiversalInk",
+  "urls": []
+ },
+ {
+  "name": "myluckyseven",
+  "urls": [
+   "http://www.jetbougan.com/"
+  ]
+ },
+ {
+  "name": "Myotishi",
+  "urls": [
+   "https://rosieberry.tumblr.com/"
+  ]
+ },
+ {
+  "name": "nappotuna",
+  "urls": [
+   "https://nappotuna.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Nate Tronerud",
+  "urls": [
+   "https://natetronerud.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Nathan H.",
+  "urls": []
+ },
+ {
+  "name": "Natrox",
+  "urls": [
+   "https://soundcloud.com/nekki"
+  ]
+ },
+ {
+  "name": "Navochao",
+  "urls": [
+   "https://navochao.tumblr.com/"
+  ]
+ },
+ {
+  "name": "ndividedbyzero",
+  "urls": [
+   "https://ndividedbyzero.bandcamp.com/",
+   "https://soundcloud.com/ndividedbyzero"
+  ]
+ },
+ {
+  "name": "Neiratina",
+  "urls": [
+   "https://neiratina.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Nekachen",
+  "urls": []
+ },
+ {
+  "name": "Neon Zenith",
+  "urls": []
+ },
+ {
+  "name": "Nerd",
+  "urls": [
+   "https://drawingthegalaxy.tumblr.com/",
+   "https://twitter.com/GalaxicPeach"
+  ]
+ },
+ {
+  "name": "Neveah Drexler",
+  "urls": []
+ },
+ {
+  "name": "Ngame",
+  "urls": []
+ },
+ {
+  "name": "Nic Carey",
+  "urls": [
+   "https://niccarey.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Nicholas Nakano",
+  "urls": [
+   "https://soundcloud.com/viridian01"
+  ]
+ },
+ {
+  "name": "Nico J. Dolloso",
+  "urls": []
+ },
+ {
+  "name": "Nick Smalley",
+  "urls": []
+ },
+ {
+  "name": "Nightlights",
+  "urls": [],
+  "alias": "nights"
+ },
+ {
+  "name": "nights",
+  "urls": []
+ },
+ {
+  "name": "Nitrosparxx",
+  "urls": []
+ },
+ {
+  "name": "njeekyo",
+  "urls": []
+ },
+ {
+  "name": "Nick Tucker",
+  "urls": [
+   "https://hierogriff.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Noisemaker",
+  "urls": [
+   "https://soundcloud.com/baseline7"
+  ]
+ },
+ {
+  "name": "Nolvini",
+  "urls": [
+   "https://nolvini.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Noot",
+  "urls": []
+ },
+ {
+  "name": "Not Eno",
+  "urls": []
+ },
+ {
+  "name": "not-the-kind-you-save",
+  "urls": [
+   "https://not-the-kind-you-save.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Nuclear",
+  "urls": [
+   "https://nuclear333.bandcamp.com/",
+   "https://nuclear333.tumblr.com/",
+   "https://twitter.com/nueclear333"
+  ]
+ },
+ {
+  "name": "Nurse Tiger",
+  "urls": []
+ },
+ {
+  "name": "Nymelord",
+  "urls": []
+ },
+ {
+  "name": "olegoleg123",
+  "urls": [
+   "https://soundcloud.com/olegoleg123"
+  ]
+ },
+ {
+  "name": "Oliver Hendricks",
+  "urls": []
+ },
+ {
+  "name": "Ollie",
+  "urls": [
+   "https://caledfwelsh.tumblr.com/",
+   "https://soundcloud.com/caled-fwelsh"
+  ]
+ },
+ {
+  "name": "one-imperfect-rose",
+  "urls": []
+ },
+ {
+  "name": "Oskarna",
+  "urls": []
+ },
+ {
+  "name": "oxfordroulette",
+  "urls": [
+   "https://oxfordroulette.tumblr.com/"
+  ]
+ },
+ {
+  "name": "P-PAMda",
+  "urls": [
+   "https://p-pamda.tumblr.com/"
+  ]
+ },
+ {
+  "name": "P-RO",
+  "urls": [
+   "https://nomorepros.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Paige Turner",
+  "urls": []
+ },
+ {
+  "name": "Pancake-Fairy",
+  "urls": []
+ },
+ {
+  "name": "Pandora",
+  "urls": []
+ },
+ {
+  "name": "P. Gibson",
+  "urls": [],
+  "alias": "Phil Gibson"
+ },
+ {
+  "name": "PaperArtichokes",
+  "urls": [
+   "https://paperartichokes.tumblr.com/"
+  ]
+ },
+ {
+  "name": "PatManDX",
+  "urls": [
+   "https://patmandx-art.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Paul Tuttle Starr",
+  "urls": []
+ },
+ {
+  "name": "paveffer",
+  "urls": [
+   "https://paveffer.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Perry Sullivan",
+  "urls": []
+ },
+ {
+  "name": "Petra K.",
+  "urls": [
+   "https://sigimigi.tumblr.com/"
+  ]
+ },
+ {
+  "name": "PhemieC",
+  "urls": []
+ },
+ {
+  "name": "Phil Gibson",
+  "urls": [
+   "https://poinko.tumblr.com/",
+   "https://twitter.com/piousknob",
+   "https://www.farflung-comic.com/"
+  ]
+ },
+ {
+  "name": "Phosphorescence",
+  "urls": []
+ },
+ {
+  "name": "Pip Dillistone",
+  "urls": [
+   "https://piphomestuck.tumblr.com/",
+   "https://twitter.com/pipd_"
+  ]
+ },
+ {
+  "name": "piskomil",
+  "urls": [
+   "https://piskomil.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Pitchin",
+  "urls": [
+   "https://pitchscribbles.tumblr.com/"
+  ]
+ },
+ {
+  "name": "pizzagremlin",
+  "urls": []
+ },
+ {
+  "name": "PJ Tush",
+  "urls": []
+ },
+ {
+  "name": "plaidcushion",
+  "urls": [
+   "https://plaidart.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Plumegeist",
+  "urls": []
+ },
+ {
+  "name": "Pokémon",
+  "urls": []
+ },
+ {
+  "name": "polysaw",
+  "urls": [
+   "https://soundcloud.com/polysaw"
+  ]
+ },
+ {
+  "name": "positivelymorbid",
+  "urls": []
+ },
+ {
+  "name": "potato-sollux",
+  "urls": [
+   "https://potato-sollux.tumblr.com/"
+  ]
+ },
+ {
+  "name": "power464646",
+  "urls": [],
+  "alias": "Grace Medley"
+ },
+ {
+  "name": "Prassio",
+  "urls": []
+ },
+ {
+  "name": "Pride",
+  "urls": [
+   "https://pride-kun.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Prince",
+  "urls": [
+   "https://catprinx.tumblr.com/",
+   "https://twitter.com/crown_prinxe"
+  ]
+ },
+ {
+  "name": "Princey The Kid",
+  "urls": []
+ },
+ {
+  "name": "Princezz",
+  "urls": []
+ },
+ {
+  "name": "prismatic-void",
+  "urls": [
+   "https://prismatic-void.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Private I.",
+  "urls": []
+ },
+ {
+  "name": "Pseudonym",
+  "urls": []
+ },
+ {
+  "name": "psithurist",
+  "urls": [
+   "https://oscillatrix.bandcamp.com/",
+   "https://soundcloud.com/psithurist",
+   "https://espeonn.tumblr.com/"
+  ]
+ },
+ {
+  "name": "PV",
+  "urls": []
+ },
+ {
+  "name": "qsleeper",
+  "urls": []
+ },
+ {
+  "name": "queenoftheantz",
+  "urls": [
+   "https://queenoftheantz.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Quibbs",
+  "urls": [
+   "https://quibbs.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Quietserval",
+  "urls": [
+   "https://quietserval.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Quirk",
+  "urls": []
+ },
+ {
+  "name": "Rachel Lundin",
+  "urls": [
+   "http://maybegirl.com/",
+   "https://twitter.com/rachelklake"
+  ]
+ },
+ {
+  "name": "Rachel Rose Mitchell",
+  "urls": [
+   "https://rachelrosemitchell.bandcamp.com/",
+   "https://www.youtube.com/user/RachMacwhirter"
+  ]
+ },
+ {
+  "name": "Rachel Weiss",
+  "urls": []
+ },
+ {
+  "name": "Rachel Z",
+  "urls": [
+   "https://www.instagram.com/artsy.rz/"
+  ]
+ },
+ {
+  "name": "Racheme",
+  "urls": []
+ },
+ {
+  "name": "RaChoTamer",
+  "urls": [
+   "https://rachotamer.tumblr.com/",
+   "https://twitter.com/rachotamer"
+  ]
+ },
+ {
+  "name": "Raddical",
+  "urls": []
+ },
+ {
+  "name": "RainbowCookiz",
+  "urls": [
+   "https://rainahkretva.tumblr.com/"
+  ]
+ },
+ {
+  "name": "RainbowLustDash",
+  "urls": [
+   "https://www.instagram.com/rainbowlustdash/"
+  ]
+ },
+ {
+  "name": "Raizor",
+  "urls": []
+ },
+ {
+  "name": "Ralen Gainsborough",
+  "urls": []
+ },
+ {
+  "name": "Rangzhe",
+  "urls": []
+ },
+ {
+  "name": "rawlithmora",
+  "urls": []
+ },
+ {
+  "name": "Ray McDougall",
+  "urls": []
+ },
+ {
+  "name": "razzberrysheep",
+  "urls": [
+   "https://razzberrysheep.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Rebecca Peason",
+  "urls": [
+   "https://reasonpeason.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Rebecca Ryberg",
+  "urls": [
+   "https://erupan.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Red Pen",
+  "urls": [
+   "https://reddpenn.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Reid Slater",
+  "urls": []
+ },
+ {
+  "name": "reinardfox",
+  "urls": [
+   "https://reinardfox.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Rem",
+  "urls": [
+   "https://www.devilscandycomic.com/",
+   "https://www.deviantart.com/tsulala"
+  ]
+ },
+ {
+  "name": "rennerei",
+  "urls": [
+   "https://rennerei.tumblr.com/"
+  ]
+ },
+ {
+  "name": "repeatedScales",
+  "urls": []
+ },
+ {
+  "name": "rest✩taurus",
+  "urls": []
+ },
+ {
+  "name": "Rhyselinn",
+  "urls": [
+   "https://rhyselinn.tumblr.com/"
+  ]
+ },
+ {
+  "name": "ricemilk",
+  "urls": [
+   "https://twitter.com/ricemilk413"
+  ]
+ },
+ {
+  "name": "Richard Gung",
+  "urls": []
+ },
+ {
+  "name": "Rikuru",
+  "urls": []
+ },
+ {
+  "name": "rilez",
+  "urls": [
+   "https://soundcloud.com/rilezfp"
+  ]
+ },
+ {
+  "name": "Rinatan",
+  "urls": [
+   "https://riibrego.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Riri",
+  "urls": []
+ },
+ {
+  "name": "Rob Little",
+  "urls": []
+ },
+ {
+  "name": "Robert J! Lake",
+  "urls": [
+   "https://spellmynamewithabang.bandcamp.com/",
+   "https://twitter.com/spellbang"
+  ]
+ },
+ {
+  "name": "Robin",
+  "urls": []
+ },
+ {
+  "name": "Robyo",
+  "urls": []
+ },
+ {
+  "name": "rockytoad",
+  "urls": []
+ },
+ {
+  "name": "rose-ebottles",
+  "urls": [
+   "https://rose-ebottles.tumblr.com/"
+  ]
+ },
+ {
+  "name": "rosesarecrimson",
+  "urls": []
+ },
+ {
+  "name": "RowBird",
+  "urls": [
+   "https://soundcloud.com/rowbird/"
+  ]
+ },
+ {
+  "name": "Rozenn-blog",
+  "urls": [
+   "https://rozenn-blog.tumblr.com/"
+  ]
+ },
+ {
+  "name": "rufiohbascoh",
+  "urls": [],
+  "alias": "Ducky Senpai"
+ },
+ {
+  "name": "rumminov",
+  "urls": [
+   "https://rumminov.tumblr.com/"
+  ]
+ },
+ {
+  "name": "RunDoubleRun",
+  "urls": []
+ },
+ {
+  "name": "Rune",
+  "urls": [
+   "https://what-the-fuck-is-homestuck.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Rutares",
+  "urls": []
+ },
+ {
+  "name": "Ryan Ames",
+  "urls": []
+ },
+ {
+  "name": "saffronScarf",
+  "urls": [
+   "https://hannibrosh.com/",
+   "saffronscarf.deviantart.com"
+  ]
+ },
+ {
+  "name": "sailorleo",
+  "urls": [
+   "https://sailorleo.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Sallidido",
+  "urls": [
+   "https://sallidido.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Sam Garcia",
+  "urls": [
+   "https://celisea.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Samm Neiland",
+  "urls": []
+ },
+ {
+  "name": "Sara Stebbins",
+  "urls": []
+ },
+ {
+  "name": "Sarah Fu",
+  "urls": [
+   "https://sarahfu.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Sarah Zedig",
+  "urls": [
+   "https://www.youtube.com/c/letstalkaboutstuff",
+   "https://twitter.com/hmsnofun"
+  ]
+ },
+ {
+  "name": "sayachan-art",
+  "urls": []
+ },
+ {
+  "name": "Scarlet Schaefer",
+  "urls": []
+ },
+ {
+  "name": "Scarodactyl",
+  "urls": [
+   "https://scarodactyl.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Seagrot",
+  "urls": []
+ },
+ {
+  "name": "Sean Gorter",
+  "urls": [
+   "https://soundcloud.com/flareproductions"
+  ]
+ },
+ {
+  "name": "Sean William Calhoun",
+  "urls": [
+   "https://dothemusicything.tumblr.com/",
+   "https://www.youtube.com/channel/UCfF9BIFwhPdqdJRpG7Fs61g"
+  ]
+ },
+ {
+  "name": "seiii-tan",
+  "urls": []
+ },
+ {
+  "name": "Seijen",
+  "urls": [
+   "https://soundcloud.com/seijen"
+  ]
+ },
+ {
+  "name": "Selan Pike",
+  "urls": []
+ },
+ {
+  "name": "senpai-satan",
+  "urls": [
+   "https://senpai-satan.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Sera B.",
+  "urls": [
+   "https://serabell.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Seren Mist",
+  "urls": [
+   "https://serenmist.bandcamp.com/",
+   "https://witchoflight.tumblr.com/"
+  ]
+ },
+ {
+  "name": "SerialSymphony",
+  "urls": [
+   "https://soundcloud.com/serialsymphony"
+  ]
+ },
+ {
+  "name": "Seth Massey",
+  "urls": [
+   "https://slogbait.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Seth Peelle",
+  "urls": [
+   "https://beatfox.tumblr.com/",
+   "http://www.beatfox.com/"
+  ]
+ },
+ {
+  "name": "Shad",
+  "urls": []
+ },
+ {
+  "name": "Shadok123",
+  "urls": [
+   "https://www.youtube.com/channel/UCob2SKILOgz_nfAuO74IUZw"
+  ]
+ },
+ {
+  "name": "Shandy",
+  "urls": [
+   "https://soundcloud.com/shandyscribs",
+   "https://shandyscribs.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Shannon",
+  "urls": [
+   "https://superflatpsyche.tumblr.com/",
+   "https://www.deviantart.com/stj-44"
+  ]
+ },
+ {
+  "name": "Shan Murphy",
+  "urls": [
+   "https://acornfriend.tumblr.com/",
+   "https://shanmurphy.com/"
+  ]
+ },
+ {
+  "name": "Shelby Cragg",
+  "urls": [
+   "https://shelbycragg.tumblr.com/",
+   "https://twitter.com/shelbycragg"
+  ]
+ },
+ {
+  "name": "Shellsea",
+  "urls": [
+   "https://fuchsiaheiress.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Shillo",
+  "urls": []
+ },
+ {
+  "name": "Shoedrawers",
+  "urls": [],
+  "alias": "Shu"
+ },
+ {
+  "name": "Shoona",
+  "urls": [
+   "https://shoona.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Shoutloaf",
+  "urls": [
+   "https://soundcloud.com/subwaymayonnaise",
+   "https://shoutloaf.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Shu",
+  "urls": [
+   "https://shoedrawers.tumblr.com/"
+  ]
+ },
+ {
+  "name": "shymuffin",
+  "urls": []
+ },
+ {
+  "name": "sidewalkbanana",
+  "urls": []
+ },
+ {
+  "name": "Sigourney Martin",
+  "urls": [
+   "https://sigourneymartin.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Siins",
+  "urls": [
+   "https://siins.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Silverwater",
+  "urls": [
+   "https://fire-cycle.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Sinister Psyche",
+  "urls": []
+ },
+ {
+  "name": "skepticArcher",
+  "urls": []
+ },
+ {
+  "name": "sketchcomplex",
+  "urls": [
+   "https://sketchcomplex.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Skylar",
+  "urls": []
+ },
+ {
+  "name": "Skyplayer",
+  "urls": [
+   "https://lunatucker.com/",
+   "https://twitter.com/Skyplayer37"
+  ]
+ },
+ {
+  "name": "slitherbot",
+  "urls": []
+ },
+ {
+  "name": "SmashCooper",
+  "urls": [
+   "https://smash-cooper.tumblr.com/"
+  ]
+ },
+ {
+  "name": "smear",
+  "urls": [
+   "https://smeared.bandcamp.com/",
+   "https://equiuszahhak.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Snilm",
+  "urls": [
+   "https://snilm.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Solarbear",
+  "urls": []
+ },
+ {
+  "name": "Solatrus",
+  "urls": [
+   "https://music.solatrus.com/",
+   "https://twitter.com/Solatrus"
+  ]
+ },
+ {
+  "name": "Sollay",
+  "urls": [
+   "https://sollay-b.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Somnivus",
+  "urls": []
+ },
+ {
+  "name": "sonotcanon",
+  "urls": [
+   "https://sonotcanon-draws.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Sozzay",
+  "urls": [
+   "https://sozzay.tumblr.com/",
+   "https://www.deviantart.com/sozzay"
+  ]
+ },
+ {
+  "name": "Spades",
+  "urls": [
+   "https://spectralspades.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Spectrumfizz",
+  "urls": []
+ },
+ {
+  "name": "Spicy Nyx",
+  "urls": [
+   "https://cupofnyx.carrd.co/"
+  ]
+ },
+ {
+  "name": "SplitSuns",
+  "urls": [
+   "https://soundcloud.com/splitsuns"
+  ]
+ },
+ {
+  "name": "Star-nomad",
+  "urls": [
+   "https://www.instagram.com/star_n0mad/"
+  ]
+ },
+ {
+  "name": "Steve Everson",
+  "urls": []
+ },
+ {
+  "name": "Stevie",
+  "urls": []
+ },
+ {
+  "name": "straightfacedgriff",
+  "urls": [
+   "https://hierogriff.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Strideer",
+  "urls": []
+ },
+ {
+  "name": "strife-kind",
+  "urls": [
+   "https://strife-kind.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Suki",
+  "urls": [
+   "https://gingerybiscuit.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Sukka",
+  "urls": []
+ },
+ {
+  "name": "SuryaAsura",
+  "urls": [
+   "https://demonsfromthesun.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Svix",
+  "urls": []
+ },
+ {
+  "name": "sw4nfire",
+  "urls": [
+   "https://twitter.com/ASwanIsOnFire"
+  ]
+ },
+ {
+  "name": "sweetjegus",
+  "urls": [
+   "https://sweetjegus.tumblr.com/"
+  ]
+ },
+ {
+  "name": "tacostothenorth",
+  "urls": [
+   "https://tacostothenorth.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Tamara Fritz",
+  "urls": [
+   "https://tamarafritz.bandcamp.com/",
+   "https://totalspiffage.tumblr.com/"
+  ]
+ },
+ {
+  "name": "taqibun",
+  "urls": []
+ },
+ {
+  "name": "Tarranon",
+  "urls": []
+ },
+ {
+  "name": "Tauhid Bondia",
+  "urls": []
+ },
+ {
+  "name": "Tavia Morra",
+  "urls": [
+   "https://seeyoutmorra.tumblr.com/",
+   "https://www.taviamorra.com/"
+  ]
+ },
+ {
+  "name": "Tawa",
+  "urls": []
+ },
+ {
+  "name": "Taylor Leong",
+  "urls": [
+   "https://tomato-bird.tumblr.com/"
+  ]
+ },
+ {
+  "name": "tea-rezi",
+  "urls": [
+   "https://tea-rezi.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Team Dogfight",
+  "urls": []
+ },
+ {
+  "name": "TempiTunes",
+  "urls": [
+   "https://tempitunes.bandcamp.com/",
+   "https://soundcloud.com/tempusliberi-1",
+   "https://tempitunes.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Tensei",
+  "urls": [
+   "https://tenseimusic.bandcamp.com/",
+   "https://tenseimusic.tumblr.com/",
+   "https://www.youtube.com/channel/UC28gpwqybpWsPO9u47-ol4w"
+  ]
+ },
+ {
+  "name": "The Black Curtain",
+  "urls": []
+ },
+ {
+  "name": "The D",
+  "urls": []
+ },
+ {
+  "name": "The Great Anansi",
+  "urls": [
+   "https://soundcloud.com/the-great-anansi",
+   "https://the-great-anansi.tumblr.com/"
+  ]
+ },
+ {
+  "name": "The Grubbels",
+  "urls": []
+ },
+ {
+  "name": "The Lovable Tramp",
+  "urls": []
+ },
+ {
+  "name": "The One Music Maniac",
+  "urls": [
+   "https://theonemusicmaniac.tumblr.com/",
+   "https://www.youtube.com/user/theonemusicmaniac"
+  ]
+ },
+ {
+  "name": "The Winstons",
+  "urls": [
+   "https://en.wikipedia.org/wiki/The_Winstons"
+  ]
+ },
+ {
+  "name": "The-Everlasting-Ash",
+  "urls": [
+   "https://the-everlasting-ash.tumblr.com/",
+   "https://www.deviantart.com/the-everlasting-ash"
+  ]
+ },
+ {
+  "name": "the-nothing-maker",
+  "urls": [
+   "https://twitter.com/thenothingmaker"
+  ]
+ },
+ {
+  "name": "thedistortedsamurai",
+  "urls": [],
+  "alias": "David Burkee"
+ },
+ {
+  "name": "theh0nestman",
+  "urls": [
+   "https://theh0nestman.bandcamp.com/"
+  ]
+ },
+ {
+  "name": "thesketchqueen",
+  "urls": [
+   "https://soundcloud.com/airborneartist",
+   "https://lemonbellflower.tumblr.com/"
+  ]
+ },
+ {
+  "name": "thespacemaid",
+  "urls": [
+   "https://thespacemaid.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Thiefofstars",
+  "urls": []
+ },
+ {
+  "name": "ThiefofTruth",
+  "urls": []
+ },
+ {
+  "name": "Thomas Carr",
+  "urls": []
+ },
+ {
+  "name": "Thomas Ferkol",
+  "urls": [
+   "https://eidolonorpheus.bandcamp.com/",
+   "https://soundcloud.com/eidolonorpheus"
+  ]
+ },
+ {
+  "name": "Thomas Ibarra",
+  "urls": [
+   "https://soundcloud.com/sparksd2145"
+  ]
+ },
+ {
+  "name": "Tipsy",
+  "urls": [
+   "https://sometipsygnostalgic.tumblr.com/"
+  ]
+ },
+ {
+  "name": "TirantBacon",
+  "urls": [
+   "https://soundcloud.com/maxy3"
+  ]
+ },
+ {
+  "name": "Toby Fox",
+  "urls": [
+   "https://tobyfox.bandcamp.com/",
+   "https://twitter.com/tobyfox"
+  ]
+ },
+ {
+  "name": "Toe",
+  "urls": []
+ },
+ {
+  "name": "Toon Lettuce",
+  "urls": []
+ },
+ {
+  "name": "Toris Crow",
+  "urls": [
+   "https://toriscrow.bandcamp.com/",
+   "https://ukulelecrow.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Traikan",
+  "urls": []
+ },
+ {
+  "name": "Trent West",
+  "urls": []
+ },
+ {
+  "name": "Tri-gender Panini",
+  "urls": [
+   "https://soundcloud.com/musical_panini",
+   "https://musicalpaninigrill.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Trisha Yearwood",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Trisha_Yearwood"
+  ]
+ },
+ {
+  "name": "Tristan Scroggins",
+  "urls": [
+   "https://tristanscroggins.bandcamp.com/",
+   "https://www.tristanscroggins.com/"
+  ]
+ },
+ {
+  "name": "Trufflemeep",
+  "urls": []
+ },
+ {
+  "name": "tT Twigwise",
+  "urls": []
+ },
+ {
+  "name": "tti",
+  "urls": [
+   "https://theterriblestidea.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Tunapuns",
+  "urls": []
+ },
+ {
+  "name": "Twirlin' Curtis",
+  "urls": [
+   "https://twitter.com/twirlincurtis"
+  ]
+ },
+ {
+  "name": "Txesare",
+  "urls": []
+ },
+ {
+  "name": "Tyler Dever",
+  "urls": [],
+  "alias": "James Dever"
+ },
+ {
+  "name": "tynic",
+  "urls": []
+ },
+ {
+  "name": "Ucklin",
+  "urls": [
+   "https://soundcloud.com/ucklin",
+   "https://ucklin.tumblr.com/"
+  ]
+ },
+ {
+  "name": "umibouzu",
+  "urls": []
+ },
+ {
+  "name": "V",
+  "urls": []
+ },
+ {
+  "name": "Vanessa Auqué",
+  "urls": [
+   "https://naknakittynak.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Vaydra",
+  "urls": []
+ },
+ {
+  "name": "Veritas Unae",
+  "urls": [
+   "https://veritasunae.bandcamp.com/",
+   "https://soundcloud.com/veritasunae"
+  ]
+ },
+ {
+  "name": "Vero",
+  "urls": []
+ },
+ {
+  "name": "viaSatellite",
+  "urls": []
+ },
+ {
+  "name": "VickyBit",
+  "urls": []
+ },
+ {
+  "name": "Victoria Grace Elliott",
+  "urls": []
+ },
+ {
+  "name": "Viko Riféo",
+  "urls": [
+   "https://soundcloud.com/vikorifeo",
+   "https://vikorifeo.ca/"
+  ]
+ },
+ {
+  "name": "Vinks",
+  "urls": [
+   "https://marquisespinneretmindfang.tumblr.com/"
+  ]
+ },
+ {
+  "name": "violasarecool",
+  "urls": [
+   "https://soundcloud.com/violasarecool",
+   "https://violasarecool.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Vivian Ng",
+  "urls": []
+ },
+ {
+  "name": "vorpos",
+  "urls": [
+   "https://vorpos.tumblr.com/"
+  ]
+ },
+ {
+  "name": "VT Stark",
+  "urls": []
+ },
+ {
+  "name": "Waif",
+  "urls": [
+   "https://shesbeautiful.bandcamp.com/",
+   "https://soundcloud.com/shes-beautiful"
+  ]
+ },
+ {
+  "name": "WC",
+  "urls": [
+   "https://wcender-art.tumblr.com/"
+  ]
+ },
+ {
+  "name": "WHATISLOSTINTHEMINES",
+  "urls": [
+   "https://what.bandcamp.com/",
+   "https://soundcloud.com/whats-this-thing-here"
+  ]
+ },
+ {
+  "name": "Whimsy",
+  "urls": [
+   "https://soundcloud.com/whimsicalmusic"
+  ]
+ },
+ {
+  "name": "Whimzu",
+  "urls": []
+ },
+ {
+  "name": "Will Kommor",
+  "urls": []
+ },
+ {
+  "name": "William Leonard",
+  "urls": [
+   "https://itswilliamleonard.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Willow Ascenzo",
+  "urls": [
+   "https://soundcloud.com/wellmanicuredman",
+   "https://wellmanicuredmusic.bandcamp.com/"
+  ]
+ },
+ {
+  "name": "Winter",
+  "urls": []
+ },
+ {
+  "name": "Worthikids",
+  "urls": [
+   "https://worthikids.bandcamp.com/",
+   "https://www.youtube.com/user/Worthikids",
+   "https://worthikids.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Xagave",
+  "urls": [
+   "https://xagave.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Xamag",
+  "urls": [
+   "https://xamag-homestuck.tumblr.com/",
+   "https://twitter.com/xamag_ve",
+   "https://xamagdraws.wordpress.com/"
+  ]
+ },
+ {
+  "name": "Xauric",
+  "urls": [
+   "https://www.youtube.com/user/Xauric521"
+  ]
+ },
+ {
+  "name": "Xenocidebot",
+  "urls": []
+ },
+ {
+  "name": "xkoraxayomex",
+  "urls": []
+ },
+ {
+  "name": "Xoro Laventer",
+  "urls": [
+   "https://xorolaventer.bandcamp.com/",
+   "https://soundcloud.com/xoro-laventer",
+   "https://www.youtube.com/channel/UCSWxTZhKAaG-sH4lTlBTUag"
+  ]
+ },
+ {
+  "name": "Yapoos",
+  "urls": []
+ },
+ {
+  "name": "Yan Rodriguez",
+  "urls": [
+   "https://nucleose.bandcamp.com/",
+   "https://soundcloud.com/nucleose"
+  ]
+ },
+ {
+  "name": "yazshu",
+  "urls": []
+ },
+ {
+  "name": "Yee-Tvae Corinst",
+  "urls": []
+ },
+ {
+  "name": "Yellowstockings",
+  "urls": [
+   "https://yellowstockings.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Yishan Mai",
+  "urls": [
+   "https://catboss.bandcamp.com/",
+   "https://soundcloud.com/catbossstudio"
+  ]
+ },
+ {
+  "name": "Yorick Cobb",
+  "urls": []
+ },
+ {
+  "name": "ysh",
+  "urls": [
+   "https://ysh.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Zan Beaver",
+  "urls": []
+ },
+ {
+  "name": "Zilleniose",
+  "urls": [
+   "https://zillychu.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Zilon",
+  "urls": [
+   "https://notzilon.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Zichao Zang",
+  "urls": []
+ },
+ {
+  "name": "Zowerlemon",
+  "urls": [
+   "https://www.instagram.com/zowerlemon/"
+  ]
+ },
+ {
+  "name": "zzzealousy",
+  "urls": [
+   "https://twitter.com/zzzealousy"
+  ]
  }
 ];
