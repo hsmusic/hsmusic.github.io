@@ -46,6 +46,26 @@ window.albumData = [
     "isFanon": true
    },
    {
+    "name": "69423",
+    "artists": [
+     "Michael Guy Bowman"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "69423",
+    "urls": [
+     "https://www.youtube.com/watch?v=-zdjvvqFuME"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
     "name": "A Very Trickster Mode Christmas",
     "artists": [
      "Toby Fox"
@@ -110,26 +130,6 @@ window.albumData = [
     "isFanon": true
    },
    {
-    "name": "Amen, Brother",
-    "artists": [
-     "The Winstons"
-    ],
-    "coverArtists": null,
-    "contributors": [],
-    "lyrics": null,
-    "references": [],
-    "date": "1111-11-11T04:14:24.000Z",
-    "artDate": "1111-11-11T04:14:24.000Z",
-    "directory": "amen-brother",
-    "urls": [
-     "https://www.youtube.com/watch?v=GxZuq57_bYM"
-    ],
-    "isCanon": false,
-    "isBeyond": false,
-    "isOfficial": false,
-    "isFanon": true
-   },
-   {
     "name": "An Apple Disaster!!",
     "artists": [
      "Toby Fox"
@@ -171,26 +171,6 @@ window.albumData = [
     "isFanon": true
    },
    {
-    "name": "Battle! (Colress)",
-    "artists": [
-     "Pokémon"
-    ],
-    "coverArtists": null,
-    "contributors": [],
-    "lyrics": null,
-    "references": [],
-    "date": "1111-11-11T04:14:24.000Z",
-    "artDate": "1111-11-11T04:14:24.000Z",
-    "directory": "battle-colress",
-    "urls": [
-     "https://www.youtube.com/watch?v=NvQBpb6eqp8"
-    ],
-    "isCanon": false,
-    "isBeyond": false,
-    "isOfficial": false,
-    "isFanon": true
-   },
-   {
     "name": "beekeeper who? i dont know her.",
     "artists": [
      "James Roach"
@@ -205,6 +185,46 @@ window.albumData = [
     "urls": [
      "https://soundcloud.com/jamesroachmusic/beekeeper-who-i-dont-know-her",
      "https://www.youtube.com/watch?v=nYI7F5FHTmA"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Bowman Remix",
+    "artists": [
+     "Michael Guy Bowman"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "bowman-remix",
+    "urls": [
+     "https://www.youtube.com/watch?v=VukaD23AIfE"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Chaotic Frenzy",
+    "artists": [
+     "Thomas Ferkol"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "chaotic-frenzy",
+    "urls": [
+     "https://youtu.be/gbiS4WkCOVo?t=19078"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -232,6 +252,48 @@ window.albumData = [
     "isFanon": true
    },
    {
+    "name": "Clockwork Apocalypse",
+    "artists": [
+     "Thomas Ferkol"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Endless Climb"
+    ],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "clockwork-apocalypse",
+    "urls": [
+     "https://www.youtube.com/watch?v=e1d8iai1Wlk"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "CORE",
+    "artists": [
+     "Toby Fox"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "core",
+    "urls": [
+     "https://www.youtube.com/watch?v=tDuEWw648jo"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
     "name": "Crab Waltz",
     "artists": [
      "Toby Fox"
@@ -247,26 +309,6 @@ window.albumData = [
     "directory": "crab-waltz",
     "urls": [
      "https://www.youtube.com/watch?v=jUly2ujqDvY"
-    ],
-    "isCanon": false,
-    "isBeyond": false,
-    "isOfficial": false,
-    "isFanon": true
-   },
-   {
-    "name": "Creeping in My Soul",
-    "artists": [
-     "Cryoshell"
-    ],
-    "coverArtists": null,
-    "contributors": [],
-    "lyrics": null,
-    "references": [],
-    "date": "1111-11-11T04:14:24.000Z",
-    "artDate": "1111-11-11T04:14:24.000Z",
-    "directory": "creeping-in-my-soul",
-    "urls": [
-     "https://www.youtube.com/watch?v=qI6qyW3QCLc"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -317,6 +359,26 @@ window.albumData = [
     "isFanon": true
    },
    {
+    "name": "Death by Glamour",
+    "artists": [
+     "Toby Fox"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "death-by-glamour",
+    "urls": [
+     "https://www.youtube.com/watch?v=2TgO-tN5wAM"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
     "name": "Double Midnight",
     "artists": [
      "Toby Fox"
@@ -355,6 +417,26 @@ window.albumData = [
     "directory": "elevatorstuck-with-meows",
     "urls": [
      "https://www.youtube.com/watch?v=RxZNeHvgNUE"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Flow",
+    "artists": [
+     "Solatrus"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "flow",
+    "urls": [
+     "https://youtu.be/gbiS4WkCOVo?t=9580"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -453,26 +535,6 @@ window.albumData = [
     "isFanon": true
    },
    {
-    "name": "Hello Zepp",
-    "artists": [
-     "Charlie Clouser"
-    ],
-    "coverArtists": null,
-    "contributors": [],
-    "lyrics": null,
-    "references": [],
-    "date": "1111-11-11T04:14:24.000Z",
-    "artDate": "1111-11-11T04:14:24.000Z",
-    "directory": "hello-zepp",
-    "urls": [
-     "https://www.youtube.com/watch?v=vhSHXGM7kgE"
-    ],
-    "isCanon": false,
-    "isBeyond": false,
-    "isOfficial": false,
-    "isFanon": true
-   },
-   {
     "name": "Hero's Growth",
     "artists": [
      "Solatrus"
@@ -559,6 +621,26 @@ window.albumData = [
     "isFanon": true
    },
    {
+    "name": "Hopes and Dreams",
+    "artists": [
+     "Toby Fox"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "hopes-and-dreams",
+    "urls": [
+     "https://www.youtube.com/watch?v=tz82xbLvK_k"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
     "name": "Horsecatska",
     "artists": [
      "James Roach"
@@ -574,91 +656,6 @@ window.albumData = [
     "directory": "horsecatska",
     "urls": [
      "https://www.youtube.com/watch?v=EjCbsleXpuk"
-    ],
-    "isCanon": false,
-    "isBeyond": false,
-    "isOfficial": false,
-    "isFanon": true
-   },
-   {
-    "name": "How Do I Live",
-    "artists": [
-     "Diane Warren"
-    ],
-    "coverArtists": null,
-    "contributors": [
-     {
-      "who": "Trisha Yearwood",
-      "what": "performance in Con Air"
-     }
-    ],
-    "lyrics": null,
-    "references": [],
-    "date": "1111-11-11T04:14:24.000Z",
-    "artDate": "1111-11-11T04:14:24.000Z",
-    "directory": "how-do-i-live",
-    "urls": [
-     "https://www.youtube.com/watch?v=Sjx-T7_CGQA"
-    ],
-    "isCanon": false,
-    "isBeyond": false,
-    "isOfficial": false,
-    "isFanon": true
-   },
-   {
-    "name": "I'm a Member of the Midnight Crew",
-    "artists": [
-     "Eddie Morton"
-    ],
-    "coverArtists": null,
-    "contributors": [],
-    "lyrics": null,
-    "references": [],
-    "date": "1111-11-11T04:14:24.000Z",
-    "artDate": "1111-11-11T04:14:24.000Z",
-    "directory": "im-a-member-of-the-midnight-crew",
-    "urls": [
-     "https://www.youtube.com/watch?v=ARLPT5rKjWo"
-    ],
-    "isCanon": false,
-    "isBeyond": false,
-    "isOfficial": false,
-    "isFanon": true
-   },
-   {
-    "name": "Icirrus City",
-    "artists": [
-     "Pokémon"
-    ],
-    "coverArtists": null,
-    "contributors": [],
-    "lyrics": null,
-    "references": [],
-    "date": "1111-11-11T04:14:24.000Z",
-    "artDate": "1111-11-11T04:14:24.000Z",
-    "directory": "icirrus-city",
-    "urls": [
-     "https://www.youtube.com/watch?v=nDNqwdjCGBQ"
-    ],
-    "isCanon": false,
-    "isBeyond": false,
-    "isOfficial": false,
-    "isFanon": true
-   },
-   {
-    "name": "In the Hall of the Mountain King",
-    "artists": [
-     "Edvard Grieg"
-    ],
-    "coverArtists": null,
-    "contributors": [],
-    "lyrics": null,
-    "references": [],
-    "date": "1111-11-11T04:14:24.000Z",
-    "artDate": "1111-11-11T04:14:24.000Z",
-    "directory": "in-the-hall-of-the-mountain-king",
-    "urls": [
-     "https://www.youtube.com/watch?v=kLp_Hh6DKWc"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -706,6 +703,26 @@ window.albumData = [
     "isFanon": true
    },
    {
+    "name": "Magical Hopalong Cassidy Station",
+    "artists": [
+     "Toby Fox"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "magical-hopalong-cassidy-station",
+    "urls": [
+     "https://www.youtube.com/watch?v=wa2K_8Ff41M"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
     "name": "Mannequin",
     "artists": [
      "Perry Sullivan"
@@ -726,6 +743,26 @@ window.albumData = [
     "isFanon": true
    },
    {
+    "name": "Menu (Full)",
+    "artists": [
+     "Toby Fox"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "menu-full",
+    "urls": [
+     "https://www.youtube.com/watch?v=brP9Q08kEfk"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
     "name": "Mutiny",
     "artists": [
      "Bill Bolin"
@@ -738,6 +775,26 @@ window.albumData = [
     "artDate": "1111-11-11T04:14:24.000Z",
     "directory": "mutiny",
     "urls": false,
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Nic Cage Romance",
+    "artists": [
+     "Toby Fox"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "nic-cage-romance",
+    "urls": [
+     "https://www.youtube.com/watch?v=fvDpDxXXZog"
+    ],
     "isCanon": false,
     "isBeyond": false,
     "isOfficial": false,
@@ -933,9 +990,9 @@ window.albumData = [
     "isFanon": true
    },
    {
-    "name": "Secret ROM",
+    "name": "Sea of Derse",
     "artists": [
-     "Toby Fox"
+     "Erik Scheele"
     ],
     "coverArtists": null,
     "contributors": [],
@@ -943,9 +1000,54 @@ window.albumData = [
     "references": [],
     "date": "1111-11-11T04:14:24.000Z",
     "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "sea-of-derse",
+    "urls": [
+     "https://archive.homestuck.net/wl/?id=bBs1qkrvHtZIpfhl7XCLoBX7o41d3nEE&path=Homestuck%20Sound%20Test%2F~Disc%203~%20Unreleased%20Homestuck%20Music%20Team%20Music%2F092%20Sea%20of%20Derse.mp3&mode=default"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Secret ROM",
+    "artists": [
+     "Toby Fox"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "The Little Sprite",
+     "Terra's Theme",
+     "Wind Scene",
+     "Chrono Trigger"
+    ],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
     "directory": "secret-rom",
     "urls": [
      "https://www.youtube.com/watch?v=ercVSU3rjrc"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Shooting Star",
+    "artists": [
+     "Hilary Troiano"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "shooting-star",
+    "urls": [
+     "https://archive.homestuck.net/wl/?id=bBs1qkrvHtZIpfhl7XCLoBX7o41d3nEE&path=Homestuck%20Sound%20Test%2F~Disc%203~%20Unreleased%20Homestuck%20Music%20Team%20Music%2F133%20Shooting%20Star.mp3&mode=default"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -967,6 +1069,30 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=4Q2dS1Z2p9g",
      "https://soundcloud.com/albatrosssoup/seer-of-same-color-scalemate-combos"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Skaia Voyages",
+    "artists": [
+     "Clark Powell"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "Sburban Jungle",
+     "Showtime (Piano Refrain)",
+     "Skies of Skaia"
+    ],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "skaia-voyages",
+    "urls": [
+     "https://archive.homestuck.net/wl/?id=bBs1qkrvHtZIpfhl7XCLoBX7o41d3nEE&path=Homestuck%20Sound%20Test%2F~Disc%203~%20Unreleased%20Homestuck%20Music%20Team%20Music%2F379%20Skaia%20Voyages.mp3&mode=default"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -1014,6 +1140,46 @@ window.albumData = [
     "isFanon": true
    },
    {
+    "name": "Spider Dance",
+    "artists": [
+     "Toby Fox"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "spider-dance",
+    "urls": [
+     "https://www.youtube.com/watch?v=YZ3XjVVNagU"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Spooktune",
+    "artists": [
+     "Toby Fox"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "spooktune-undertale",
+    "urls": [
+     "https://www.youtube.com/watch?v=K1qjt_1geiI"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
     "name": "The Brave and the Bronze",
     "artists": [
      "Yan Rodriguez"
@@ -1034,26 +1200,6 @@ window.albumData = [
     "isFanon": true
    },
    {
-    "name": "The Court of Miracles",
-    "artists": [
-     "Disney"
-    ],
-    "coverArtists": null,
-    "contributors": [],
-    "lyrics": null,
-    "references": [],
-    "date": "1111-11-11T04:14:24.000Z",
-    "artDate": "1111-11-11T04:14:24.000Z",
-    "directory": "the-court-of-miracles",
-    "urls": [
-     "https://www.youtube.com/watch?v=xq7z_xMGPM8"
-    ],
-    "isCanon": false,
-    "isBeyond": false,
-    "isOfficial": false,
-    "isFanon": true
-   },
-   {
     "name": "The Paradox Paradigm",
     "artists": [
      "Jack McMenamin"
@@ -1067,6 +1213,48 @@ window.albumData = [
     "directory": "the-paradox-paradigm",
     "urls": [
      "https://archive.homestuck.net/wl/?id=bBs1qkrvHtZIpfhl7XCLoBX7o41d3nEE&path=Homestuck%20Fan%20Music%20and%20VA%2FHomestuck%20Fansong%20Archive%20%282011%29%2FHomestuck%20Fan%20Music%20Part%2010%2FThe%20Paradox%20Paradigm.mp3&mode=default"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Undying",
+    "artists": [
+     "James Dever"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "the-undying",
+    "urls": [
+     "https://youtu.be/gbiS4WkCOVo?t=26954"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Uranian",
+    "artists": [
+     "James Dever"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [
+     "The Undying"
+    ],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "the-uranian",
+    "urls": [
+     "https://youtu.be/gbiS4WkCOVo?t=27042"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -1218,6 +1406,26 @@ window.albumData = [
     "isFanon": true
    },
    {
+    "name": "Winterfall",
+    "artists": [
+     "Blackhole"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "winterfall",
+    "urls": [
+     "https://soundcloud.com/blackholesc/winterfall"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
     "name": "XROM",
     "artists": [
      "Toby Fox"
@@ -1233,6 +1441,26 @@ window.albumData = [
     "directory": "xrom",
     "urls": [
      "https://www.youtube.com/watch?v=wY2nX_b9Gm4"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Your Best Friend",
+    "artists": [
+     "Toby Fox"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "your-best-friend",
+    "urls": [
+     "https://www.youtube.com/watch?v=83jGCWCcBzc"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -1586,6 +1814,1978 @@ window.albumData = [
     "directory": "normal-song-name",
     "urls": [
      "https://soundcloud.com/jamesroachmusic/afterw-rd-theme-normal-song-name#t=0:00"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "A Bell is Tolling",
+    "artists": [
+     "Secret of Mana"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "a-bell-is-tolling",
+    "urls": [
+     "https://www.youtube.com/watch?v=4DCriOkhxqA"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Ah! vous dirai-je, maman",
+    "artists": [
+     "Wolfgang Amadeus Mozart"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "ah-vous-dirai-je-maman",
+    "urls": [
+     "https://en.wikipedia.org/wiki/Ah!_vous_dirai-je,_maman"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Amen, Brother",
+    "artists": [
+     "The Winstons"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "amen-brother",
+    "urls": [
+     "https://www.youtube.com/watch?v=GxZuq57_bYM"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Axel F",
+    "artists": [
+     "Crazy Frog"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "axel-f",
+    "urls": [
+     "https://www.youtube.com/watch?v=k85mRPqvMbE"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Bad Apple!!",
+    "artists": [
+     "Touhou Project"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "bad-apple",
+    "urls": [
+     "https://www.youtube.com/watch?v=3kXx6f7qaa8"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Battle! (Colress)",
+    "artists": [
+     "Pokémon"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "battle-colress",
+    "urls": [
+     "https://www.youtube.com/watch?v=NvQBpb6eqp8"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Beginning",
+    "artists": [
+     "Castlevania"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "beginning",
+    "urls": [
+     "https://www.youtube.com/watch?v=ptgaCJSF7j8"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Bloody Tears",
+    "artists": [
+     "Castlevania"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "bloody-tears",
+    "urls": [
+     "https://www.youtube.com/watch?v=AxQGB7a-6xQ"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Breath of the Wild Theme",
+    "artists": [
+     "The Legend of Zelda"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "breath-of-the-wild-theme",
+    "urls": [
+     "https://www.youtube.com/watch?v=cPWBG6_jn4Y"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Burn",
+    "artists": [
+     "Hamilton: An American Musical"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "burn",
+    "urls": [
+     "https://www.youtube.com/watch?v=pRZzCg8hRA4"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Calamari Inkantation",
+    "artists": [
+     "Splatoon"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "calamari-inkantation",
+    "urls": [
+     "https://www.youtube.com/watch?v=k4k1NdUEUP4"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Carol of the Bells",
+    "artists": [
+     "Mykola Leontovych"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "carol-of-the-bells",
+    "urls": [
+     "https://www.youtube.com/watch?v=ejU1lK-3C4U"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Chrono Trigger",
+    "artists": [
+     "Chrono Trigger"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "chrono-trigger",
+    "urls": [
+     "https://www.youtube.com/watch?v=g-s-VQBoUdc"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Corridors of Time",
+    "artists": [
+     "Chrono Trigger"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "corridors-of-time",
+    "urls": [
+     "https://www.youtube.com/watch?v=bNzYIEY-CcM"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Courage",
+    "artists": [
+     "JoJo's Bizarre Adventure"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "courage",
+    "urls": [
+     "https://www.youtube.com/watch?v=Rpc8K-zQoYM"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Creeping in My Soul",
+    "artists": [
+     "Cryoshell"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "creeping-in-my-soul",
+    "urls": [
+     "https://www.youtube.com/watch?v=qI6qyW3QCLc"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Danger! High Voltage",
+    "artists": [
+     "Electric Six"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "danger-high-voltage",
+    "urls": [
+     "https://www.youtube.com/watch?v=d2KgoVyloPo"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Deck the Halls",
+    "artists": [
+     "Lost in History"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "deck-the-halls",
+    "urls": [
+     "https://en.wikipedia.org/wiki/Deck_the_Halls"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Drop It Like It's Hot",
+    "artists": [
+     "Snoop Dogg"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "drop-it-like-its-hot",
+    "urls": [
+     "https://www.youtube.com/watch?v=GtUVQei3nX4"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Doctor Who Theme",
+    "artists": [
+     "Doctor Who"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "doctor-who-theme",
+    "urls": [
+     "https://www.youtube.com/watch?v=75V4ClJZME4"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "E.T.",
+    "artists": [
+     "Katy Perry"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "et",
+    "urls": [
+     "https://www.youtube.com/watch?v=2lrxaY-hcvA"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Eternal Recurrence",
+    "artists": [
+     "Secret of Mana"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "eternal-recurrence",
+    "urls": [
+     "https://www.youtube.com/watch?v=w4Kv3ZlvQLw"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Fall of Fall ~ Autumnal Waterfall",
+    "artists": [
+     "Touhou Project"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "fall-of-fall-autumnal-waterfall",
+    "urls": [
+     "https://www.youtube.com/watch?v=-F3_Cj-fMWw"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Fear of the Heavens",
+    "artists": [
+     "Secret of Mana"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "fear-of-the-heavens",
+    "urls": [
+     "https://www.youtube.com/watch?v=NFN0GLAMJ3k"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "First Call",
+    "artists": [
+     "Lost in History"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "first-call",
+    "urls": [
+     "https://en.wikipedia.org/wiki/First_call"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Frog's Theme",
+    "artists": [
+     "Chrono Trigger"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "frogs-theme",
+    "urls": [
+     "https://www.youtube.com/watch?v=9YsAyO9oW00"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Fruity Pebbles Jingle",
+    "artists": [
+     "Scott Stutzman"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "fruity-pebbles-jingle",
+    "urls": [
+     "https://www.youtube.com/watch?v=apVOS4CJIls"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Fuck tha Police",
+    "artists": [
+     "N.W.A."
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "fuck-tha-police",
+    "urls": [
+     "https://www.youtube.com/watch?v=ADdpLv3RDhA"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Greensleeves",
+    "artists": [
+     "Lost in History"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "greensleeves",
+    "urls": [
+     "https://en.wikipedia.org/wiki/Greensleeves"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Ghostbusters",
+    "artists": [
+     "Ghostbusters"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "ghostbusters",
+    "urls": [
+     "https://www.youtube.com/watch?v=m9We2XsVZfc"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "God Rest You Merry, Gentlemen",
+    "artists": [
+     "Lost in History"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "god-rest-you-merry-gentlemen",
+    "urls": [
+     "https://en.wikipedia.org/wiki/God_Rest_You_Merry,_Gentlemen"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Guile's Theme",
+    "artists": [
+     "Street Fighter"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "guiles-theme",
+    "urls": [
+     "https://www.youtube.com/watch?v=Iof5pRAIZmw"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Hello Zepp",
+    "artists": [
+     "Saw"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "hello-zepp",
+    "urls": [
+     "https://www.youtube.com/watch?v=vhSHXGM7kgE"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "How Do I Live",
+    "artists": [
+     "Diane Warren"
+    ],
+    "coverArtists": null,
+    "contributors": [
+     {
+      "who": "Trisha Yearwood",
+      "what": "performance in Con Air"
+     }
+    ],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "how-do-i-live",
+    "urls": [
+     "https://www.youtube.com/watch?v=Sjx-T7_CGQA"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Hydrocity Zone (Act 2)",
+    "artists": [
+     "Sonic the Hedgehog"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "hydrocity-zone-act-2",
+    "urls": [
+     "https://www.youtube.com/watch?v=PNYL4w-qxcE"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Hydrogen",
+    "artists": [
+     "M.O.O.N."
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "hydrogen",
+    "urls": [
+     "https://www.youtube.com/watch?v=SNE2oCZH_4k"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "I Don't Want to Miss a Thing",
+    "artists": [
+     "Diane Warren"
+    ],
+    "coverArtists": null,
+    "contributors": [
+     {
+      "who": "Aerosmith",
+      "what": "performance in Armageddon"
+     }
+    ],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "i-dont-want-to-miss-a-thing-aerosmith",
+    "urls": [
+     "https://www.youtube.com/watch?v=JkK8g6FMEXE"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "I'm a Member of the Midnight Crew",
+    "artists": [
+     "Eddie Morton"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "im-a-member-of-the-midnight-crew",
+    "urls": [
+     "https://www.youtube.com/watch?v=ARLPT5rKjWo"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Icirrus City",
+    "artists": [
+     "Pokémon"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "icirrus-city",
+    "urls": [
+     "https://www.youtube.com/watch?v=nDNqwdjCGBQ"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "In the Hall of the Mountain King",
+    "artists": [
+     "Edvard Grieg"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "in-the-hall-of-the-mountain-king",
+    "urls": [
+     "https://www.youtube.com/watch?v=kLp_Hh6DKWc"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "It Don't Mean a Thing (If It Ain't Got That Swing)",
+    "artists": [
+     "Duke Ellington",
+     "Irving Mills"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "it-dont-mean-a-thing-if-it-aint-got-that-swing",
+    "urls": [
+     "https://www.youtube.com/watch?v=qDQpZT3GhDg"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "JoJo ~Sono Chi no Sadame~",
+    "artists": [
+     "JoJo's Bizarre Adventure"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "jojo-sono-chi-no-sadame",
+    "urls": [
+     "https://www.youtube.com/watch?v=sugUX1PtUc4"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "La Cucaracha",
+    "artists": [
+     "Lost in History"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "la-cucaracha",
+    "urls": [
+     "https://en.wikipedia.org/wiki/La_Cucaracha"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Layton's Theme",
+    "artists": [
+     "Professor Layton and the Curious Village"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "laytons-theme",
+    "urls": [
+     "https://www.youtube.com/watch?v=dFBKHSitIjo"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Life in Technicolor",
+    "artists": [
+     "Coldplay"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "life-in-technicolor",
+    "urls": [
+     "https://www.youtube.com/watch?v=sPD59NTahc0"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Mad About the Boy",
+    "artists": [
+     "Dinah Washington"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "mad-about-the-boy",
+    "urls": [
+     "https://www.youtube.com/watch?v=RtIwWjmcvvo"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Magnificat",
+    "artists": [
+     "Arvo Pärt"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "magnificat",
+    "urls": [
+     "https://www.youtube.com/watch?v=7WrP_9Jpfkc"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Mailtime",
+    "artists": [
+     "Blue's Clues"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "mailtime",
+    "urls": [
+     "https://www.youtube.com/watch?v=-KRtN6-DgrY"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Master of Puppets",
+    "artists": [
+     "Metallica"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "master-of-puppets",
+    "urls": [
+     "https://www.youtube.com/watch?v=S7blkui3nQc"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Meet the Flintstones",
+    "artists": [
+     "The Flintstones"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "meet-the-flintstones",
+    "urls": [
+     "https://www.youtube.com/watch?v=2s13X66BFd8"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Moon Over the Castle",
+    "artists": [
+     "Gran Turismo"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "moon-over-the-castle",
+    "urls": [
+     "https://www.youtube.com/watch?v=7DYL2blxWSA"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Moonsong",
+    "artists": [
+     "Cave Story"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "moonsong",
+    "urls": [
+     "https://www.youtube.com/watch?v=q09KoR7g018"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "My Little Pony Theme",
+    "artists": [
+     "My Little Pony"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "my-little-pony-theme",
+    "urls": [
+     "https://www.youtube.com/watch?v=QP_rIAkb_v8"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Native Faith",
+    "artists": [
+     "Touhou Project"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "native-faith",
+    "urls": [
+     "https://www.youtube.com/watch?v=P7dLp2Eb7cg"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Neos City (Night)",
+    "artists": [
+     "Pokémon"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "neos-city-night",
+    "urls": [
+     "https://www.youtube.com/watch?v=nXipo_gVMCs"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Nyanyanyanyanyanyanya!",
+    "artists": [
+     "daniwellP"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "nyanyanyanyanyanyanya",
+    "urls": [
+     "https://www.youtube.com/watch?v=Til6kcoY0Yk"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Objection! 2001",
+    "artists": [
+     "Ace Attorney"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "objection-2001",
+    "urls": [
+     "https://www.youtube.com/watch?v=_I34nshlOPk"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Paint It, Black",
+    "artists": [
+     "The Rolling Stones"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "paint-it-black",
+    "urls": [
+     "https://www.youtube.com/watch?v=O4irXQhgMqg"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Polovtsian Dances",
+    "artists": [
+     "Alexander Borodin"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "polovtsian-dances",
+    "urls": [
+     "https://www.youtube.com/watch?v=QWU1uj9WmOM"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Potato Knishes",
+    "artists": [
+     "Ratboy Genius"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "potato-knishes",
+    "urls": [
+     "https://www.youtube.com/watch?v=IFfLCuHSZ-U"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Pushing Onwards",
+    "artists": [
+     "VVVVVV"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "pushing-onwards",
+    "urls": [
+     "https://www.youtube.com/watch?v=25m3Gk7mRQM"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Recruitment Theme",
+    "artists": [
+     "Fire Emblem"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "recruitment-theme",
+    "urls": [
+     "https://www.youtube.com/watch?v=9xlMErV9Fts"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Reverse Situation",
+    "artists": [
+     "Naruto"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "reverse-situation",
+    "urls": [
+     "https://www.youtube.com/watch?v=Sv93yQE8bRo"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Revolution 909",
+    "artists": [
+     "Daft Punk"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "revolution-909",
+    "urls": [
+     "https://www.youtube.com/watch?v=Wtd6DvLoCsU"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "RollerCoaster Tycoon Theme",
+    "artists": [
+     "RollerCoaster Tycoon"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "rollercoaster-tycoon-theme",
+    "urls": [
+     "https://www.youtube.com/watch?v=KT45kiI5FYw"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Ryuunosuke Akutagawa's \"Kappa\" ~ Candid Friend",
+    "artists": [
+     "Touhou Project"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "ryuunosuke-akutagawas-kappa-candid-friend",
+    "urls": [
+     "https://www.youtube.com/watch?v=cp-yuFXYNg4"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Safe Return",
+    "artists": [
+     "Avatar: The Last Airbender"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "safe-return",
+    "urls": [
+     "https://www.youtube.com/watch?v=lOgFt70GB4c"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Science Blaster",
+    "artists": [
+     "SpellingPhailer"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "science-blaster",
+    "urls": [
+     "https://www.youtube.com/watch?v=quxzJ5xyuC4"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "September Pumpkin",
+    "artists": [
+     "Touhou Project"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "september-pumpkin",
+    "urls": [
+     "https://www.youtube.com/watch?v=M3A-ieD418M"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Sleeping Terror",
+    "artists": [
+     "Touhou Project"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "sleeping-terror",
+    "urls": [
+     "https://www.youtube.com/watch?v=llO4PINy2e8"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Space Jam",
+    "artists": [
+     "Space Jam"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "space-jam",
+    "urls": [
+     "https://www.youtube.com/watch?v=J9FImc2LOr8"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Stone Tower Temple",
+    "artists": [
+     "The Legend of Zelda"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "stone-tower-temple",
+    "urls": [
+     "https://www.youtube.com/watch?v=wz_NK5HgR6Q"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Supercalifragilisticexpialidocious",
+    "artists": [
+     "Mary Poppins"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "supercalifragilisticexpialidocious",
+    "urls": [
+     "https://www.youtube.com/watch?v=uZNRzc3hWvE"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Swan Song",
+    "artists": [
+     "Set It Off"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "swan-song-set-it-off",
+    "urls": [
+     "https://www.youtube.com/watch?v=bzSoICQLf-Q"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Terra's Theme",
+    "artists": [
+     "Final Fantasy"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "terras-theme",
+    "urls": [
+     "https://www.youtube.com/watch?v=a6t_uyg_pF8"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Cave You Fear",
+    "artists": [
+     "Michael Markowski"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "the-cave-you-fear",
+    "urls": [
+     "https://www.youtube.com/watch?v=o4pOswwQAxQ"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Court of Miracles",
+    "artists": [
+     "Disney"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "the-court-of-miracles",
+    "urls": [
+     "https://www.youtube.com/watch?v=xq7z_xMGPM8"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Decisive Battle",
+    "artists": [
+     "Final Fantasy"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "the-decisive-battle",
+    "urls": [
+     "https://www.youtube.com/watch?v=lxKb48wvt60"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Little Sprite",
+    "artists": [
+     "Secret of Mana"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "the-little-sprite",
+    "urls": [
+     "https://www.youtube.com/watch?v=WCVqfgc2730"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Number of the Beast",
+    "artists": [
+     "Iron Maiden"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "the-number-of-the-beast",
+    "urls": [
+     "https://www.youtube.com/watch?v=7-iRf9AWoyE"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Primal Scene of Japan the Girl Saw",
+    "artists": [
+     "Touhou Project"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "the-primal-scene-of-japan-the-girl-saw",
+    "urls": [
+     "https://www.youtube.com/watch?v=okDBNnAjItU"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Raising Fighting Spirit",
+    "artists": [
+     "Naruto"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "the-raising-fighting-spirit",
+    "urls": [
+     "https://www.youtube.com/watch?v=mjjkHg5FOhk"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Riddle Wants To Be",
+    "artists": [
+     "Madder Mortem"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "the-riddle-wants-to-be",
+    "urls": [
+     "https://www.youtube.com/watch?v=y-1XiWfdDeY"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "The Ultiamte Showdown of Ultimate Destiny",
+    "artists": [
+     "Lemon Demon"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "the-ultiamte-showdown-of-ultimate-destiny",
+    "urls": [
+     "https://www.youtube.com/watch?v=z4UYpDB7J-s"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Theme of Eastern Story",
+    "artists": [
+     "Touhou Project"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "theme-of-eastern-story",
+    "urls": [
+     "https://www.youtube.com/watch?v=qGwASZn0ZKA"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "To Make the End of Battle",
+    "artists": [
+     "Ys"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "to-make-the-end-of-battle",
+    "urls": [
+     "https://www.youtube.com/watch?v=Y9Mam93QIQo"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Toccata and Fugue in D minor",
+    "artists": [
+     "Johann Sebastian Bach"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "toccata-and-fugue-in-d-minor",
+    "urls": [
+     "https://www.youtube.com/watch?v=ho9rZjlsyYY"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Tomboyish Girl in Love",
+    "artists": [
+     "Touhou Project"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "tomboyish-girl-in-love",
+    "urls": [
+     "https://www.youtube.com/watch?v=JIZ12EQ2SFg"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Tomorrow There'll Be More Of Us",
+    "artists": [
+     "Hamilton: An American Musical"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "tomorrow-therell-be-more-of-us-hamilton",
+    "urls": [
+     "https://www.youtube.com/watch?v=Lsbx9MBFAYM"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Toreador Song",
+    "artists": [
+     "Georges Bizet"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "toreador-song",
+    "urls": [
+     "https://www.youtube.com/watch?v=2fDkxQBjgFU"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Uptown Funk",
+    "artists": [
+     "Mark Ronson",
+     "Bruno Mars"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "uptown-funk",
+    "urls": [
+     "https://www.youtube.com/watch?v=7Ya2U8XN_Zw"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Ultimate Koopa",
+    "artists": [
+     "Super Mario"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "ultimate-koopa",
+    "urls": [
+     "https://www.youtube.com/watch?v=J6YwX03nFQM"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Vela-Nova",
+    "artists": [
+     "Sonic the Hedgehog"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "vela-nova",
+    "urls": [
+     "https://www.youtube.com/watch?v=-7WQn-SXYZ4"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Viva la Vida",
+    "artists": [
+     "Coldplay"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "viva-la-vida",
+    "urls": [
+     "https://www.youtube.com/watch?v=zOQ4ld6NsXE"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Westminister Quarters",
+    "artists": [
+     "Lost in History"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "westminister-quarters",
+    "urls": [
+     "https://en.wikipedia.org/wiki/Westminster_Quarters"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Waters of Nazareth",
+    "artists": [
+     "Justice"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "waters-of-nazareth",
+    "urls": [
+     "https://www.youtube.com/watch?v=1SEgoi7kjw8"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Wind Scene",
+    "artists": [
+     "Chrono Trigger"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "wind-scene",
+    "urls": [
+     "https://www.youtube.com/watch?v=hELte7HgL2Y"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true
+   },
+   {
+    "name": "Yahoos and Triangles",
+    "artists": [
+     "King of the Hill"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "yahoos-and-triangles",
+    "urls": [
+     "https://www.youtube.com/watch?v=BbnzBO6odgw"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -2891,10 +5091,6 @@ window.albumData = [
      {
       "who": "Nick Smalley",
       "what": "guitar solo"
-     },
-     {
-      "who": "Trisha Yearwood",
-      "what": "How Do I Live"
      }
     ],
     "lyrics": null,
@@ -2927,6 +5123,7 @@ window.albumData = [
     "lyrics": null,
     "references": [
      "Atomyk Ebonpyre",
+     "Drop It Like It's Hot",
      "Beatdown (Strider Style)"
     ],
     "date": "2010-06-13T03:00:00.000Z",
@@ -4187,7 +6384,8 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Sunsetter"
+     "Sunsetter",
+     "Guile's Theme"
     ],
     "date": "2010-07-18T03:00:00.000Z",
     "artDate": "2010-07-18T03:00:00.000Z",
@@ -4927,7 +7125,9 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Viva la Vida"
+    ],
     "date": "2010-12-02T04:00:00.000Z",
     "artDate": "2010-12-02T04:00:00.000Z",
     "directory": "jade-dragon",
@@ -5029,7 +7229,9 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Clockwork Apocalypse"
+    ],
     "date": "2010-12-02T04:00:00.000Z",
     "artDate": "2010-12-02T04:00:00.000Z",
     "directory": "clockwork-reversal",
@@ -5181,7 +7383,10 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Toccata and Fugue in D minor",
+     "Ultimate Koopa"
+    ],
     "date": "2010-12-02T04:00:00.000Z",
     "artDate": "2010-12-02T04:00:00.000Z",
     "directory": "scratch",
@@ -5256,7 +7461,9 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Westminister Quarters"
+    ],
     "date": "2010-12-02T04:00:00.000Z",
     "artDate": "2010-12-02T04:00:00.000Z",
     "directory": "time-paradox",
@@ -5390,7 +7597,9 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Flow"
+    ],
     "date": "2011-01-05T04:00:00.000Z",
     "artDate": "2011-01-05T04:00:00.000Z",
     "directory": "frost-vol6",
@@ -5526,22 +7735,15 @@ window.albumData = [
       "what": null
      }
     ],
-    "contributors": [
-     {
-      "who": "Aerosmith",
-      "what": "original"
-     },
-     {
-      "who": "Dianne Warren",
-      "what": "lyrics"
-     }
-    ],
+    "contributors": [],
     "lyrics": null,
     "references": [
+     "I Don't Want to Miss a Thing:i-dont-want-to-miss-a-thing-aerosmith",
      "Sburban Jungle",
      "Showtime (Original Mix)",
+     "Squiddles!",
      "Explore",
-     "Squiddles!"
+     "How Do I Live"
     ],
     "date": "2011-01-05T04:00:00.000Z",
     "artDate": "2011-01-05T04:00:00.000Z",
@@ -5840,7 +8042,11 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Drop It Like It's Hot",
+     "Ah! vous dirai-je, maman",
+     "Nic Cage Romance"
+    ],
     "date": "2011-01-05T04:00:00.000Z",
     "artDate": "2011-01-05T04:00:00.000Z",
     "directory": "nic-cage-song",
@@ -6033,6 +8239,7 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
+     "Tomboyish Girl in Love",
      "Doctor",
      "Penumbra Phantasm"
     ],
@@ -6060,7 +8267,12 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Moon Over the Castle",
+     "Bloody Tears",
+     "Beginning",
+     "Recruitment Theme"
+    ],
     "date": "2011-02-16T04:00:00.000Z",
     "artDate": "2011-02-16T04:00:00.000Z",
     "directory": "dance-of-thorns",
@@ -6087,7 +8299,8 @@ window.albumData = [
     "lyrics": null,
     "references": [
      "Beatdown (Strider Style)",
-     "Liquid Negrocity"
+     "Liquid Negrocity",
+     "Master of Puppets"
     ],
     "date": "2011-02-16T04:00:00.000Z",
     "artDate": "2011-02-16T04:00:00.000Z",
@@ -6113,7 +8326,11 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "The Raising Fighting Spirit",
+     "Reverse Situation",
+     "The Decisive Battle"
+    ],
     "date": "2011-02-16T04:00:00.000Z",
     "artDate": "2011-02-16T04:00:00.000Z",
     "directory": "atomic-bonsai",
@@ -6139,6 +8356,7 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
+     "To Make the End of Battle",
      "Cascade (Beta)"
     ],
     "date": "2011-02-16T04:00:00.000Z",
@@ -6214,7 +8432,8 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "psych0ruins"
+     "psych0ruins",
+     "My Little Pony Theme"
     ],
     "date": "2011-03-14T03:00:00.000Z",
     "artDate": "2011-03-14T03:00:00.000Z",
@@ -6296,6 +8515,7 @@ window.albumData = [
     "lyrics": null,
     "references": [
      "The Lemonsnout Turnabout",
+     "Objection! 2001",
      "Sburban Jungle"
     ],
     "date": "2011-03-14T03:00:00.000Z",
@@ -6644,7 +8864,10 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Blackest Heart"
+     "Blackest Heart",
+     "La Cucaracha",
+     "First Call",
+     "Toreador Song"
     ],
     "date": "2011-03-14T03:00:00.000Z",
     "artDate": "2011-03-14T03:00:00.000Z",
@@ -6695,7 +8918,11 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Chaotic Frenzy",
+     "The Number of the Beast",
+     "The Riddle Wants To Be"
+    ],
     "date": "2011-03-14T03:00:00.000Z",
     "artDate": "2011-03-14T03:00:00.000Z",
     "directory": "chaotic-strength",
@@ -6947,11 +9174,7 @@ window.albumData = [
      }
     ],
     "lyrics": null,
-    "references": [
-     "The La2t Frontiier",
-     "MeGaLoVania",
-     "Courser"
-    ],
+    "references": [],
     "date": "2011-03-14T03:00:00.000Z",
     "artDate": "2011-03-14T03:00:00.000Z",
     "directory": "the-blind-prophet",
@@ -7184,7 +9407,10 @@ window.albumData = [
     "coverArtists": null,
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Westminister Quarters",
+     "Carol of the Bells"
+    ],
     "date": "2011-04-14T03:00:00.000Z",
     "artDate": "2011-04-14T03:00:00.000Z",
     "directory": "clockwork",
@@ -7224,7 +9450,9 @@ window.albumData = [
     "coverArtists": null,
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Polovtsian Dances"
+    ],
     "date": "2011-04-14T03:00:00.000Z",
     "artDate": "2011-04-14T03:00:00.000Z",
     "directory": "wind",
@@ -8096,6 +10324,7 @@ window.albumData = [
     "references": [
      "Terezi Owns",
      "Cascade (Beta)",
+     "The King in Red",
      "Black Rose / Green Sun"
     ],
     "date": "2011-05-31T03:00:05.000Z",
@@ -8530,7 +10759,9 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Stone Tower Temple"
+    ],
     "date": "2011-07-14T03:00:00.000Z",
     "artDate": "2011-07-14T03:00:00.000Z",
     "directory": "gilded-sands",
@@ -8580,7 +10811,9 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Mailtime"
+    ],
     "date": "2011-07-14T03:00:00.000Z",
     "artDate": "2011-07-14T03:00:00.000Z",
     "directory": "mayor-maynot",
@@ -9073,7 +11306,9 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Hydrocity Zone (Act 2)"
+    ],
     "date": "2011-07-30T03:00:00.000Z",
     "artDate": "2011-07-30T03:00:00.000Z",
     "directory": "thought-and-flow",
@@ -9649,7 +11884,9 @@ window.albumData = [
      }
     ],
     "lyrics": "It's...\n(Chorus)\nSadoMasoPedoRoboNecroBestiality<br>The quintessential cornerstone of carnal cordiality<br>Exemplary of exquisite, delectable depravity<br>SadoMasoPedoRoboNecroBestiality!\num diddle diddle diddle um diddle eye<br>um diddle diddle RIBBIT um diddle eye\nOh ever since I was a grub how I loved being STRONG<br>I was happy to build robots and punch them all day long<br>But then I met this peasant girl, the lowest of the low<br>Her filthy blood<br>Repulses me<br>Which makes me glad I know...\n(Chorus)\nHer ghostly form's now glowing chrome<br>And each star in the sky<br>Could very well have found a home<br>In her shining red eye.\nI tore my heart out from my chest<br>And crushed it 'neath my hand<br>I'd crush his spine, I'd break his neck<br>I do so love that man!\n(Chorus)\nSo when you wish to figure out<br>Exactly what to screw<br>Just let this word into your head<br>And you'll know what to do<br>But better use it carefully<br>Or it might change your life-\nOne day I did it to this frog and now that frog's me wife!\nSadoMasoPedoRoboNecroBestiality<br>SadoMasoPedoRoboNecroBestiality<br>SadoMasoPedoRoboNecroBestiality<br>SadoMasoPedoRoboNecroBestiality!",
-    "references": [],
+    "references": [
+     "Supercalifragilisticexpialidocious"
+    ],
     "date": "2011-07-30T03:00:00.000Z",
     "artDate": "2011-07-30T03:00:00.000Z",
     "directory": "sadomasopedorobonecrobestiality",
@@ -9925,7 +12162,7 @@ window.albumData = [
     ],
     "lyrics": null,
     "references": [
-     "Nyanyanyanyanyanyanya! (by daniwellP)",
+     "Nyanyanyanyanyanyanya!",
      "Tribal Ebonpyre",
      "Sburban Jungle"
     ],
@@ -10139,7 +12376,9 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": "IT'S THE SWEET BRO AND HELLA JEFF SHOW\nWOOOOOOooooooOOOOOOOOOooooooOOOOOOoooooH\nOKAY SO THERE'S THESE TWO GUYS<br>THEY'RE TOTALLY THE BEST OF FRIENDS<br>AND THEY'RE TWO PIECES OF ??? ALL THE TIME<br>WELL THAT'S JUST THE WAY IT WORKS<br>????<br>??? YOU GET SOME POW??? THIRST<br>GET SOME ????<br>GOT SOME SICK THIRST HE GOT SOME TH??K THIRST\nCAUSE THAT'S JUST THE WAY LIFE WORKS<br>EVERY DAY, MAN<br>TONS OF ?????\nCAUSE IT'S THE SWEET BRO AND HELLA JEFF SHOW<br>SWEET BRO AND HELLA JEFF SHOW<br>SWEET BRO AND HELLA JEFF SHOW<br>(I TOLD YOU ABOUT STAIRS MAN)<br>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaghkaaghkghk\nand just remember kids that we love christmas<br>yes we do<br>christmas is good for me<br>and christmas is good for y~o~u~",
-    "references": [],
+    "references": [
+     "Deck the Halls"
+    ],
     "date": "2011-07-30T03:00:00.000Z",
     "artDate": "2011-07-30T03:00:00.000Z",
     "directory": "sweet-bro-and-hella-jeff-show",
@@ -10169,6 +12408,7 @@ window.albumData = [
      "Hearts Flush",
      "Crystalanthemums",
      "Homestuck Anthem",
+     "How Do I Live",
      "Ruins",
      "Liquid Negrocity"
     ],
@@ -12156,8 +14396,8 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
+     "Shooting Star",
      "Homestuck Anthem",
-     "Homestuck",
      "Sburban Jungle",
      "Upward Movement (Dave Owns)"
     ],
@@ -12648,6 +14888,7 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
+     "Dirgeish",
      "Sburban Jungle"
     ],
     "date": "2011-10-25T03:00:00.000Z",
@@ -12799,14 +15040,12 @@ window.albumData = [
      {
       "who": "David Ko",
       "what": "backup vocals"
-     },
-     {
-      "who": "Trisha Yearwood",
-      "what": "original [How Do I Live]"
      }
     ],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "How Do I Live"
+    ],
     "date": "2011-10-25T03:00:00.000Z",
     "artDate": "2011-10-25T03:00:00.000Z",
     "directory": "how-do-i-live-d8-night-version",
@@ -13695,7 +15934,9 @@ window.albumData = [
     "coverArtists": null,
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Double Midnight"
+    ],
     "date": "2012-04-02T03:00:00.000Z",
     "artDate": "2012-04-02T03:00:00.000Z",
     "directory": "additional-mayhem-universe-a",
@@ -13913,7 +16154,11 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Doctor"
+     "Doctor",
+     "Moonsong",
+     "Eternal Recurrence",
+     "A Bell is Tolling",
+     "Terra's Theme"
     ],
     "date": "2012-04-13T03:00:00.000Z",
     "artDate": "2012-04-13T03:00:00.000Z",
@@ -14701,7 +16946,8 @@ window.albumData = [
      "Liquid Negrocity",
      "Doctor",
      "Lifdoff",
-     "Harlequin"
+     "Harlequin",
+     "Tocatta and Fugue in D minor"
     ],
     "date": "2012-04-13T03:00:00.000Z",
     "artDate": "2012-04-13T03:00:00.000Z",
@@ -15035,6 +17281,7 @@ window.albumData = [
     ],
     "lyrics": null,
     "references": [
+     "Bro Hop",
      "Airtime",
      "Afraid of the Darko"
     ],
@@ -15115,6 +17362,7 @@ window.albumData = [
     "references": [
      "Beatdown (Strider Style)",
      "Atomyk Ebonpyre",
+     "Magnificat",
      "Explore",
      "Endless Climb",
      "Flare"
@@ -15338,7 +17586,9 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Life in Technicolor"
+    ],
     "date": "2012-06-12T03:00:00.000Z",
     "artDate": "2012-06-12T03:00:00.000Z",
     "directory": "jane-dargason",
@@ -15443,7 +17693,9 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Ghostbusters"
+    ],
     "date": "2012-06-12T03:00:00.000Z",
     "artDate": "2012-06-12T03:00:00.000Z",
     "directory": "busting-makes-me-feel-good",
@@ -17301,7 +19553,8 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Pondsquatter"
+     "Pondsquatter",
+     "weird moody horse shit"
     ],
     "date": "2012-10-23T03:00:00.000Z",
     "artDate": "2012-10-23T03:00:00.000Z",
@@ -18287,7 +20540,9 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Frog's Theme"
+    ],
     "date": "2012-11-24T04:00:00.000Z",
     "artDate": "2012-11-24T04:00:00.000Z",
     "directory": "land-of-_____-and-frogs",
@@ -19448,7 +21703,8 @@ window.albumData = [
     "references": [
      "Showtime (Original Mix)",
      "Showtime (Piano Refrain)",
-     "Sburban Jungle"
+     "Sburban Jungle",
+     "I Don't Want to Miss a Thing"
     ],
     "date": "2012-12-25T04:00:00.000Z",
     "artDate": "2012-12-25T04:00:00.000Z",
@@ -19604,7 +21860,7 @@ window.albumData = [
      "Upward Movement (Dave Owns)",
      "Ruins",
      "Dawn of Man",
-     "the rose rap (by Toby Fox)",
+     "the rose rap",
      "Cascade"
     ],
     "date": "2012-12-25T04:00:00.000Z",
@@ -19796,7 +22052,7 @@ window.albumData = [
     "lyrics": null,
     "references": [
      "GameBro (Original 1990 Mix)",
-     "Layton's Theme (by Tomohito Nishiura)"
+     "Layton's Theme"
     ],
     "date": "2012-12-25T04:00:00.000Z",
     "artDate": "2012-12-25T04:00:00.000Z",
@@ -19823,7 +22079,9 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Trollcops"
+     "Revolution 909",
+     "Trollcops",
+     "Fuck tha Police"
     ],
     "date": "2012-12-25T04:00:00.000Z",
     "artDate": "2012-12-25T04:00:00.000Z",
@@ -19991,7 +22249,8 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Doctor"
+     "Doctor",
+     "Doctor Who Theme"
     ],
     "date": "2012-12-25T04:00:00.000Z",
     "artDate": "2012-12-25T04:00:00.000Z",
@@ -20057,7 +22316,8 @@ window.albumData = [
      "Liquid Negrocity",
      "Crystalanthemums",
      "Ocean Stars",
-     "Homestuck Anthem"
+     "Homestuck Anthem",
+     "How Do I Live"
     ],
     "date": "2012-12-25T04:00:00.000Z",
     "artDate": "2012-12-25T04:00:00.000Z",
@@ -20376,7 +22636,8 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Flare"
+     "Flare",
+     "God Rest You Merry, Gentlemen"
     ],
     "date": "2012-12-25T04:00:00.000Z",
     "artDate": "2012-12-25T04:00:00.000Z",
@@ -20694,7 +22955,7 @@ window.albumData = [
      "Dance of Thorns",
      "Sburban Jungle",
      "An Unbreakable Union",
-     "Mutiny (by Bill Bolin)"
+     "Mutiny"
     ],
     "date": "2012-12-25T04:00:00.000Z",
     "artDate": "2012-12-25T04:00:00.000Z",
@@ -21078,7 +23339,9 @@ window.albumData = [
      }
     ],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "The Uranian"
+    ],
     "date": "2013-03-14T03:00:00.000Z",
     "artDate": "2013-03-14T03:00:00.000Z",
     "directory": "green-lolly",
@@ -21113,7 +23376,9 @@ window.albumData = [
      }
     ],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "The Undying"
+    ],
     "date": "2013-03-14T03:00:00.000Z",
     "artDate": "2013-03-14T03:00:00.000Z",
     "directory": "red-sucker",
@@ -21300,7 +23565,9 @@ window.albumData = [
     "coverArtists": null,
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Violet and Gold"
+    ],
     "date": "2013-12-15T04:00:00.000Z",
     "artDate": "2013-12-15T04:00:00.000Z",
     "directory": "disk1-lofam3",
@@ -21599,7 +23866,7 @@ window.albumData = [
     "lyrics": null,
     "references": [
      "Sburban Jungle",
-     "69423 (by Michael Guy Bowman)"
+     "69423"
     ],
     "date": "2013-12-15T04:00:00.000Z",
     "artDate": "2013-12-15T04:00:00.000Z",
@@ -22109,6 +24376,7 @@ window.albumData = [
     "lyrics": null,
     "references": [
      "Unite Synchronization",
+     "Space Jam",
      "GameBro (Original 1990 Mix)",
      "GameGrl (Original 1993 Mix)"
     ],
@@ -22629,6 +24897,8 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
+     "It Don't Mean a Thing (If It Ain't Got That Swing)",
+     "Paint It, Black",
      "Liquid Negrocity",
      "Horschestra"
     ],
@@ -25321,7 +27591,9 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": "D: Aaaaaaow!\nD: Kick it,<br>D: And I'll see<br>D: East Beforus<Br>D: Drives you crazy.<Br>R: We're here, for them bright clothes,<br>R: Lost Weeaboos,<br>R: Got all the pieces.<br>R: Smilin', while I'm,<br>R: Living it up in the trees,<br>D: We'll soar across Beforus,<br>R: Just doing as we damn well please, yeah,<br>D: We're too hot! (R:Hot damn)<br>D: Like Pyralspite or Pupa Pan,<Br>R: We're too hot! (D:Hot damn)<br>R: Sing it out, like bangarang!<br>D: We're too hot! (R:Hot damn)<Br>D: この曲が長すぎます。<br>R: We're too hot! (D:Hot damn)<br>R: And you know what we've got<br>R: Break it down.\nD: Girls let us bring it to ya, (R:Whoo)<br>R: Boys let us bring it to ya, (D:Oh yeah)<br>D+R: Y'all let us bring it to ya, (D:Yeah!)<br>R: East Beforan Funk gon' give it to you,<Br>D: East Beforan Funk gon' give it to you,<Br>D+R: East Beforan Funk gon' give it to you!<br>D+R: When high dark strikes and you're in the spot,<br>D+R: Don't believe us? Just watch!\nD+R: Don't believe us? Just watch!\nD: Don't believe us? Just watch!<br>R: Don't believe us? Just watch!<br>D: Don't believe us? Just watch!<br>R: Don't believe us? Just watch!<br>D: Whoa, oh, oh, oh!\nR: Hey doll,<br>R: Stop a minute.<br>R: Spread your wings, let them flitter a bit!<br>D: Time's rollin', 'til the scratch,<br>D: Rufioh, take it back!<br>R: If you follow, we'll go cross the Medium and more,<Br>R: We'll carry the flame up in the game,<br>D: And we damn well know the score!\nD: We're too hot! (R:Hot damn)<br>D: Like Pyralspite or Pupa Pan,<Br>R: We're too hot! (D:Hot damn)<br>R: Sing it out, like bangarang!<br>D: We're too hot! (R:Hot damn)<br>D: のがクライマックスに行きましょう。<br>R: We're too hot! (D:Hot damn)<Br>R: And you know what we've got<br>D: Break it down.\nR: Trolls let us bring it to ya, (D:Oh)<br>D: Humans let us bring it to ya, (R:Woohoo)<br>D+R: Y'all let us bring it to ya, (D:Yeah!)<br>R: East Beforan Funk gon' give it to you,<br>D: East Beforan Funk gon' give it to you,<br>D+R: East Beforan Funk gon' give it to you!<Br>D+R: When high dark strikes and you're in the spot,<br>D+R: Don't believe us? Just watch!\nD+R: Don't believe us? Just watch!\nR: Don't believe us? Just watch!<br>D: Don't believe us? Just watch!<br>R: Don't believe us? Just watch!<br>D: Don't believe us? Just watch!<br>R: Whoa, oh, oh, oh!\nD: Before we go,<br>D: Let us show you something funky! (R: Yeah)<br>R: East Beforan Funk, East Beforan Funk,<br>D: East Beforan Funk, East Beforan Funk,<br>R: She said East Beforan Funk, East Beforan Funk!<br>D: I said East Beforan Funk, East Beforan Funk!\nR: Come on, dance,<br>R: Let's own it,<br>R: You're a mutant? Yo, just flaunt it,<br>R: Wanna spread your wings? Get on it,<br>R: 'Cause we're bold enough to just show it.<br>D: Come on, dance,<br>D: We'll own it,<br>D: Low blood colour? Just flaunt it,<br>D: When high dark strikes and you're in the spot,<br>D+R: Don't believe us? Just watch!\nD+R: Don't believe us? Just watch!\nD: Don't believe us? Just watch!<br>R: Don't believe us? Just watch!<br>D: Don't believe us? Just watch!<br>R: Don't believe us? Just watch!<br>D: Whoa, oh, oh, oh!\nR: East Beforan Funk, East Beforan Funk, (D: Oh yeah!)<Br>D: East Beforan Funk, East Beforan Funk,<br>R: East Beforan Funk, East Beforan Funk,<br>D: East Beforan Funk, East Beforan Funk, (R: Whoooohoooo)<br>R: East Beforan Funk, East Beforan Funk, (D: Oh yeah!)<br>D+R: East Beforan Funk, East Beforan Funk,<br>D+R: East Beforan Funk, East Beforan Funk, (D: Hey Hey,)<br>D+R: East Beforan Funk,<br>R: Aaaaaaow!",
-    "references": [],
+    "references": [
+     "Uptown Funk"
+    ],
     "date": "2016-04-12T03:00:00.000Z",
     "artDate": "2016-04-12T03:00:00.000Z",
     "directory": "east-beforan-funk",
@@ -25503,6 +27775,7 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
+     "Skaia Voyages",
      "Showtime (Original Mix)",
      "Doctor",
      "Harlequin",
@@ -25886,7 +28159,7 @@ window.albumData = [
     "lyrics": null,
     "references": [
      "Skaian Ride",
-     "Skies of Skaia"
+     "Skaia Voyages"
     ],
     "date": "2016-06-12T03:00:00.000Z",
     "artDate": "2016-06-12T03:00:00.000Z",
@@ -26065,7 +28338,9 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Sea of Derse"
+    ],
     "date": "2016-06-12T03:00:00.000Z",
     "artDate": "2016-06-12T03:00:00.000Z",
     "directory": "breeze",
@@ -26126,6 +28401,7 @@ window.albumData = [
      "Doctor",
      "Cascade (Beta)",
      "Time on My Side",
+     "Hydrogen",
      "Beatdown (Strider Style)",
      "Upward Movement (Dave Owns)",
      "Penumbra Phantasm",
@@ -26136,8 +28412,10 @@ window.albumData = [
      "Heir Conditioning",
      "Atomic Bonsai",
      "Sunsetter",
+     "Neos City (Night)",
      "MeGaLoVania",
      "Crustacean",
+     "Meet the Flintstones",
      "Spider's Claw",
      "Homestuck Anthem",
      "Showtime (Original Mix)",
@@ -26252,6 +28530,7 @@ window.albumData = [
      "Calamity",
      "Walk-Stab-Walk (R&E)",
      "Doctor",
+     "Dirgeish",
      "Crystalanthemums",
      "Skies of Skaia",
      "Frost:frost-vol6",
@@ -26434,7 +28713,9 @@ window.albumData = [
     "coverArtists": null,
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "JoJo ~Sono Chi no Sadame~"
+    ],
     "date": "2017-03-13T03:00:00.000Z",
     "artDate": "2017-03-13T03:00:00.000Z",
     "directory": "rouge-on-the-rox",
@@ -26901,7 +29182,8 @@ window.albumData = [
     "lyrics": "Walk the gangway, look right through me,<br>Take it my way, no one's duty.<br>Trust my dice cast, where the wind falls,<br>Fortune's eye glass, scattered light shoals.\nFires burning 'cross the ocean,<br>Fate is turning, starboard motion.<br>Now an outcast, dreams of dying<br>Foretold at last, waking, flying.",
     "references": [
      "Spider8ite!!!!!!!!",
-     "Cobalt Corsair"
+     "Cobalt Corsair",
+     "Winterfall"
     ],
     "date": "2017-08-27T03:00:00.000Z",
     "artDate": "2017-08-27T03:00:00.000Z",
@@ -28381,7 +30663,10 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "Tomorrow There'll Be More Of Us:tomorrow-therell-be-more-of-us-hamilton",
+     "Burn"
+    ],
     "date": "2017-08-27T03:00:00.000Z",
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "tomorrow-therell-be-more-of-us",
@@ -28595,7 +30880,10 @@ window.albumData = [
     ],
     "contributors": [],
     "lyrics": null,
-    "references": [],
+    "references": [
+     "The Cave You Fear",
+     "Swan Song:swan-song-set-it-off"
+    ],
     "date": "2017-08-27T03:00:00.000Z",
     "artDate": "2017-08-27T03:00:00.000Z",
     "directory": "swan-song",
@@ -28921,6 +31209,7 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
+     "Calamari Inkantation",
      "Crystalanthemums",
      "Negastrife"
     ],
@@ -29298,6 +31587,7 @@ window.albumData = [
     "lyrics": null,
     "references": [
      "Black Rose / Green Sun",
+     "Greensleeves",
      "Endless Climb"
     ],
     "date": "2017-09-09T03:00:00.000Z",
@@ -29733,7 +32023,10 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Three in the Morning"
+     "Three in the Morning",
+     "RollerCoaster Tycoon Theme",
+     "Fruity Pebbles Jingle",
+     "Bowman Remix"
     ],
     "date": "2017-09-09T03:00:00.000Z",
     "artDate": "2017-09-09T03:00:00.000Z",
@@ -30695,6 +32988,7 @@ window.albumData = [
      "Crystalanthemums",
      "Showdown",
      "Death by Glamour",
+     "RollerCoaster Tycoon Theme",
      "Sunsetter",
      "Showtime (Piano Refrain)",
      "Endless Climb"
@@ -30759,6 +33053,7 @@ window.albumData = [
     "lyrics": null,
     "references": [
      "Penumbra Phantasm",
+     "Breath of the Wild Theme",
      "Sunsetter"
     ],
     "date": "2017-09-09T03:00:00.000Z",
@@ -30813,12 +33108,16 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
+     "Axel F",
      "Time on My Side",
+     "E.T.",
      "Smackdown",
      "Moonsetter",
-     "MeGaLoVania",
+     "Waters of Nazareth",
      "I'm a Member of the Midnight Crew",
-     "Unite Synchronization"
+     "Vela-Nova",
+     "Unite Synchronization",
+     "MeGaLoVania"
     ],
     "date": "2017-09-09T03:00:00.000Z",
     "artDate": "2017-09-09T03:00:00.000Z",
@@ -30847,10 +33146,10 @@ window.albumData = [
     "references": [
      "Formation",
      "Skaia Voyages",
-     "Celestial Fantasia",
      "Cascade (Beta)",
      "Sburban Jungle",
      "Another Jungle",
+     "Celestial Fantasia",
      "Homestuck Anthem"
     ],
     "date": "2017-09-09T03:00:00.000Z",
@@ -30930,6 +33229,7 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
+     "Pushing Onwards",
      "Sunsetter"
     ],
     "date": "2017-09-09T03:00:00.000Z",
@@ -31102,7 +33402,7 @@ window.albumData = [
      "Double Midnight",
      "Amen, Brother",
      "Penumbra Phantasm",
-     "A Baby Legend - The Baby is 2 (by Toby Fox)",
+     "A Baby Legend - The Baby is 2",
      "Dirgeish"
     ],
     "date": "2017-09-09T03:00:00.000Z",
@@ -31337,6 +33637,7 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
+     "Corridors of Time",
      "Crystalanthemums"
     ],
     "date": "2017-09-09T03:00:00.000Z",
@@ -31428,7 +33729,8 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Moonsetter"
+     "Moonsetter",
+     "Mad About the Boy"
     ],
     "date": "2017-09-09T03:00:00.000Z",
     "artDate": "2017-09-09T03:00:00.000Z",
@@ -31516,15 +33818,24 @@ window.albumData = [
     "references": [
      "Your Best Friend",
      "Softly",
-     "Safe Return (by The Track Team)",
+     "Fall of Fall ~ Autumnal Waterfall",
+     "Safe Return",
      "The Beginning of Something Really Excellent",
      "An Apple Disaster!!",
+     "Ryuunosuke Akutagawa's \"Kappa\" ~ Candid Friend",
+     "Bad Apple!!",
+     "Native Faith",
+     "The Primal Scene of Japan the Girl Saw",
      "Menu (Full)",
+     "Sleeping Terror",
      "Homestuck Anthem",
      "Upward Movement (Dave Owns)",
+     "Calamari Inkantation",
      "Feel (Alive)",
      "Hopes and Dreams",
      "Theme",
+     "September Pumpkin",
+     "Theme of Eastern Story",
      "Magical Hopalong Cassidy Station"
     ],
     "date": "2017-09-09T03:00:00.000Z",
@@ -31637,18 +33948,22 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
-     "Ascend",
      "Doctor",
      "Cascade (Beta)",
      "Sburban Jungle",
      "Tick",
      "Lord Spanish",
+     "Fruity Pebbles Jingle",
+     "Potato Knishes",
+     "The Ultimate Showdown of Ultimate Destiny",
      "Rex Mille Geromius",
      "Penumbra Phantasm",
      "Even in Death",
+     "Space Jam",
      "Chorale for Jaspers",
      "At The Price of Oblivion",
      "Contra",
+     "Ascend",
      "MeGaLoVania",
      "Moshi Moshi?",
      "Unintentional Touhou",
@@ -31656,8 +33971,10 @@ window.albumData = [
      "Upward Movement (Dave Owns)",
      "Formation",
      "Jungle #3",
-     "Muse of Nanchos",
-     "Intro"
+     "Muse of Nanchoso",
+     "Meet the Flintstones",
+     "Intro",
+     "RollerCoaster Tycoon Theme"
     ],
     "date": "2017-09-09T03:00:00.000Z",
     "artDate": "2017-09-09T03:00:00.000Z",
@@ -32615,6 +34932,7 @@ window.albumData = [
     "contributors": [],
     "lyrics": null,
     "references": [
+     "Spooktune:spooktune-undertale",
      "Relatively Visible Darkness"
     ],
     "date": "2017-09-14T03:00:05.000Z",
@@ -35900,7 +38218,8 @@ window.flashData = [
   "date": "2010-12-15T04:00:00.000Z",
   "contributors": [],
   "tracks": [
-   "Planet Healer"
+   "Planet Healer",
+   "Fear of the Heavens"
   ],
   "urls": [
    "https://www.bgreco.net/hsflash/004979.html"
@@ -36223,7 +38542,7 @@ window.flashData = [
   "date": "2011-12-09T04:00:00.000Z",
   "contributors": [],
   "tracks": [
-   "Foley (by Clark Powell)"
+   "Windchime Foley"
   ],
   "urls": [],
   "theme": {
@@ -36482,7 +38801,7 @@ window.flashData = [
   "date": "2012-06-12T03:00:00.000Z",
   "contributors": [],
   "tracks": [
-   "I Don't Want to Miss a Thing"
+   "I Don't Want to Miss a Thing:i-dont-want-to-miss-a-thing"
   ],
   "urls": [],
   "theme": {
@@ -38491,6 +40810,12 @@ window.artistData = [
   "urls": []
  },
  {
+  "name": "Ace Attorney",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ace_Attorney"
+  ]
+ },
+ {
   "name": "Acyl",
   "urls": [
    "https://asktheseacowvboys.tumblr.com/"
@@ -38517,6 +40842,12 @@ window.artistData = [
  {
   "name": "Aelyrin",
   "urls": []
+ },
+ {
+  "name": "Aerosmith",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Aerosmith"
+  ]
  },
  {
   "name": "aeolianChemist",
@@ -38554,6 +40885,12 @@ window.artistData = [
   "name": "Alex Votl",
   "urls": [
    "https://soundcloud.com/votl"
+  ]
+ },
+ {
+  "name": "Alexander Borodin",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Alexander_Borodin"
   ]
  },
  {
@@ -38722,6 +41059,12 @@ window.artistData = [
   ]
  },
  {
+  "name": "Arvo Pärt",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Arvo_P%C3%A4rt"
+  ]
+ },
+ {
   "name": "Aryll",
   "urls": [
    "https://aryll.tumblr.com/"
@@ -38775,6 +41118,12 @@ window.artistData = [
   "urls": [
    "https://geolu.tumblr.com/",
    "https://www.quietcosmos.com/"
+  ]
+ },
+ {
+  "name": "Avatar: The Last Airbender",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender"
   ]
  },
  {
@@ -38852,6 +41201,12 @@ window.artistData = [
   ]
  },
  {
+  "name": "Blue's Clues",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Blue%27s_Clues"
+  ]
+ },
+ {
   "name": "bootsie",
   "urls": [
    "https://bootsie-art.tumblr.com/"
@@ -38900,6 +41255,12 @@ window.artistData = [
   "name": "Brianne",
   "urls": [
    "https://ghostbri.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Bruno Mars",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Bruno_Mars"
   ]
  },
  {
@@ -38955,7 +41316,15 @@ window.artistData = [
   "urls": []
  },
  {
+  "name": "Castlevania",
+  "urls": []
+ },
+ {
   "name": "catastrophicGenesis",
+  "urls": []
+ },
+ {
+  "name": "Cave Story",
   "urls": []
  },
  {
@@ -38993,10 +41362,6 @@ window.artistData = [
   "urls": []
  },
  {
-  "name": "Charlie Clouser",
-  "urls": []
- },
- {
   "name": "Charlie Flocke",
   "urls": [
    "https://twitter.com/calochart",
@@ -39029,6 +41394,12 @@ window.artistData = [
   "name": "Christina Lillard",
   "urls": [
    "https://lunedraws.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Chrono Trigger",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Chrono_Trigger"
   ]
  },
  {
@@ -39079,6 +41450,10 @@ window.artistData = [
   "urls": []
  },
  {
+  "name": "Coldplay",
+  "urls": []
+ },
+ {
   "name": "Colin Stanfill",
   "urls": []
  },
@@ -39120,6 +41495,12 @@ window.artistData = [
   "name": "cratmang",
   "urls": [
    "https://twitter.com/CRatmanG"
+  ]
+ },
+ {
+  "name": "Crazy Frog",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Crazy_Frog"
   ]
  },
  {
@@ -39203,6 +41584,12 @@ window.artistData = [
   "urls": []
  },
  {
+  "name": "Daft Punk",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Daft_Punk"
+  ]
+ },
+ {
   "name": "Dallas Ross Hicks",
   "urls": [
    "https://drhicks76.tumblr.com/"
@@ -39218,6 +41605,10 @@ window.artistData = [
  },
  {
   "name": "Daniel McDonald",
+  "urls": []
+ },
+ {
+  "name": "daniwellP",
   "urls": []
  },
  {
@@ -39349,11 +41740,21 @@ window.artistData = [
   "urls": []
  },
  {
+  "name": "Dinah Washington",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Dinah_Washington"
+  ]
+ },
+ {
   "name": "Disney",
   "urls": []
  },
  {
   "name": "DJ最テー",
+  "urls": []
+ },
+ {
+  "name": "Doctor Who",
   "urls": []
  },
  {
@@ -39406,6 +41807,12 @@ window.artistData = [
   ]
  },
  {
+  "name": "Duke Ellington",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Duke_Ellington"
+  ]
+ },
+ {
   "name": "Durandana",
   "urls": []
  },
@@ -39450,6 +41857,12 @@ window.artistData = [
   "name": "electric lantern",
   "urls": [
    "https://soundcloud.com/soregold"
+  ]
+ },
+ {
+  "name": "Electric Six",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Electric_Six"
   ]
  },
  {
@@ -39582,6 +41995,18 @@ window.artistData = [
   ]
  },
  {
+  "name": "Final Fantasy",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Final_Fantasy"
+  ]
+ },
+ {
+  "name": "Fire Emblem",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Fire_Emblem"
+  ]
+ },
+ {
   "name": "First Turn Fold",
   "urls": [
    "https://soundcloud.com/first-turn-fold"
@@ -39680,6 +42105,18 @@ window.artistData = [
   ]
  },
  {
+  "name": "Georges Bizet",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Georges_Bizet"
+  ]
+ },
+ {
+  "name": "Ghostbusters",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ghostbusters"
+  ]
+ },
+ {
   "name": "Ghostcrebs",
   "urls": [
    "https://ghostcrebs.tumblr.com/"
@@ -39725,6 +42162,12 @@ window.artistData = [
   ]
  },
  {
+  "name": "Gran Turismo",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Gran_Turismo_(series)"
+  ]
+ },
+ {
   "name": "grayscaleOddysey",
   "urls": []
  },
@@ -39747,6 +42190,12 @@ window.artistData = [
   "name": "Hadron Kalido",
   "urls": [
    "https://hadronus.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Hamilton: An American Musical",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Hamilton_(musical)"
   ]
  },
  {
@@ -39866,6 +42315,18 @@ window.artistData = [
   "urls": []
  },
  {
+  "name": "Iron Maiden",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Iron_Maiden"
+  ]
+ },
+ {
+  "name": "Irving Mills",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Irving_Mills"
+  ]
+ },
+ {
   "name": "Isoraķatheð Zorethan F.",
   "urls": []
  },
@@ -39927,6 +42388,18 @@ window.artistData = [
   ]
  },
  {
+  "name": "Johann Sebastian Bach",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach"
+  ]
+ },
+ {
+  "name": "JoJo's Bizarre Adventure",
+  "urls": [
+   "https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure"
+  ]
+ },
+ {
   "name": "Jonathan Griffiths",
   "urls": [
    "http://www.beyondthecanopy.com/"
@@ -39950,6 +42423,12 @@ window.artistData = [
   "name": "JulietCee",
   "urls": [
    "https://julietcee.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Justice",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Justice_(band)"
   ]
  },
  {
@@ -40010,6 +42489,12 @@ window.artistData = [
    "https://katemitchell.bandcamp.com/",
    "https://twitter.com/gamblignant8",
    "https://www.ssstudio.org/kate"
+  ]
+ },
+ {
+  "name": "Katy Perry",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Katy_Perry"
   ]
  },
  {
@@ -40094,6 +42579,12 @@ window.artistData = [
   "name": "kindergraph",
   "urls": [
    "https://kindergraph.tumblr.com/"
+  ]
+ },
+ {
+  "name": "King of the Hill",
+  "urls": [
+   "https://en.wikipedia.org/wiki/King_of_the_Hill"
   ]
  },
  {
@@ -40223,6 +42714,12 @@ window.artistData = [
   "urls": []
  },
  {
+  "name": "Lemon Demon",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Lemon_Demon"
+  ]
+ },
+ {
   "name": "Leondra",
   "urls": []
  },
@@ -40267,6 +42764,12 @@ window.artistData = [
   "urls": [
    "https://llyonafang.tumblr.com/",
    "https://www.youtube.com/user/misticwater123"
+  ]
+ },
+ {
+  "name": "Lost in History",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Introduction_to_entropy"
   ]
  },
  {
@@ -40323,9 +42826,21 @@ window.artistData = [
   ]
  },
  {
+  "name": "M.O.O.N.",
+  "urls": [
+   "https://musicofthemoon.com/"
+  ]
+ },
+ {
   "name": "M3l0m4ni4c",
   "urls": [
    "https://soundcloud.com/m3l0m4ni4c"
+  ]
+ },
+ {
+  "name": "Madder Mortem",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Madder_Mortem"
   ]
  },
  {
@@ -40414,6 +42929,18 @@ window.artistData = [
   "name": "Mark Hadley",
   "urls": [
    "https://parsecproductions.bandcamp.com/"
+  ]
+ },
+ {
+  "name": "Mark Ronson",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Mark_Ronson"
+  ]
+ },
+ {
+  "name": "Mary Poppins",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Mary_Poppins_(film)"
   ]
  },
  {
@@ -40506,6 +43033,12 @@ window.artistData = [
   ]
  },
  {
+  "name": "Metallica",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Metallica"
+  ]
+ },
+ {
   "name": "Mia Schwartz",
   "urls": []
  },
@@ -40514,6 +43047,12 @@ window.artistData = [
   "urls": [
    "https://bowman.bandcamp.com/",
    "https://www.youtube.com/channel/UCL5ykJ3-tVwrZFNtMSlTaVQ"
+  ]
+ },
+ {
+  "name": "Michael Markowski",
+  "urls": [
+   "https://www.michaelmarkowski.com/"
   ]
  },
  {
@@ -40631,6 +43170,14 @@ window.artistData = [
   "urls": []
  },
  {
+  "name": "My Little Pony",
+  "urls": []
+ },
+ {
+  "name": "Mykola Leontovych",
+  "urls": []
+ },
+ {
   "name": "myluckyseven",
   "urls": [
    "http://www.jetbougan.com/"
@@ -40643,9 +43190,21 @@ window.artistData = [
   ]
  },
  {
+  "name": "N.W.A.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/N.W.A"
+  ]
+ },
+ {
   "name": "nappotuna",
   "urls": [
    "https://nappotuna.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Naruto",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Naruto"
   ]
  },
  {
@@ -40997,6 +43556,12 @@ window.artistData = [
   "urls": []
  },
  {
+  "name": "Professor Layton and the Curious Village",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Professor_Layton_and_the_Curious_Village"
+  ]
+ },
+ {
   "name": "Pseudonym",
   "urls": []
  },
@@ -41100,6 +43665,12 @@ window.artistData = [
  {
   "name": "Rangzhe",
   "urls": []
+ },
+ {
+  "name": "Ratboy Genius",
+  "urls": [
+   "https://www.youtube.com/channel/UC98dbK3WqEkgiFj91WAwYJQ"
+  ]
  },
  {
   "name": "rawlithmora",
@@ -41224,6 +43795,12 @@ window.artistData = [
   "urls": []
  },
  {
+  "name": "RollerCoaster Tycoon",
+  "urls": [
+   "https://en.wikipedia.org/wiki/RollerCoaster_Tycoon"
+  ]
+ },
+ {
   "name": "rose-ebottles",
   "urls": [
    "https://rose-ebottles.tumblr.com/"
@@ -41321,6 +43898,12 @@ window.artistData = [
   ]
  },
  {
+  "name": "Saw",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Saw_(franchise)"
+  ]
+ },
+ {
   "name": "sayachan-art",
   "urls": []
  },
@@ -41333,6 +43916,10 @@ window.artistData = [
   "urls": [
    "https://scarodactyl.tumblr.com/"
   ]
+ },
+ {
+  "name": "Scott Stutzman",
+  "urls": []
  },
  {
   "name": "Seagrot",
@@ -41350,6 +43937,10 @@ window.artistData = [
    "https://dothemusicything.tumblr.com/",
    "https://www.youtube.com/channel/UCfF9BIFwhPdqdJRpG7Fs61g"
   ]
+ },
+ {
+  "name": "Secret of Mana",
+  "urls": []
  },
  {
   "name": "seiii-tan",
@@ -41388,6 +43979,12 @@ window.artistData = [
   "name": "SerialSymphony",
   "urls": [
    "https://soundcloud.com/serialsymphony"
+  ]
+ },
+ {
+  "name": "Set It Off",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Set_It_Off_(band)"
   ]
  },
  {
@@ -41550,6 +44147,12 @@ window.artistData = [
   ]
  },
  {
+  "name": "Snoop Dogg",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Snoop_Dogg"
+  ]
+ },
+ {
   "name": "Solarbear",
   "urls": []
  },
@@ -41571,6 +44174,10 @@ window.artistData = [
   "urls": []
  },
  {
+  "name": "Sonic the Hedgehog",
+  "urls": []
+ },
+ {
   "name": "sonotcanon",
   "urls": [
    "https://sonotcanon-draws.tumblr.com/"
@@ -41584,6 +44191,12 @@ window.artistData = [
   ]
  },
  {
+  "name": "Space Jam",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Space_Jam"
+  ]
+ },
+ {
   "name": "Spades",
   "urls": [
    "https://spectralspades.tumblr.com/"
@@ -41594,9 +44207,19 @@ window.artistData = [
   "urls": []
  },
  {
+  "name": "SpellingPhailer",
+  "urls": []
+ },
+ {
   "name": "Spicy Nyx",
   "urls": [
    "https://cupofnyx.carrd.co/"
+  ]
+ },
+ {
+  "name": "Splatoon",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Splatoon"
   ]
  },
  {
@@ -41626,6 +44249,12 @@ window.artistData = [
   ]
  },
  {
+  "name": "Street Fighter",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Street_Fighter"
+  ]
+ },
+ {
   "name": "Strideer",
   "urls": []
  },
@@ -41644,6 +44273,12 @@ window.artistData = [
  {
   "name": "Sukka",
   "urls": []
+ },
+ {
+  "name": "Super Mario",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Super_Mario"
+  ]
  },
  {
   "name": "SuryaAsura",
@@ -41744,6 +44379,12 @@ window.artistData = [
   "urls": []
  },
  {
+  "name": "The Flintstones",
+  "urls": [
+   "https://en.wikipedia.org/wiki/The_Flintstones"
+  ]
+ },
+ {
   "name": "The Great Anansi",
   "urls": [
    "https://soundcloud.com/the-great-anansi",
@@ -41755,6 +44396,12 @@ window.artistData = [
   "urls": []
  },
  {
+  "name": "The Legend of Zelda",
+  "urls": [
+   "https://en.wikipedia.org/wiki/The_Legend_of_Zelda"
+  ]
+ },
+ {
   "name": "The Lovable Tramp",
   "urls": []
  },
@@ -41763,6 +44410,12 @@ window.artistData = [
   "urls": [
    "https://theonemusicmaniac.tumblr.com/",
    "https://www.youtube.com/user/theonemusicmaniac"
+  ]
+ },
+ {
+  "name": "The Rolling Stones",
+  "urls": [
+   "https://en.wikipedia.org/wiki/The_Rolling_Stones"
   ]
  },
  {
@@ -41865,6 +44518,12 @@ window.artistData = [
   "urls": [
    "https://toriscrow.bandcamp.com/",
    "https://ukulelecrow.tumblr.com/"
+  ]
+ },
+ {
+  "name": "Touhou Project",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Touhou_Project"
   ]
  },
  {
@@ -42015,6 +44674,10 @@ window.artistData = [
   "urls": []
  },
  {
+  "name": "VVVVVV",
+  "urls": []
+ },
+ {
   "name": "Waif",
   "urls": [
    "https://shesbeautiful.bandcamp.com/",
@@ -42063,6 +44726,10 @@ window.artistData = [
  },
  {
   "name": "Winter",
+  "urls": []
+ },
+ {
+  "name": "Wolfgang Amadeus Mozart",
   "urls": []
  },
  {
@@ -42144,6 +44811,12 @@ window.artistData = [
  {
   "name": "Yorick Cobb",
   "urls": []
+ },
+ {
+  "name": "Ys",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ys_(series)"
+  ]
  },
  {
   "name": "ysh",
