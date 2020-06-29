@@ -7082,6 +7082,26 @@ window.albumData = [
     "isBeyond": false,
     "isOfficial": true,
     "isFanon": false
+   },
+   {
+    "name": "Friendship Aneurysm",
+    "artists": [
+     "Alexander Rosetti"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "lyrics": null,
+    "references": [],
+    "date": "2010-08-26T03:00:00.000Z",
+    "artDate": "2010-08-26T03:00:00.000Z",
+    "directory": "friendship-aneurysm",
+    "urls": [
+     "https://youtu.be/w6RNFIXfiyY"
+    ],
+    "isCanon": true,
+    "isBeyond": false,
+    "isOfficial": true,
+    "isFanon": false
    }
   ]
  },
