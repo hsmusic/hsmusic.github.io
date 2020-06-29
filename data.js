@@ -12625,7 +12625,9 @@ window.albumData = [
    }
   ],
   "directory": "prospit-and-derse",
-  "urls": [],
+  "urls": [
+   "https://www.youtube.com/playlist?list=PL9E0E46E420487203"
+  ],
   "isCanon": true,
   "isBeyond": false,
   "isOfficial": true,
@@ -12654,7 +12656,7 @@ window.albumData = [
     "artDate": "2011-08-22T03:00:00.000Z",
     "directory": "hallowed-halls",
     "urls": [
-     "https://youtu.be/12H6ZBc47bU"
+     "https://youtu.be/ImNmotu8-pU?list=PL9E0E46E420487203"
     ],
     "isCanon": true,
     "isBeyond": false,
@@ -12681,7 +12683,7 @@ window.albumData = [
     "artDate": "2011-08-22T03:00:00.000Z",
     "directory": "the-golden-towers",
     "urls": [
-     "https://youtu.be/ljdrlnSi4Gw"
+     "https://youtu.be/wVFRxJpa2og?list=PL9E0E46E420487203"
     ],
     "isCanon": true,
     "isBeyond": false,
@@ -12710,7 +12712,7 @@ window.albumData = [
     "artDate": "2011-08-22T03:00:00.000Z",
     "directory": "prospit-dreamers",
     "urls": [
-     "https://youtu.be/kXAzXOk-pGo"
+     "https://youtu.be/S70lGd8zpRM?list=PL9E0E46E420487203"
     ],
     "isCanon": true,
     "isBeyond": false,
@@ -12735,7 +12737,7 @@ window.albumData = [
     "artDate": "2011-08-22T03:00:00.000Z",
     "directory": "center-of-brilliance",
     "urls": [
-     "https://youtu.be/N6H9k2p3c_o"
+     "https://youtu.be/514f8SzU62M?list=PL9E0E46E420487203"
     ],
     "isCanon": true,
     "isBeyond": false,
@@ -12760,7 +12762,7 @@ window.albumData = [
     "artDate": "2011-08-22T03:00:00.000Z",
     "directory": "darkened-streets",
     "urls": [
-     "https://youtu.be/mVpqo-OdbSk"
+     "https://youtu.be/kb_v4KCml-s?list=PL9E0E46E420487203"
     ],
     "isCanon": true,
     "isBeyond": false,
@@ -12785,7 +12787,7 @@ window.albumData = [
     "artDate": "2011-08-22T03:00:00.000Z",
     "directory": "the-obsidian-towers",
     "urls": [
-     "https://youtu.be/NXgHHh4NlR8"
+     "https://youtu.be/IdaYlKyxfx4?list=PL9E0E46E420487203"
     ],
     "isCanon": true,
     "isBeyond": false,
@@ -12813,7 +12815,7 @@ window.albumData = [
     "artDate": "2011-08-22T03:00:00.000Z",
     "directory": "derse-dreamers",
     "urls": [
-     "https://youtu.be/NOkeFOkE7No"
+     "https://youtu.be/HpmCCuSHmng?list=PL9E0E46E420487203"
     ],
     "isCanon": true,
     "isBeyond": false,
@@ -12838,7 +12840,7 @@ window.albumData = [
     "artDate": "2011-08-22T03:00:00.000Z",
     "directory": "core-of-darkness",
     "urls": [
-     "https://youtu.be/ZXC1O6DC55c"
+     "https://youtu.be/VEJ3hfCnW_w?list=PL9E0E46E420487203"
     ],
     "isCanon": true,
     "isBeyond": false,
