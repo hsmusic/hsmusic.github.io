@@ -132,7 +132,7 @@ URLs: https://homestuck.bandcamp.com/track/wsw-beatdown-2
 -------------------------------------------------------------------------------
 Track: Earthsea Borealis
 Artist: Toby Fox
-References: Endless Climb
+References: Double Midnight, Endless Climb
 Track Art: skepticArcher
 URLs: https://homestuck.bandcamp.com/track/earthsea-borealis-2
 -------------------------------------------------------------------------------
