@@ -15,7 +15,7 @@
                 <a href="../../index.html">Home</a>
                 / <a href="../../album/homestuck-vol-9/index.html">Homestuck Vol. 9</a>
                 / <a href="index.html">GameGrl (Original 1993 Mix)</a>
-                <span>(<a href="../another-jungle/index.html" title="Another Jungle">Previous</a>, <a href="../assault/index.html" title="ASSAULT">Next</a>, <a href="../../js-disabled/index.html" data-random="track-in-album">Random</a>)</span>
+                <span>(<a href="../another-jungle/index.html" id="previous-button" title="Another Jungle">Previous</a>, <a href="../assault/index.html" id="next-button" title="ASSAULT">Next</a>, <a href="../../js-disabled/index.html" data-random="track-in-album" id="random-button">Random</a>)</span>
             </h2>
             <div>
                 <div class="chronology">
@@ -99,10 +99,11 @@
                 <p>
                     By <a href="../../artist/michael-guy-bowman/index.html">Michael Guy Bowman</a>.
                     <br>Cover art by <a href="../../artist/tavia-morra/index.html">Tavia Morra</a>.
-                    <br>Released 2012-06-12.
+                    <br>Released 12 June 2012.
                     <!-- (here: Cover art release date, if it differs) -->
+                    <br>Duration: 3:29.
                 </p>
-                <p>Listen on <a href="https://homestuck.bandcamp.com/track/gamegrl-original-1993-mix-2" class="nowrap">Bandcamp</a>.</p>
+                <p>Listen on <a href="https://homestuck.bandcamp.com/track/gamegrl-original-1993-mix-2" class="nowrap">Bandcamp</a> or <a href="https://youtu.be/4kdVpq3bnuY?list=PLy5UGIMKOXpOfcXVfECYjb09aHc2uSEUv" class="nowrap">YouTube</a>.</p>
                 <p>Contributors:</p>
                 <ul>
                     <li>
@@ -116,6 +117,10 @@
                 </ul>
                 <p>Tracks that <i>GameGrl (Original 1993 Mix)</i> references:</p>
                 <ul>
+                    <li>
+                        <a href="../bro-hop/index.html" style="--fg-color: #bbc0a8; --bg-color: #222222; --theme: 0">Bro Hop</a>
+                        <span class="by">by <a href="../../artist/michael-guy-bowman/index.html">Michael Guy Bowman</a></span>
+                    </li>
                     <li>
                         <a href="../airtime/index.html" style="--fg-color: #4ac925; --bg-color: #222222; --theme: 0">Airtime</a>
                         <span class="by">by <a href="../../artist/robert-j-lake/index.html">Robert J! Lake</a></span>
@@ -131,12 +136,12 @@
                     <dt>Fandom:</dt>
                     <dd><ul>
                         <li>
-                            <a href="../gameglr/index.html" style="--fg-color: #ff7bf7; --bg-color: #222222; --theme: 0">GameGlr</a>
+                            <a href="../gameglr/index.html" style="--fg-color: #ff5599; --bg-color: #222222; --theme: 0">GameGlr</a>
                             <span class="by">by <a href="../../artist/toby-fox/index.html">Toby Fox</a></span>
                         </li>
                         <li>
                             <a href="../theme-of-the-slam-jam/index.html" style="--fg-color: #88a4ff; --bg-color: #222222; --theme: 0">Theme of the Slam Jam</a>
-                            <span class="by">by <a href="../../artist/yishan-mai/index.html">Yishan Mai</a></span>
+                            <span class="by">by <a href="../../artist/catboss/index.html">Catboss</a></span>
                         </li>
                         <li>
                             <a href="../dogfight-dirtiests-dubstep-remix/index.html" style="--fg-color: #88a4ff; --bg-color: #222222; --theme: 0">Dogfight (Dirtiest's Dubstep Remix)</a>
@@ -145,7 +150,23 @@
                     </ul></dd>
                 </dl>
                 <!-- (here: Flashes that feature this track) -->
-                <!-- (here: Track lyrics) -->
+                <p>Lyrics:</p>
+                <blockquote>
+                    <p>Aw yeah! What's up gamers?<br>I'm GameGrl, and I'm here to show you that girls can game too!<br>Don't go easy on me, guys - unless you want to get beat by a GIRL.<br>Are you ready? Let's DO THIS.</p>
+                    <p>Yo I'm the GameGrl, and I've got the scores<br>'Cause I woop butt and game hardcore<br>I might look cute but I play to win<br>So get your head in the game, 'cause we're about to begin</p>
+                    <p>I got sweet moves and secret skills<br>To pull off the codes, the combos, and kills<br>Tapping my fingers like a maniac<br>This girl's gone bad on a game attack!</p>
+                    <p>GAME ATTACK! GAME ATTACK!<br>When I'm on the scoreboard, you sure can tell!<br>GAME ATTACK! GAME ATTACK!<br>Cause I spell my scores "G-R-L!"<br>GAME ATTACK! GAME ATTACK!<br>You gamer guys better take it like a man!<br>GAME ATTACK! GAME ATTACK!<br>If you can't keep up then talk to the hand!</p>
+                    <p>I'm the GameGrl!<br>(She's a GameGrl) The best in the world!<br>(She's a GameGrl) Girls rule!<br>(She's a GameGrl) And boys drool!<br>(She's a GameGrl) I'm kickin' rad!<br>(She's a GameGrl) You're super bad!<br>(She's a GameGrl) Better than the rest<br>When you're gaming with the GameGrl you're gaming with the best!</p>
+                    <p>When I say "game", you say "girl!"<br>GAME! GRL! GAME! GRL!<br>When I say "best", you say "the world!"<br>BEST IN! THE WORLD! BEST IN! THE WORLD!<br>When I say girls, you say rule!<br>GIRLS! RULE! GIRLS! RULE!<br>When I say boys, you say drool!<br>BOYS! DROOL! BOYS! DROOL!</p>
+                    <p>Let's have a dance party RIGHT NOW. Everybody do the wave! Yeah, that's pretty good. Check it out! I'm dancing! I'm dancing! Check this move out! Oh man, oh yeah!</p>
+                    <p>Aw yeah. I'm having SO MUCH FUN. This is like a slumber party where there's nothing to do but play games ALL NIGHT LONG. Oh yeah, and NO BOYS ALLOWED. Not that I CARE - I can beat any boy at any game, any time, anywhere!</p>
+                    <p>Puzzle games, fighting games, action, rpg,<br>Shoot 'em ups, beat 'em ups, virtual reality,<br>Dating sims, flight sims, CD-rom or console,<br>Handheld, arcade, tabletopping oldschool,<br>Turn-based, card-based, tactical, strategy,<br>Text-based adventure, point-and-click mystery,<br>FPS, racers, platforms, rhythm games,<br>She's the bomb at anything you can name!</p>
+                    <p>GAME ATTACK! GAME ATTACK!<br>Gamer guys better run and hide!<br>GAME ATTACK! GAME ATTACK!<br>'Cause I'm the baddest, so step aside!<br>GAME ATTACK! GAME ATTACK!<br>I got the stats, and that's my proof!<br>GAME ATTACK! GAME ATTACK!<br>So come on and RAISE THE ROOF!</p>
+                    <p>I'm the GameGrl!<br>(She's a GameGrl) The best in the world!<br>(She's a GameGrl) Girls rule!<br>(She's a GameGrl) And boys drool!<br>(She's a GameGrl) I'm kickin' rad!<br>(She's a GameGrl) You're super bad!<br>(She's a GameGrl) 'Cause I've got the moves<br>So step into my GAMER GROOVE.</p>
+                    <p>Don't be a wimp!<br>(She's a GameGrl) Unless you're a shrimp!<br>(She's a GameGrl) I'm the new cool!<br>(She's a GameGrl) You're old school!<br>(She's a GameGrl) Gaming like a pro!<br>(She's a GameGrl) Come on, let's go!<br>(She's a GameGrl) Better than the rest<br>When you're gaming with the GameGrl you're gaming with the best!</p>
+                    <p>Awesome! That was totally rad to the max! I could just keep doing this all day... NOT! I've got games to play, and if you think I'm gonna slow down just to talk to a bunch of amateurs, then you need to seriously blow the dust out of your cartridges.</p>
+                    <p>But hey, girls, whenever you need to show those creepy boys who's boss, just remember that GameGrl's got your back. Look for me on specially-marked boxes of Betty Crocker brand snacks and have an adult call the toll-free number to subscribe to the girls-only GameGrl Magazine. Alright, check you later girlfriends!</p>
+                </blockquote>
                 <p>Artist commentary:</p>
                 <blockquote>
                     <p><i>Michael Guy Bowman:</i></p>
