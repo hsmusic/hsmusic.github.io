@@ -621,6 +621,33 @@ window.albumData = [
     }
    },
    {
+    "name": "Nic Cage Romance",
+    "artists": [
+     "Toby Fox"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "duration": 79,
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "nic-cage-romance",
+    "urls": [
+     "https://www.youtube.com/watch?v=fvDpDxXXZog"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true,
+    "group": "Tracks featured in Homestuck",
+    "theme": {
+     "fg": "#ff5599",
+     "bg": "#222222",
+     "theme": 0
+    }
+   },
+   {
     "name": "not a creature was stirring",
     "artists": [
      "Alexander Rosetti"
@@ -635,6 +662,33 @@ window.albumData = [
     "directory": "not-a-creature-was-stirring",
     "urls": [
      "https://www.youtube.com/watch?v=hdlh6FRPnCw"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true,
+    "group": "Tracks featured in Homestuck",
+    "theme": {
+     "fg": "#ff5599",
+     "bg": "#222222",
+     "theme": 0
+    }
+   },
+   {
+    "name": "Problem Sleuth Theme",
+    "artists": [
+     "Mark Hadley"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "duration": 66,
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "problem-sleuth-theme",
+    "urls": [
+     "https://www.youtube.com/watch?v=DAj-vYcKNYY"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -717,6 +771,7 @@ window.albumData = [
     "lyrics": null,
     "references": [
      "The Little Sprite",
+     "Onett Theme",
      "Terra's Theme",
      "Wind Scene",
      "Chrono Trigger"
@@ -1303,33 +1358,6 @@ window.albumData = [
     }
    },
    {
-    "name": "Nic Cage Romance",
-    "artists": [
-     "Toby Fox"
-    ],
-    "coverArtists": null,
-    "contributors": [],
-    "duration": 79,
-    "lyrics": null,
-    "references": [],
-    "date": "1111-11-11T04:14:24.000Z",
-    "artDate": "1111-11-11T04:14:24.000Z",
-    "directory": "nic-cage-romance",
-    "urls": [
-     "https://www.youtube.com/watch?v=fvDpDxXXZog"
-    ],
-    "isCanon": false,
-    "isBeyond": false,
-    "isOfficial": false,
-    "isFanon": true,
-    "group": "Unreleased Homestuck tracks",
-    "theme": {
-     "fg": "#ff7bf7",
-     "bg": "#222222",
-     "theme": 0
-    }
-   },
-   {
     "name": "Non Compos Mentis",
     "artists": [
      "Bill Bolin"
@@ -1399,33 +1427,6 @@ window.albumData = [
     "urls": [
      "https://www.youtube.com/watch?v=RIq4GrMv96I",
      "https://www.youtube.com/watch?v=OdntMzdkFnk"
-    ],
-    "isCanon": false,
-    "isBeyond": false,
-    "isOfficial": false,
-    "isFanon": true,
-    "group": "Unreleased Homestuck tracks",
-    "theme": {
-     "fg": "#ff7bf7",
-     "bg": "#222222",
-     "theme": 0
-    }
-   },
-   {
-    "name": "Problem Sleuth Theme",
-    "artists": [
-     "Mark Hadley"
-    ],
-    "coverArtists": null,
-    "contributors": [],
-    "duration": 66,
-    "lyrics": null,
-    "references": [],
-    "date": "1111-11-11T04:14:24.000Z",
-    "artDate": "1111-11-11T04:14:24.000Z",
-    "directory": "problem-sleuth-theme",
-    "urls": [
-     "https://www.youtube.com/watch?v=DAj-vYcKNYY"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -3986,6 +3987,33 @@ window.albumData = [
     "directory": "objection-2001",
     "urls": [
      "https://www.youtube.com/watch?v=_I34nshlOPk"
+    ],
+    "isCanon": false,
+    "isBeyond": false,
+    "isOfficial": false,
+    "isFanon": true,
+    "group": "Tracks originating outside of Homestuck",
+    "theme": {
+     "fg": "#90c000",
+     "bg": "#222222",
+     "theme": 0
+    }
+   },
+   {
+    "name": "Onett Theme",
+    "artists": [
+     "Earthbound"
+    ],
+    "coverArtists": null,
+    "contributors": [],
+    "duration": 144,
+    "lyrics": null,
+    "references": [],
+    "date": "1111-11-11T04:14:24.000Z",
+    "artDate": "1111-11-11T04:14:24.000Z",
+    "directory": "onett-theme",
+    "urls": [
+     "https://www.youtube.com/watch?v=7y5RRgjfNek"
     ],
     "isCanon": false,
     "isBeyond": false,
@@ -8147,7 +8175,8 @@ window.albumData = [
      "Atomyk Ebonpyre",
      "Lotus",
      "Problem Sleuth Theme",
-     "Dirgeish"
+     "Dirgeish",
+     "Fear of the Heavens"
     ],
     "date": "2010-06-13T03:00:00.000Z",
     "artDate": "2017-04-13T03:00:00.000Z",
@@ -49025,6 +49054,20 @@ window.flashData = [
   }
  },
  {
+  "name": "John: Examine games on CD rack.",
+  "page": "31",
+  "directory": "31",
+  "date": "2009-04-16T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Problem Sleuth Theme"
+  ],
+  "urls": [],
+  "theme": {
+   "fg": "#7799ff"
+  }
+ },
+ {
   "name": "[S] John: Play haunting piano refrain.",
   "page": "77",
   "directory": "77",
@@ -49957,6 +50000,7 @@ window.flashData = [
    "Spider's Claw",
    "MeGaLoVania",
    "A Tender Moment",
+   "Nic Cage Romance",
    "Nic Cage Song",
    "Secret ROM",
    "Boy Skylark (Brief)",
@@ -50261,6 +50305,20 @@ window.flashData = [
   "urls": [
    "https://youtu.be/8RC_02KeBrE"
   ],
+  "theme": {
+   "fg": "#ff0000"
+  }
+ },
+ {
+  "name": "[S][o] ==>",
+  "page": "3952",
+  "directory": "3952",
+  "date": "2011-08-15T03:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Fear of the Heavens"
+  ],
+  "urls": [],
   "theme": {
    "fg": "#ff0000"
   }
@@ -51272,6 +51330,20 @@ window.flashData = [
  },
  {
   "act8r8k": true,
+  "theme": {
+   "fg": "#4466ff"
+  }
+ },
+ {
+  "name": "[S][A6A6I4] ====>",
+  "page": "7086",
+  "directory": "7086",
+  "date": "2014-11-24T04:00:00.000Z",
+  "contributors": [],
+  "tracks": [
+   "Fear of the Heavens"
+  ],
+  "urls": [],
   "theme": {
    "fg": "#4466ff"
   }
