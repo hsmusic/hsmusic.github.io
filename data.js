@@ -12490,7 +12490,8 @@ window.albumData = [
     "duration": 208,
     "date": "2011-07-14T03:00:00.000Z",
     "urls": [
-     "https://youtu.be/kHSVHbxBEHU?list=PLF3092FD8EA59F218"
+     "https://youtu.be/kHSVHbxBEHU?list=PLF3092FD8EA59F218",
+     "https://albatrosssoup.bandcamp.com/track/raggy-looking-dance"
     ],
     "group": "",
     "color": "#ffcc66"
@@ -41343,7 +41344,9 @@ window.albumData = [
     "name": "Ｍ Ｏ Ｉ Ｓ Ｔ",
     "lyrics": null,
     "artDate": "2018-12-15T04:00:00.000Z",
-    "references": [],
+    "references": [
+     "Get The Horns"
+    ],
     "artists": [
      {
       "who": "James Roach",

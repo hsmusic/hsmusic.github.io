@@ -820,39 +820,33 @@ function stringifyArtistData() {
 // directory, and site-template shenanigans!
 async function writePage(directoryParts, titleOrHead, body) {
     const directory = path.join(C.SITE_DIRECTORY, ...directoryParts);
+    const file = path.join(directory, 'index.html');
+
+    let targetPath = directoryParts.join('/');
+    if (directoryParts.length) {
+        targetPath += '/';
+    }
+    const target = `https://hsmusic.wiki/${targetPath}`;
+
     await mkdirp(directory);
-    // This is sort of hard-coded, i.e. we don't do path.join(C.ROOT_DIRECTORY).
-    // May8e that's 8ad? Yes, definitely 8ad. 8ut I'm too lazy to fix it...
-    // for now. TM. (Ahem. Still. Soon...may8e. TM. -- Should 8e easier now
-    // that we'll have a proper function for writing any page - just appending
-    // a C.ROOT_DIRECTORY should work. Um... okay, fine, I'll do that.)
-    await writeFile(path.join(directory, 'index.html'), rebaseURLs(directory, fixWS`
+    await writeFile(file, fixWS`
         <!DOCTYPE html>
-        <html data-rebase="${path.relative(directory, C.SITE_DIRECTORY)}">
+        <html>
             <head>
-                ${[
-                    `<meta charset="utf-8">`,
-                    `<meta name="viewport" content="width=device-width, initial-scale=1">`,
-                    (titleOrHead.split('\n').length && !titleOrHead.includes('<title>')) ? `<title>${titleOrHead}</title>` : titleOrHead,
-                    // directory !== C.SITE_DIRECTORY &&
-                    // directory !== '.' &&
-                    // `<base href="${path.relative(directory, C.SITE_DIRECTORY)}">`,
-                    `<link rel="stylesheet" href="${CSS_FILE}">`,
-                    // Apply JavaScript directly to the HTML <head>.
-                    // (This is unfortun8, 8ut necessary, 8ecause the entire
-                    // <body> tag is passed to this function; if we wanted to
-                    // insert our own <script> text here into that pased
-                    // string, well........ we don't want to go there.
-                    // To deal with this, we use the "defer" property, which
-                    // means the code only runs once the body has 8een loaded.)
-                    `<script src="common.js"></script>`,
-                    `<script src="data.js"></script>`,
-                    `<script defer src="client.js"></script>`
-                ].filter(Boolean).join('\n')}
+                <title>Moved to hsmusic.wiki</title>
+                <meta charset="utf-8">
+                <meta http-equiv="refresh" content="0;url=${target}">
+                <link rel="canonical" href="${target}">
+                <link rel="stylesheet" href="static/site-basic.css">
             </head>
-            ${body}
+            <body>
+                <main>
+                    <h1>Moved to hsmusic.wiki</h1>
+                    <p>This page has been moved to <a href="${target}">${target}</a>.</p>
+                </main>
+            </body>
         </html>
-    `));
+    `);
 }
 
 function writeMiscellaneousPages() {
